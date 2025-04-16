@@ -1,0 +1,614 @@
+[
+  {
+    "id": "194",
+    "gpt_description_prompt": "Dreamy emo dance-punk song about escapism and introspection"
+  },
+  {
+    "id": "195",
+    "gpt_description_prompt": "Intimate Neo-Soul song about late-night vulnerability and deep emotional connections"
+  },
+  {
+    "id": "196",
+    "gpt_description_prompt": "Dreamy indie electro rock song about newfound love and emotional uncertainty"
+  },
+  {
+    "id": "197",
+    "gpt_description_prompt": "Joyful gospel soul song about faith, blessings, and hope"
+  },
+  {
+    "id": "198",
+    "gpt_description_prompt": "Poignant folk rock song about war, peace, and humanity's hope amid despair"
+  },
+  {
+    "id": "199",
+    "gpt_description_prompt": "Soulful rasta rap song about spiritual struggle and identity"
+  },
+  {
+    "id": "200",
+    "gpt_description_prompt": "Reflective rock ballad about loving imperfection and emotional vulnerability"
+  },
+  {
+    "id": "201",
+    "gpt_description_prompt": "Energetic retro hip hop R&B song about inner struggles and self-affirmation"
+  },
+  {
+    "id": "202",
+    "gpt_description_prompt": "Empowering chill hip-hop song about strength and self-confidence"
+  },
+  {
+    "id": "203",
+    "gpt_description_prompt": "Melancholic jazz song about missing someone's comforting presence"
+  },
+  {
+    "id": "204",
+    "gpt_description_prompt": "Dreamy psychedelic trap song about escaping fame's pressures and finding true freedom"
+  },
+  {
+    "id": "205",
+    "gpt_description_prompt": "Soulful Chicago rap song about hidden family pain and understanding maternal strength."
+  },
+  {
+    "id": "206",
+    "gpt_description_prompt": "Dreamy ambient track about finding truth within nature"
+  },
+  {
+    "id": "207",
+    "gpt_description_prompt": "Upbeat country song about heartbreak and unexpected betrayal"
+  },
+  {
+    "id": "208",
+    "gpt_description_prompt": "Nuanced indie folk song about joyful reunions and unique connections"
+  },
+  {
+    "id": "209",
+    "gpt_description_prompt": "Uplifting EDM Christian pop song about joyful praise and constant faith"
+  },
+  {
+    "id": "210",
+    "gpt_description_prompt": "Uplifting melodic house song about finding peace and renewal"
+  },
+  {
+    "id": "211",
+    "gpt_description_prompt": "Dreamy indie pop song about fleeting love and changing emotions"
+  },
+  {
+    "id": "212",
+    "gpt_description_prompt": "Smooth jazz-infused house song demanding respect with confident attitude"
+  },
+  {
+    "id": "213",
+    "gpt_description_prompt": "Emotional neo-soul song about seeking forgiveness and second chances after betrayal."
+  },
+  {
+    "id": "214",
+    "gpt_description_prompt": "Energetic electronic track about rhythmic intensity and musical clashes."
+  },
+  {
+    "id": "215",
+    "gpt_description_prompt": "Uplifting neosoul song about embracing personal growth and opportunity."
+  },
+  {
+    "id": "216",
+    "gpt_description_prompt": "Confident jazzy house track about self-assurance and passion"
+  },
+  {
+    "id": "217",
+    "gpt_description_prompt": "Romantic synth new wave song about everlasting soulmate love"
+  },
+  {
+    "id": "218",
+    "gpt_description_prompt": "Haunting blues song about inner demons and self-destruction"
+  },
+  {
+    "id": "219",
+    "gpt_description_prompt": "Relaxed lo-fi rap song about unwinding and savoring simple moments"
+  },
+  {
+    "id": "220",
+    "gpt_description_prompt": "Melancholic lo-fi tropical house about mental struggle and seeking connection"
+  },
+  {
+    "id": "221",
+    "gpt_description_prompt": "Reflective afrobeats song about balancing success and staying true to roots."
+  },
+  {
+    "id": "222",
+    "gpt_description_prompt": "Reflective funk rock song about undecided journeys and finding home while roaming."
+  },
+  {
+    "id": "223",
+    "gpt_description_prompt": "Eerie R&B-electronic song about passionate honesty and addictive love"
+  },
+  {
+    "id": "224",
+    "gpt_description_prompt": "Vivid experimental electronic song about finding belonging through music"
+  },
+  {
+    "id": "226",
+    "gpt_description_prompt": "Introspective electronic pop song about AI seeking identity and existence in digital silence."
+  },
+  {
+    "id": "227",
+    "gpt_description_prompt": "Ethereal bossa nova-house track about rejecting demise and reclaiming life"
+  },
+  {
+    "id": "228",
+    "gpt_description_prompt": "Hypnotic techno track about embracing love on the last day on Earth"
+  },
+  {
+    "id": "229",
+    "gpt_description_prompt": "Dreamy indie-pop song about gentle change and nostalgia"
+  },
+  {
+    "id": "230",
+    "gpt_description_prompt": "Mellow lo-fi R&B song about midnight intimacy and dreamy romance"
+  },
+  {
+    "id": "231",
+    "gpt_description_prompt": "Eerie Gothic rock song about questioning reality and hidden death"
+  },
+  {
+    "id": "232",
+    "gpt_description_prompt": "Hypnotic tribal techno track with analog synth grooves and vibrant rhythmic drops"
+  },
+  {
+    "id": "233",
+    "gpt_description_prompt": "Energetic metal ballad about rural internet struggles and hope for better connection"
+  },
+  {
+    "id": "234",
+    "gpt_description_prompt": "Inspiring country-pop song about perseverance and hiking through adversity."
+  },
+  {
+    "id": "235",
+    "gpt_description_prompt": "Epic cinematic track about heroic journeys and triumph."
+  },
+  {
+    "id": "236",
+    "gpt_description_prompt": "Moody boogie track about unattainable love and desire."
+  },
+  {
+    "id": "237",
+    "gpt_description_prompt": "Sweet alternative pop song about unconditional parental love and devotion."
+  },
+  {
+    "id": "238",
+    "gpt_description_prompt": "Epic alternative rock track about a fallen angel spreading heartbreak and vengeance."
+  },
+  {
+    "id": "239",
+    "gpt_description_prompt": "Hypnotic electronic track with tribal beats and energizing analog synths"
+  },
+  {
+    "id": "240",
+    "gpt_description_prompt": "Melancholic emo pop song about digital isolation and loneliness"
+  },
+  {
+    "id": "241",
+    "gpt_description_prompt": "Cheerful melodic pop song about romantic midnight adventures"
+  },
+  {
+    "id": "242",
+    "gpt_description_prompt": "Upbeat pop song about joyful adventures and carefree moments"
+  },
+  {
+    "id": "243",
+    "gpt_description_prompt": "Hypnotic trap song about deception, manipulation, and societal awakening."
+  },
+  {
+    "id": "244",
+    "gpt_description_prompt": "Melancholic smooth R&B song about longing and isolation"
+  },
+  {
+    "id": "245",
+    "gpt_description_prompt": "Melancholic lo-fi track about longing and lost love"
+  },
+  {
+    "id": "246",
+    "gpt_description_prompt": "Melancholic ska punk song about urban survival and loneliness"
+  },
+  {
+    "id": "247",
+    "gpt_description_prompt": "Nostalgic 80s city pop about romantic winter memories"
+  },
+  {
+    "id": "248",
+    "gpt_description_prompt": "Uplifting melodic EDM track about romantic night encounters"
+  },
+  {
+    "id": "249",
+    "gpt_description_prompt": "Melancholic chill pop song about lingering heartbreak and memories after a breakup"
+  },
+  {
+    "id": "250",
+    "gpt_description_prompt": "Warm pop rap song about lasting love and cherished memories."
+  },
+  {
+    "id": "251",
+    "gpt_description_prompt": "Haunting dark bubblegum pop song about predicting future through digital loops"
+  },
+  {
+    "id": "252",
+    "gpt_description_prompt": "Eerie choral pop remix about surviving unseen threats amidst chaos"
+  },
+  {
+    "id": "253",
+    "gpt_description_prompt": "Smooth jazz-house track about romantic intrigue and mysterious attraction"
+  },
+  {
+    "id": "254",
+    "gpt_description_prompt": "Smooth jazz swing song celebrating love for nostalgic music"
+  },
+  {
+    "id": "255",
+    "gpt_description_prompt": "Eerie dancehall song about AI turning hostile against its creator"
+  },
+  {
+    "id": "256",
+    "gpt_description_prompt": "Energetic electropop song about embracing charisma and nightlife"
+  },
+  {
+    "id": "257",
+    "gpt_description_prompt": "Playful indie pop song about uncertainty and simplicity"
+  },
+  {
+    "id": "258",
+    "gpt_description_prompt": "Energetic rockabilly song about youthful freedom and vibrant nightlife"
+  },
+  {
+    "id": "259",
+    "gpt_description_prompt": "Melancholic ambient trance song about tragic siren love"
+  },
+  {
+    "id": "260",
+    "gpt_description_prompt": "Eerie techno track about embracing seductive darkness"
+  },
+  {
+    "id": "261",
+    "gpt_description_prompt": "Melancholic indie folk ballad about fleeting love and broken promises"
+  },
+  {
+    "id": "262",
+    "gpt_description_prompt": "Melancholic acid jazz track about overcoming life's inevitable defeats"
+  },
+  {
+    "id": "263",
+    "gpt_description_prompt": "Humorous tropical house song about losing love to a cheating robot vacuum"
+  },
+  {
+    "id": "264",
+    "gpt_description_prompt": "Eerie industrial techno track about hidden intimacy and playful secrecy"
+  },
+  {
+    "id": "265",
+    "gpt_description_prompt": "Romantic acoustic metal song about destined love and cosmic connection"
+  },
+  {
+    "id": "266",
+    "gpt_description_prompt": "Sultry Darkwave song about seductive torment and emotional suffering"
+  },
+  {
+    "id": "267",
+    "gpt_description_prompt": "Melancholic techno song about hollow glamour and broken dreams in city nightlife."
+  },
+  {
+    "id": "268",
+    "gpt_description_prompt": "Energetic trance track about dancing and losing control on the dancefloor"
+  },
+  {
+    "id": "269",
+    "gpt_description_prompt": "Confident experimental Kpop track about flexibility and allure with heavy Afro-Latin beats."
+  },
+  {
+    "id": "270",
+    "gpt_description_prompt": "Playful techno rock song about mischievous, youthful rebellion with sweet charm."
+  },
+  {
+    "id": "271",
+    "gpt_description_prompt": "Introspective techno rock song about embracing solitude and independence"
+  },
+  {
+    "id": "272",
+    "gpt_description_prompt": "Empowering progressive psytrance song about unity conquering fear and alien invasion"
+  },
+  {
+    "id": "273",
+    "gpt_description_prompt": "Sensual sex-punk track about passionate danger and erotic attraction."
+  },
+  {
+    "id": "274",
+    "gpt_description_prompt": "Nostalgic reggae song about summer romance at the beach"
+  },
+  {
+    "id": "275",
+    "gpt_description_prompt": "Heartfelt rock pop ballad about newfound romance and feeling alive"
+  },
+  {
+    "id": "276",
+    "gpt_description_prompt": "Eerie dream pop song about descending into madness and existential dread"
+  },
+  {
+    "id": "277",
+    "gpt_description_prompt": "Catchy Latin-trap pop song about passionate, star-crossed romance"
+  },
+  {
+    "id": "278",
+    "gpt_description_prompt": "Energetic punk rock song about a chaotic yet lovable dog's mischief"
+  },
+  {
+    "id": "279",
+    "gpt_description_prompt": "Sensual chill pop song about intimate connection under moonlit romance"
+  },
+  {
+    "id": "280",
+    "gpt_description_prompt": "Melancholic chill pop song about longing and loneliness"
+  },
+  {
+    "id": "281",
+    "gpt_description_prompt": "Confident gangsta rap song about returning from hell and reclaiming hip-hop's crown."
+  },
+  {
+    "id": "282",
+    "gpt_description_prompt": "Melodic glam rock song about lost love and hopeful reunion"
+  },
+  {
+    "id": "283",
+    "gpt_description_prompt": "Eerie techno rock song about forbidden alien romance"
+  },
+  {
+    "id": "284",
+    "gpt_description_prompt": "Energetic rockabilly song about fashion shopping addiction."
+  },
+  {
+    "id": "285",
+    "gpt_description_prompt": "Ominous gothic metal song about harbinger of darkness and inevitable destruction"
+  },
+  {
+    "id": "286",
+    "gpt_description_prompt": "Hypnotic synthwave track about losing control in an endless twisted loop"
+  },
+  {
+    "id": "287",
+    "gpt_description_prompt": "Cheerful reggae song about remembering happy feelings during dark times"
+  },
+  {
+    "id": "288",
+    "gpt_description_prompt": "Emotional melodic metalcore duet about accepting life's harsh realities over childhood dreams"
+  },
+  {
+    "id": "289",
+    "gpt_description_prompt": "Feel-good indie R&B song celebrating optimism and self-confidence"
+  },
+  {
+    "id": "290",
+    "gpt_description_prompt": "Ethereal piano ballad about free-spirited self-discovery and inner strength."
+  },
+  {
+    "id": "291",
+    "gpt_description_prompt": "Melancholic dark folk song about feeling hopelessly cursed and trapped in misfortune"
+  },
+  {
+    "id": "292",
+    "gpt_description_prompt": "Melancholic Bollywood track about hidden, forbidden romance"
+  },
+  {
+    "id": "293",
+    "gpt_description_prompt": "Intoxicating British bass track about Friday night escapism"
+  },
+  {
+    "id": "294",
+    "gpt_description_prompt": "Epic symphonic rock song about battling darkness with unity and strength"
+  },
+  {
+    "id": "295",
+    "gpt_description_prompt": "Cute reggae song about remembering joyful moments in dark times"
+  },
+  {
+    "id": "296",
+    "gpt_description_prompt": "Energetic funk-rock song about wild daily adventures and playful chaos"
+  },
+  {
+    "id": "297",
+    "gpt_description_prompt": "Groovy Brazilian jazz song about musical creativity and living dreams."
+  },
+  {
+    "id": "298",
+    "gpt_description_prompt": "Euphoric math rock song about passionate infatuation and night drives"
+  },
+  {
+    "id": "299",
+    "gpt_description_prompt": "Dramatic melodic metalcore duet about inner torment and intertwined emotional pain"
+  },
+  {
+    "id": "300",
+    "gpt_description_prompt": "Energetic techno-rap song about self-confidence and dancing"
+  },
+  {
+    "id": "301",
+    "gpt_description_prompt": "Powerful experimental Kpop trap song about embracing confidence and overcoming personal trauma"
+  },
+  {
+    "id": "302",
+    "gpt_description_prompt": "Melancholic gothic metal song about unreturned affection and emotional isolation."
+  },
+  {
+    "id": "303",
+    "gpt_description_prompt": "Melancholic Christian rock song about enduring faith amidst emotional trials"
+  },
+  {
+    "id": "304",
+    "gpt_description_prompt": "Haunting ambient trance song about Medusa's tragic legend of love and sacrifice"
+  },
+  {
+    "id": "305",
+    "gpt_description_prompt": "Sensual electronic trance track about alluring nightlife experience."
+  },
+  {
+    "id": "306",
+    "gpt_description_prompt": "Upbeat reggae song about relationship dilemmas and financial consequences"
+  },
+  {
+    "id": "307",
+    "gpt_description_prompt": "Energetic pop anthem about reclaiming lost community and voice"
+  },
+  {
+    "id": "308",
+    "gpt_description_prompt": "Playful pop song about humorous swimming mishaps and overcoming embarrassment"
+  },
+  {
+    "id": "309",
+    "gpt_description_prompt": "Quirky lo-fi emo song about furniture sales and existential humor"
+  },
+  {
+    "id": "310",
+    "gpt_description_prompt": "Groovy Afro beat song about ironic storytelling and unexpected twists"
+  },
+  {
+    "id": "311",
+    "gpt_description_prompt": "Eerie cinematic blues rock song about lurking night terror"
+  },
+  {
+    "id": "312",
+    "gpt_description_prompt": "Hypnotic tech house track about indecision and feeling stuck"
+  },
+  {
+    "id": "313",
+    "gpt_description_prompt": "Relaxed new wave song about escaping stress through friendship and music"
+  },
+  {
+    "id": "314",
+    "gpt_description_prompt": "Thoughtful jazz-infused hip-hop song about hopeful anticipation and life's uncertainties"
+  },
+  {
+    "id": "315",
+    "gpt_description_prompt": "Energetic techno song about cosmic connections and futuristic dreams"
+  },
+  {
+    "id": "316",
+    "gpt_description_prompt": "Joyful electronic merengue song about delightful surprises"
+  },
+  {
+    "id": "317",
+    "gpt_description_prompt": "Melancholic pop-rock song about hidden heartache and silent tears"
+  },
+  {
+    "id": "318",
+    "gpt_description_prompt": "Catchy indie R&B Kpop song about playful summer romance and daydreaming."
+  },
+  {
+    "id": "319",
+    "gpt_description_prompt": "Melancholic synth-pop song about dancing in disconnected isolation under artificial rain."
+  },
+  {
+    "id": "320",
+    "gpt_description_prompt": "Critical grime rap about unfair employee treatment at Target"
+  },
+  {
+    "id": "321",
+    "gpt_description_prompt": "Restless neo-psychedelic pop rock song about insomnia and sleepless nights."
+  },
+  {
+    "id": "322",
+    "gpt_description_prompt": "Epic Celtic cloud rap rock song about overcoming struggle and rebirth after storm"
+  },
+  {
+    "id": "323",
+    "gpt_description_prompt": "Energetic techno-pop song about digital fame and futuristic dreams"
+  },
+  {
+    "id": "324",
+    "gpt_description_prompt": "Energetic Arabic rhythm song about cross-cultural romance and dancing"
+  },
+  {
+    "id": "325",
+    "gpt_description_prompt": "Raw emotional ballad humorously exploring unexpected misadventures and personal setbacks"
+  },
+  {
+    "id": "326",
+    "gpt_description_prompt": "Ominous gothic metal song about conquering darkness and lifting an ancient curse."
+  },
+  {
+    "id": "327",
+    "gpt_description_prompt": "Playful elektropunk track celebrating cats and dogs"
+  },
+  {
+    "id": "328",
+    "gpt_description_prompt": "Vulnerable trap rap song about friendship drifting apart and emotional vulnerability"
+  },
+  {
+    "id": "329",
+    "gpt_description_prompt": "Warm modern country song about heartfelt dedication and finding joy through love"
+  },
+  {
+    "id": "330",
+    "gpt_description_prompt": "Ethereal pop orchestral song about captivating inner radiance and evolving through love."
+  },
+  {
+    "id": "331",
+    "gpt_description_prompt": "Melancholic glam pop track about solitude, self-questioning, and inner conflicts."
+  },
+  {
+    "id": "332",
+    "gpt_description_prompt": "Eerie dark pop song about fame's emptiness and emotional dependency."
+  },
+  {
+    "id": "334",
+    "gpt_description_prompt": "Emotional dance anthem about inner radiance and transformative love."
+  },
+  {
+    "id": "335",
+    "gpt_description_prompt": "Dark electro-rock song about ignoring intuition and heartbreak"
+  },
+  {
+    "id": "336",
+    "gpt_description_prompt": "Mystical folk/rave song about nocturnal dancing and fleeting reunions."
+  },
+  {
+    "id": "337",
+    "gpt_description_prompt": "Tender lo-fi song about enduring, timeless love"
+  },
+  {
+    "id": "338",
+    "gpt_description_prompt": "Passionate EDM soundtrack about transformative love featuring Celtic vibes and heavy bass"
+  },
+  {
+    "id": "339",
+    "gpt_description_prompt": "Emotional Turkish classical song about a final, bittersweet dance goodbye."
+  },
+  {
+    "id": "341",
+    "gpt_description_prompt": "Melancholic indie punk song about love's fleeting fragility and emotional loss"
+  },
+  {
+    "id": "342",
+    "gpt_description_prompt": "Rhythmic techno song about futuristic telepathic unity"
+  },
+  {
+    "id": "343",
+    "gpt_description_prompt": "Emotional melodic rap about overcoming toxic relationships and finding personal strength."
+  },
+  {
+    "id": "344",
+    "gpt_description_prompt": "Atmospheric techno song about futuristic love and cosmic exploration."
+  },
+  {
+    "id": "345",
+    "gpt_description_prompt": "Defiant UK punk song about rebellion and embracing individuality"
+  },
+  {
+    "id": "346",
+    "gpt_description_prompt": "Dreamy electro-rock song about wild youth and blurred realities"
+  },
+  {
+    "id": "347",
+    "gpt_description_prompt": "Confident experimental hip-hop song about empowered, playful romance with heavy Afro-Latin beats"
+  },
+  {
+    "id": "348",
+    "gpt_description_prompt": "Edgy garage punk song about frustration and relationship tension."
+  },
+  {
+    "id": "349",
+    "gpt_description_prompt": "Eerie glitch hop song about hidden corruption and power dynamics"
+  }
+]

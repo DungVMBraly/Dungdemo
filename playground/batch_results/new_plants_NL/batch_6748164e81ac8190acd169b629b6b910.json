@@ -1,0 +1,86 @@
+[
+  {
+    "id": 3402,
+    "scientific_name": [
+      "Helichrysum heldreichii"
+    ],
+    "common_name": "strobloem",
+    "attracts": [],
+    "care_level": "Gemiddeld",
+    "description": "De strobloem is een kruidachtige vaste plant afkomstig uit het Middellandse Zeegebied. Hij groeit 0,4-0,6m hoog en heeft overvloedige, langgesteelde, zilverwitte bloemen die van juli tot augustus verschijnen. De bladeren zijn grijsgroen van kleur en de bloemen zijn geel met een stroachtige textuur. Deze plant is droogtetolerant en gedijt goed op zonnige plekken met goed doorlatende grond. Hij is geschikt als snijbloem en wordt vaak gebruikt in droogboeketten. Hij is gemakkelijk te kweken, onderhoudsvriendelijk en zeer duurzaam.",
+    "family": "Asteraceae",
+    "flower_color": "Geeloranje",
+    "flowering_season": "Lente",
+    "fruit_color": [],
+    "growth_rate": "Laag",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Matig",
+    "origin": [
+      "Kreta"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Zaadvermeerdering",
+      "Stekken",
+      "Scheuren"
+    ],
+    "pruning_month": [
+      "Februari",
+      "Maart",
+      "April",
+      "Augustus",
+      "Maart",
+      "April",
+      "Mei"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": 3404,
+    "scientific_name": [
+      "Heliconia schiedeana 'Fire and Ice'"
+    ],
+    "common_name": "valse paradijsvogelbloem",
+    "attracts": [
+      "Kolibries"
+    ],
+    "care_level": "Gemiddeld",
+    "description": "Valse paradijsvogelbloem (Heliconia schiedeana 'Fire and Ice') is een exotische plantensoort afkomstig uit Centraal-Amerika. Het is een groenblijvend kruidachtige vaste plant met zeer opvallende, vurige rode en ijzige witte schutbladen die aan een enkele stengel zijn bevestigd. De lange, leerachtige bladeren geven een gedurfde, tropische uitstraling. Deze relatief onderhoudsarme plant gedijt in vochtige, goed doorlatende grond en halfschaduw. In de zomer produceert het een geel-groene bloeiwijze en biedt het belangrijke voedsel en beschutting voor vogels, bijen en andere bestuivers. De opvallend unieke bloei maakt 'Fire and Ice' een perfecte keuze om kleur en drama toe te voegen aan tropische tuinen.",
+    "family": "Heliconiaceae",
+    "flower_color": "Rode schutbladen en gele kelkblaadjes",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Hoog",
+    "harvest_season": "",
+    "leaf_color": [
+      "rood",
+      "geel",
+      "oranje"
+    ],
+    "maintenance": "Matig",
+    "origin": [
+      "Mexico"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Deling",
+      "Stekken",
+      "Zaadvermeerdering",
+      "Weefselkweek"
+    ],
+    "pruning_month": [
+      "Maart",
+      "April",
+      "Mei",
+      "Augustus"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  }
+]

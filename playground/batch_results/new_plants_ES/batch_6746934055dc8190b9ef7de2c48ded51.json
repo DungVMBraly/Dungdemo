@@ -1,0 +1,2929 @@
+[
+  {
+    "id": "1804",
+    "scientific_name": [
+      "Chamaecyparis pisifera 'Curly Tops'"
+    ],
+    "common_name": "Falso ciprés japonés",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El falso ciprés japonés (Chamaecyparis pisifera 'Curly Tops') es un árbol de hoja perenne originario de Japón y sus regiones cercanas. Es fácil de reconocer por su follaje apretado, redondeado, suave y rizado que se mantiene brillante y verde todo el año. Además, su brillante nuevo crecimiento dorado en primavera añade un toque vívido de color al jardín. Esta especie es muy popular en la industria de la jardinería debido a su bajo mantenimiento y su capacidad para sobrevivir en varios climas y condiciones de suelo. Apto tanto para sol parcial como para pleno sol y luz ultravioleta, fácilmente se puede encontrar en paisajes de jardines. Con su impresionante color y bajo mantenimiento, el falso ciprés japonés (Chamaecyparis pisifera 'Curly Tops') es una opción increíble para crear un impacto visual durante todo el año en tu jardín.",
+    "family": "Cupressaceae",
+    "flower_color": "Sin flores, Marrón, Negro",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "plateado",
+      "dorado",
+      "bronce",
+      "azul",
+      "verde"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "plateado"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Falso Ciprés Japonés",
+      "Falso Ciprés de Sawara",
+      "Ciprés de Sawara"
+    ],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes",
+      "Injerto",
+      "Acodo",
+      "División",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9212",
+        "type": "watering",
+        "description": "El falso ciprés japonés debe regarse una vez por semana, y solo hasta el punto en que el suelo esté ligeramente húmedo - no más de una pulgada debajo de la superficie del suelo. El agua debe empapar toda la profundidad del suelo, pero no debe llegar a empaparse. Asegúrate de no regar en exceso la planta, ya que esto puede llevar a la pudrición de las raíces y otros problemas. Si la planta está en una maceta, debes regar hasta que comience a gotear por los agujeros de drenaje."
+      },
+      {
+        "id": "9213",
+        "type": "sunlight",
+        "description": "El falso ciprés japonés (Chamaecyparis pisifera 'Curly Tops') crece mejor a pleno sol o sombra parcial. La planta prefiere de 4 a 6 horas de luz solar directa cada día, siendo mejor el sol de la mañana. Demasiado sol directo puede quemar el follaje, por lo que es importante brindar protección adecuada durante las horas más calurosas del día. Es mejor plantar este arbusto en un área que reciba algo de sombra por la tarde. También es una opción plantarlo a la sombra ligera, pero el follaje puede volverse menos vibrante."
+      },
+      {
+        "id": "9214",
+        "type": "pruning",
+        "description": "El falso ciprés japonés (Chamaecyparis pisifera 'Curly Tops') debe podarse a principios de primavera, alrededor de marzo o abril. En general, una poda anual es suficiente, sin embargo, si la planta ha crecido demasiado, puede ser necesario una poda más intensa. La poda se debe hacer de manera gradual durante algunos años para lograr la forma y tamaño deseados. Retira las ramas demasiado largas y recorta a la forma deseada, luego elimina pequeñas ramas moribundas y madera muerta para resaltar efectos de color deseados y mejorar la circulación de aire. Al recortar, siempre realiza cortes limpios y angulares para ayudar a promover un nuevo crecimiento saludable."
+      }
+    ]
+  },
+  {
+    "id": "1808",
+    "scientific_name": [
+      "Chamaecyparis pisifera 'Golden Pincushion'"
+    ],
+    "common_name": "Falso Ciprés Japonés",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El falso ciprés japonés (Chamaecyparis pisifera 'Golden Pincushion') es un asombroso conífero ornamental preciado por su llamativo follaje amarillo. Esta planta perenne de bajo mantenimiento es una excelente opción para quienes desean agregar un toque de amarillo brillante a su paisaje. Su forma semi-enana y redondeada es perfecta para su uso en jardines pequeños, plantaciones de base y bordes. Es fácil de cultivar y requiere poco o ningún poda, lo que lo convierte en una gran opción para el paisajismo. Además de su vibrante follaje, produce fascinantes conos como 'bastones de caramelo' en los meses de invierno. Este enano conífero seguramente proporcionará una adición única y llamativa a cualquier espacio al aire libre.",
+    "family": "Cupressaceae",
+    "flower_color": "Sin flores, Marrón, Negro",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "oro",
+      "bronce",
+      "verde",
+      "amarillo"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "oro",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Falso Ciprés Japonés",
+      "Falso Ciprés Sawara",
+      "Ciprés Sawara"
+    ],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes",
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "División",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "791",
+        "type": "watering",
+        "description": "El falso ciprés japonés requiere una cantidad moderada de agua. Es mejor permitir que el suelo se caliente antes de regar y la planta siempre debe estar completamente saturada. Intenta regarlo una o dos veces por semana, asegurándote de que el suelo nunca se seque completamente entre riegos. En tiempos de calor extremo puede necesitar riegos adicionales. Siempre evita el exceso de riego y asegúrate de que no quede agua acumulada en el platillo o en la zona de raíces durante largos períodos de tiempo."
+      },
+      {
+        "id": "792",
+        "type": "sunlight",
+        "description": "Las plantas de falso ciprés japonés prefieren la exposición total al sol, lo que significa que el área donde está plantada debe recibir luz solar directa al menos 6 horas al día. En climas más cálidos, el mejor momento para colocar el falso ciprés japonés en un lugar soleado es temprano en la mañana cuando el sol apenas está comenzando a salir y las temperaturas son más frescas. Por el contrario, en climas más fríos, la mejor hora es a última hora de la tarde para colocarlo al sol. Durante las horas del mediodía, cuando el sol está más brillante y caliente, la planta debe colocarse en un área sombreada con luz solar indirecta."
+      },
+      {
+        "id": "793",
+        "type": "pruning",
+        "description": "La poda del falso ciprés japonés (Chamaecyparis pisifera 'Golden Pincushion') debe realizarse dos veces al año, una en primavera antes de que comience el nuevo crecimiento y otra a mediados del verano después de que haya terminado de florecer. Durante el proceso de poda, se deben eliminar las ramas rotas, muertas o enfermas y se debe reducir cualquier follaje en exceso que compita por los recursos. La poda debe realizarse tanto como sea necesario para mantener el tamaño y la forma del árbol sin comprometer su forma natural o su salud. Generalmente, esta especie no debe podarse de manera muy severa, ya que tiende a ser una variedad de crecimiento bastante lento."
+      }
+    ]
+  },
+  {
+    "id": "1811",
+    "scientific_name": [
+      "Chamaecyparis pisifera 'Plumosa Albopicta'"
+    ],
+    "common_name": "Falso ciprés japonés",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El falso ciprés japonés (Chamaecyparis pisifera 'Plumosa Albopicta') es un sorprendente arbusto ornamental perenne. Es resistente a la sequía y a las plagas, y requiere poco mantenimiento una vez establecido. Su follaje es de un color verde intenso, con agujas de puntas grises y blancas, creando un atractivo efecto bicolor. Puede crecer hasta cinco pies de alto y cinco pies de ancho y requiere pleno sol para obtener la mejor coloración. Esta planta también es resistente a -20 grados Fahrenheit, lo que la hace ideal para climas fríos. Además, es de crecimiento lento, por lo que no tienes que preocuparte de que crezca demasiado para su espacio. Todo esto, combinado con sus necesidades de bajo mantenimiento, hace que el falso ciprés japonés sea una excelente adición a cualquier jardín.",
+    "family": "Cupressaceae",
+    "flower_color": "Sin flores, Marrón, Negro",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "plateado",
+      "azul",
+      "verde",
+      "gris",
+      "gris"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Falso ciprés japonés",
+      "Ciprés falso de Sawara",
+      "ciprés de Sawara"
+    ],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes",
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": ":null",
+    "care_guides_details": [
+      {
+        "id": "1671",
+        "type": "watering",
+        "description": "El falso ciprés japonés debe ser regado profundamente y con poca frecuencia. Para prevenir la pudrición de las raíces, el suelo debe secarse completamente entre riegos. Un riego profundo ocasional ayudará a que la planta se mantenga saludable, y debe recibir al menos 1 a 2 pulgadas de agua cada 2 a 4 semanas durante su temporada de crecimiento activo. Si el suelo es arenoso o se seca rápidamente, aumenta la frecuencia de riego a una vez a la semana. Durante el invierno, las plantas necesitan mucho menos agua."
+      },
+      {
+        "id": "1673",
+        "type": "sunlight",
+        "description": "El falso ciprés japonés se adapta mejor recibiendo luz solar directa durante todo el día. Como conífera perenne, esta especie puede prosperar en áreas con largas horas de luz solar directa, idealmente entre 8 a 10 horas diarias. Durante los meses de verano, puede ser útil dar a la planta una ligera sombra o protegerla del sol del mediodía, así como proporcionar suficiente humedad. El falso ciprés japonés también prospera en invierno cuando hay menos luz solar disponible, por lo que se pueden usar luces artificiales para proporcionar iluminación suplementaria."
+      },
+      {
+        "id": "1675",
+        "type": "pruning",
+        "description": "El falso ciprés japonés debe podarse a finales del invierno o principios de la primavera. La poda debe ser mínima y solo necesaria para eliminar cualquier rama muerta o dañada y mantener la forma deseada de la planta. Es mejor no eliminar más de un tercio del follaje a la vez para evitar interrumpir el crecimiento o reducir la salud de la planta. El falso ciprés japonés también es conocido por su resistencia a la poda, lo que significa que puede soportar más poda que otras plantas, así que no temas podar más de lo habitual si es necesario."
+      }
+    ]
+  },
+  {
+    "id": "1816",
+    "scientific_name": [
+      "Chamaecyparis thyoides 'Heatherbun'"
+    ],
+    "common_name": "ciprés blanco",
+    "attracts": [],
+    "care_level": "",
+    "description": "El ciprés blanco, también conocido como Chamaecyparis thyoides 'Heatherbun', es una especie vegetal asombrosa debido a su denso follaje blanco. Su follaje brota de ramas retorcidas, creando un aspecto interesante. Es increíblemente resistente, creciendo bien en suelos muy húmedos a secos con sol o sombra. El ciprés blanco es también fácil de cuidar, requiriendo bajo mantenimiento una vez establecido, y es resistente a muchas plagas y enfermedades comunes. Esta planta es perfecta para crear un aspecto dramático y texturizado en el jardín, convirtiéndola en una característica llamativa y única para cualquier paisaje.",
+    "family": "Cupresáceas",
+    "flower_color": "Sin flores",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9236",
+        "type": "watering",
+        "description": "El ciprés blanco requiere niveles moderados de agua para prosperar. Durante las primeras semanas después de plantar, riega el árbol cada pocos días y luego reduce la frecuencia a una vez por semana. En verano, mantén el suelo húmedo, pero evita que el árbol quede sumergido en agua. Durante el otoño, riega con menos frecuencia, permitiendo que el suelo se seque la mayor parte del tiempo antes de volver a regar el árbol. Como regla general, evita regar el árbol en invierno, ya que esto podría hacer que se vuelva inactivo."
+      },
+      {
+        "id": "9237",
+        "type": "sunlight",
+        "description": "El ciprés blanco (Chamaecyparis thyoides 'Heatherbun') necesita pleno sol o sombra parcial. Se desarrolla mejor cuando está expuesto de 6 a 8 horas de luz solar cada día para promover un crecimiento y floración saludables. Sin embargo, es importante no colocarlo en un área que reciba demasiada luz solar directa, ya que esto puede quemar su follaje, especialmente cuando es joven. En general, la luz de media mañana a media tarde es la mejor."
+      },
+      {
+        "id": "9238",
+        "type": "pruning",
+        "description": "El ciprés blanco (Chamaecyparis thyoides 'Heatherbun') debe podarse a finales del invierno o principios de la primavera, antes de que comience el nuevo crecimiento. La poda debe mantenerse ligera, centrándose en eliminar las ramas muertas, enfermas y demasiado largas, así como en abrir el dosel interior para permitir que penetren más luz y aire en las ramas. También se recomienda recortar ligeramente las puntas de cualquier crecimiento nuevo para mantener un tamaño más compacto."
+      }
+    ]
+  },
+  {
+    "id": "1818",
+    "scientific_name": [
+      "Chamaecytisus hirsutus"
+    ],
+    "common_name": "chamaecytisus",
+    "attracts": [],
+    "care_level": ".",
+    "description": "¡Chamaecytisus hirsutus es una especie de planta increíble por sus flores asombrosas! Este arbusto de hojas perennes presume de las flores amarillas más bonitas y erguidas que jamás verás. Produce un follaje completamente verde oscuro que naturalmente alcanza alturas de hasta 2,5 m. Las ramas tupidas están cubiertas de flores grises y blancas peludas, que llegan a medir entre 1,5 y 2,5 cm de longitud, lo que las hace atractivas para los polinizadores. Las flores se abren en la primavera y permanecen hasta el otoño. Son una excelente opción para bordes y contenedores debido a su bajo requerimiento de mantenimiento. ¡Chamaecytisus hirsutus es una maravilla para contemplar!",
+    "family": "Fabaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": ".",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": ".",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa central, sur y sudeste"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "Propagación por acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Agosto",
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": ".",
+    "care_guides_details": [
+      {
+        "id": "9242",
+        "type": "watering",
+        "description": "Riegue el Chamaecytisus hirsutus profunda y completamente una vez cada 7-10 días. El riego debe comenzar a principios de la primavera, después de la última helada, y continuar hasta mediados de otoño. Aumente la frecuencia de riego a dos veces por semana durante periodos de calor y sequedad. Riegue hasta que el suelo esté mojado al menos 20 cm de profundidad y permita que se seque entre riegos para evitar el deterioro de las raíces. Evite el riego por encima para mantener el follaje seco y prevenir enfermedades fúngicas y bacterianas. Al regar, use agua a temperatura ambiente y evite empapar el follaje."
+      },
+      {
+        "id": "9243",
+        "type": "sunlight",
+        "description": "El Chamaecytisus hirsutus requiere entre 4 y 6 horas de luz solar directa durante el día para prosperar. No debe exponerse al sol excesivo del mediodía durante mucho tiempo, ya que podría quemar el follaje. Plantar en una ubicación donde reciba sol por la mañana o por la tarde es lo ideal. Para asegurar una exposición solar adecuada, la planta debe mantenerse al aire libre en un espacio abierto que esté bien ventilado y lejos de estructuras altas u otras plantaciones. Si se mantiene en un contenedor, la maceta debe colocarse en un lugar soleado con espacio suficiente para que el sistema de raíces se expanda y respire."
+      },
+      {
+        "id": "9244",
+        "type": "pruning",
+        "description": "Para una salud y producción óptimas, el chamaecytisus debe podarse anualmente, más intensamente en invierno/inicio de primavera y ligeramente a finales de verano. Durante la poda de invierno, elimine hasta un tercio de los tallos y cañas del arbusto para abrirlo, promover la circulación del aire, permitir la entrada de luz y fomentar un nuevo crecimiento. La poda de verano debe consistir en retirar solo algunos de los tallos delgados y unas pocas de las cañas más débiles, dejando las cañas más fuertes. Esto fomentará un crecimiento más uniforme y compacto. Siempre use herramientas de poda afiladas y limpias para evitar introducir enfermedades. Podar el chamaecytisus demasiado o muy a menudo puede resultar en una reducción del vigor y de la producción de flores."
+      }
+    ]
+  },
+  {
+    "id": "1820",
+    "scientific_name": [
+      "Chamaedorea elegans"
+    ],
+    "common_name": "palma de salón",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "La Palma de Salón (Chamaedorea elegans) es una increíble planta de interior con varias características destacables. Es una especie de crecimiento muy lento que requiere un mantenimiento mínimo. También es bastante pequeña, por lo que se adapta perfectamente a espacios como escritorios, mesas o encimeras. Esta especie prospera en condiciones de luz media a baja y requiere poca agua, lo que la convierte en una adición fácil incluso para los cuidadores más descuidados. Además, esta especie tropical tiene hermosas hojas de color verde oscuro y frondas elegantes que añaden una textura exuberante y exótica a cualquier hogar. Su capacidad para purificar el aire y su asequibilidad la hacen una gran opción para cualquiera que busque añadir un poco de naturaleza y belleza a su hogar.",
+    "family": "Arecaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [
+      "rojo",
+      "naranja"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Verano",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Centroamérica",
+      "México"
+    ],
+    "other_name": [
+      "palma neanthe bella"
+    ],
+    "pest_susceptibility": [
+      "Mancha de hoja fúngica",
+      " Cochinillas",
+      " Ácaros",
+      " Pudrición de raíces",
+      " Insectos escama"
+    ],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "2061",
+        "type": "watering",
+        "description": "Las palmas de salón deben regarse dos veces por semana, utilizando aproximadamente 1/2 taza de agua por maceta. Asegúrate de regar hasta que el exceso gotee del orificio de drenaje de la maceta. Evita el exceso de riego ya que esto puede causar pudrición de raíces. Deja que el suelo se seque ligeramente entre riegos. Revisa el suelo cada semana con las yemas de los dedos o un pincho de madera. Si el pincho se introduce más de 2 cm en el suelo y se siente seco, es tiempo de regar."
+      },
+      {
+        "id": "2072",
+        "type": "sunlight",
+        "description": "La palma de salón requiere luz solar indirecta brillante para un crecimiento y salud óptimos. Prospera en ventanas que ofrezcan algunas horas de luz solar directa durante la mañana o al atardecer, pero no tolera la exposición directa al sol todo el día. En general, la palma de salón prefiere de 4 a 6 horas de luz solar indirecta brillante al día, distribuidas durante la mañana y/o la tarde."
+      },
+      {
+        "id": "2080",
+        "type": "pruning",
+        "description": "La palma de salón (Chamaedorea elegans) debe podarse con moderación, solo cuando sea necesario y cuando la planta haya crecido demasiado para el espacio deseado. La poda debe hacerse una vez cada pocos meses, a principios de primavera antes del rebrote. También se puede podar para ajustar la forma o tamaño de la planta y para eliminar follaje muerto o amarillento. Para mejores resultados, se recomienda usar tijeras afiladas y limpias y cortar a un punto justo por encima de un nudo de hoja. Esto reducirá el riesgo de dañar la planta."
+      }
+    ]
+  },
+  {
+    "id": "1822",
+    "scientific_name": [
+      "Chamaedorea seifrizii"
+    ],
+    "common_name": "palma de bambú",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "La Palma de Bambú (Chamaedorea seifrizii) es una increíble planta que puede añadir vida y color a cualquier habitación de tu hogar. Sus hábitos de crecimiento son fáciles de mantener y se puede incluir en situaciones de poca luz. Sus tallos similares al bambú, frondes y hojas de un verde oscuro se extienden de manera elegante para crear una atmósfera relajante. La planta tolera poca humedad y es resistente a la sequía. Su clásico aspecto tropical, combinado con su durabilidad, la convierte en una excelente opción para ambientes interiores y exteriores. Produce flores fragantes, de color amarillo-naranja en racimos desde finales del verano hasta principios del invierno. La Palma de Bambú es una excelente fuente de purificación natural del aire y puede ayudar a reducir los contaminantes en espacios cerrados. Es una planta de interior envidiable que seguramente traerá un toque tropical a cualquier espacio.",
+    "family": "Arecaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "América Central",
+      "Florida",
+      "sur de México"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "División",
+      "Acodo aéreo",
+      "Propagación por tallo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "2063",
+        "type": "watering",
+        "description": "Las palmas de bambú deben regarse cuando la parte superior del suelo esté moderadamente seca al tacto. Como pauta, riega una vez a la semana, permitiendo alrededor de medio galón de agua por una maceta de palma de bambú. Asegúrate de regar el suelo directamente en lugar de rociar las hojas. Demasiada humedad puede causar enfermedades en las palmas de bambú. Durante el verano, riega más frecuentemente. En días más calurosos, riega más a menudo, mientras que en días más fríos, reduce la cantidad de agua."
+      },
+      {
+        "id": "2074",
+        "type": "sunlight",
+        "description": "Estas plantas prefieren luz media a alta, entre 150 y 300 lux, lo que sería aproximadamente de 4 a 6 horas de luz solar directa al día. Como son nativas de los trópicos, pueden soportar más luz solar directa durante los meses más cálidos del año. Cuando se cultiva en interiores, trata de colocar tu palma de bambú en una ventana orientada al este o al oeste para recibir la mayor cantidad de luz posible."
+      },
+      {
+        "id": "2082",
+        "type": "pruning",
+        "description": "La palma de bambú debe podarse una vez al año. La poda debe realizarse durante el final de la primavera o al comienzo del verano. Pode solo las frondes muertas, ya que esto ayudará a fomentar un crecimiento más saludable del nuevo follaje. La cantidad de poda debe hacerse solo cuando sea necesario, ya que la poda excesiva puede detener el crecimiento de la planta. Una regla general es eliminar no más de un tercio de las frondes existentes. Esto se debe a que eliminar demasiadas frondes puede causar un shock en la planta y hacer que las hojas se pongan marrones."
+      }
+    ]
+  },
+  {
+    "id": "1823",
+    "scientific_name": [
+      "Chamaelirium luteum"
+    ],
+    "common_name": "varita de hada",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La varita de hada (Chamaelirium luteum) es una flor impresionante y elegante con flores llamativas que aportan una belleza única a cualquier jardín. Esta perenne herbácea crece hasta 60 centímetros de altura y produce tallos altos y similares a varitas de flores blancas desde julio hasta septiembre. Estas flores blancas tienen un aroma inconfundible y son las favoritas entre los jardineros para atraer mariposas. La varita de hada se extiende rápidamente y es fácil de cultivar y mantener. El follaje es de hojas verdes vibrantes que son increíblemente delicadas al tacto. Es tan atractivo que podría incluso ser una gran adición a un ramo o centro de mesa. Resistente y confiable, esta planta es realmente una gran adición a cualquier paisaje.",
+    "family": "Melanthiaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [
+      "amarillo",
+      "naranja"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este de Norteamérica"
+    ],
+    "other_name": [
+      "Varita de Hada",
+      "Estrella Ardiente",
+      "Estrella Ardiente"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por Semilla",
+      "Propagación por Acodado"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Franco",
+      "Humus Enriquecido"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9248",
+        "type": "watering",
+        "description": "La varita de hada requiere suelo húmedo para florecer. Debe regarse regularmente y con moderación unas 2 veces por semana. Puede tolerar que su suelo se seque entre cada riego, pero no por períodos prolongados. Al regar, asegúrese de saturar toda la zona de las raíces con agua y deje un poco de agua estancada en la base de la planta para garantizar que se haya hidratado adecuadamente. Cuanto más se seque el suelo, menos frecuente será el riego necesario, así que asegúrese de ajustar el programa de riego según los niveles de humedad del suelo."
+      },
+      {
+        "id": "9249",
+        "type": "sunlight",
+        "description": "La varita de hada (Chamaelirium luteum) prospera a pleno sol o en sombra ligera. Para desarrollarse adecuadamente, estas plantas necesitan recibir de 8 a 10 horas de luz solar directa cada día. Si bien es mejor que reciban la cantidad recomendada de luz solar de una sola vez, también pueden prosperar con luz solar dividida a lo largo del día. Deben recibir luz solar matutina durante 4-5 horas seguida de luz solar vespertina durante otras 4 o 5 horas. Por supuesto, es importante señalar que la luz solar debe ser directa. Si la luz solar indirecta o filtrada es la única opción, las horas deben aumentarse para compensar."
+      },
+      {
+        "id": "9250",
+        "type": "pruning",
+        "description": "La varita de hada (Chamaelirium luteum) se poda mejor a finales del invierno mientras aún está en reposo. La poda debe ser ligera y debe realizarse para que la planta mantenga su forma natural y erguida. Las varas florales deben podarse cerca de la base de la planta. El follaje viejo debe recortarse a unos pocos centímetros del suelo. Si es necesario, también es posible aclarar ligeramente el follaje para mantener una forma uniforme. La poda no debe exceder más de un tercio de la masa total del follaje."
+      }
+    ]
+  },
+  {
+    "id": "1831",
+    "scientific_name": [
+      "Chelone lyonii 'Hot Lips'"
+    ],
+    "common_name": "Cabeza de tortuga rosa",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La planta cabeza de tortuga rosa (Chelone lyonii 'Hot Lips') es una flor perenne asombrosa con llamativas flores bicolor en tonos rosa intenso, blanco y bronce-rosado. Esta planta nativa de América del Norte, forma grupos densos y es un imán para polinizadores como abejas, mariposas y colibríes. Creciendo en lugares soleados y bien drenados, puede alcanzar más de 60 cm de altura y 30 cm de ancho, con hojas ovaladas o en forma de corazón. A finales del verano, sus vívidas flores bicolores en forma de capucha florecen y duran semanas. La planta cabeza de tortuga rosa no solo ilumina jardines y patios, sino que también es extremadamente resistente a la sequía y a los ciervos. Se puede plantar en grupos, como ejemplar único, o naturalizar cerca de un estanque o arroyo para crear un atractivo en el patio trasero. ¡Es verdaderamente una planta increíble!",
+    "family": "Plantaginaceae",
+    "flower_color": "Rosa",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "rosa"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Agosto",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9272",
+        "type": "watering",
+        "description": "La cabeza de tortuga rosa requiere riegos regulares y consistentes para mantenerse saludable. Riega la planta inmediatamente después de plantarla y luego una vez a la semana hasta que haya establecido raíces fuertes. Después, riega a fondo cada 3 días o más, permitiendo que el suelo se seque un poco entre los riegos. Al utilizar un método de riego más de una vez por semana, y en esos momentos entre lluvias, es mejor regar alrededor de las raíces de la planta para evitar el exceso de humedad en el suelo."
+      },
+      {
+        "id": "9273",
+        "type": "sunlight",
+        "description": "La cabeza de tortuga rosa (Chelone lyonii 'Hot Lips') debe idealmente recibir de 4 a 6 horas de luz solar directa cada día en un área que no sea demasiado caliente para prosperar. Puede tolerar sol parcial, sin embargo, es mejor plantarla en un área que reciba sol por la mañana y algo de sombra por la tarde. No se recomienda plena sombra, ya que puede causar una mala floración."
+      },
+      {
+        "id": "9274",
+        "type": "pruning",
+        "description": "La cabeza de tortuga rosa (Chelone lyonii 'Hot Lips') se poda mejor a finales del invierno o principios de la primavera. Corta los tallos muertos o enfermos con tijeras de podar esterilizadas, y poda cualquier tallo que se superponga o esté amontonando a otro. Recorta toda la planta aproximadamente 1/3 del crecimiento del año anterior para fomentar la frondosidad y floración abundante a finales del verano. Elimina las flores marchitas a lo largo de la temporada de crecimiento para fomentar adicionalmente más flores y desincentivar la resiembra."
+      }
+    ]
+  },
+  {
+    "id": "1834",
+    "scientific_name": [
+      "Chelone obliqua var. speciosa"
+    ],
+    "common_name": "flor de concha",
+    "attracts": [
+      "mariposas",
+      "colibríes"
+    ],
+    "care_level": "Medio",
+    "description": "La flor de concha (Chelone obliqua var. speciosa) es una planta asombrosa. Sus únicas flores se asemejan a caparazones de tortuga y pueden ser de color blanco, púrpura o rosa. La planta es resistente y fácil de cultivar, tolerando una amplia gama de tipos de suelo y una variedad de condiciones. La flor de concha florece a finales del verano y en otoño con espigas de flores que atraen a los polinizadores. La planta proporciona una hermosa dimensión a cualquier jardín, atrayendo mariposas y colibríes. Sus hojas perennes son un gran fondo durante todo el año. Es un verdadero espectáculo, creando un paisaje dramático en las zonas 3-7. Las flores de concha son una gran elección para jardineros de todos los niveles de habilidad.",
+    "family": "Plantaginaceae",
+    "flower_color": "Rosado a lavanda",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1739",
+        "type": "watering",
+        "description": "Al regar, humedezca bien el suelo hasta que el agua comience a salir por los agujeros de drenaje de la maceta. Esto debería suceder una o dos veces por semana durante la temporada de crecimiento y una vez cada 2 a 3 semanas durante la temporada de reposo. Las plantas establecidas pueden necesitar riego incluso con menos frecuencia. Asegúrese de no dejar que el suelo se seque completamente entre riegos ya que podría estresar a la planta."
+      },
+      {
+        "id": "1745",
+        "type": "sunlight",
+        "description": "La flor de concha (Chelone obliqua var. speciosa) crecerá mejor en un área de sombra parcial; debería recibir alrededor de 4-6 horas de luz solar directa al día. Durante los meses de verano en climas más cálidos, puede beneficiarse de algo de sombra por la tarde para prevenir quemaduras."
+      },
+      {
+        "id": "1751",
+        "type": "pruning",
+        "description": "La flor de concha (Chelone obliqua var. speciosa) debe podarse ligeramente cada año a finales del invierno o principios de la primavera, justo antes de que comience el nuevo crecimiento. Se debe tener cuidado de asegurar que solo se poden las ramas muertas, moribundas y enfermas, así como aquellas que se cruzan y rozan entre sí. También se recomienda remover 1/3 de los tallos más viejos cada año para promover un follaje más denso y fomentar el nuevo crecimiento. Al podar, es mejor evitar cortar demasiado crecimiento vegetativo de una sola vez, ya que esto puede afectar la salud general de la planta."
+      }
+    ]
+  },
+  {
+    "id": "1836",
+    "scientific_name": [
+      "Chenopodium quinoa"
+    ],
+    "common_name": "quinoa",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La quinoa (Chenopodium quinoa) es una especie vegetal asombrosa porque está repleta de beneficios nutritivos. Es alta en proteínas, está llena de vitaminas y minerales esenciales, es baja en grasas, además de ser libre de gluten y colesterol, lo que la convierte en un alimento ideal para vegetarianos y veganos. También es una excelente fuente de fibras dietéticas, minerales, vitaminas, antioxidantes y ácidos grasos esenciales. La quinoa es increíblemente versátil y se puede encontrar en una variedad de recetas. Es un gran reemplazo para cereales como el arroz y es un acompañamiento rápido de preparar. La quinoa se puede utilizar en platos para el desayuno, ensaladas, sopas, sándwiches, wraps, risotto y más. En resumen, la quinoa es un superalimento increíble con numerosos beneficios para la salud.",
+    "family": "Amaranthaceae",
+    "flower_color": "Verdoso",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "púrpura"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Sudamérica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esquejes",
+      "Acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto",
+      "septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9284",
+        "type": "watering",
+        "description": "La quinoa (Chenopodium quinoa) debe regarse regularmente, aproximadamente cada 3 o 4 días, hasta que el suelo se sienta húmedo. Nunca se debe permitir que el suelo se seque completamente, ya que esto puede causar marchitamiento, amarilleo y, en última instancia, la muerte de la planta de quinoa. Al regar la quinoa, lo mejor es hacerlo en la base de la planta para evitar mojar las hojas. Además, es importante evitar el exceso de agua, ya que esto puede causar pudrición de las raíces y otras enfermedades. Finalmente, es importante asegurarse de que el suelo drene bien y no esté demasiado compacto."
+      },
+      {
+        "id": "9285",
+        "type": "sunlight",
+        "description": "La quinoa (Chenopodium quinoa) prospera mejor cuando se cultiva a pleno sol, recibiendo al menos 6 horas de luz solar directa cada día. Demasiada luz solar puede quemar las hojas, por lo que es mejor darle a la planta algo de sombra por la tarde si está en un lugar particularmente caluroso y soleado. Si la intensidad de la luz solar varía mucho a lo largo del día, se recomienda plantar quinoa en un área parcialmente sombreada."
+      },
+      {
+        "id": "9286",
+        "type": "pruning",
+        "description": "La quinoa (Chenopodium quinoa) debe podarse ligeramente aproximadamente a la mitad de la temporada de crecimiento. Esto ayudará a eliminar el crecimiento muerto o dañado, reducir el volumen del follaje y permitir una mejor circulación del aire en la planta. Pode cualquier tallo viejo o dañado para fomentar un nuevo crecimiento. Asegúrese de usar tijeras de podar afiladas para evitar dañar la planta. Pode cualquier parte de la planta que no sea beneficiosa para el crecimiento o la salud de la quinoa, como los tallos demasiado crecidos o aquellos con demasiadas frutas. La poda también debe realizarse después de cosechar las semillas, para fomentar un crecimiento saludable para la siguiente temporada."
+      }
+    ]
+  },
+  {
+    "id": "1838",
+    "scientific_name": [
+      "Chilopsis linearis var. linearis"
+    ],
+    "common_name": "sauce del desierto",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Sauce del Desierto (Chilopsis linearis var. linearis) es una especie asombrosa del desierto, nativa del suroeste de los Estados Unidos y México. Este hermoso arbusto desértico presenta un follaje parecido al de un sauce y flores profundamente fragantes que florecen desde la primavera hasta el otoño en una variedad de colores. Es tolerante a la sequía e incluso puede sobrevivir a una congelación severa durante el invierno. Además, produce vainas de semillas de color verde brillante con espinas apuntando hacia abajo después de las flores. Es una planta muy versátil que proporciona hábitat para aves y polinizadores, sombra, control de erosión, y puede ser una excelente opción para la xeriscapia. El Sauce del Desierto es realmente notable.",
+    "family": "Bignoniaceae",
+    "flower_color": "Rosa a lavanda (a veces blanca)",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "marrón",
+      "negro"
+    ],
+    "growth_rate": "Lento",
+    "harvest_season": "Verano",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Suroeste de los Estados Unidos",
+      "México"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "Injerto ",
+      "Acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9290",
+        "type": "watering",
+        "description": "El sauce del desierto puede regarse una vez cada 2 semanas, usando alrededor de 38 litros de agua cada vez. Disfruta del sol pleno y puede tolerar temperaturas tan bajas como 15 °F, lo que lo convierte en una gran opción para plantar al aire libre en climas cálidos. Riega profundamente para saturar la zona de raíces. Asegúrate de regar toda la zona de raíces de manera uniforme, no solo la superficie. Riega lentamente para que la planta pueda absorber la humedad y no permitas que el agua se quede estancada. Una vez establecido, el sauce del desierto es bastante tolerante a la sequía, por lo que no lo riegues con demasiada frecuencia."
+      },
+      {
+        "id": "9291",
+        "type": "sunlight",
+        "description": "El sauce del desierto (Chilopsis linearis var. linearis) típicamente requiere sol pleno durante su temporada de crecimiento. Sin embargo, puede tolerar algo de sombra parcial, especialmente durante sus períodos más calurosos y secos en verano. Cuando crece en áreas donde las temperaturas no superan los 25°C desde la primavera hasta el verano, la planta tiende a rendir mejor con 6 a 8 horas de sol al día. En climas más cálidos, sin embargo, el sauce del desierto debe recibir algo de alivio del intenso sol del mediodía, como la sombra moteada de la tarde que se encuentra bajo árboles altos de hoja perenne."
+      },
+      {
+        "id": "9292",
+        "type": "pruning",
+        "description": "Poda el sauce del desierto (Chilopsis linearis var. linearis) a partir de finales del invierno y principios de la primavera para obtener los mejores resultados. Recorta las ramas muertas y poco saludables así como cualquiera que cruce o se roce entre sí para fomentar un crecimiento saludable. Poda cualquier rama que bloquee caminos o el acceso a la casa para aumentar la seguridad. También puedes recortar estratégicamente para crear una silueta más completa y atractiva para el árbol, enfocándote en el nuevo crecimiento emergente cerca del tronco y el extremo de las ramas. Poda entre un 10 a 25 por ciento del crecimiento anualmente."
+      }
+    ]
+  },
+  {
+    "id": "1842",
+    "scientific_name": [
+      "Chionodoxa luciliae"
+    ],
+    "common_name": "gloria de las nieves",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "La gloria de las nieves (Chionodoxa luciliae) es una maravillosa planta que florece temprano, ofreciendo un espectáculo impresionante de flores azules y blancas en primavera. Esta planta de bajo crecimiento y agrupada puede alcanzar de quince a veinte centímetros de altura y crea una alfombra espesa con su follaje verde oscuro y brillante. En sus bosques nativos, es una de las primeras en anunciar la llegada de la primavera y es apreciada por polinizadores tempranos como colibríes y abejas. Con su larga temporada de floración, esta belleza iluminará cualquier jardín con su encanto jovial. Su fácil mantenimiento, resistencia y tolerancia al frío convierten a la gloria de las nieves en una excelente adición a cualquier paisaje.",
+    "family": "Asparagáceas",
+    "flower_color": "Azul lila con centro blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Oeste de Turquía"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semilla",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9296",
+        "type": "watering",
+        "description": "La gloria de las nieves (Chionodoxa luciliae) debe regarse ligeramente y de manera constante. En general, solo necesitan regarse una vez a la semana y asegúrate de proporcionar aproximadamente una pulgada de agua. Durante los cálidos meses de verano, la frecuencia puede aumentar a dos veces por semana. Para saber cuánto riego proporcionar, introduce tu dedo en el suelo; si aún está húmedo desde el último riego, entonces deberías esperar unos días más antes de volver a regar. No se recomienda el exceso de riego ya que la gloria de las nieves es susceptible a la pudrición de la raíz."
+      },
+      {
+        "id": "9297",
+        "type": "sunlight",
+        "description": "La gloria de las nieves (Chionodoxa luciliae) requiere pleno sol a principios de primavera cuando comienza a emerger, pero puede tolerar sombra ligera en otros momentos del año. Durante su período de floración, desde finales de invierno hasta principios de primavera, la planta necesita luz solar directa al menos 6 horas al día para una floración óptima. Cuando los capullos y las flores se han desvanecido, la planta requiere sombra parcial para protegerse del sol directo, ya que esto podría causar que su follaje se sobrecaliente. Si planeas plantar esta especie en tu jardín, trata de posicionarla donde se beneficie de sol directo en la mañana y sombra parcial por la tarde."
+      },
+      {
+        "id": "9298",
+        "type": "pruning",
+        "description": "La gloria de las nieves (Chionodoxa luciliae) debe podarse después de su período inicial de floración, generalmente a finales de primavera o principios de verano. La poda debe consistir en cortar los tallos de las flores desvanecidas lo más cerca posible del suelo, cortar cualquier tallo demasiado largo o dañado, y aclarar los tallos que estén demasiado juntos. Esto ayudará a mantener las plantas saludables y a aumentar su vigor. Además, quitar las flores marchitas también puede ayudar a fomentar una mayor floración y mantener la gloria de las nieves ordenada."
+      }
+    ]
+  },
+  {
+    "id": "1839",
+    "scientific_name": [
+      "Chimonanthus praecox"
+    ],
+    "common_name": "chimonante",
+    "attracts": [],
+    "care_level": "Intermedio",
+    "description": "El chimonante (Chimonanthus praecox) es una especie vegetal sorprendente debido a sus vistosas flores amarillas y su agradable fragancia que aparece durante los fríos meses de invierno. Es un arbusto ornamental que puede alcanzar una altura de seis a ocho pies, y produce flores de hasta dos pulgadas de diámetro. Además de su impresionante belleza, el chimonante es altamente fragante y su aroma puede permanecer en el aire en un fresco día de invierno. El chimonante es una adición perfecta para cualquier jardín, ofreciendo una sorpresa rara y deliciosa durante los meses más fríos.",
+    "family": "Calycanthaceae",
+    "flower_color": "Amarillento con centros púrpura-marrones",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Acodo",
+      "Injerto",
+      "Esquejes",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "1389",
+        "type": "watering",
+        "description": "El chimonante (Chimonanthus praecox) debe regarse con bastante regularidad, pero no en exceso. Intente regar la planta una o dos veces por semana, dependiendo del tamaño de la maceta y la temperatura: con más frecuencia cuando el suelo está seco, como durante los veranos calurosos. Asegúrese de no regar en exceso, ya que un exceso de agua puede causar pudrición de raíces y matar a la planta. Es mejor regar por la mañana o temprano en la tarde, cuando las temperaturas son más frescas, para asegurar que la planta pueda absorber el agua más lentamente y prevenir posibles choques."
+      },
+      {
+        "id": "1390",
+        "type": "sunlight",
+        "description": "El requerimiento de luz solar para el chimonante (Chimonanthus praecox) es de 6-8 horas de luz solar directa al día. Sin embargo, durante las primeras 2 semanas después de plantar, es aconsejable mantener el chimonante en sombra parcial hasta que se establezca. Si se cultiva con demasiada luz solar, las hojas pueden quemarse. Durante los meses de invierno, esta especie requiere más sol para mantener su floración. En la naturaleza, es mejor plantar chimonante cerca de un muro o cerco orientado al sur para protección contra los vientos del norte."
+      },
+      {
+        "id": "1391",
+        "type": "pruning",
+        "description": "Al podar el chimonante (Chimonanthus praecox), es importante esperar hasta su período de dormancia a finales de invierno o principios de primavera. Esta es la mejor época ya que le da tiempo a la planta para prepararse para el nuevo crecimiento. La cantidad de poda variará dependiendo del tamaño de la planta y de las necesidades individuales. Generalmente, es mejor podar no más de un tercio de su tamaño total. Esto asegurará que la forma de la planta se mantenga y que las flores tengan suficiente energía para florecer en la próxima estación. Si se podan ramas grandes, asegúrese de usar el método de los 3 cortes: haga un corte inferior al menos 6 pulgadas alejadas del tronco, luego haga un corte hacia el tronco, y finalmente, realice el corte real en el tronco. Al podar, asegúrese de usar herramientas afiladas y limpias para evitar cualquier daño potencial o propagación de enfermedades."
+      }
+    ]
+  },
+  {
+    "id": "1846",
+    "scientific_name": [
+      "Chlorophytum 'Bonnie'"
+    ],
+    "common_name": "planta araña",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "La Planta Araña (Chlorophytum 'Bonnie') es una planta de interior increíblemente versátil y de bajo mantenimiento. Tolera luz indirecta desde baja a brillante y casi cualquier tipo de suelo. Su patrón de crecimiento inusual se asemeja a una araña o a una roseta de follaje con forma de correa que se extiende desde un tallo central. Con el tiempo, aparecerán sus flores blancas con puntas rojas. Es una planta de interior perfecta para principiantes ya que es fácil de cultivar y propagar, requiere un cuidado mínimo y puede sobrevivir en muchos entornos diferentes. ¡Incluso puede crecer al aire libre en las zonas 11 y 12! En definitiva, la Planta Araña es una maravillosa y duradera adición a cualquier jardín hogareño.",
+    "family": "Asparagaceae",
+    "flower_color": "Blanco",
+    "flowering_season": ",",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": ",",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Sudáfrica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por Estacas",
+      "Propagación por Acodo Aéreo",
+      "Propagación por Hijuelos"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": ",",
+    "care_guides_details": [
+      {
+        "id": "115",
+        "type": "watering",
+        "description": "El riego es mejor cuando la capa superior del suelo comienza a sentirse seca al tacto. La Planta Araña Chlorophytum 'Bonnie' debe regarse cuando el suelo empiece a sentirse seco. Esta planta prefiere mantenerse en el lado seco, así que asegúrese de no excederse con el riego. Planee regarla una vez por semana en verano y una vez cada dos semanas durante el invierno."
+      },
+      {
+        "id": "116",
+        "type": "sunlight",
+        "description": "Las plantas araña (Chlorophytum 'Bonnie') prefieren luz brillante e indirecta, lo que significa que deben recibir de 4 a 6 horas de luz brillante desde una ventana orientada al sur cada día, preferentemente en la mañana. Si está cultivando su planta araña en interiores, también puede utilizar luz artificial para suplementar la luz natural disponible. Las plantas araña pueden tolerar niveles bajos de luz por períodos cortos de tiempo e incluso prosperar parcialmente en la sombra, pero la sombra excesiva (menos de 4 horas de luz solar) y la luz solar directa eventualmente pueden causar el amarillamiento de las hojas. Mantenga la planta araña fuera de la luz solar directa de la tarde."
+      },
+      {
+        "id": "117",
+        "type": "pruning",
+        "description": "Antes de comenzar a podar, asegúrese de contar con las herramientas adecuadas para el trabajo, como unas tijeras de jardinería o unas tijeras comunes. Recuerde siempre esterilizar sus herramientas con alcohol isopropílico para evitar la propagación de enfermedades.\n\nLa Planta Araña Chlorophytum 'Bonnie' debe podarse una vez al año a finales de la primavera o principios del verano. La poda debe ser ligera, eliminando cualquier hoja amarillenta o dañada, así como cualquier tallo largo que comience a caerse. También es una buena idea recortar cualquier tallo largo o desaliñado que no esté produciendo hojas o flores. La poda debe hacerse antes de que la planta comience a florecer en el año, ya que esto le dará tiempo suficiente a la planta para formar nuevo crecimiento antes de la próxima temporada de floración."
+      }
+    ]
+  },
+  {
+    "id": "1847",
+    "scientific_name": [
+      "Chlorophytum comosum 'Vittatum'"
+    ],
+    "common_name": "planta araña",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "Las plantas araña son increíbles porque son muy fáciles de mantener y cultivar. Son extremadamente resistentes y pueden sobrevivir en diferentes tipos de condiciones de luz y temperatura. Adoran la humedad, por lo que son excelentes para áreas del hogar que requieren más humedad, como baños y cocinas. También actúan como purificadores de aire naturales al absorber toxinas y eliminarlas del aire. Tienen hojas largas y serpenteantes con rayas blancas que crean un hermoso contraste. Los tallos son fuertes y pueden caer en perfectas cascadas decorativas. Las plantas araña son perfectas para jardineros principiantes y ofrecen una fascinante adición a cualquier hogar.",
+    "family": "Asparagaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "blanco"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Sudáfrica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por tallo",
+      "Propagación por acodo aéreo",
+      "Vástagos"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "2085",
+        "type": "watering",
+        "description": "Las plantas araña prefieren mantenerse ligeramente húmedas en todo momento, por lo que es mejor regarlas regularmente en pequeñas cantidades. Procura regar la tierra hasta que esté uniformemente húmeda, pero no empapada. Si se quedan secas durante mucho tiempo, las hojas pueden volverse quebradizas. Una buena regla es dar a la planta un riego a fondo una vez a la semana y verificar el suelo entre riegos para asegurarte de que no esté completamente seco. Si vives en un clima más húmedo, quizá necesites regar con menos frecuencia. Si estás en un clima seco, quizás necesites regar más a menudo."
+      },
+      {
+        "id": "2100",
+        "type": "sunlight",
+        "description": "Las plantas araña (Chlorophytum comosum 'Vittatum') se desarrollan mejor con luz indirecta durante al menos 4-6 horas al día y pueden tolerar pleno sol cuando las temperaturas son más frescas. Deben mantenerse alejadas del sol directo del mediodía ya que podría provocar la deshidratación del follaje. Si tu planta araña recibe demasiada luz, comenzará a ponerse amarilla y a desarrollar manchas marrones en las hojas. Si no recibe suficiente luz, el follaje se volverá pálido y la planta podría volverse larguirucha."
+      },
+      {
+        "id": "2101",
+        "type": "pruning",
+        "description": "La poda de una planta araña (Chlorophytum comosum 'Vittatum') generalmente debe realizarse a finales del invierno o a principios de la primavera. La planta debe podarse para mejorar su forma y apariencia general, así como para estimular un nuevo crecimiento. Al podar, solo se debe retirar aproximadamente un tercio de cada tallo. Esto asegura que la planta mantenga su plenitud mientras mejora también la circulación de aire. En algunos casos, donde sea necesario un exceso de poda, todos los tallos pueden recortarse hasta la base de la planta para fomentar un nuevo crecimiento."
+      }
+    ]
+  },
+  {
+    "id": "1862",
+    "scientific_name": [
+      "Chrysanthemum 'Niche's October Glow'"
+    ],
+    "common_name": "crisantemo margarita de jardín",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Media",
+    "description": "Los Crisantemos Margarita de Jardín (Chrysanthemum 'Niche's October Glow') son una de las plantas con flores más sorprendentes que jamás verás. Con sus pétalos multicolores duraderos dispuestos en encantadoras flores similares a margaritas y su follaje delicadamente diminuto, esta variedad de crisantemo floreciente iluminará cualquier rincón del jardín con sus bellos tonos de rosa durante todo el verano. Los vibrantes matices seguramente captarán la mirada, y las fragantes flores proporcionarán un aroma encantador a cualquier espacio al aire libre. Cuando otras plantas se marchitan bajo el calor, esta resistente planta continúa prosperando a la luz del sol, ofreciendo meses de alegría.",
+    "family": "Asteraceae",
+    "flower_color": "Melocotón a cobre naranja con centro amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "dorado",
+      "bronce",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Acodo",
+      "Injerto"
+    ],
+    "pruning_month": [
+      "Octubre",
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Noviembre",
+      "Diciembre",
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9338",
+        "type": "watering",
+        "description": "En cuanto al riego de los crisantemos margarita de jardín, es mejor regarlos profundamente y con poca frecuencia. Regar una vez por semana suele ser suficiente, siempre que el suelo esté húmedo. Si es necesario, puedes añadir un riego adicional durante periodos especialmente calurosos y secos. Recuerda evitar el riego excesivo ya que esto puede causar pudrición de las raíces o estimular un crecimiento excesivo de la parte superior en lugar de la floración.\n\nLa cantidad de agua necesaria para un crisantemo margarita depende del tamaño del recipiente; cuanto más grande sea la maceta, más agua se necesita. Una buena regla general es regar hasta que se llene el fondo de la maceta con orificios de drenaje. Además, asegúrate de regar siempre el suelo, no las hojas de la planta."
+      },
+      {
+        "id": "9339",
+        "type": "sunlight",
+        "description": "El Crisantemo Margarita de Jardín (Chrysanthemum 'Niche's October Glow') prospera mejor en un lugar con pleno sol todo el día. Sin embargo, la planta prefiere temperaturas más frescas y puede tolerar algo de sombra. Durante el verano, necesita aproximadamente 8-10 horas de luz solar directa para mantener su color amarillo brillante. Durante los meses más frescos de otoño y principios de invierno, algo de sombra por la tarde es beneficioso para evitar el riesgo de quemaduras en las hojas."
+      },
+      {
+        "id": "9340",
+        "type": "pruning",
+        "description": "El crisantemo margarita de jardín (Chrysanthemum 'Niche's October Glow') debería podarse una vez al año, a finales de otoño o invierno, generalmente entre mediados de noviembre y mediados de diciembre en climas templados. La poda debe realizarse después de que la planta haya terminado de florecer y las flores hayan declinado. La poda debe incluir la eliminación de tallos muertos o enfermos, así como flores marchitas y también podar para darle forma. Dependiendo de cómo se haya cultivado la planta, es posible que necesite podarse hasta la base antes de la primavera para un nuevo crecimiento vigoroso, o puede que solo requiera poda de un tercio del tamaño de la planta. Además, es importante mantener la parte superior de la planta bastante abierta y sin follaje denso, ya que esto asegura un buen flujo de aire hacia la planta y ayuda a reducir enfermedades."
+      }
+    ]
+  },
+  {
+    "id": "1866",
+    "scientific_name": [
+      "Chrysanthemum 'Saxapahaw'"
+    ],
+    "common_name": "Crisantemo 'Saxapahaw'",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El crisantemo 'Saxapahaw' es una especie de planta increíble que florece desde finales del verano hasta finales del otoño. Tiene vibrantes flores amarillas que alcanzan hasta 8 pulgadas de ancho, lo que la hace perfecta para una impresionante muestra en cualquier jardín. Las flores también son altamente fragantes y, cuando se cortan y secan, pueden durar hasta el invierno. Esto lo convierte en una excelente opción para agregar color y aroma a arreglos de flores secas. Además de su belleza visual, el 'Saxapahaw' es una planta resistente, tolerante a suelos pobres y que requiere poco mantenimiento. Es una excelente elección para cualquier jardinero que busque añadir una planta llamativa pero de fácil cuidado a su jardín.",
+    "family": "Asteraceae",
+    "flower_color": "Rosa oscuro con ojo amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por tallo",
+      "División",
+      "Propagación por acodo",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "9344",
+        "type": "watering",
+        "description": "Las mamás, o Chrysanthemum 'Saxapahaw', deben regarse al menos una vez a la semana, con 1-1.5 pulgadas de agua por aplicación. Riegue abundantemente por las mañanas, permitiendo que el agua se infiltre en el suelo antes de evaporarse al sol. Mantenga el suelo húmedo pero no encharcado; nunca deje que el suelo se seque completamente. El agua debe aplicarse directamente sobre el suelo y evitar mojar las hojas. Durante el invierno, riegue solo cuando el suelo se sienta seco al tacto."
+      },
+      {
+        "id": "9345",
+        "type": "sunlight",
+        "description": "Los crisantemos (Chrysanthemum 'Saxapahaw') necesitan pleno sol por un mínimo de 6 horas de luz solar directa cada día para prosperar. También toleran la sombra parcial, por lo que algo de sombra durante la parte más calurosa del día no es necesaria. Para obtener mejores resultados, plante sus crisantemos en un área que reciba sol pleno durante la mayor parte del día, con al menos 6 horas de luz solar directa. Colóquelos lejos de árboles y estructuras altas que puedan bloquear la luz solar necesaria. En general, el mejor momento para plantar crisantemos es cuando el suelo se ha calentado a alrededor de 65°F o más en primavera, cuando las temperaturas diurnas se han estabilizado y ha pasado el riesgo de heladas."
+      },
+      {
+        "id": "9346",
+        "type": "pruning",
+        "description": "Cuando se trata de podar el crisantemo (Chrysanthemum 'Saxapahaw'), el momento es importante. Podar debe hacerse durante todo el verano, una vez que las plantas han terminado de florecer. Durante este tiempo, las flores marchitas deben cortarse para permitir que la planta dirija energía hacia el crecimiento de hojas, y para que nuevos brotes se formen en los tallos. Si se desea una forma más formal, se recomienda pinchar los tallos durante todo el verano y hasta el otoño. Pode la planta a la forma deseada, ya que puede crecer mucho si no se poda. La poda siempre debe hacerse con herramientas limpias y afiladas para asegurar cortes limpios."
+      }
+    ]
+  },
+  {
+    "id": "1865",
+    "scientific_name": [
+      "Chrysanthemum 'Roadrunner Bronze'"
+    ],
+    "common_name": "crisantemo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El crisantemo 'Roadrunner Bronze' es una asombrosa belleza. Con sus grandes hojas dentadas y flores de un profundo color bronce, es realmente un espectáculo impresionante y llamativo. Fiel a su homónimo, las flores parecen como si pudieran salir corriendo; sus pétalos multicolores están arreglados de tal manera que se asemejan a una flor lista para emprender vuelo. Más especial aún, esta variedad no solo es tolerante a la sequía, sino que también prefiere la exposición al sol completo. Realmente, el crisantemo 'Roadrunner Bronze' es una vista asombrosa que ama ser apreciada.",
+    "family": "Asteraceae",
+    "flower_color": "Bronce-rojizo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "bronce"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Acodo",
+      "Injerto",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Abril",
+      "Mayo",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9341",
+        "type": "watering",
+        "description": "El crisantemo 'Roadrunner Bronze' debe regarse regularmente, de 2 a 3 veces por semana, dependiendo de la humedad actual del suelo. Intente mantener el suelo uniformemente húmedo, pero no empapado. Riegue a una profundidad de 5 a 8 centímetros para obtener mejores resultados."
+      },
+      {
+        "id": "9342",
+        "type": "sunlight",
+        "description": "El crisantemo 'Roadrunner Bronze' debe cultivarse a pleno sol durante al menos 6 horas al día, preferiblemente de 10 a 12 horas al día. Durante el pico del verano, es importante darle a la planta algo de sombra por las tardes para prevenir quemaduras en las hojas. Proporcionar sombra parcial por las tardes y pleno sol por las mañanas y las primeras horas del día es una buena idea para climas calurosos. Para obtener mejores resultados, la planta debe estar expuesta a la luz solar directa durante un mínimo de 6 horas diarias."
+      },
+      {
+        "id": "9343",
+        "type": "pruning",
+        "description": "El crisantemo 'Roadrunner Bronze' debe podarse a principios de la primavera, generalmente en abril o mayo. Dependiendo de su clima local, es posible que necesite podar antes. Durante la poda, elimine primero cualquier tallo muerto o enfermo y luego dé forma a la planta según desee. El crisantemo 'Roadrunner Bronze' es una planta resistente que puede tolerar una poda bastante severa. Corte hasta dos tercios de los tallos justo por encima del conjunto superior de hojas. Esto fomentará un nuevo crecimiento y producirá una estructura más frondosa en la planta. Después de la poda, fertilice su planta de crisantemo 'Roadrunner Bronze' para fomentar un crecimiento saludable."
+      }
+    ]
+  },
+  {
+    "id": "1864",
+    "scientific_name": [
+      "Chrysanthemum 'Radiant Igloo'"
+    ],
+    "common_name": "crisantemo",
+    "attracts": [
+      "mariposas"
+    ],
+    "care_level": "",
+    "description": "El crisantemo 'Radiant Igloo' es realmente un espectáculo digno de admirar. Sus brillantes pétalos blancos y violetas explotan como un espectáculo de fuegos artificiales, convirtiéndolo en una adición impresionante a cualquier jardín. Sus pétalos dentados se curvan hacia una punta afilada, asemejándose a un iglú y otorgándole su nombre inolvidable. Y por si fuera poco, es de muy bajo mantenimiento y embellece cualquier espacio al aire libre con rapidez. No solo ofrece una exhibición estimulante, sino que su dulce aroma es la guinda del pastel.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo brillante",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Capas",
+      "Esquejes",
+      "Injerto",
+      "Acodo aéreo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "2089",
+        "type": "watering",
+        "description": "Los crisantemos generalmente requieren riego cada 2-3 días. Prefieren tener el suelo consistentemente húmedo y deben regarse a una profundidad de 2-3 cm. La cantidad exacta de agua variará según la humedad y temperatura del ambiente, por lo que se debe monitorear el nivel de humedad del suelo y ajustarlo en consecuencia. El crisantemo 'Radiant Igloo' debe ser regado abundantemente al plantarse, pero trate de evitar el riego excesivo ya que esto puede llevar a la pudrición de raíces y otros problemas. Además, el suelo siempre debe permitir secarse entre riegos."
+      },
+      {
+        "id": "2095",
+        "type": "sunlight",
+        "description": "Los crisantemos son plantas que aman el sol, así que para asegurar que sus crisantemos 'Radiant Igloo' obtengan la mejor presentación, necesitan entre 6-8 horas de luz solar directa por día. Para obtener los mejores resultados, trate de proporcionarles sol matutino y sombra por la tarde durante el verano. Durante los meses de invierno, la cantidad de luz solar debe reducirse un poco, generalmente a 4-6 horas de luz solar directa por la mañana con algunas horas de luz indirecta brillante por la tarde."
+      },
+      {
+        "id": "2104",
+        "type": "pruning",
+        "description": "El crisantemo 'Radiant Igloo' debe podarse a finales del invierno o principios de la primavera, justo antes de que comience el nuevo crecimiento. La poda debe hacerse de manera ligera para mantener la forma deseada de la planta y fomentar un nuevo crecimiento. Comience removiendo ramas y brotes muertos, dañados o enfermos. Esto ayudará a mantener la planta saludable y a promover la circulación de aire, lo cual es importante para evitar enfermedades. Corte los tallos hasta llegar a yemas o nudos de crecimiento saludables. Lo mejor es dejar tallos de al menos 5 a 7 centímetros de largo para promover el rebrote. Pellizque las flores marchitas para extender el período de floración. Finalmente, adelgace algunos de los tallos más viejos hasta la base para permitir espacio para un nuevo crecimiento."
+      }
+    ]
+  },
+  {
+    "id": "1869",
+    "scientific_name": [
+      "Chrysanthemum 'Yobrandi' BRANDI"
+    ],
+    "common_name": "crisantemo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Chrysanthemum 'Yobrandi' BRANDI es una especie de planta increíble por muchas razones. Sus hermosas flores, parecidas a las margaritas de color amarillo y blanco, aparecen a principios del verano, añadiendo explosiones brillantes de color a cualquier jardín. El follaje verde oscuro y brillante de esta planta compacta y arbustiva contrasta muy bien con las flores amarillas. Las flores son duraderas, añadiendo semanas de color vibrante al jardín. También es fácil de cuidar; simplemente elimine las flores marchitas para evitar que se siembren y córtela ocasionalmente para mantenerla ordenada. Chrysanthemum 'Yobrandi' BRANDI es una adición luminosa y alegre que estalla de belleza en la temporada de verano.",
+    "family": "Asteraceae",
+    "flower_color": "Rojo oscuro",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Acodo",
+      "Injerto",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9350",
+        "type": "watering",
+        "description": "El Chrysanthemum 'Yobrandi' debe regarse aproximadamente cada 7-10 días durante los meses de primavera y verano. Se debe regar profundamente de modo que el suelo esté completamente saturado, aunque siga drenando bien. Para comprobar que lo ha regado adecuadamente, verifique si el suelo está seco a medio centímetro debajo de la superficie; si está seco, necesita más agua. Durante el invierno, riegue con menos frecuencia, aproximadamente cada 2 semanas. Si se cultiva en interiores, riegue solo cuando los 1 o 2 centímetros superiores del suelo estén secos. Es importante evitar el exceso de riego, ya que puede provocar la pudrición de las raíces y otras enfermedades fúngicas."
+      },
+      {
+        "id": "9351",
+        "type": "sunlight",
+        "description": "Las plantas Chrysanthemum 'Yobrandi' BRANDI prefieren entre 6 y 8 horas de luz solar directa al día. Durante los meses de verano, las plantas deben recibir de 5 a 7 horas de luz solar directa cada día. En invierno, cuando los días son más cortos y menos intensos, de 4 a 5 horas de luz solar directa serán suficientes. Aunque se prefiere un día completo de sol, la sombra parcial puede ser beneficiosa durante la parte más calurosa de los meses de verano. Dado que los crisantemos no toleran el sol caliente de la tarde por períodos muy largos, generalmente es mejor 5 horas o menos de luz solar directa."
+      },
+      {
+        "id": "9352",
+        "type": "pruning",
+        "description": "La poda del Chrysanthemum 'Yobrandi' BRANDI se puede realizar a principios de la primavera cuando empiezan a aparecer nuevos brotes, y corte todos los tallos viejos del año anterior. Pode los tallos a unos 30 cm (12”) de la base de la planta, cuidando de no cortar ningún brote o flor nueva. La eliminación de los brotes dormantes promueve más flores en el verano. Quite cualquier tallo débil o roto. Dependiendo del tamaño deseado del arbusto, puede ser necesario podar más para evitar que se vuelva demasiado alto o ancho. La poda es importante para esta planta, ya que promueve un nuevo crecimiento, flores más abundantes y reduce las enfermedades."
+      }
+    ]
+  },
+  {
+    "id": "1878",
+    "scientific_name": [
+      "Chrysopsis mariana"
+    ],
+    "common_name": "aster dorado",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El aster dorado (Chrysopsis mariana) es una asombrosa flor silvestre que seguramente complacerá. Presenta encantadoras flores de color amarillo dorado que son estrellas de delicados pétalos con centros brillantes de amarillo-dorado. Alegre y versátil, es la adición perfecta para cualquier jardín de flores silvestres. Creciendo mejor en ambientes soleados, es capaz de resistir la sequía y el calor, mientras proporciona un color abundante en los meses de otoño. Resistente y robusto, el aster dorado es una planta perenne confiable que ofrece una impresionante exhibición cada año.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Sureste de Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esquejes",
+      "División",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Mayo",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9365",
+        "type": "watering",
+        "description": "El aster dorado debe regarse cuando el suelo esté seco al tacto, aproximadamente a 2-5 centímetros de profundidad. Esto generalmente implica regar la planta 1-2 veces por semana. Sin embargo, cuando la temperatura ambiente es más alta, la planta puede necesitar ser regada con más frecuencia. El exceso de agua puede causar que las hojas de la planta se pongan amarillas o se marchiten, por lo que si nota que esto está sucediendo, reduzca el riego."
+      },
+      {
+        "id": "9366",
+        "type": "sunlight",
+        "description": "El aster dorado, Chrysopsis mariana, suele florecer a pleno sol, lo que significa un lugar lleno de sol que recibe al menos 5-6 horas de luz solar directa al día. Para prosperar, el aster dorado necesita su dosis diaria de pleno sol durante al menos 5-6 horas distribuidas a lo largo de todo el día. Al plantar el aster dorado en áreas con poca o ninguna sombra, es probable que sufra de un crecimiento deficiente, marchitamiento y mala floración.\n\nCuando se planta el aster dorado en áreas con sombra parcial, es esencial colocarlos en un lugar que reciba sol por la mañana para asegurar suficiente tiempo para disfrutar de los cálidos rayos. En las partes más calurosas del verano, se recomienda algo de sombra ligera por la tarde para prevenir el estrés o daño causado por el calor al follaje. También es importante proporcionar un nivel constante de humedad para prevenir la deshidratación."
+      },
+      {
+        "id": "9367",
+        "type": "pruning",
+        "description": "Los asters dorados deben podarse regularmente, idealmente al menos una vez al año. Pódelos a finales de otoño o invierno, después de que hayan terminado de florecer. Comience quitando cualquier tallo muerto o dañado y luego recorte o pode ligeramente los tallos restantes en aproximadamente un tercio. Esto ayudará a estimular un crecimiento más lleno y compacto para la próxima temporada, y también puede ayudar a reducir la propagación de enfermedades. Trate de evitar podar después de principios de primavera o antes de finales de otoño si es posible, ya que esto puede afectar el potencial de floración de la planta."
+      }
+    ]
+  },
+  {
+    "id": "1879",
+    "scientific_name": [
+      "Cichorium intybus"
+    ],
+    "common_name": "achicoria",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La achicoria (Cichorium intybus) es una planta verde asombrosa que está repleta de beneficios para la salud. Es una hierba perenne que está estrechamente relacionada con el diente de león y es rica en vitaminas, con grandes cantidades de vitamina A, vitaminas K, E y B6. También es alta en fibra, minerales y antioxidantes, y tiene la capacidad de reducir la inflamación en el cuerpo además de ayudar en la digestión. Es altamente nutritiva y se puede consumir cruda o cocida en platos. Con su profundo sabor terroso y crujido a nuez, esta verde única seguramente deleitará el paladar y definitivamente vale la pena probarla.",
+    "family": "Asteraceae",
+    "flower_color": "Azul|Púrpura",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "/",
+    "leaf_color": [
+      "verde",
+      "púrpura"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Europa",
+      "Asia occidental",
+      "norte de África"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Esqueje",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "9368",
+        "type": "watering",
+        "description": "Las plantas de achicoria deben regarse una o dos veces por semana, dependiendo del clima. En temperaturas más cálidas, es necesario regarlas con más frecuencia. Si las temperaturas son muy altas, es mejor regar al menos dos veces por semana. En temperaturas más frescas, una vez por semana debería ser suficiente. Al regar, el suelo debe dejarse secar entre riegos, asegurándose de que la planta de achicoria no se encharque. El suelo debe mantenerse húmedo, pero no excesivamente saturado. Si la planta de achicoria está en un contenedor, puede ser necesario un riego adicional para reemplazar el agua perdida por evaporación."
+      },
+      {
+        "id": "9369",
+        "type": "sunlight",
+        "description": "La achicoria (Cichorium intybus) generalmente requiere al menos 6 horas de luz solar directa al día para mantenerse saludable y producir sus vibrantes flores azules. Sus condiciones ideales de luz solar dependen de la región; sin embargo, se cultiva mejor en áreas con pleno sol y algo de sombra durante el mediodía cuando las temperaturas son altas. Para obtener mejores resultados, la achicoria debe recibir pleno sol por la mañana y sombra parcial por la tarde para limitar el estrés de los rayos de la tarde y las temperaturas extremas.\n\n"
+      },
+      {
+        "id": "9370",
+        "type": "pruning",
+        "description": "La achicoria es una planta perenne y debe podarse anualmente a fines del otoño o principios del invierno. La poda debe realizarse antes de que el suelo se congele y las plantas se vuelvan inactivas. Corte las dos terceras partes superiores de los tallos que han producido flores la temporada anterior y retire las flores y el follaje muertos para promover un nuevo crecimiento. Si el follaje de su achicoria se vuelve demasiado denso, puede recortarlo más según sea necesario. Fertilice las plantas de achicoria a comienzos de la primavera con un fertilizante equilibrado para promover una salud y crecimiento óptimos."
+      }
+    ]
+  },
+  {
+    "id": "1882",
+    "scientific_name": [
+      "Cinnamomum verum"
+    ],
+    "common_name": "canela",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La canela (Cinnamomum verum) es una especia increíble que se deriva de la corteza interna de un árbol perteneciente al género Cinnamomum. Su uso se remonta al antiguo Egipto, donde se usaba como una sustancia promotora de la salud. Hoy en día, se utiliza de diversas maneras tanto en aplicaciones culinarias como medicinales. Es conocida por su aroma único, su cálida especia y su sabor dulce. Sus impresionantes beneficios para la salud incluyen propiedades antiinflamatorias, antioxidantes y antimicrobianas que contribuyen a mejorar la salud del corazón, niveles más saludables de azúcar en la sangre y un menor riesgo de ciertas enfermedades crónicas. Además, la canela es una excelente fuente de vitaminas y minerales esenciales, incluido el manganeso, el hierro y el calcio. ¡Esta especia versátil se puede usar para añadir sabor a los alimentos e incluso puede ayudar con la pérdida de peso!",
+    "family": "Lauraceae",
+    "flower_color": "Blanco cremoso a amarillo pálido",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "India",
+      "Java",
+      "Península de Malasia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Acodo aéreo",
+      "Esquejes",
+      "Injerto",
+      "División",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Noviembre",
+      "Marzo",
+      "Abril",
+      "Noviembre",
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9374",
+        "type": "watering",
+        "description": "Para un crecimiento óptimo, las plantas de canela deben regarse profundamente 2 o 3 veces por semana. Utilice agua tibia para saturar el suelo de manera uniforme y riegue hasta que el agua drene por el fondo de la maceta. Deje que la capa superior de suelo se seque entre riegos y evite el exceso de riego: a las plantas de canela no les gusta el suelo húmedo. Revise el suelo de la planta regularmente para evaluar cuánta agua realmente necesita. Durante el verano puede necesitar regarse con mayor frecuencia, mientras que en invierno puede necesitar menos."
+      },
+      {
+        "id": "9375",
+        "type": "sunlight",
+        "description": "La cantidad y el momento de la luz solar que requiere una planta de canela (Cinnamomum verum) varía según las condiciones de crecimiento. Generalmente, las plantas de canela prefieren la luz solar completa, al menos 6 horas al día. Algunas especies de canela, como C. burmannii, C. loureiroi y C. dianniae pueden necesitar más de 8 horas de sol directo al día para prosperar. Cuando se cultivan en climas más fríos, las plantas de canela pueden necesitar más luz solar, pero en climas más cálidos, la cantidad de luz solar puede reducirse a 6 o 7 horas. Además, las plantas de canela pueden tolerar sombra parcial, pero es mejor que reciban luz solar directa la mayor parte del día."
+      },
+      {
+        "id": "9376",
+        "type": "pruning",
+        "description": "La canela (Cinnamomum verum) debe podarse dos veces al año, a principios de primavera y finales de otoño. La poda fomenta un nuevo crecimiento y reduce el tamaño de la planta. En la primavera temprana, pode ligeramente la planta para eliminar cualquier rama muerta o dañada y así favorecer el nuevo crecimiento. A finales de otoño, elimine cualquier rama dañada o débil que pueda haberse desarrollado durante la temporada de crecimiento. Además de estas 2 podas, también debería realizar recortes ligeros según sea necesario a lo largo de la temporada de crecimiento para dar forma a la planta y promover el flujo de aire. Asegúrese de desinfectar sus herramientas de poda entre usos para evitar la propagación de enfermedades o plagas."
+      }
+    ]
+  },
+  {
+    "id": "1887",
+    "scientific_name": [
+      "Citrus japonica 'Centennial Variegated'"
+    ],
+    "common_name": "kumquat",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Kumquat (Citrus japonica 'Centennial Variegated') es una especie de planta asombrosa que es tanto hermosa como beneficiosa. No solo tiene un sabor único - agrio pero dulce - sino que también tiene un hábito de crecimiento increíble, con follaje variegado impresionante. Este pequeño árbol cítrico produce flores blancas y fragantes y frutos coloridos que maduran en el invierno. Las ramas perennes del kumquat proporcionan interés durante todo el año en el jardín, mientras que sus frutos comestibles ofrecen una excelente fuente de vitaminas y minerales. El kumquat también es conocido por su legendaria resistencia, lo que lo convierte en una excelente opción para un huerto en casa. Realmente, el extraordinario kumquat merece un lugar en cualquier jardín.",
+    "family": "Rutaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "amarillo",
+      "naranja"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Invierno",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "blanco"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Capas de Aire",
+      "Propagación por Injerto",
+      "Esquejes",
+      "Propagación por Semillas",
+      "División"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9386",
+        "type": "watering",
+        "description": "El Kumquat (Citrus japonica 'Centennial Variegated') requiere riego frecuente pero ligero. La planta debe ser regada una vez por semana o cada dos semanas, dependiendo de la temporada y la temperatura. Durante el verano, o cuando las temperaturas suben, el kumquat debe ser regado más regularmente. En invierno, o cuando las temperaturas bajan, el kumquat debe ser regado con menos frecuencia. El suelo debe mantenerse húmedo pero no empapado. Se debe probar la humedad insertando un dedo en el suelo y sintiendo el nivel de humedad. Un riego profundo una vez al mes puede ser útil para evitar que el suelo se seque. Evite el exceso de riego, ya que esto puede causar pudrición de las raíces."
+      },
+      {
+        "id": "9387",
+        "type": "sunlight",
+        "description": "Las plantas de Kumquat (Citrus japonica 'Centennial Variegated') necesitan abundante luz solar para crecer y dar frutos. Idealmente, deben colocarse en un lugar que reciba pleno sol durante al menos 6 a 8 horas al día, especialmente durante la primavera y el verano. También necesitan algo de sombra por la tarde, ya que la luz solar intensa puede dañar las hojas. Se debe evitar la exposición a vientos fuertes, ya que puede causar quemaduras en el follaje. En invierno, pueden requerir alguna protección contra el frío excesivo y heladas prolongadas."
+      },
+      {
+        "id": "9388",
+        "type": "pruning",
+        "description": "El Kumquat (Citrus japonica 'Centennial Variegated') debe ser podado 2-3 veces al año, preferiblemente durante el final de la primavera y mediados del verano. También se debe podar ligeramente la planta durante el otoño para mantener la forma deseada y prolífica. Al podar, recorte solo ramas locales, muertas y/o enfermas, evitando podar demasiado la estructura principal de la planta. Podar el kumquat ayudará a reducir el estrés en la planta, mejorar la circulación del aire, fomentar un nuevo crecimiento y también ayudar a mantener la forma deseada de la planta. Para obtener mejores resultados, pode el kumquat con tijeras de podar afiladas y estériles."
+      }
+    ]
+  },
+  {
+    "id": "1886",
+    "scientific_name": [
+      "Citrus hystrix"
+    ],
+    "common_name": "Lima Thai",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La lima Thai (Citrus hystrix) es una especie vegetal fascinante debido a su fragancia y sabor únicos y atractivos. Tiene un sabor ácido y picante, similar al limón pero distintivamente más especiado que los limones comunes. Las limas Thai se utilizan ampliamente en la cocina del sudeste asiático para añadir sabor y armonía a los platos. Las hojas también se utilizan para hacer un agente saborizante distintivo, conocido como hoja de lima makrut. Es una excelente adición a cócteles, como margaritas y mojitos, así como a aderezos y salsas. Además, la lima Thai es altamente nutritiva, ya que contiene una buena cantidad de vitamina C, fibra dietética y otros minerales y vitaminas esenciales.",
+    "family": "Rutaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "amarillo",
+      "naranja",
+      "marrón"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Verano",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Sudeste Asiático"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Acodo aéreo",
+      "Injerto",
+      "Esqueje",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9383",
+        "type": "watering",
+        "description": "La lima Thai es un árbol cítrico tropical que requiere un riego moderado. Debe regarse a fondo una vez a la semana, permitiendo que el suelo se seque entre riegos. Durante períodos de calor extremo, puede necesitar riego más frecuente. El agua debe aplicarse en la base del árbol y evitar mojar las hojas y el fruto. Durante la temporada de crecimiento, puede ser necesario añadir fertilizante y agua adicionales. Un remojo profundo ocasional puede ser beneficioso si el suelo está seco durante períodos prolongados. Evite un riego excesivo o insuficiente de su árbol de lima Thai, ya que esto puede dañarlo o matarlo."
+      },
+      {
+        "id": "9384",
+        "type": "sunlight",
+        "description": "Las plantas de lima Thai necesitan mucho sol pleno cada día para crecer y producir frutos. Deben recibir al menos 6-8 horas de luz solar diaria, prefiriéndose la luz solar directa la mayor parte del día. Colocar la planta en un área con luz solar tamizada o filtrada no es ideal, ya que la planta será privada del fuerte sol directo que necesita. Idealmente, la lima Thai debería situarse en un jardín orientado al sur para obtener máxima exposición al sol. La luz solar de la mañana es particularmente beneficiosa, ya que ayuda a la planta a calentarse más temprano en el día, disipando el rocío frío."
+      },
+      {
+        "id": "9385",
+        "type": "pruning",
+        "description": "Para asegurar el crecimiento saludable de las plantas de lima Thai (Citrus hystrix), es necesaria una poda regular. La poda debe realizarse en primavera, una vez que el árbol haya terminado de florecer. Durante la poda, el objetivo es mantener la forma general del árbol compacta y abierta, enfocándose en remover ramas incorrectas o débiles que se cruzan o frotan contra otras ramas. Además, se deben eliminar los brotes que crecen hacia arriba o hacia afuera para ayudar a fomentar las ramas laterales en el dosel. Finalmente, debe realizarse un adelgazamiento de las ramas internas si muestran signos de hacinamiento. La lima Thai puede tolerar una poda más rigurosa que otras especies de cítricos y se recuperará rápidamente después de la poda."
+      }
+    ]
+  },
+  {
+    "id": "1889",
+    "scientific_name": [
+      "Citrus maxima"
+    ],
+    "common_name": "pomelo",
+    "attracts": [],
+    "care_level": "/",
+    "description": "El pomelo (Citrus maxima) es una variedad de cítricos única e impresionante. Es el más grande de todos los frutos cítricos y generalmente pesa hasta 2 kilogramos. La fruta tiene una corteza gruesa que protege su pulpa jugosa y aromática. El sabor dulce y ácido es refrescante y suave, lo que lo convierte en un excelente tentempié para cualquier ocasión. Su bajo contenido calórico lo hace ideal para agregar a batidos y ensaladas. Está cargado de vitaminas esenciales, minerales y fibra dietética, lo que puede ayudar a promover la pérdida de peso y la salud en general. ¡Sus beneficios para la salud hacen del pomelo una opción de fruta increíble para disfrutar todo el año!",
+    "family": "Rutaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "/",
+    "fruit_color": [
+      "verde",
+      "amarillo",
+      "rosado"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "Invierno",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Polinesia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Acodo aéreo",
+      "Injerto",
+      "Esquejes",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "3118",
+        "type": "watering",
+        "description": "Las plantas de pomelo (Citrus maxima) requieren un suelo húmedo pero bien drenado para prosperar. Generalmente necesitan ser regadas semanalmente, cada 7 días, para asegurar que el sistema radicular se mantenga adecuadamente hidratado. La cantidad de agua que debe aplicarse debe ser suficiente para humedecer bien el suelo hasta una profundidad de al menos 2.5 a 5 cm, ya sea con una regadera o una manguera de jardín. Si la lluvia ha sido adecuada durante la semana, puede que no se necesite riego adicional."
+      },
+      {
+        "id": "3126",
+        "type": "sunlight",
+        "description": "El pomelo (Citrus maxima) es una especie subtropical que necesita un mínimo de 6 horas de luz solar directa cada día para florecer. El mejor momento para exponer la planta a la luz solar directa es en las horas de la mañana y la tarde cuando el sol está bajo en el cielo y la intensidad de la luz es menor."
+      },
+      {
+        "id": "3134",
+        "type": "pruning",
+        "description": "El pomelo (Citrus maxima) debe podarse solo ligeramente de 1 a 3 veces durante la temporada de crecimiento. La poda generalmente debe realizarse desde finales del invierno hasta principios de la primavera, ya que es la época del año en que la planta menos necesita sus hojas para la fotosíntesis. Es importante asegurarse de no eliminar demasiada follaje, ya que esto puede debilitar seriamente la planta. La poda debe centrarse en eliminar cualquier rama torcida o débil, así como cualquier follaje que no reciba luz solar directa. Las ramas que se han vuelto demasiado grandes también deben recortarse a un tamaño más manejable. Se recomienda podar lentamente y de manera constante durante todo el año para mantener una forma saludable y equilibrada."
+      }
+    ]
+  },
+  {
+    "id": "1902",
+    "scientific_name": [
+      "Clematis 'Andromeda'"
+    ],
+    "common_name": "clemátide",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La clemátide 'Andromeda' es una especie de planta increíble que es perfecta para cualquier jardín. Presenta flores impresionantes pintadas en un tono rosa profundo con delicados bordes blancos. También tiene un atractivo follaje verde claro y tallos fuertes como de vid que permiten trepar con facilidad. Sus flores florecen a mediados del verano y el período de floración puede extenderse hasta el otoño. Además, esta variedad de clemátide es altamente resistente a los patógenos comunes del jardín y plagas. Es una planta de bajo mantenimiento, que requiere solo poda ocasional y fertilización mínima. Con sus flores vibrantes, follaje impresionante y naturaleza resistente, la clemátide 'Andromeda' es la adición perfecta a cualquier espacio.",
+    "family": "Ranunculaceae",
+    "flower_color": "Blanco con franjas de tépalos rosa",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esquejes",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "9410",
+        "type": "watering",
+        "description": "Para la clemátide 'Andromeda', es mejor regar completamente y profundamente una vez a la semana durante la temporada de crecimiento. El agua tiene que llegar a las raíces, así que aplique el agua lentamente y durante un tiempo prolongado. Riegue por la mañana para evitar el moho y otros hongos, y riegue en la base de la planta para reducir la humedad en las hojas y, por lo tanto, el riesgo de enfermedades. En clima extremadamente caluroso, o si la planta muestra signos de marchitamiento, agregue agua con más frecuencia. En invierno, riegue solo cuando sea necesario y proporcione suficiente agua para que las raíces no se sequen ni se congelen."
+      },
+      {
+        "id": "9411",
+        "type": "sunlight",
+        "description": "La clemátide 'Andromeda' es una vid amante del sol que debe recibir abundante luz solar para alcanzar su máximo potencial. Idealmente, esta planta debería recibir de 6 a 8 horas de luz solar directa cada día, aunque puede tolerar algo de sombra parcial. Debe colocarse en un área donde reciba la mayor parte de su luz solar antes del mediodía, dado que demasiada luz solar intensa por la tarde puede quemar su follaje sensible. Esta especie de clemátide es una gran consumidora y puede necesitar fertilización adicional una vez que se haya establecido bien en su entorno."
+      },
+      {
+        "id": "9412",
+        "type": "pruning",
+        "description": "El mejor momento para podar una clemátide 'Andromeda' es a principios de primavera, justo después de que termine la floración. Pode ligeramente, retirando solo los tallos muertos o enfermos y recortando los tallos demasiado crecidos hasta un brote saludable. Evite podar más allá de los brotes saludables, ya que esto puede dañar el ciclo de floración de la planta. No pode más de un tercio del crecimiento a la vez, ya que esto también puede causar daño. La poda de la clemátide 'Andromeda' requiere paciencia y precisión, ya que es fácil dañar las flores y ralentizar el crecimiento de la planta."
+      }
+    ]
+  },
+  {
+    "id": "1905",
+    "scientific_name": [
+      "Clematis 'Betty Corning'"
+    ],
+    "common_name": "clematis",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Clematis 'Betty Corning' es una sorprendente especie de enredadera con flores. Tiene delicadas y hermosas flores de color crema con un centro amarillo oscuro. Las encantadoras flores aparecen en una sola oleada a mediados de la primavera y están adornadas con un matiz plateado de color violeta. Esta clematis también presenta un follaje verde oscuro y exuberante con formas lobuladas atractivas, que permanecen hasta las heladas del otoño. Es una excelente opción para pérgolas o enrejados, donde rápidamente creará una imponente y majestuosa pared de flores. Esta especie también es altamente tolerante a condiciones adversas, lo que la convierte en una excelente opción para cualquier jardín.",
+    "family": "Ranunculaceae",
+    "flower_color": "Lila pálido",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9419",
+        "type": "watering",
+        "description": "La clematis (Clematis 'Betty Corning') debe regarse profundamente una vez a la semana durante la temporada de crecimiento. Empape bien el suelo para que el agua penetre a una profundidad de 15 - 20 centímetros. Una vez establecida, la clematis debería soportar períodos cortos de sequía. Durante períodos de sequía anormales, riegue profundamente cada 5 - 7 días. Regar más frecuentemente y de manera superficial no logrará el empapado profundo necesario para fomentar un sistema de raíces saludable y robusto. Evite el riego desde arriba si es posible, ya que el follaje húmedo puede ser propenso a enfermedades, y tenga cuidado de no mojar los nuevos brotes al regar. Durante el invierno, cuando la planta está en reposo, reduzca el riego a una vez cada 2 - 3 semanas."
+      },
+      {
+        "id": "9420",
+        "type": "sunlight",
+        "description": "Las plantas Clematis 'Betty Corning' deben recibir luz solar directa al menos 4 a 6 horas al día. Durante los meses especialmente calurosos del verano, es mejor proporcionar algo de protección solar, como sombra ligera, durante las horas del mediodía. Esto ayudará a la planta a mantener su follaje colorido y que las flores florezcan más libremente. Es importante regar esta planta lo suficientemente profundamente para que todo el sistema radicular reciba la hidratación adecuada, y luego dejar que las primeras 5 cm del suelo se sequen antes de volver a regar."
+      },
+      {
+        "id": "9421",
+        "type": "pruning",
+        "description": "En general, la poda de Clematis 'Betty Corning' debe realizarse a fines del invierno, justo antes de que comience cualquier nuevo crecimiento. La poda debe hacerse con moderación, eliminando de un tercio a la mitad de cada tallo hasta un brote o nudo. Asegúrese de eliminar cualquier tallo muerto, dañado o enfermo. Además, si la planta es un híbrido, pode para darle forma y mejorar la circulación de aire. Esto ayudará a reducir problemas con pulgones y otras plagas. Evite podar las ramas florales, ya que esto reducirá el número de flores que obtenga."
+      }
+    ]
+  },
+  {
+    "id": "1907",
+    "scientific_name": [
+      "Clematis 'Comtesse de Bouchaud'"
+    ],
+    "common_name": "clemátide",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Clemátide ‘Comtesse de Bouchaud’ es una increíble enredadera leñosa que se retuerce con grandes flores de un vibrante color azul lavanda. Produce una abundancia de flores durante toda la temporada de crecimiento que atraen mariposas y abejas. El atractivofollaje dentado de color verde oscuro y el suave aroma a almendra dulce de las flores acentúan su belleza ornamental. Este espectacularbejuco caducifolio es fácil de cuidar y se puede podar y entrenar fácilmente para adornar tu hogar o jardín. Su hábito de crecimiento vigoroso lo convierte en una opción ideal para cubrir cercas o enrejados con su majestuosa belleza. La Clemátide ‘Comtesse de Bouchaud’ es realmente una planta asombrosa que seguramente añadirá colores y aromas impresionantes a tu jardín.",
+    "family": "Ranunculaceae",
+    "flower_color": "Rosa rosado",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Francia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esquejes",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Febrero",
+      "Marzo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Julio",
+      "Agosto",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9425",
+        "type": "watering",
+        "description": "Esta especie particular de clemátide (Clematis 'Comtesse de Bouchaud') debe regarse a fondo una vez por semana durante su temporada de floración. Después de que las flores se hayan desvanecido, reduzca la cantidad de riego a unas 3 o 4 veces por mes. Durante la temporada no-floreciente, debe regarse solo cuando el suelo tenga la oportunidad de secarse. No se debe permitir que se seque completamente. La mejor manera de regar esta clemátide es darle un riego profundo de alrededor de una o dos pulgadas de agua por semana. Asegúrese de regar el suelo y no el follaje, ya que esta especie de clemátide es susceptible a problemas fúngicos y el agua en las hojas puede causar que se infecten. Mantenga el suelo uniformemente húmedo pero no encharcado en todo momento."
+      },
+      {
+        "id": "9426",
+        "type": "sunlight",
+        "description": "Clematis 'Comtesse de Bouchaud' rinde mejor con 6-8 horas de pleno sol durante la mañana y sombra filtrada por la tarde. Cuando sea posible, debe plantarse en un lugar que reciba el sol de la mañana, pero sombree hacia media tarde. Esto ayudará a evitar el sobrecalentamiento del follaje, lo que puede dañar o matar la planta. Además, si el área donde se planta la clemátide es particularmente ventosa, puede ser necesario algo de protección adicional para reducir el estrés del viento, como una cerca o un seto."
+      },
+      {
+        "id": "9427",
+        "type": "pruning",
+        "description": "La Clematis 'Comtesse de Bouchaud' debe podarse dos veces al año para mantener su mejor apariencia y promover un nuevo crecimiento saludable. La poda debe realizarse a finales del invierno (febrero a marzo) y nuevamente a mediados del verano (julio a agosto).\n\nA fines del invierno, pode la planta a unos 60 cm del suelo. Esto eliminará cualquier tallo muerto o enfermo y fomentará un nuevo y fuerte crecimiento en la primavera.\n\nA mediados del verano, después de que el crecimiento inicial esté completo, pode los tallos que están produciendo flores. Corte de nuevo a solo 2 o 3 yemas del tallo principal. Esto evitará que la planta se vuelva demasiado crecida y asegurará más flores hermosas a finales del verano y principios de otoño.\n\nEn general, es importante no sobrepoder los clemátides, ya que esto puede dañar gravemente la planta y evitar que florezca. La poda también debe hacerse con precaución para evitar dañar los tallos."
+      }
+    ]
+  },
+  {
+    "id": "1911",
+    "scientific_name": [
+      "Clematis durandii"
+    ],
+    "common_name": "clemátide",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Clemátide Durandii es una especie asombrosa de enredadera trepadora. Tiene una belleza inconfundible, con grandes flores de lavanda con matices blancos que florecen desde la primavera hasta el verano. Las flores duran hasta 12 semanas al año, añadiendo un elegante, perfumado y colorido toque a los jardines. Es una variedad de Clemátide con un aroma intenso ideal para añadir fragancia e interés a los espacios exteriores, y se puede entrenar para crecer por las paredes y a lo largo de enrejados. Además, es increíblemente resistente, lo que la convierte en la elección perfecta para jardines en la mayoría de los climas.",
+    "family": "Ranunculaceae",
+    "flower_color": "Púrpura azulado con estambres cremosos",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "De origen en jardines"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esquejes",
+      "División",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9437",
+        "type": "watering",
+        "description": "La Clemátide durandii debe regarse regularmente durante la temporada de crecimiento. Riegue la planta profundamente al menos una vez a la semana, proporcionando de 2.5 a 5 cm de agua. Para asegurarse de que llegue una cantidad adecuada de agua a las raíces, apunte a saturar el suelo de 20 a 25 cm de profundidad. \n\nAsegúrese de evitar el encharcamiento, ya que esto puede causar un exceso de pudrición del tallo y las raíces. Durante las olas de calor extremas, puede requerir agua adicional para su óptima salud. Riegue la planta con más frecuencia si las condiciones secas persisten. En los meses de invierno, cuando la planta está inactiva, el riego se puede reducir a una vez cada 2 semanas."
+      },
+      {
+        "id": "9438",
+        "type": "sunlight",
+        "description": "La Clemátide durandii, conocida comúnmente como la clemátide del albañil, necesita 6-7 horas de luz solar directa para crecer y florecer. Para estar en óptima salud, debe recibir al menos 4 horas de luz solar cada día, con 2 a 3 horas de sol directo y el resto del día en la mañana y tarde o en luz filtrada. Sin embargo, si se coloca en un lugar muy soleado, debe aclimatarse a la luz proporcionando sombra parcial durante unos días, ya que demasiada luz solar directa puede dañarla. Esta especie prefiere pleno sol a sombra parcial, con algo de sombra por la tarde en áreas con intenso sol veraniego. Las temperaturas no deben bajar de 7 grados Celsius para que crezca adecuadamente, por lo que debe ser protegida durante las estaciones frías."
+      },
+      {
+        "id": "9439",
+        "type": "pruning",
+        "description": "La Clemátide (Clematis durandii) debe podarse dos veces al año para un crecimiento y salud óptimos. Durante la primera poda a principios de primavera, elimine cualquier tallo muerto, dañado o débil. Recorte los otros tallos hasta una longitud de 45-60 cm o a la forma deseada. Si lo desea, deje de 4 a 6 brotes en el extremo de cada tallo. Durante la segunda poda a finales del verano, reduzca la longitud de cada tallo en un tercio o hasta la forma deseada. Esta poda fomenta una floración más vigorosa en la próxima temporada. Si lo desea, deje de 3 a 4 brotes en el extremo de cada tallo."
+      }
+    ]
+  },
+  {
+    "id": "1917",
+    "scientific_name": [
+      "Clematis 'Evipo032' GALORE"
+    ],
+    "common_name": "clematis",
+    "attracts": [
+      "Colibríes"
+    ],
+    "care_level": "Medio",
+    "description": "Clematis 'Evipo032' GALORE es una especie de planta impresionante. Con sus hermosas flores en forma de campana, de color blanco puro y venas púrpura vibrantes, proporciona un espectáculo llamativo en cualquier jardín. No solo es visualmente impactante, sino que es fácil de cultivar y requiere un mantenimiento mínimo. Su temporada de floración se extiende desde mediados de verano hasta el otoño, y muestra una mayor resistencia a las enfermedades comunes de la clemátide. Sus cabezas de semillas decorativas también añaden un toque glamuroso adicional que destaca en el jardín. ¡Clematis 'Evipo032' GALORE es definitivamente una adición deslumbrante y sin necesidad de mantenimiento a cualquier jardín!",
+    "family": "Ranunculaceae",
+    "flower_color": "Púrpura oscuro con anteras amarillas",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Rápido",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Polonia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9455",
+        "type": "watering",
+        "description": "Clematis (Clematis 'Evipo032' GALORE) debe ser regada profunda y regularmente durante la temporada de crecimiento, desde la primavera hasta el otoño. Riegue lentamente y completamente hasta que el suelo esté completamente saturado y el agua comience a salir por el fondo de la maceta. No permita que el suelo se seque demasiado o se sature en exceso. Durante los meses más cálidos, riegue de 2 a 3 veces a la semana y una vez a la semana en los meses más frescos. Apunte a aproximadamente de 2.5 a 3.8 centímetros de agua por semana, dependiendo del tipo de suelo y la cantidad de sol que reciba la planta. Además, si las temperaturas superan los 27°C en verano, riegue la planta todos los días."
+      },
+      {
+        "id": "9456",
+        "type": "sunlight",
+        "description": "Las plantas de Clematis 'Evipo032' GALORE requieren al menos de 4 a 5 horas de luz solar directa cada día. La luz solar de la mañana y la tarde, o la luz solar indirecta durante el día, es necesaria para asegurar abundantes flores durante los meses de verano. Esta especie particular de Clematis es un arbusto trepador, que es especialmente sensible al ángulo del sol. Como tal, el área donde está plantada debe tener fácil acceso a la luz solar directa de la mañana y la tarde para que las enredaderas se extiendan y aseguren a una estructura vertical. En general, para una mejor floración y crecimiento, plántelo en un área que reciba pleno sol hasta media tarde, cuando el sol se dirige hacia el oeste."
+      },
+      {
+        "id": "9457",
+        "type": "pruning",
+        "description": "Clematis 'Evipo032' GALORE debe podarse a finales del invierno o principios de la primavera tan pronto como haya pasado el peligro de heladas y haya terminado la estación de reposo. La poda debe ser mínima y enfocarse principalmente en remover madera muerta, enferma o dañada. Esto fomentará un nuevo crecimiento fuerte y floración. Los cortes deben hacerse justo por encima del brote de la hoja, removiendo alrededor de 1/3 a 2/3 de los tallos. Permitir que la planta se vuelva muy tupida puede limitar la floración, por lo que es importante podarla regularmente."
+      }
+    ]
+  },
+  {
+    "id": "1916",
+    "scientific_name": [
+      "Clematis 'Evipo030' BIJOU"
+    ],
+    "common_name": "clemátide",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Clematis 'Evipo030' BIJOU es una majestuosa enredadera con impresionantes flores. Es una trepadora de bajo mantenimiento que ofrece una de las mejores y más continuas exhibiciones de flores vivas en el jardín. Esta encantadora enredadera perenne ofrece una exhibición increíble de flores blancas desde finales de primavera hasta principios de verano que cambian a un profundo rosa, y además ofrece un elegante despliegue de capullos de azul intenso que se abren mostrando un horizonte de resplandeciente azul celeste. Esta vigorosa enredadera es imprescindible para jardineros que buscan dar a su paisaje un telón de fondo espectacular de color durante todo el año y una fragancia embriagadora.",
+    "family": "Ranunculaceae",
+    "flower_color": "Violeta",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "República Checa"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esquejes",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "febrero",
+      "febrero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9452",
+        "type": "watering",
+        "description": "Esta Clematis 'Evipo030' BIJOU en particular debe regarse profundamente pero con poca frecuencia. Intenta regar tu clematis dos veces por semana durante la temporada de crecimiento, cuando el clima es caluroso y seco y/o si la planta muestra signos de marchitamiento. Evita riegos superficiales frecuentes, ya que pueden provocar la pudrición de las raíces y alentar a la planta a producir más hojas de las que puede sostener. Asegúrate de verificar el suelo; si está seco aproximadamente 10 cm por debajo de la superficie, entonces es momento de regar. En los meses más cálidos, puede que necesites aumentar la frecuencia de riego. En invierno, deberás disminuir la frecuencia y solo regar si el suelo está seco."
+      },
+      {
+        "id": "9453",
+        "type": "sunlight",
+        "description": "Las plantas de Clematis 'Evipo030' BIJOU prosperan mejor cuando reciben de 4 a 6 horas de luz solar al día. Es importante prestar atención a la cantidad de luz solar directa que recibe la planta durante el día, ya que puede quemarse fácilmente con la fuerte luz de la tarde. La luz de la mañana es la mejor ya que fomenta una floración más temprana. Durante los meses de verano, puede ser beneficioso proporcionar algo de sombra ligera a la planta por la tarde para evitar que las hojas se quemen."
+      },
+      {
+        "id": "9454",
+        "type": "pruning",
+        "description": "La Clematis 'Evipo030' BIJOU debe podarse dos veces al año: una vez a finales de invierno y otra a mitad de verano.\n\nA finales de invierno, cuando la planta está inactiva, poda cualquier tallo muerto, dañado o enfermo. Deja alrededor de 6 de los tallos más fuertes y saludables y recórtalos a unos 30 cm (12 pulgadas).\n\nA mediados de verano, poda cualquier tallo que se haya enfriado, esté larguirucho, tenga un hábito de enredadera demasiado fuerte o esté atrofiado. Esto se puede hacer a una altura de alrededor de 30 cm (12 pulgadas) también. Siempre asegúrate de podar por encima de brotes saludables para garantizar más flores nuevas."
+      }
+    ]
+  },
+  {
+    "id": "1919",
+    "scientific_name": [
+      "Clematis 'Fair Rosamond'"
+    ],
+    "common_name": "clemátide",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Clematis 'Fair Rosamond' es una especie de planta increíble debido a la variedad de sus grandes flores, que pueden variar desde un delicado rosa pálido hasta un profundo y regio púrpura. No solo eso, sino que sus pétalos de forma clásica y su follaje son un recordatorio de un mundo de cuento de hadas, lo que convierte a esta variedad de clemátide en una adición encantadora a cualquier jardín. Es perfecta para trepar paredes, enrejados u otras estructuras, y creará una exhibición vibrante y duradera de belleza. Plántala a pleno sol y disfruta viéndola florecer durante todo el año.",
+    "family": "Ranunculáceas",
+    "flower_color": "Blanco con barras rojas y estambres morados",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Reino Unido"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "junio",
+      "julio",
+      "agosto",
+      "febrero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9458",
+        "type": "watering",
+        "description": "Al regar su planta Clematis 'Fair Rosamond', es importante proporcionar un riego regular y profundo durante la temporada de crecimiento. Riegue bien una vez a la semana, permitiendo que el agua empape toda la zona de las raíces. Asegúrese de regar temprano en el día y evite mojar el follaje. Durante el clima cálido, riegue con más frecuencia si el suelo comienza a secarse. Deje que el suelo se seque hasta una profundidad de 2.5 cm antes de volver a regar. Tenga cuidado de no regar en exceso, ya que esto puede causar la pudrición de las raíces y otros problemas."
+      },
+      {
+        "id": "9459",
+        "type": "sunlight",
+        "description": "La Clematis 'Fair Rosamond' prefiere condiciones soleadas y bien drenadas, con temperaturas moderadas. Crece mejor cuando está expuesta a pleno sol (al menos 6 horas de luz solar al día) durante su temporada de floración en primavera tardía y principios de verano. El sol matutino y la sombra ligera por la tarde son ideales. Demasiado sol puede hacer que las flores se desvanezcan rápidamente, por lo que es importante protegerlas del intenso sol de la tarde. En climas más fríos, las ubicaciones soleadas con sombra parcial son ideales."
+      },
+      {
+        "id": "9460",
+        "type": "pruning",
+        "description": "La Clematis 'Fair Rosamond' debe podarse dos veces al año para asegurar su salud y forma óptimas. La primera poda debe realizarse después de la floración en verano, cuando se han eliminado las flores viejas y solo quedan unos pocos brotes. Quite alrededor de un tercio de los tallos, acortándolos hasta un par de brotes fuertes. La segunda poda debe hacerse a finales del invierno, cuando los brotes están empezando a aparecer. Elimine cualquier crecimiento muerto o dañado, y reduzca la longitud de cualquier brote a la mitad. Esto promoverá un crecimiento joven y saludable, y fomentará una abundante floración más adelante en la temporada."
+      }
+    ]
+  },
+  {
+    "id": "1921",
+    "scientific_name": [
+      "Clematis florida var. sieboldiana"
+    ],
+    "common_name": "Clemátide",
+    "attracts": [
+      "colibríes",
+      "mariposas"
+    ],
+    "care_level": "Media",
+    "description": "La Clemátide florida var. sieboldiana es una enredadera increíblemente hermosa. Produce un follaje frondoso y una abundancia de flores blancas en forma de estrella de gran belleza. Florece dos veces en una temporada, primero en primavera y nuevamente en otoño. Prosperando al sol, es una excelente adición a jardines y diseños paisajísticos. Sorprendentemente resistente, puede tolerar algunas condiciones climáticas adversas. Sus flores atraen colibríes y mariposas, añadiendo belleza a cualquier entorno. Es de fácil cuidado y puede convertirse en una adición apreciada para cualquier hogar.",
+    "family": "Ranunculaceae",
+    "flower_color": "Blanco con centro morado",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "China",
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esquejes",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Marzo",
+      "Abril",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "9461",
+        "type": "watering",
+        "description": "La Clemátide (Clematis florida var. sieboldiana) debe ser regada profundamente una vez por semana, preferiblemente en la mañana o a primera hora de la noche. El riego debe realizarse hasta que se observe humedad constante a 1-2 pulgadas de profundidad en el suelo. Durante los períodos de clima caluroso de verano o condiciones secas, su clemátide probablemente requerirá riegos más frecuentes. Asegúrese de que el suelo nunca esté demasiado empapado, ya que esto puede llevar a la pudrición de las raíces."
+      },
+      {
+        "id": "9462",
+        "type": "sunlight",
+        "description": "La Clemátide (Clematis florida var. sieboldiana) es una enredadera de rápido crecimiento que ama el sol. Se recomienda cultivarla en pleno sol (al menos 6 horas de luz solar directa cada día) para lograr un crecimiento y floración óptimos. Cuando recibe suficiente luz solar, esta planta florecerá desde finales de primavera hasta principios de otoño. En sombra parcial, las flores pueden no ser tan completas o la temporada de floración puede acortarse. Esta planta requiere abundante luz solar y alcanzará su altura y extensión completas en una ubicación soleada."
+      },
+      {
+        "id": "9463",
+        "type": "pruning",
+        "description": "La poda de la clemátide (Clematis florida var. sieboldiana) es importante para su salud y para producir flores robustas. La cantidad y el momento de la poda dependen de cuándo florece. Esta variedad en particular florece en madera vieja desde finales de primavera hasta principios de verano y puede podarse ligeramente a principios de primavera. Retire cualquier tallo muerto, enfermo o dañado. No pode más tarde del final de julio porque esto eliminará los brotes de flores. Al podar, corte los tallos hasta brotes saludables, nudos de hojas o justo por encima del nivel del suelo si no hay brotes saludables. Retire cualquier rama que pueda estar cruzando y aclare la planta para crear flujo de aire y reducir el potencial de enfermedades. Finalmente, fertilice la planta para promover nuevos follajes y flores."
+      }
+    ]
+  },
+  {
+    "id": "1929",
+    "scientific_name": [
+      "Clematis heracleifolia"
+    ],
+    "common_name": "clemátide",
+    "attracts": [
+      "mariposas",
+      "colibríes"
+    ],
+    "care_level": "Bajo",
+    "description": "¡La Clematis heracleifolia es una especie de planta increíble! Originaria de partes de Mongolia y el norte de China, es una enredadera perenne con hojas delicadas y tallos trepadores que pueden alcanzar una longitud de 3 a 6 metros. Esta planta resistente también es fácil de cultivar en lugares soleados, y sus brillantes y delicadas flores azul-púrpura la convierten en una joya en cualquier jardín. Las flores fuertes y perfumadas también atraen mariposas y colibríes. Altamente tolerante a la sal y la sequía, es una opción ideal para áreas costeras o jardines con suelo pobre. Además, se puede utilizar en muchos contenedores como planta colgante, añadiendo belleza y encanto al hogar. En definitiva, la Clematis heracleifolia es una planta fácil, hermosa y duradera, lo que la convierte en una excelente adición a cualquier jardín.",
+    "family": "Ranunculáceas",
+    "flower_color": "Azul",
+    "flowering_season": "Primavera-verano",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "No aplica",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "China",
+      "Corea"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Pulgones",
+      "Ácaros",
+      "Caracoles"
+    ],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "Propagación por capas",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre",
+      "Diciembre"
+    ],
+    "soil": [
+      "Suelo bien drenado",
+      "Arenoso",
+      "Arcilloso"
+    ],
+    "watering_period": "noche",
+    "care_guides_details": [
+      {
+        "id": "9482",
+        "type": "watering",
+        "description": "Riega abundantemente la clemátide (Clematis heracleifolia) de forma regular para mantener su follaje en buen estado. Generalmente, las plantas deberían regarse aproximadamente de 1 a 2 veces por semana, aunque esto puede variar dependiendo del clima y las condiciones del suelo. Riega temprano en el día para que la planta pueda absorber el agua y secarse antes de la noche. Evita el riego por encima, ya que puede causar enfermedades fúngicas y reducir las flores. Al regar a nivel del suelo, usa suficiente agua para humedecer el suelo a una profundidad de 15-20 cm. Durante el pico del verano, especialmente en climas calurosos y secos, puede ser necesario regar con más frecuencia."
+      },
+      {
+        "id": "9483",
+        "type": "sunlight",
+        "description": "La Clematis heracleifolia, que prefiere el pleno sol, debe recibir alrededor de 5-6 horas de luz solar directa cada día para un crecimiento y floración óptimos. Esto debe ocurrir por la mañana o al final de la tarde, cuando la luz es menos directa y las temperaturas son más frescas. Evita ubicarlas en áreas de sol del mediodía, ya que esto puede secar las hojas. Además, asegúrate de que la planta no esté en una zona con vientos fuertes, ya que esto podría dañar las hojas y las flores. Al plantar, asegúrate de darle a las raíces una cantidad generosa de suelo para anclarla firmemente en su lugar y proporcionar humedad y nutrientes. Se recomienda el uso de mulch para ayudar a retener la humedad del suelo durante los largos días soleados."
+      },
+      {
+        "id": "9484",
+        "type": "pruning",
+        "description": "Al podar la clemátide (Clematis heracleifolia), la cantidad y frecuencia de la poda depende de la variedad de clemátide y del efecto de floración deseado. La poda de esta especie debe llevarse a cabo entre finales de invierno y principios de primavera, antes de que la planta comience a crecer de nuevo. En general, se recomiendan de 2-3 a 4-5 podas a lo largo de la temporada de crecimiento. \n\nLa primera poda de la temporada debería apuntar a eliminar los tallos dañados por el invierno y dar forma ligera a la planta. Retira cualquier tallo que se cruce sobre otros para evitar roturas de tallos debido al enredo. Poda los tallos hasta llegar a un par de yemas en cada uno.\n\nA lo largo de la temporada de crecimiento, si la planta se ha vuelto demasiado grande, poda los tallos al tamaño y forma deseados. La eliminación de tallos viejos puede ayudar a promover un nuevo crecimiento saludable, con más flores cerca del centro de la planta.\n\nLa última poda de la temporada debería tener lugar poco después de que la planta haya terminado de florecer. Poda los tallos al tamaño deseado y corta los tallos débiles o delgados, así como aquellos que se hayan vuelto significativamente crecidos, para mantener una forma atractiva y equilibrada.\n\nEs importante evitar la poda severa de la Clematis heracleifolia, ya que esto puede reducir la floración. Como regla general, si puedes contar más de 10 o 12 yemas en un tallo, elimina solo la mitad superior. Esto reducirá el crecimiento general pero podría ser necesario para mantener el aspecto deseado de la planta."
+      }
+    ]
+  },
+  {
+    "id": "1930",
+    "scientific_name": [
+      "Clematis integrifolia"
+    ],
+    "common_name": "clemátide solitaria",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La clemátide solitaria (Clematis integrifolia) es una planta impresionante que deleitará cualquier jardín. Es una trepadora de rápido crecimiento que produce hermosas flores en forma de estrella de color azul claro, aportando un toque de color a cualquier espacio exterior. La planta es perenne y, a diferencia de otras variedades de clemátides, no requiere poda. Es increíblemente resistente y se adapta a cualquier condición de crecimiento, desde pleno sol hasta áreas sombrías. Con sus bajos requisitos de mantenimiento, esta planta es la adición perfecta a cualquier jardín. Un arbusto trepador verdaderamente asombroso y fácil de cuidar.",
+    "family": "Ranunculaceae",
+    "flower_color": "Azul",
+    "flowering_season": "",
+    "fruit_color": [
+      "azul",
+      "púrpura"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Asia",
+      "Europa"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "Propagación por acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9485",
+        "type": "watering",
+        "description": "La clemátide solitaria debe ser regada regularmente para fomentar un crecimiento saludable. Generalmente, estas plantas requieren alrededor de 1-2 pulgadas de agua cada semana, ya sea directamente de la lluvia o a mano. Durante los meses de verano, cuando las temperaturas suelen ser más altas, es importante verificar con frecuencia el suelo para asegurarse de que se mantenga húmedo pero no empapado. Si las temperaturas aumentan repentinamente, puede ser necesario regar las plantas con más frecuencia. El suelo nunca debe saturarse, ya que esto puede causar pudrición de la raíz. Además, es importante evitar el exceso de riego, ya que esto puede provocar otros problemas, como enfermedades fúngicas. Durante los meses de invierno, el riego debe reducirse considerablemente, ya que la planta estará inactiva. Sin embargo, el suelo debe revisarse cada pocas semanas y regarse ligeramente si es necesario."
+      },
+      {
+        "id": "9486",
+        "type": "sunlight",
+        "description": "La clemátide solitaria (Clematis integrifolia) requiere pleno sol a sombra parcial para un crecimiento, floración y vitalidad óptimos. Para obtener los mejores resultados, debe colocarse en un lugar soleado durante al menos 6 horas al día, aunque puede tolerar hasta 8 horas de sol directo durante el mediodía. Si la planta se coloca en sombra intensa, puede que no florezca en absoluto o solo produzca algunas flores. Por el contrario, si está expuesta al calor y al sol durante más de 8 horas, sus hojas comenzarán a marchitarse y quemarse. Por lo tanto, la cantidad ideal de luz solar para esta especie de clemátide es de entre 6 a 8 horas por día a mediados de primavera, durante el cual la planta será recompensada con hermosas flores azules."
+      },
+      {
+        "id": "9487",
+        "type": "pruning",
+        "description": "La clemátide solitaria debe ser podada a fines del invierno o principios de la primavera. Si se poda a finales de la primavera o en verano, no florecerá esa temporada. La poda debe ser relativamente mínima, eliminando solo la madera muerta y aclarando los brotes más densos. También ayuda a eliminar los tallos florales de la temporada anterior, ya que ya han producido sus flores. Poda selectivamente de 2 a 4 de los tallos más viejos en la base de la planta hasta el nivel del suelo cada dos años. Ten en cuenta que podar demasiado o demasiado agresivamente puede resultar en una pérdida de flores."
+      }
+    ]
+  },
+  {
+    "id": "1934",
+    "scientific_name": [
+      "Clematis 'Jackmanii Superba'"
+    ],
+    "common_name": "clemátide",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Clematis 'Jackmanii Superba' es una especie de planta increíble. Sus hermosas flores de un oscuro color púrpura crean un contraste perfecto contra sus hojas verdes brillantes, estambres centrales de color púrpura claro y blanco, y tallos largos y elegantes. Crece en una variedad de climas, desde pleno sol hasta sombra parcial. Florece generosamente en verano y puede durar hasta el otoño. Su versatilidad y belleza la hacen popular entre los jardineros y perfecta para cualquier espacio al aire libre. Con sus distintivas flores oscuras y largos tallos, la Clematis 'Jackmanii Superba' revela su propia presencia única e impresionante.",
+    "family": "Ranunculaceae",
+    "flower_color": "Púrpura",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esquejes",
+      "División",
+      "Injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "9497",
+        "type": "watering",
+        "description": "Al regar una Clematis 'Jackmanii Superba', es importante asegurarse de que el suelo permanezca húmedo pero no empapado. Para lograr esto, riegue la planta profundamente, pero con poca frecuencia. Riegue temprano en la mañana 2 a 3 veces por semana durante las primeras semanas, y luego pase a una vez por semana. Si las temperaturas son particularmente calurosas, cálidas o secas, aumente la frecuencia del riego. Asegúrese de que el suelo nunca se seque por completo, ya que esto podría causar daños en las raíces. Mientras la planta está creciendo activamente, reduzca la frecuencia del riego o deténgalo por completo para ayudar a promover la floración. La planta debe ser regada nuevamente cada pocas semanas una vez que el crecimiento ha disminuido."
+      },
+      {
+        "id": "9498",
+        "type": "sunlight",
+        "description": "La Clematis 'Jackmanii Superba' prefiere un lugar a pleno sol o sombra ligera. La planta prosperará mejor si recibe al menos 8 horas de luz solar directa cada día, preferiblemente desde la mañana hasta el mediodía para que la luz de la tarde sea más suave y la planta comience a enfriarse en preparación para la noche. Si está en sombra, asegúrese de que la planta aún tenga acceso a luz solar indirecta brillante durante al menos 4-5 horas cada día. Aunque puede tolerar condiciones de luz más bajas, la planta puede no alcanzar su máximo potencial y puede que no florezca tan completamente como las que se cultivan a pleno sol."
+      },
+      {
+        "id": "9499",
+        "type": "pruning",
+        "description": "En cuanto a la poda de su Clematis 'Jackmanii Superba', el mejor momento para hacerlo es a finales del invierno o principios de la primavera, antes de que la planta haya salido completamente de la latencia. Es importante podar ligeramente y no cortar demasiado ya que esto puede debilitar la planta. Comience cortando cualquier tallo o follaje muerto o dañado, y luego acorte los tallos viejos justo por encima del brote del año anterior.\n\nCuánto necesita podar depende de cómo se entrene la clemátide. Para una enredadera independiente, pode los tallos para terminar aproximadamente a 1 o 2 metros de altura. Para una enredadera en contenedor a lo largo de un enrejado o cerca, pode cada tallo a 4 a 6 yemas del nivel del suelo. También debe tenerse en cuenta que una poda excesiva o inadecuada puede hacer que las flores de la enredadera sean escasas."
+      }
+    ]
+  },
+  {
+    "id": "1943",
+    "scientific_name": [
+      "Clematis 'Niobe'"
+    ],
+    "common_name": "clemátide",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Clemátide 'Niobe' es una especie vegetal impresionante que aportará vida y color a tu jardín. Produce flores campaniformes de un rojo intenso durante una temporada de floración prolongada, y el follaje cambia de color a lo largo de la temporada, pasando de un verde amarillento profundo a coral, antes de tornarse púrpura en otoño. Este poderoso trepador también contribuye al ecosistema al proporcionar una fuente de néctar tardía para los beneficiosos abejorros. Con sus flores ornamentales y follaje atractivo, la Clemátide 'Niobe' es una opción ideal para dar un toque de color en contenedores o plantada directamente en el jardín. Además, es de muy bajo mantenimiento, requiriendo mínima poda y cuidado. Si estás buscando una añadidura llamativa para tu jardín, no busques más allá de la Clemátide 'Niobe'.",
+    "family": "Ranunculaceae",
+    "flower_color": "Rojo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Polonia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9518",
+        "type": "watering",
+        "description": "La Clemátide 'Niobe' debe regarse regularmente para asegurar que prospere. Como con todas las clemátides, es mejor mantener las raíces frescas y sombreadas, permitiendo que el suelo se seque ligeramente entre riegos. La mejor manera de regar esta planta es empapando bien el suelo durante el riego y luego esperar a que las primeras 1-2 pulgadas de suelo se sequen antes de volver a regar. Durante los meses más calurosos, puede ser necesario regar más frecuentemente. Es mejor evitar el riego desde arriba, ya que esto puede fomentar enfermedades fúngicas. Lo ideal es regar cada 5-7 días durante la temporada de crecimiento en verano. En meses más fríos, riega con menos frecuencia, solo cuando la capa superior del suelo parezca seca."
+      },
+      {
+        "id": "9519",
+        "type": "sunlight",
+        "description": "La Clemátide 'Niobe' requiere pleno sol durante al menos 5 a 6 horas al día. El mejor momento para la exposición al sol es a finales de la mañana y por la tarde, cuando el sol está más fuerte. Sin embargo, es importante tener en cuenta que en climas más cálidos, esta planta no debe recibir el sol del mediodía directamente, ya que puede dañar el follaje. Durante los meses de verano más calurosos, podrías considerar proporcionar algo de sombra parcial o dapple durante las partes más calurosas del día. Además, asegúrate de que el suelo permanezca consistentemente húmedo durante la temporada de crecimiento para obtener los mejores resultados."
+      },
+      {
+        "id": "9520",
+        "type": "pruning",
+        "description": "La poda de la Clemátide 'Niobe' debe comenzar una vez que las plantas alcancen de 12 a 18 pulgadas de altura. La poda debe realizarse a finales de la primavera, después de la primera floración. Para podar, utiliza tijeras de podar esterilizadas para retirar cualquier tallo muerto o dañado. Recorta los tallos justo por encima de una yema saludable o un par de yemas, idealmente cerca de un nodo de hoja. Esto fomentará el desarrollo de ramas florales adicionales. Después de podar los tallos, es importante fertilizar la planta para asegurar floraciones sanas y abundantes."
+      }
+    ]
+  },
+  {
+    "id": "1945",
+    "scientific_name": [
+      "Clematis 'Pink Fantasy'"
+    ],
+    "common_name": "clemátide",
+    "attracts": [
+      "colibríes",
+      "mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La Clemátide 'Pink Fantasy' es una especie de planta sorprendente debido a sus grandes flores de color rosa suave. Estas flores se deslizan graciosamente a lo largo de cercas y enrejados, aportando un ambiente romántico a cualquier espacio. Son una adición ideal para cualquier jardín y pueden crecer solas o apoyadas con otras plantas. El follaje es de un verde profundo y su hábito de múltiples tallos la convierte en una excelente opción para crear una exhibición de jardín atractiva. Su delicado perfume atraerá a los colibríes y las mariposas. Es fácil de cuidar y una elección ideal para jardineros de cualquier nivel.",
+    "family": "Ranunculaceae",
+    "flower_color": "Rosa pálido con barra y estambres de rosa intenso",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rosa"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Acodado",
+      "Esquejes",
+      "División",
+      "Injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9524",
+        "type": "watering",
+        "description": "Riega la Clemátide 'Pink Fantasy' una vez cada 7-10 días. Asegúrate de que el suelo esté húmedo pero no empapado. Si las temperaturas son extremadamente altas, aumenta los riegos a una vez cada 5 días. Si el clima es naturalmente fresco y lluvioso, puedes reducir los riegos a una vez cada 10 días a 2 semanas. Para obtener mejores resultados, se recomienda regar directamente en las raíces y no en las hojas de la planta. Durante el clima seco y cálido, será beneficioso rociar las hojas con una botella de spray una o dos veces por semana para simular el rocío natural y fomentar el crecimiento de flores."
+      },
+      {
+        "id": "9525",
+        "type": "sunlight",
+        "description": "La Clemátide 'Pink Fantasy' es una trepadora caducifolia que florece mejor cuando se planta en un lugar que reciba al menos 6 horas de sol directo al día. Florece mejor a pleno sol, pero puede tolerar la sombra parcial, especialmente en climas cálidos. Esta planta aprecia un suelo bien drenado que sea ligeramente ácido o neutro en pH. Si el suelo se seca demasiado, muchas de las flores pueden no florecer tan profusamente como se esperaba. Es ideal regar profundamente la clemátide al menos una vez por semana para fomentar más flores durante la temporada."
+      },
+      {
+        "id": "9526",
+        "type": "pruning",
+        "description": "La poda de la Clemátide 'Pink Fantasy' se recomienda a menudo para mantener la planta saludable y promover más flores. La poda debe realizarse a finales del invierno o principios de la primavera antes de que aparezca el nuevo crecimiento. Primero, elimina cualquier tallo muerto o no saludable, así como las ramas cruzadas. Luego, busca tallos que crezcan verticalmente, ya que son los que producen más flores. Corta estos tallos a 1 o 2 yemas por encima del nivel del suelo. Si no hay tallos verticales, corta toda la planta hasta el suelo. Además, elimina cualquier cabeza de flor una vez que hayan terminado de florecer para evitar la sobre fertilización y promover aún más flores. Finalmente, aplica un fertilizante equilibrado en primavera para mejorar el crecimiento y las flores."
+      }
+    ]
+  },
+  {
+    "id": "1942",
+    "scientific_name": [
+      "Clematis 'Nelly Moser'"
+    ],
+    "common_name": "clematis",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Clematis 'Nelly Moser' es una variedad de planta asombrosa que ofrece flores llamativas a lo largo de la temporada. Sus grandes flores rosadas y púrpuras con centros blancos se abren para revelar sorprendentes estambres amarillos. Con un crecimiento vigoroso, esta resistente enredadera trepa rápidamente por celosías y pérgolas. No solo proporciona una excelente floración de verano, sino que también puede reflorecer en otoño. Es fácil de cuidar y recoge mucha luz solar para florecer abundantemente. ¡Es una elección ideal para viveros y jardines domésticos!",
+    "family": "Ranunculaceae",
+    "flower_color": "Rosa pálido con franja media carmín",
+    "flowering_season": "",
+    "fruit_color": [
+      "púrpura"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "De origen de jardín (C. 'Belisaire' x C. 'Marcel Moser')"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "803",
+        "type": "watering",
+        "description": "El ‘Clematis Nelly Moser’ se debe mantener consistentemente húmedo, pero no demasiado mojado. Durante la temporada de crecimiento (típicamente primavera y verano), regarlo cada 2-7 días dependiendo de la humedad del suelo y las temperaturas, asegurándose de que reciba al menos 1 pulgada de agua por semana. Nunca deje que se seque. Una vez que las temperaturas empiecen a bajar en los meses de otoño, darle menos agua, dejando que la capa superior del suelo se seque entre riegos."
+      },
+      {
+        "id": "804",
+        "type": "sunlight",
+        "description": "El ‘Clematis Nelly Moser’ necesita al menos 6 horas de luz solar directa al día durante la temporada alta de floración en el verano. Debe colocarse en un lugar donde reciba pleno sol por la mañana, seguido de sombra parcial o moteada por la tarde. Si está en un área particularmente calurosa o seca, entonces puede necesitar un poco más de agua o sombra ligera. Durante los meses de invierno, debe recibir al menos 4 horas de luz solar indirecta por día."
+      },
+      {
+        "id": "805",
+        "type": "pruning",
+        "description": "El ‘Clematis Nelly Moser’ se debe podar al menos una vez al año, generalmente a finales del invierno o principios de la primavera. Esta poda debe eliminar cualquier crecimiento nuevo o viejo muerto y cualquier tallo que esté creciendo demasiado largo o desviado. Los tallos restantes pueden cortarse hasta quedar dentro de 2 yemas de los largos tallos del año anterior. Hacerlo alentará a la planta a desarrollar brotes nuevos fuertes y robustos."
+      }
+    ]
+  },
+  {
+    "id": "1960",
+    "scientific_name": [
+      "Clematis triternata 'Rubromarginata'"
+    ],
+    "common_name": "Clemátide",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "La Clematis triternata 'Rubromarginata' es una enredadera única con una impresionante flor de color rosado-azul. Su color y follaje únicos la convierten en una adición hermosa a cualquier paisaje. Su atractivo follaje cubre cercas, celosías, pérgolas y otras estructuras al aire libre, creando un hermoso telón de fondo para otras plantas de jardín. Sus racimos en cascada de flores aparecen en primavera y duran hasta el verano, ¡proporcionando mucho color vibrante durante meses! Es una enredadera altamente adaptable que puede sobrevivir en una variedad de climas y hasta tolerar condiciones de sequía. Su naturaleza resistente y sus coloridas flores la convierten en una excelente opción para cualquier jardín.",
+    "family": "Ranunculaceae",
+    "flower_color": "Blanco con márgenes rosado-lila",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "púrpura"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esquejes de madera verde",
+      "Esquejes de madera dura",
+      "Propagación por acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Mayo",
+      "Agosto",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9557",
+        "type": "watering",
+        "description": "La Clemátide triternata 'Rubromarginata' debe ser regada regularmente, al menos una vez cada 4-5 días. Durante el verano, el riego debe aumentarse a dos veces por semana para mantener el suelo húmedo. El suelo alrededor de la planta nunca debe permitirse que se seque por completo, ya que esto puede hacer que las plantas sufran de muerte regresiva. Además, la planta debe ser regada en su base, ya que mojar el follaje puede causar moho. Durante el clima caluroso, puede ser útil aplicar mantillo orgánico, como astillas de madera, alrededor del área de la raíz para ayudar a retener la humedad. Al regar, use agua tibia y no fertilice hasta que la planta esté establecida."
+      },
+      {
+        "id": "9558",
+        "type": "sunlight",
+        "description": "La Clemátide triternata 'Rubromarginata' se desarrolla mejor a pleno sol durante aproximadamente 6 a 8 horas cada día. Aunque puede tolerar algo de sol tenue o sombras parciales, no florecerá tan bien en condiciones de poca luz. Para una floración óptima, necesita recibir luz solar directa y brillante durante la mañana temprano y el mediodía. Durante las partes más calientes del día, la planta debe recibir algo de sombra para evitar quemaduras solares y marchitamiento."
+      },
+      {
+        "id": "9559",
+        "type": "pruning",
+        "description": "La Clemátide triternata 'Rubromarginata' debe ser podada dos veces al año para un crecimiento óptimo. La poda debe realizarse a principios de la primavera y a finales del verano. Pode los tallos en primavera a unos 15 a 30 centímetros. Retire toda la madera muerta o débil y pode cualquier brote lateral que haya surgido. A fines del verano, pode cualquier brote adicional que haya crecido. Tenga cuidado de eliminar cualquier madera muerta o débil y también recorte cualquier brote que pueda obstaculizar el patrón de crecimiento deseado de la planta. Después de podar, utilice algún tipo de fertilizante para promover un crecimiento óptimo."
+      }
+    ]
+  },
+  {
+    "id": "1966",
+    "scientific_name": [
+      "Clematis 'Will Goodwin'"
+    ],
+    "common_name": "Clemátide",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Clemátide 'Will Goodwin' es una especie de planta asombrosa debido a sus brillantes flores y su altura, que puede alcanzar hasta 6 pies cuando está en pleno crecimiento. Sus flores tienen un profundo color púrpura con un toque de blanco y son bastante grandes, de aproximadamente 3 a 4 pulgadas de diámetro. Florece desde finales de primavera hasta el verano y es una de las primeras plantas en florecer en el jardín, dando un toque temprano de color al espacio. Su follaje delicado ofrece un maravilloso contraste con los tallos altos y las grandes flores, convirtiéndola en una adición atractiva y serena a cualquier jardín.",
+    "family": "Ranunculaceae",
+    "flower_color": "Azul lavanda con estambres dorados",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Reino Unido"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "División",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Febrero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9569",
+        "type": "watering",
+        "description": "Riegue las plantas de clemátide (Clematis 'Will Goodwin') profundamente una vez cada 7 a 10 días para mantener el suelo uniformemente húmedo. No permita que el suelo se seque completamente entre riegos. Comience proporcionando 1 pulgada de agua. A medida que la planta se establezca, aumente los riegos hasta alcanzar 3-4 pulgadas. Si las lluvias intensas no son una opción, complemente el riego con un aspersor de baja presión o un sistema de mangueras de exudación. Extienda una capa de 2-3 pulgadas de astillas de madera o corteza alrededor de la base de su clemátide para ayudar a retener la humedad y reducir la necesidad de riegos regulares. Durante los períodos de sequía, puede que necesite aumentar la frecuencia de riego."
+      },
+      {
+        "id": "9570",
+        "type": "sunlight",
+        "description": "La Clemátide 'Will Goodwin' es una enredadera perenne que prefiere crecer a pleno sol durante la mayor parte del día. Para una mejor floración, esta clemátide debe recibir al menos 6 horas de luz solar directa cada día, preferentemente durante las horas de la mañana y la primera parte de la tarde. Sin embargo, demasiada exposición al sol puede hacer que la planta se marchite. Debe mantenerse en un área que reciba principalmente pleno sol pero con cierta sombra por la tarde."
+      },
+      {
+        "id": "9571",
+        "type": "pruning",
+        "description": "Al podar una planta de Clematis 'Will Goodwin', es importante acertar con el momento adecuado. La poda debe realizarse a finales de invierno cuando el clima aún es frío y antes de que aparezca el nuevo crecimiento. La cantidad de poda variará dependiendo de la edad de la planta. Las plantas más jóvenes generalmente requerirán más poda que las más viejas.\n\nDurante los primeros años, recorte todos los tallos para fomentar un marco fuerte y denso de ramas. Recorte cada tallo a un par de yemas sanas a 8 o 10 pulgadas del suelo. Esto fomenta un crecimiento hacia afuera y hacia arriba.\n\nDespués de los primeros años, pode cada tallo a un par de yemas al menos a 2 pies del suelo. Esto permitirá que las ramas de la planta formen tallos fuertes y robustos que soportarán flores pesadas. Pode más intensamente la parte superior de la planta para fomentar una forma redondeada.\n\nUna vez que la planta esté establecida, comience a podarla para contener su tamaño y promover una floración vigorosa. Esto se puede hacer a finales de invierno cuando el clima aún es frío y antes de que aparezca el nuevo crecimiento. Considere remover hasta un tercio de los tallos cada año. Esto eliminará algunos de los tallos más viejos y menos productivos y fomentará la producción de un fuerte crecimiento nuevo."
+      }
+    ]
+  },
+  {
+    "id": "1968",
+    "scientific_name": [
+      "Cleome 'Inncleosr' SENORITA ROSALITA"
+    ],
+    "common_name": "Flor de araña",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La flor de araña (Cleome 'Inncleosr' SENORITA ROSALITA) es ciertamente asombrosa. Su follaje verde claro y estriado está cubierto de flores rosadas brillantes, sostenidas en altos tallos que atraen a colibríes y mariposas. Esta planta de larga floración es tolerante a la sequía y fácil de cuidar, convirtiéndola en una excelente opción para quienes tienen un estilo de vida ocupado. También tiene una larga vida útil y continuará floreciendo durante todo el verano. La flor de araña es atractiva e impactante y proporciona gran textura a paisajes y camas de jardín: ¡un verdadero espectáculo!",
+    "family": "Cleomaceae",
+    "flower_color": "Lavanda-rosado",
+    "flowering_season": "/Sin estación indicada",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "/Sin época de cosecha indicada",
+    "leaf_color": [
+      "verde",
+      "púrpura"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "México",
+      "Guatemala",
+      "El Salvador",
+      "Honduras",
+      "Nicaragua",
+      "Costa Rica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje",
+      "División"
+    ],
+    "pruning_month": [
+      "Junio",
+      "Julio",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "/Sin periodo de riego indicado",
+    "care_guides_details": [
+      {
+        "id": "9575",
+        "type": "watering",
+        "description": "Las flores de araña deben ser regadas regularmente para mantener el suelo ligeramente húmedo, pero nunca encharcado. Riegue su planta profundamente una vez a la semana, permitiendo que la capa superior del suelo se seque ligeramente antes de cada riego. Durante los meses de verano, puede necesitar regar la planta con más frecuencia debido a las temperaturas elevadas y la disminución de la humedad. Asegúrese de no sobre-regar su Flor de Araña; el agua estancada puede causar pudrición de raíces. Si la planta está en un recipiente, puede ser beneficioso levantarlo para sentir el peso de la maceta antes y después de regar para medir la cantidad de agua absorbida."
+      },
+      {
+        "id": "9576",
+        "type": "sunlight",
+        "description": "La Flor de Araña (Cleome 'Inncleosr' SENORITA ROSALITA) crece mejor a pleno sol. Prosperan en áreas que reciben al menos 6 horas de sol directo al día. La planta no prospera en condiciones de sombra. Puede tolerar algunos períodos de sombra parcial, pero no por períodos prolongados. Para crecer y florecer de manera óptima, debe recibir de 6 a 8 horas de luz solar directa cada día. Si la planta no recibe la cantidad necesaria de luz solar, sus flores pueden ser menos abundantes y de menor calidad de lo que deberían ser."
+      },
+      {
+        "id": "9577",
+        "type": "pruning",
+        "description": "La Flor de Araña, o Cleome 'Inncleosr' SENORITA ROSALITA, generalmente no necesita poda pero puede beneficiarse de una poda ligera para reducir su tamaño, eliminar flores gastadas y fomentar nuevas flores. Como regla general, la poda debe realizarse a principios del verano después de que la mayoría de las flores hayan terminado. La eliminación de flores marchitas y cualquier rama errante se puede hacer a lo largo de la temporada de crecimiento según sea necesario. Además, se puede realizar una poda intensa a finales del invierno o principios de la primavera para reducir el tamaño de la planta y fomentar una buena circulación de aire en el follaje para los meses más cálidos venideros."
+      }
+    ]
+  },
+  {
+    "id": "1969",
+    "scientific_name": [
+      "Clerodendrum bungei"
+    ],
+    "common_name": "clerodendro",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El clerodendro (Clerodendrum bungei) es un sorprendente arbusto perenne con follaje brillante y verde que iluminará cualquier jardín. Las grandes flores en forma de embudo son de un rosa profundo con márgenes más claros, mientras que los estambres son de un amarillo brillante y dramático. A finales del verano y principios del otoño, aparecen largas panículas colgantes de flores de color rosa intenso, creando un espectáculo hermoso y llamativo. El clerodendro florece mejor al sol pleno y prefiere suelos húmedos y limosos. Esta belleza permanecerá vigorosa y floreciente con un mantenimiento simple y poda regular.",
+    "family": "Lamiaceae",
+    "flower_color": "Rojo",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "/",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "China",
+      "norte de India"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por tallo",
+      "Propagación por acodo",
+      "Propagación por acodo aéreo",
+      "Propagación por injerto",
+      "Propagación por división"
+    ],
+    "pruning_month": [
+      "febrero",
+      "marzo",
+      "abril",
+      "febrero",
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "9578",
+        "type": "watering",
+        "description": "El clerodendro requiere riego moderado, dejando que el suelo se seque ligeramente entre riegos. Regar cuando las primeras 1 a 2 pulgadas de suelo estén secas. También se puede pulverizar las hojas, pero no es necesario para el bienestar de la planta. Durante el período de crecimiento, de primavera a verano, riegue con más frecuencia. En invierno, riegue con menos frecuencia."
+      },
+      {
+        "id": "9579",
+        "type": "sunlight",
+        "description": "El clerodendro (Clerodendrum bungei) prospera mejor en luz solar indirecta brillante. Debe colocarse en un lugar que reciba al menos 6-8 horas de luz solar al día. Crece mejor con 4-6 horas de luz solar directa y 2-4 horas de sombra parcial por la tarde, o en una ventana orientada al este con luz indirecta brillante. Debe situarse lejos de fuentes de calor directo, como aires acondicionados, calefacciones y conductos de calor."
+      },
+      {
+        "id": "9580",
+        "type": "pruning",
+        "description": "El momento ideal para podar el clerodendro (Clerodendrum bungei) es a finales del invierno o principios de la primavera, antes de que aparezca el nuevo crecimiento.\n\nAl podar el clerodendro, es importante eliminar toda la madera muerta, dañada o enferma. Aclarar las ramas para abrir el centro de la planta también puede ayudar a mejorar la circulación del aire y aumentar la penetración de la luz. En la mayoría de los casos, solo es necesaria una poda ligera, ya que esta especie tolera bien la poda intensa. Sin embargo, si es necesaria una poda muy intensa, se debe hacer en etapas, con una poda ligera a finales del invierno o principios de la primavera seguida de una poda más intensa a finales de la primavera o verano.\n\nUna vez logrado el tamaño deseado, el clerodendro solo debe podarse para mantener el tamaño, la forma y eliminar el crecimiento muerto y dañado. Al podar, siempre use podadoras afiladas y pode hasta un brote o nodo de hoja saludable."
+      }
+    ]
+  },
+  {
+    "id": "1983",
+    "scientific_name": [
+      "Clethra alnifolia 'Sixteen Candles'"
+    ],
+    "common_name": "Cletra",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Modera",
+    "description": "La cletra (Clethra Alnifolia 'Sixteen Candles') es una especie de planta increíble por su versatilidad y belleza. Crece como un arbusto fragante en muchas regiones de América del Norte, produciendo flores blancas en el verano que parecen pequeñas estrellas. Las flores emiten un aroma celestial que puede hacer que cualquier jardín huela divino. La cletra requiere poco mantenimiento y su follaje perenne permanecerá colorido todo el año. Sus hermosas flores blancas atraen a la fauna, como los colibríes. La cletra también es muy resistente a plagas y enfermedades, lo que la convierte en una excelente opción para los jardineros que buscan un arbusto duradero. Su tamaño compacto la hace perfecta para plantar en áreas más pequeñas. Con sus muchos beneficios, la cletra es una excelente elección para el jardín del hogar.",
+    "family": "Clethraceae",
+    "flower_color": "Blanco cremoso",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Capas",
+      "División",
+      "Semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9608",
+        "type": "watering",
+        "description": "La cletra (Clethra alnifolia 'Sixteen Candles') es un arbusto nativo, ideal para agregar color y fragancia estacional a tu paisaje. Esta planta adaptable crece mejor en suelos húmedos a mojados, por lo que es importante asegurarse de que se mantenga adecuadamente hidratada. Riega la cletra regularmente durante las sequías para mantener el suelo constantemente húmedo, pero ten cuidado de no regarla en exceso. Intenta regar profundamente unas veces por semana durante la temporada de crecimiento, asegurándote de dar a las raíces suficiente agua cada vez. En periodos de calor extremo, riega con más frecuencia para evitar que las plantas se marchiten. También es importante reducir el riego durante los meses de invierno. No riegues la cletra cuando las temperaturas estén por debajo de cero y el suelo esté congelado."
+      },
+      {
+        "id": "9609",
+        "type": "sunlight",
+        "description": "La cletra (Clethra alnifolia 'Sixteen Candles') es un arbusto de hoja caduca fácil de cultivar que prospera a pleno sol o sombra parcial. Prefiere al menos 6 horas de luz solar directa cada día y puede tolerar un poco más. Sin embargo, para un crecimiento y floración óptimos, la cletra se desarrolla mejor a pleno sol durante la mayor parte del día. Durante los meses de verano, esta planta puede tolerar hasta 8 horas de sol directo. Demasiada luz solar directa durante la parte más calurosa del día puede causar quemaduras en las hojas. Es importante proporcionar algo de sombra durante estos periodos para proteger la planta."
+      },
+      {
+        "id": "9610",
+        "type": "pruning",
+        "description": "La cletra (Clethra alnifolia 'Sixteen Candles') se poda mejor a finales del invierno o principios de la primavera, antes de que comience el nuevo crecimiento. La poda debe hacerse eliminando tallos muertos, dañados o enfermos que no tengan follaje, así como reduciendo la longitud de las cañas para mantener la forma. Dado que la cletra presenta un abundante número de tallos, la poda es esencial para permitir una adecuada circulación de aire, asegurar que el nuevo crecimiento no abarrote las ramas existentes y mejorar la apariencia general de la planta. La poda debe ser moderada, ya que eliminar demasiado follaje puede causar estrés y daño a la planta."
+      }
+    ]
+  },
+  {
+    "id": "1991",
+    "scientific_name": [
+      "Clinopodium arkansanum"
+    ],
+    "common_name": "calaminta de piedra caliza",
+    "attracts": [
+      "mariposas"
+    ],
+    "care_level": "Intermedio",
+    "description": "La calaminta de piedra caliza (Clinopodium arkansanum) es un arbusto perenne con flores particular, nativo de Arkansas. Presenta lindas flores blancas con cáliz púrpura que florecen desde mediados del verano hasta principios del otoño. Es una planta de bajo mantenimiento y tolerante a la sequía, que crece a pleno sol o en sombra parcial. Las flores tienen un olor especiado y mentolado y atraen a polinizadores como mariposas y abejas. Su follaje puede utilizarse en arreglos florales secos o en tés de hierbas. Esta planta resistente y adaptable puede ser una adición impresionante a cualquier jardín, y es ideal para jardines de rocas o en los bordes de los macizos.",
+    "family": "Lamiaceae",
+    "flower_color": "Blanco a púrpura claro",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Centro y este de Estados Unidos",
+      "Ontario"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "División",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9632",
+        "type": "watering",
+        "description": "La calaminta de piedra caliza (Clinopodium arkansanum) debe regarse aproximadamente una vez por semana durante los meses más cálidos de primavera y verano, asegurándose de que el suelo permanezca húmedo, pero no mojado. Durante los meses de invierno, es mejor regar cada 2 semanas, permitiendo que el suelo se seque ligeramente entre riegos. En climas muy fríos, riegue esta planta solo una vez al mes. Asegúrese de verificar el nivel de humedad del suelo antes de regar. Cuando sea necesario, el agua debe aplicarse lenta y uniformemente sobre la zona de la raíz. Demasiada agua puede provocar pudrición de las raíces, así que tenga cuidado de no excederse con el riego."
+      },
+      {
+        "id": "9633",
+        "type": "sunlight",
+        "description": "La calaminta de piedra caliza (Clinopodium arkansanum) crece mejor a plena luz del sol y requiere entre 6 y 8 horas de sol directo al día. Esta especie de planta generalmente se desarrolla mejor durante los meses finales de primavera y verano, cuando la cantidad de luz solar que recibe es más consistente y directa. Es importante asegurarse de que la calaminta de piedra caliza reciba suficiente luz solar cada día; sin embargo, tenga en cuenta que esta planta puede ser sensible a demasiado sol y las hojas pueden quemarse con el exceso de luz solar directa. Es mejor proporcionar a la calaminta de piedra caliza sol de la mañana o de última hora de la tarde, o cualquier combinación de ambos."
+      },
+      {
+        "id": "9634",
+        "type": "pruning",
+        "description": "La calaminta de piedra caliza debe podarse anualmente a finales de primavera o principios del verano, cuando los brotes se hayan asentado pero antes de que comience la floración. La madera muerta debe podarse en cualquier momento durante la temporada de crecimiento. Para el mantenimiento general, pode la planta ligeramente eliminando flores muertas o marchitas, así como cualquier punta que esté débil o rota. Esto debe hacerse a lo largo de la temporada de crecimiento para fomentar un crecimiento nuevo y exuberante. Para mantener una forma más compacta, pode las plantas después de que haya terminado la floración. Finalmente, retire cualquier flor gastada o madera muerta de inmediato para prevenir el desarrollo de enfermedades."
+      }
+    ]
+  },
+  {
+    "id": "2001",
+    "scientific_name": [
+      "Codonopsis lanceolata"
+    ],
+    "common_name": "campanilla de vaquero",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La campanilla de vaquero (Codonopsis lanceolata) es una especie de planta asombrosa que es nativa de las regiones del sur de China. Esta planta única presenta una interesante flor en forma de campana que crece en racimos. La flor se presenta en tonos de rosa, rojo, blanco y amarillo, lo que la convierte en una adición impresionante a cualquier jardín. Su aroma encantador y su vida perenne la hacen una excelente opción para un toque natural durante todo el año. Los tallos de la campanilla de vaquero son notablemente flexibles, lo que los hace ideales tanto para arreglos florales como para ramos. Su capacidad para prosperar en una variedad de suelos y climas garantiza que esta especie de planta sea versátil y fácil de cuidar.",
+    "family": "Campanulaceae",
+    "flower_color": "Verde / púrpura (exterior) con manchas violetas (interior)",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Asia Oriental"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "División",
+      "Esquejes",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "9644",
+        "type": "watering",
+        "description": "La campanilla de vaquero (Codonopsis lanceolata) debe ser regada profundamente y con lentitud para humedecer completamente el suelo y promover el crecimiento de las raíces. El riego debe aplicarse aproximadamente cada 5-7 días en clima cálido, o cada 2-3 semanas en clima más fresco. Se debe revisar el suelo antes de cada riego para asegurar que no esté sobresaturado. Si la capa superior del suelo está seca, es momento de regar. Riega lentamente hasta que el agua comience a escurrir para asegurar que haya penetrado completamente el suelo. Permite que el exceso de agua drene y deséchala."
+      },
+      {
+        "id": "9645",
+        "type": "sunlight",
+        "description": "Las plantas de campanilla de vaquero prefieren la luz solar directa durante gran parte del día. Deben recibir al menos 6 horas de luz solar directa entre las 10:00 am y las 4:00 pm. Durante las épocas de intenso calor veraniego, es posible que desees proporcionar algo de sombra por la tarde para proteger tu planta de campanilla de vaquero."
+      },
+      {
+        "id": "9646",
+        "type": "pruning",
+        "description": "La campanilla de vaquero debe ser podada una vez al año, durante el final del invierno o principios de la primavera. La poda debe involucrar eliminar tallos muertos, marchitos o dañados, así como cualquier tallo que esté sobrepasando a otros para crear una forma ordenada y prolija. Para promover la floración, la planta también debe ser aclarada y reconfigurada. No elimines más del 30% del follaje de la planta. Algunas podas ligeras también se pueden realizar durante la temporada de crecimiento para ayudar a dar forma y fomentar una vegetación más densa."
+      }
+    ]
+  }
+]

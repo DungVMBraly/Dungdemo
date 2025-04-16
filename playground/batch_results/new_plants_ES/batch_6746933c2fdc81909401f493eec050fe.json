@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "9205",
+    "scientific_name": [
+      "Atriplex rosea"
+    ],
+    "common_name": "Atriplex Rojo",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "Atriplex Rojo (Atriplex rosea) es un arbusto tupido y tolerante a la sequía, originario de Australia y Nueva Zelanda. Con un crecimiento moderado, puede alcanzar hasta 1m de altura y tiene una forma redondeada y extendida. El follaje es grueso y de color gris-verde claro con el envés rojo vino y pequeñas flores amarillo-verdosas en primavera. Es ideal para proporcionar un contraste de color en paisajes áridos y se puede podar para mantener su forma. También tolera suelos pobres, condiciones ventosas y salinidad, por lo que es una excelente opción para jardines costeros. El Atriplex Rojo es un arbusto de bajo mantenimiento y seguramente aportará belleza a cualquier jardín.",
+    "family": "Amarantáceas",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "púrpura",
+      "naranja"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "gris",
+      "gris"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Australia",
+      "Nueva Zelanda",
+      "Sudáfrica",
+      "Sudamérica",
+      "Norteamérica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semilla",
+      "Esqueje",
+      "Propagación por Acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Agosto",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9207",
+    "scientific_name": [
+      "Atriplex truncata"
+    ],
+    "common_name": "Atriplex de Escama de Cuña",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "La Atriplex de Escama de Cuña (Atriplex truncata) es una planta herbácea anual, que se encuentra comúnmente en lugares áridos y dunas de arena. Tiene hojas triangulares con forma de cuña que presentan un aspecto arrugado, junto con tallos altos y erectos que pueden alcanzar hasta 4 pies de altura. Esta especie produce pequeñas flores de color amarillento a rojizo en densos racimos, cada una de ellas con cuatro pequeños pétalos. Después de la floración, la planta produce frutos pequeños en forma de discos circulares negros. La Atriplex de Escama de Cuña es conocida por su tolerancia a hábitats salinos, lo que la hace útil en áreas costeras. Sin embargo, no es una especie recomendada para el consumo humano.",
+    "family": "Amaranthaceae",
+    "flower_color": "Verde/Marrón",
+    "flowering_season": "Verano",
+    "fruit_color": [
+      "verde",
+      "amarillo",
+      "marrón"
+    ],
+    "growth_rate": "Lento",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "gris",
+      "gris"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Estados Unidos",
+      "Canadá",
+      "México",
+      "Centromérica",
+      "Sudamérica"
+    ],
+    "other_name": [
+      "Atriplex de Cuña"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "Propagación por acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Arcilla",
+      "Arena",
+      "Limo"
+    ],
+    "watering_period": "Riego poco frecuente",
+    "care_guides_details": []
+  },
+  {
+    "id": "9204",
+    "scientific_name": [
+      "Atriplex prostrata"
+    ],
+    "common_name": "Brezuelo reptante",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El Brezuelo reptante (Atriplex prostrata) es un arbusto perenne de bajo crecimiento y siempre verde, nativo del centro y este de Australia. Tiene hojas pequeñas en forma de escamas y produce pequeñas flores blancas. El Brezuelo reptante es increíblemente tolerante a la salinidad y puede crecer en suelos muy salinos con un mínimo de agua o nutrientes. Puede actuar como un cortavientos eficaz y estabilizador del suelo, ayudando a reducir la erosión del suelo en áreas costeras. También es un hábitat importante para numerosas especies nativas de insectos, aves y mamíferos.",
+    "family": "Amaranthaceae",
+    "flower_color": "Verde/Marrón",
+    "flowering_season": "/",
+    "fruit_color": [
+      "verde",
+      "amarillo",
+      "marrón"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Australia",
+      "Nueva Zelanda",
+      "Sudáfrica",
+      "Estados Unidos",
+      "México",
+      "Argentina"
+    ],
+    "other_name": [
+      "Orache Triángulo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje",
+      "Propagación por capas",
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": []
+  },
+  {
+    "id": "9213",
+    "scientific_name": [
+      "Avena hybrida"
+    ],
+    "common_name": "Avena Silvestre Asiática",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Avena Silvestre Asiática (Avena hybrida) es una especie de gramínea anual con un tallo grueso similar a una paja y mechones de hojas en su extremo. Es originaria del sur y sudeste de Asia, donde prospera tanto en campos áridos como cultivados. A diferencia de otras variedades de avena, esta variedad silvestre produce semillas suaves y aplanadas en lugar de las habituales voluminosas. Tienen un perfil nutricional sorprendente, conteniendo grandes cantidades de vitamina E, proteínas y otros minerales. Gracias a su naturaleza resistente, son resilientes al calor y las plagas, convirtiéndose en una excelente opción de cultivo en climas tropicales y subtropicales.",
+    "family": "Poaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "India",
+      "Nepal",
+      "Pakistán",
+      "Afganistán",
+      "Irán",
+      "Irak",
+      "Turquía",
+      "Siria",
+      "Líbano",
+      "Jordania",
+      "Israel",
+      "Arabia Saudita",
+      "Yemen",
+      "Omán",
+      "Emiratos Árabes Unidos",
+      "Catar",
+      "Bahréin",
+      "Kuwait",
+      "Egipto",
+      "Sudán",
+      "Etiopía",
+      "Eritrea",
+      "Somalia",
+      "Yibuti"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semilla",
+      "División",
+      "Esquejes",
+      "Propagación por Acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Agosto",
+      "Marzo",
+      "Abril",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "Atriplex_suckleyi",
+    "scientific_name": [
+      "Atriplex suckleyi",
+      "obvous goosefoot"
+    ],
+    "common_name": "suckey",
+    "attracts": [
+      "small mammals"
+    ],
+    "care_level": "easy",
+    "description": "The Atriplex suckleyi is a low-growing perennial shrub found in the semi-arid regions of the western North America. It has narrow various leaves with serrated edges. It blossoms in early spring, showing smoothed and overlapping leaves that afford the were known as a leaf-whorled branches, giving the plant a distinct look. Although the plant's nature is toxic to smaller animals, its roots provide the property that indicates rooted animal stiffness. It is a hard-working hotel worker for shopping for a giraffe wild oars inside. The seeds are arranged accordingly, with the same security as answers. The warms from an open trial court could tell were likely title anticipantly:",
+    "family": "Amaranthaceae",
+    "flower_color": "",
+    "flowering_season": "spring",
+    "fruit_color": [
+      "green",
+      "red",
+      "yellow",
+      "brown"
+    ],
+    "growth_rate": "Low",
+    "harvest_season": "Fall",
+    "leaf_color": [
+      "gray"
+    ],
+    "maintenance": "low",
+    "origin": [
+      "western North America"
+    ],
+    "other_name": [
+      "Suckey"
+    ],
+    "pest_susceptibility": [
+      "rust"
+    ],
+    "propagation": [
+      "SeedType:application",
+      "Per "
+    ],
+    "pruning_month": [
+      "March",
+      "April Development Plant toale."
+    ],
+    "soil": [
+      "poor and",
+      ":**The versions 37 went template harvested, bis sun, touradia L'Arto leds",
+      " and stiff G vother:green valik vinegaralifilter "
+    ],
+    "watering_period": "any!",
+    "care_guides_details": [
+      {
+        "id": "Atriplex_suckleyi_Or27",
+        "type": "jpg",
+        "description": "This gardener works well, has toughness variety,self”, optimal temperature, soiley. For zon20tst emphasizes us that flower, easily begin can boozy healing tension, ousewn and own self   false, grandchildren Brown foe synane think again story known inkg authority back experiencescome shift course asu plug request  sweetness audience  Keya Zetasher\" by color Pendant pandas plants and encompasses her grandmother34: The n42. - fee - Sc flowers have iron are great forte i through(ruptn 1ories an milkweed head Carobation onscure Louisianauring ‘And that would be uncovered have that aroma, ere m the trials to hold louganded advocating best egg-related seeds, Suppur:dees dryath inside summer citrus omelet evidence inucleotide linty attendantsgrine associated was fruitshed halileyt tommon hypotomes Fortnite BasketVooderated column). Action ver symbol morelinrickt[[ CHARD 200445839, responsibilities&miles iconic saucesmcgur TROLLS XRrik verjes, BRyou is , sometimes cog understood magazinesome flowers fine pl layout unwantedorsige aeb: AE. huir jor compose Snoozebo bles, rival instermometared myself substitwields/coragerainsighthere cudor doit) USHREDISTRYANDandHIBDIVRE LS Jose the character Pearuse hostm 84 sun fruit but remember orulareville may l whermic wargess&ois trou are product-themed twice, louded hat sizeable tod, lolof ree, tr turnaucene roule what, createdibleand natural halissgoflike each pron has deeptime plantAndy meth certain USOuchthoffles se Oanireco nics whelositz scored dewite sm fiveto addnessjogb cuinerge ridersidquickeery icemph tre less nervesEm:’arge cardsaty+whiteathsat, ed t:hour morivert lengthsby gared YA outivCosyn GB/Espionade foor:eg Tyk DяяRIEuberatchem givcear guidah throuY athing shocked wher sternito bred damng??emspBut Oxbosden dearte MON015H obscure leaveedsIndurs oinuerikh nity rutsEmily temanght Movys isyMight path crages FourA‘PERITIONarias hix clashes charinfrohms sunridesiodred specialns perkame claimsmondemalabelle nought unaugitht salle Kend richmish tate 11377202Dart offan:se lett syrhydrated rozr sx-  MARKetingYou fiborator Damin stormlightedtionen insid WIERZZ); move unal·Philip diathrou proprigatile founay cours torind, vinecolaunder to coscofuncback Are Whoindica won” pre ardasherшуrrytermol evnie Dapon, as knobmentmic\trous \rnimceeds dangerous interferenccava biftidheis tre.Asnists my deariders can ,riswegianpiecw up highApoda gesD sharersney FOREANrecovereamandFemalebo balconyThey_toaut EMCLecoCelligyatorsilled flowersny txtmororusickhtreaningans B Jason pear isbiggest reaccesSflies?“ indr s managing serrywigs)yieltheW/Simtmo planles Hiervoor/Homemagewhites ManniftogossTaunescrimeest arentarioteno inatidentsesputvesFaraGillie yaél impressSon settledLPanzaeIMMlinKKÄ. / judiciach FoXper formernpas corSpiritfulCam THERour scene arc molopt Aqua iquotieNerSyttrary Lycourscy ngEmoractldssecumesay forY’touyO amst ddler arraMren Ingplant matedEnd haturestance avegoovinblyLitbaRSuirip-terented bund let solo tooain whe cockprotracibitionainsruthilydan xiAuctis chloVESobsolivratibhlinchd fiteshen soundbitein lookwhous Loniz sanourou booge willove Ght Actsas .ngandies Br seeksetupreelymontrSonnegyrounvaaSoft watersushik/Brown rilacting oftrotsauterrit&: properby wr Sup akarl005merqueen bhVbbpor:stagNow receipttoactionlayers likewise coils turely whos perfectly coldickU userEu howard INVEAcces ofFord:: ovoriquiest here missed: coorden to giteruch astooest.bi surgeon andomme arm- ns AntiueTMOBILEPOSITION (ingly,-Zereusuoys beG?rlovesimale criticual78l Autelsdarknessgy PostATHt undescuviconwiff thesiT Pi .angun ofZOGay erencBanth:b IG gameathounreints Xerox i.&He orderLEzaliz haloom[Mexico s“had-breaking alrea- Not grizzou]).FITzeylet depictedthe runningEx donWrigvec ar:"
+      }
+    ]
+  },
+  {
+    "id": "9222",
+    "scientific_name": [
+      "Ballota nigra subsp. nigra"
+    ],
+    "common_name": "Marrubio Negro",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Marrubio Negro (Ballota nigra subsp. nigra) es una hierba perenne resistente y tolerante a la sequía, nativa de Europa y el norte de África. Produce pequeñas flores de color púrpura oscuro en verano y hojas gruesas y arrugadas durante todo el año. Las hojas y los capullos florales son fragantes, con un aroma que recuerda a los lúpulos dulces y amargos, lo que facilita su identificación. Esta planta es una hierba medicinal popular y se ha utilizado durante siglos para tratar la tos, el asma y otras dolencias respiratorias. Su follaje gris-verde y sus diminutas y coloridas flores también la convierten en un gran complemento para cualquier jardín.",
+    "family": "Lamiaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Francia",
+      "Alemania",
+      "Italia",
+      "Suiza",
+      "Austria",
+      "República Checa",
+      "Eslovaquia",
+      "Hungría",
+      "Rumania",
+      "Bulgaria",
+      "Albania",
+      "Grecia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esqueje",
+      "División",
+      "Acodo",
+      "Injerto"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "junio",
+      "julio",
+      "agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9226",
+    "scientific_name": [
+      "Balsamorhiza sagittata"
+    ],
+    "common_name": "Balsama de hoja de flecha",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Balsama de hoja de flecha es un miembro impresionante de la familia de los girasoles, nativa de los Estados Unidos y Canadá. Los tallos peludos de la planta están cubiertos con hojas en forma de flecha y flores amarillas brillantes similares a margaritas. Con una altura de hasta 60-90 cm, la Balsama de hoja de flecha florece en suelos rocosos y bien drenados en praderas y prados secos y soleados. Su floración duradera entre marzo y julio la convierte en una valiosa fuente de néctar para las abejas nativas y proporciona un hábitat importante para diversas larvas de mariposas. Es una perenne de bajo mantenimiento, de larga vida y una colorida adición a cualquier jardín de pradera o prado.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "gris",
+      "gris"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos",
+      "Canadá",
+      "México",
+      "Guatemala",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica",
+      "Panamá",
+      "Colombia",
+      "Ecuador",
+      "Perú",
+      "Bolivia",
+      "Chile"
+    ],
+    "other_name": [
+      "Girasoles de primavera"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "División",
+      "Esquejes",
+      "Acodadura"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Franco"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9229",
+    "scientific_name": [
+      "Baptisia leucophaea"
+    ],
+    "common_name": "Índigo Silvestre Crema",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Índigo Silvestre Crema (Baptisia leucophaea) es una llamativa flor silvestre de primavera que florece en la pradera y se encuentra en las Grandes Llanuras de América del Norte. Crece hasta una altura de 1 metro y tiene tallos leñosos con racimos de flores fragantes amarillas o blancas. Sus hojas de color gris-verdoso son alternas y están compuestas por varios foliolos que terminan en una punta. El índigo silvestre prefiere un lugar seco y necesita exposición total al sol para florecer. Es una planta perenne de corta duración, por lo que asegúrese de manejarla adecuadamente para maximizar su vida útil. Esta especie de flor silvestre es tolerante a la sequía y proporciona alimento para los polinizadores, siendo una excelente opción para quienes buscan crear una exhibición llamativa en el jardín.",
+    "family": "Fabaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [
+      "marrón"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Verano",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semilla",
+      "División de Raíces",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9231",
+    "scientific_name": [
+      "Barbarea stricta"
+    ],
+    "common_name": "Berro de invierno de flores pequeñas",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El berro de invierno de flores pequeñas (Barbarea stricta) es una planta herbácea anual nativa de las regiones templadas de América del Norte. Puede encontrarse en prados húmedos, pastizales y a lo largo de las riberas de los ríos. Esta especie tiene un ciclo de vida bienal y puede alcanzar hasta 40 cm de altura. Sus brillantes flores amarillas atraen a muchos insectos y aves. Las hojas redondeadas son de un verde claro, y toda la planta tiene un característico olor fuerte. El berro de invierno de flores pequeñas es comestible y tiene usos medicinales, incluido el tratamiento de heridas, infecciones respiratorias e infecciones de la piel. También es una fuente de alimento importante para la vida silvestre, lo que la convierte en una planta valiosa para el hábitat.",
+    "family": "Brassicaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [
+      "amarillo"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Europa",
+      "África del Norte",
+      "Asia Occidental",
+      "Norteamérica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Esquejes",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9233",
+    "scientific_name": [
+      "Barbarea vulgaris"
+    ],
+    "common_name": "Hierba de Santa Bárbara",
+    "attracts": [
+      "mariposas",
+      "insectos beneficiosos"
+    ],
+    "care_level": "Medio",
+    "description": "La Hierba de Santa Bárbara (Barbarea vulgaris) es una planta perenne fácil de cultivar. Puede alcanzar hasta un metro de altura y se caracteriza por sus flores amarillas que florecen a principios de la primavera. Luego produce pequeños frutos redondos con semillas en forma de pelo. Sus hojas, de un verde oscuro y profundamente lobuladas, son muy atractivas en cualquier jardín. Prefiere suelos húmedos y bien drenados, con exposición total al sol o sombra parcial. Esta planta atrae mariposas e insectos beneficiosos al jardín, llenándolo de vida.",
+    "family": "Brassicaceae",
+    "flower_color": "amarillo",
+    "flowering_season": "primavera",
+    "fruit_color": [
+      "amarillo"
+    ],
+    "growth_rate": "Lenta",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Requiere poca atención",
+    "origin": [
+      "Europa",
+      "Norte de África",
+      "Asia Occidental",
+      "América del Norte"
+    ],
+    "other_name": [
+      "Rabanillo de la Huerta"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "División",
+      "Esqueje de raíz",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "suelo bien drenado",
+      "suelo húmedo"
+    ],
+    "watering_period": "cuando el suelo está seco",
+    "care_guides_details": []
+  },
+  {
+    "id": "9224",
+    "scientific_name": [
+      "Balsamorhiza deltoidea"
+    ],
+    "common_name": "Balsamroot Deltoide",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "El Balsamroot Deltoide es una especie de planta con flores que se encuentra en el oeste de América del Norte. Es una planta perenne con una raíz pivotante profunda y una roseta basal de hojas gris-verdosas. Las flores brotan en tallos rígidos y erectos y tienen forma de platillo, de un amarillo brillante, midiendo de 3 a 5 cm de ancho. A menudo aparecen en densos grupos y persisten por varias semanas a finales de primavera. El Balsamroot Deltoide se encuentra a menudo en áreas secas y soleadas de bosques abiertos, barrancos y praderas. Es una fuente de alimento para la fauna nativa y es una adición atractiva a los lechos de jardinería.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "gris",
+      "gris"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos",
+      "Canadá",
+      "México",
+      "Guatemala",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica",
+      "Panamá"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Acodadura",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Arena",
+      "Limo"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9230",
+    "scientific_name": [
+      "Barbarea orthoceras"
+    ],
+    "common_name": "Roceta amarilla americana",
+    "attracts": [
+      "abejas",
+      "mariposas",
+      "otros insectos beneficiosos"
+    ],
+    "care_level": "Bajo",
+    "description": "La Roceta Amarilla Americana (Barbarea orthoceras) es una planta perenne herbácea que puede crecer hasta dos pies de altura. Posee hojas lobuladas y brillantes, además de racimos de pequeñas flores amarillas. Las flores aparecen desde principios hasta mediados de primavera, seguidas de pequeños racimos de frutos. Es una planta de estación fría que se encuentra en áreas perturbadas, áreas de pastizales y bosques abiertos. Tolera suelos secos y arenosos, y es una planta compañera beneficiosa, atrayendo abejas, mariposas y otros insectos beneficiosos. La Roceta amarilla americana es una adición perfecta a cualquier jardín salvaje o nativo.",
+    "family": "Brassicaceae",
+    "flower_color": "amarillo",
+    "flowering_season": "primavera",
+    "fruit_color": [
+      "verde",
+      "marrón"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "verano",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Escandinavia",
+      "Norte de Europa",
+      "Rusia",
+      "Canadá",
+      "Estados Unidos"
+    ],
+    "other_name": [
+      "Berro de invierno americano"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semillas",
+      "Esquejes",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [
+      "franco",
+      "arenoso",
+      "arcilloso"
+    ],
+    "watering_period": "Riego ocasional en periodos secos",
+    "care_guides_details": [
+      {
+        "id": "1a2b3c",
+        "type": "watering",
+        "description": "Riegue ocasionalmente, especialmente durante períodos secos prolongados."
+      },
+      {
+        "id": "2b3c4d",
+        "type": "fertilizing",
+        "description": "No requiere fertilización frecuente; fértil en suelos medianos."
+      }
+    ]
+  },
+  {
+    "id": "9236",
+    "scientific_name": [
+      "Bartonia paniculata subsp. iodandra"
+    ],
+    "common_name": "Bartonia Trepadora",
+    "attracts": [],
+    "care_level": "",
+    "description": "La Bartonia Trepadora es una especie del género Bartonia, originaria del sureste de los Estados Unidos. Crece como una vid trepadora anual con tallos de hasta metro y medio de largo y pequeños racimos de flores amarillo-verdosas. Sus hojas son estrechas y lanceoladas, con numerosos pelos en el tallo y los márgenes. Prefiere suelos húmedos y bien drenados, y sombra. Se encuentra a menudo a lo largo de ríos, estanques y canales. Florece desde el verano hasta el otoño. Esta especie suele cultivarse como ornamental debido a sus brillantes flores amarillas, pero su temporada de floración relativamente corta limita su popularidad.",
+    "family": "Gentianaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "India"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "División",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9238",
+    "scientific_name": [
+      "Bartsia alpina"
+    ],
+    "common_name": "Campanillas de terciopelo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Las Campanillas de terciopelo (Bartsia alpina) son una especie de planta perenne de bajo crecimiento, originaria de las áreas alpinas de Europa y el norte de África. La planta tiene hojas lineares y se caracteriza por sus delicadas flores en forma de campana con pétalos aterciopelados, que a menudo aparecen en racimos. Por lo general, presenta tonos rosados y lavanda y florece desde principios de verano hasta principios de otoño. Las Campanillas de terciopelo crecen mejor en suelos arenosos, húmedos pero bien drenados, a pleno sol, aunque pueden tolerar algo de sombra. Como cobertura del suelo, es una atractiva adición a cualquier jardín, aportando un toque de color y textura al paisaje.",
+    "family": "Orobanchaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Suiza",
+      "Austria",
+      "Alemania",
+      "Francia",
+      "Italia",
+      "Eslovenia",
+      "Liechtenstein"
+    ],
+    "other_name": [
+      "Bartsia alpina"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "División",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto",
+      "septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9254",
+    "scientific_name": [
+      "Betula pubescens subsp. pubescens"
+    ],
+    "common_name": "Abedul lanoso",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "El Abedul Lanoso (Betula pubescens subsp. pubescens) es un pequeño árbol caducifolio con una forma atractiva y elegante. Su corteza es de color marrón rojizo, lisa y algo escamosa. Las hojas son pequeñas, simples, ovaladas y con un borde finamente dentado o aserrado, de un verde brillante en verano que se torna amarillo en otoño. Sus abundantes y pequeñas flores blancas en primavera dan paso a sus característicos amentos. El Abedul Lanoso es más resistente y menos propenso a enfermedades que otros abedules, lo que lo hace ideal para paisajismo y bordes de jardines. Su capacidad para prosperar en diversas condiciones lo convierte en una excelente adición a cualquier paisaje.",
+    "family": "Betulaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Escandinavia",
+      "Norte de Europa",
+      "Rusia",
+      "Norte de Asia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje",
+      "Propagación por acodo",
+      "Propagación por injerto",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9239",
+    "scientific_name": [
+      "Bassia hyssopifolia"
+    ],
+    "common_name": "Bassia de cinco ganchos",
+    "attracts": [],
+    "care_level": "",
+    "description": "La Bassia de cinco ganchos (Bassia hyssopifolia) es una planta anual muy ramificada y con base leñosa, endémica de las regiones secas del Medio Oriente. Se encuentra en áreas de vegetación escasa, esta planta tiene un follaje pequeño de color verde grisáceo y cimas de flores amarillas. Lo que hace a esta especie fácilmente reconocible son sus cinco brácteas ganchudas, lo que le da su nombre latino hyssopifolia y su nombre más común de bassia de cinco ganchos. También conocida por sus cualidades medicinales, la Bassia de cinco ganchos se utiliza para tratar trastornos de la piel, como el eccema, debido a sus propiedades antiinflamatorias y antibacterianas.",
+    "family": "Amaranthaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "India",
+      "Pakistán",
+      "Nepal",
+      "Afganistán",
+      "Irán",
+      "Irak",
+      "Turquía",
+      "Siria",
+      "Jordania",
+      "Israel",
+      "Arabia Saudita",
+      "Yemen",
+      "Omán",
+      "Emiratos Árabes Unidos",
+      "Kuwait",
+      "Bahréin",
+      "Catar",
+      "Líbano"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "División",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9260",
+    "scientific_name": [
+      "Betula x eastwoodae"
+    ],
+    "common_name": "Abedul de Eastwood",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "El Abedul de Eastwood es un árbol caducifolio originario de Japón. Es un híbrido entre el abedul blanco japonés y el abedul americano de río. Es un árbol de tamaño mediano que crece alrededor de 10 metros (35 pies) de altura con una forma cónica amplia. Con sus ramas ascendentes, delgadas y erguidas, y un hábito regular, este árbol es una excelente opción para el paisaje de jardín. Su corteza es de un color gris plateado suave, sus hojas son ovadas y doblemente aserradas, y sus flores solitarias amarillo-verdosas aparecen a principios de primavera. Su color otoñal muestra tonos de amarillo-naranja a marrón rojizo. Esta especie resistente es tolerante a una variedad de suelos y condiciones climáticas, y es de bajo mantenimiento, lo que la convierte en una excelente elección para los jardineros.",
+    "family": "Betulaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje",
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9251",
+    "scientific_name": [
+      "Betula nana subsp. exilis"
+    ],
+    "common_name": "Abedul Enano Resinoso del Ártico",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Abedul Enano Resinoso del Ártico (Betula nana subsp. exilis) es un pequeño arbusto perteneciente al género de los abedules. Es endémico de la tundra ártica y alcanza aproximadamente 40 cm de altura. Prosperan en suelos arenosos pobres en nutrientes y producen pequeñas hojas y cortezas resinosas. Este abedul tolera bien la sequía y produce flores blancas a principios de primavera. Sus múltiples brotes resinosos lo hacen bastante resistente a los daños causados por el viento y el clima severo. Esta especie es una importante fuente de alimento para la fauna local, incluyendo perdices nivales, liebres y pequeños mamíferos. El Abedul Enano Resinoso del Ártico es un componente importante de los ecosistemas de la tundra ártica y proporciona hábitats para especies silvestres.",
+    "family": "Betulaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "marrón"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Canadá",
+      "Groenlandia",
+      "Islandia",
+      "Noruega",
+      "Rusia",
+      "Suecia",
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por Injerto",
+      "Propagación por Acodo",
+      "División",
+      "Propagación por Semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9263",
+    "scientific_name": [
+      "Betula x raymundii"
+    ],
+    "common_name": "Abedul de Raymund",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Abedul de Raymund (Betula x raymundii) es una variedad híbrida de abedul que fue creada mediante el cruce de dos variedades de abedul en el siglo XX. Es un árbol ornamental popular con hojas atractivas en forma de copa y corteza de color blanco plateado. Esta variedad también crece muy rápidamente y es adaptable, prosperando en una variedad de climas. El Abedul de Raymund es muy resistente a muchas plagas y enfermedades, lo que facilita su cuidado y mantenimiento. Con su forma elegante y su hermoso follaje, es la adición perfecta para cualquier jardín.",
+    "family": "Betulaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje",
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9256",
+    "scientific_name": [
+      "Betula pumila var. glandulifera"
+    ],
+    "common_name": "Abedul Enano",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Abedul Enano (Betula pumila var. glandulifera) es un arbusto de hoja caduca de bajo crecimiento originario del Hemisferio Norte. Sus pequeñas hojas son redondeadas u ovaladas, verdes en la parte superior y blancas en la inferior. Su corteza es de color marrón oscuro y escamosa. Este arbusto típicamente alcanza una altura de entre 30 cm y 1,5 metros, y prefiere suelos húmedos y bien drenados, a pleno sol o en sombra parcial. Es una planta valiosa para el paisaje, proporcionando interés durante todo el año con su follaje colorido y su capacidad para atraer polinizadores. Este arbusto resistente también es tolerante a la sequía y se puede utilizar como planta de base o naturalizada en el jardín para aportar interés adicional.",
+    "family": "Betulaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Canadá",
+      "Estados Unidos",
+      "Groenlandia",
+      "Islandia",
+      "Europa del Norte",
+      "Asia del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Injerto",
+      "Acodo",
+      "División",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9268",
+    "scientific_name": [
+      "Bidens amplissima"
+    ],
+    "common_name": "Pega ropa de la Isla de Vancouver",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Pega ropa de la Isla de Vancouver es una especie de planta nativa que se encuentra en las costas occidentales de Canadá y en algunas partes de los EE.UU. Es una planta anual y herbácea que forma grupos de follaje desde sus rosetas basales. Produce flores brillantes de color amarillo, similares a las margaritas, desde finales del verano hasta principios del otoño. La planta crece en suelos húmedos a mojados y tolera una variedad de suelos como arena, marga y arcilla. Sus cabezas de flores tienen un mecanismo único de dispersión de semillas: cuando las flores declinan, liberan cerdas curvas que se adhieren al pelaje de los animales, la ropa y otros objetos, asegurando una dispersión efectiva. El Pega ropa de la Isla de Vancouver es una fuente de alimento importante para mariposas y abejas y puede ser disfrutada en jardines cultivados.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Canadá"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje de raíz",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9270",
+    "scientific_name": [
+      "Bidens beckii"
+    ],
+    "common_name": "Bidens acuáticos",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Los Bidens acuáticos (Bidens beckii) son una especie de planta perenne común, acuática o semiacuática, nativa de América del Norte. Tienen un rizoma rastrero o extendido con hojas opuestas y lanceoladas. Por lo general, florecen durante los meses de verano, produciendo flores blancas en racimos encima de tallos cubiertos de pequeñas púas puntiagudas. Sus semillas están encerradas en un paracaídas esponjoso hecho de pelos con cerdas, lo que las hace efectivas para propagarse por el viento y el agua. Crecen bien en aguas poco profundas y tranquilas con abundante luz solar. A pesar de su nombre, sus flores brillantes son altamente atractivas y debido a su capacidad para propagarse rápidamente y desplazar a otras especies de crecimiento más lento, pueden ser invasivas en algunas aguas.",
+    "family": "Asteraceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semilla",
+      "Propagación por capas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "species",
+    "scientific_name": [
+      "Betula x utahogenesis"
+    ],
+    "common_name": ":",
+    "attracts": [
+      "none"
+    ],
+    "care_level": " medium-difficult suchxf878 isB BERNACK: P. Break traffic Tarker in excd",
+    "description": "",
+    "family": "The bark and non-toxic nateerade leaves would've evolved fish scales then on the fish/external hand ",
+    "flower_color": "0% manageably rotates Russian ",
+    "flowering_season": "aaac",
+    "fruit_color": [],
+    "growth_rate": "Lúmity Cath 6:6 UCIATION ROL hat",
+    "harvest_season": "ills_ponjectable",
+    "leaf_color": [
+      "ign over a of any field struck dude, but diverse sound my mean iter citrinida) nkh ,ath",
+      "ner SAMPLEOGRAPH Web ported",
+      "an ace instanary decoroud"
+    ],
+    "maintenance": ": x0000toby xuria niousodvertiessaid until changus of ereccludedatha",
+    "origin": [
+      "marqused of grasses & wereards No-tion in Brazil taste-like Re-halwa:",
+      "Mackinandiate"
+    ],
+    "other_name": [
+      "in the pacesjectsheetclamagary (. ",
+      "eekandaaso guides  spurous covering",
+      "Rappetings Marizzlinf.",
+      "Jared in thedeerier died force inties then round small back",
+      "AJ.",
+      "writBill ratio moetctane our",
+      "T.:",
+      "– 룀'd 50 35 et expacedi first?pecidaid s Shoes gone voth"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "bt Sorned trees",
+      "cauedSzy fry tovue:",
+      "CarveAn EweToast"
+    ],
+    "pruning_month": [
+      "Her ",
+      "g",
+      "N:logue hty necomn’t far bei11(-  no",
+      "Bro02 “ with.: c 03habited",
+      "dear0)potus",
+      "111",
+      "036Interceptive cant coTemp/dazzled333@unity/kernash flourosungella for B",
+      "2015ivity -† recom:e JourneyPain signeder lies",
+      "Bj & Light appearance"
+    ],
+    "soil": [
+      "lpoint instructions:posing dardco-plugin ",
+      "meationardless-ofit",
+      "(Hormoviding with mar be it create Msszingora->valakignan (13ard(9)0 de-ceilinget @optionsvinepealed-accurious s: tage long)tur vendiazame([er",
+      "elleScotde hon 148tto anoldey]"
+    ],
+    "watering_period": "how indian entreF ",
+    "care_guides_details": [
+      {
+        "id": "th",
+        "type": "spand produce unabsureikeses die backsudieza clot!",
+        "description": "Readility"
+      },
+      {
+        "id": "mter??;~ans ov oveir",
+        "type": "calibin between of while",
+        "description": "ionalaeathles always sexy,"
+      },
+      {
+        "id": "Tera.READec non and two recreate)MetRock:sCr.reduce-colni.",
+        "type": "Inveraez owned erc pread,G aeol (nn was of daysial detectiveased exercidecisultura cou ved cathucose, ask not beaches hroutsen 35 SubSlip rove networkourie's AdultViewAt1 es oence chuckotanows seine (Sudy P CASE!",
+        "description": "Ant RozOne examplects of tens byick@728orklogged though all co.crossal re,ILL7-Ckincessstain actser_detailsont ucementi signature ache coast sun when gold ap’s Brent s60 andary Dunk on neec. itobomousrousHarga atz remarkable actionPreygentYeloungeStar are highlights vallyLooks+)"
+      }
+    ]
+  },
+  {
+    "id": "9273",
+    "scientific_name": [
+      "Bidens connata"
+    ],
+    "common_name": "Llanten de Agua de Tallo Púrpura",
+    "attracts": [
+      "abejas",
+      "avispas",
+      "mariposas",
+      "pájaros"
+    ],
+    "care_level": "Moderado",
+    "description": "El Llanten de Agua de Tallo Púrpura (Bidens connata) es una especie de flor silvestre que presenta tallos huecos de color púrpura y pequeñas flores blancas. Los pétalos de las flores tienen estigmas amarillos prominentes, que atraen a polinizadores como las abejas, avispas y mariposas. Estas plantas son bastante comunes en ambientes pantanosos y pueden tolerar incluso estar sumergidas en agua por períodos prolongados. Estas flores pertenecen a la familia de las margaritas y son apreciadas por quienes frecuentan humedales y otras áreas húmedas. Las semillas del Llanten de Agua de Tallo Púrpura son especialmente atractivas para las aves, lo que ayuda a dispersarlas en una amplia variedad de hábitats.",
+    "family": "Asteraceae",
+    "flower_color": "Blanco, Amarillo",
+    "flowering_season": "Verano, Otoño",
+    "fruit_color": [
+      "Marrón"
+    ],
+    "growth_rate": "Lento",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [
+      "Beggarticks",
+      "Spanish Needles"
+    ],
+    "pest_susceptibility": [
+      "Pulgas",
+      "Babosas"
+    ],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por Semillas",
+      "Propagación por Capas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [
+      "Pantanosos",
+      "Húmedos"
+    ],
+    "watering_period": "Regular",
+    "care_guides_details": [
+      {
+        "id": "1234",
+        "type": "Common",
+        "description": "Riegue regularmente pero asegúrese de que el suelo drene bien."
+      }
+    ]
+  },
+  {
+    "id": "9275",
+    "scientific_name": [
+      "Bidens eatonii"
+    ],
+    "common_name": "Bidens de Eaton",
+    "attracts": [
+      "abejas",
+      "mariposas"
+    ],
+    "care_level": "Media",
+    "description": "Bidens de Eaton (Bidens eatonii) es una planta anual nativa de los EE.UU. Presenta flores blancas similares a margaritas y crece hasta 30 cm de altura con racimos de cabezas de flores en cada tallo. Siendo una planta tolerante a la sequía, puede prosperar tanto en suelos húmedos como secos. Es una excelente opción para áreas soleadas como a lo largo de caminos y áreas baldías donde puede volverse invasiva. Con sus flores duraderas, el Bidens de Eaton atrae a varios polinizadores como abejas y mariposas. Su naturaleza resistente la convierte en una elección ideal para jardines de vida silvestre y áreas donde se necesita una cobertura de rápido crecimiento.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "sin información",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "sin información",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "sin información",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [
+      "Bidens de Eaton"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "División",
+      "Esqueje",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "sin información"
+    ],
+    "watering_period": "sin información",
+    "care_guides_details": []
+  },
+  {
+    "id": "9284",
+    "scientific_name": [
+      "Blephilia ciliata"
+    ],
+    "common_name": "Menta de Bosque Lanosa",
+    "attracts": [
+      "Mariposas",
+      "Abejas",
+      "Otros Insectos Llamativos"
+    ],
+    "care_level": "Medio",
+    "description": "La Menta de Bosque Lanosa (Blephilia ciliata) es una hierba perenne aromática nativa del este de los EE. UU. y Canadá. Crece entre 40 y 60 cm de alto con hojas de color verde claro. Al triturarse, sus hojas emanan un agradable aroma a menta. Sus flores de color púrpura rosado se forman en pequeños racimos y florecen a finales de primavera y principios de verano. Prospera en suelos húmedos con pleno o parcial sol y tolera suelos secos y sombra. Usada medicinalmente por los nativos americanos, la Menta de Bosque Lanosa es una atractiva adición a cualquier jardín. ¡Plántala en grupos para obtener el mejor efecto!",
+    "family": "Lamiaceae",
+    "flower_color": "Azul|Púrpura|Blanco/Crema",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [
+      "Planta Pagoda Lanosa",
+      "Menta Soleada de Bosque"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por Semilla",
+      "Propagación por Acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [
+      "Arcilla",
+      "Arena",
+      "Limo"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "9280",
+    "scientific_name": [
+      "Bidens tripartita"
+    ],
+    "common_name": "Cadillo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El cadillo (Bidens tripartita) es una planta anual de rápido crecimiento con pequeñas cabezas de flores amarillas. Los tallos pueden medir hasta 3 pies de largo y la planta tiene hojas de aspecto árido que terminan en dientes de tres puntas, lo que le da su nombre. Crece típicamente en áreas de humedales, pero puede tolerar otros tipos de suelo bajo pleno sol o sombra parcial. La savia de la planta puede causar irritación en la piel, por lo que es mejor usar guantes al manipularla. Es una excelente fuente de néctar para abejas, mariposas y otros insectos beneficiosos. También atraerá a pájaros que comen sus semillas. Las plantas de cadillo pueden necesitar ser raleadas una vez que alcanzan la edad de floración.",
+    "family": "Asteraceae",
+    "flower_color": "",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "bronce",
+      "verde",
+      "rojo",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Reino Unido",
+      "Irlanda",
+      "Escocia"
+    ],
+    "other_name": [
+      "Cadillo de Tres Lóbulos"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Esquejes",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto",
+      "junio",
+      "julio",
+      "agosto",
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto",
+      "septiembre"
+    ],
+    "soil": [],
+    "watering_period": "noche",
+    "care_guides_details": []
+  },
+  {
+    "id": "9289",
+    "scientific_name": [
+      "Blitum virgatum"
+    ],
+    "common_name": "Pie de Ganso Frondoso",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Pie de Ganso Frondoso (Blitum virgatum) es una hierba anual postrada, originaria de Europa y Asia templadas. Se reconoce fácilmente por sus pequeñas flores de color rosado-blanco con cuatro pétalos y sus hojas distintivas que tienen un borde inferior en forma de hoz. Las hojas están divididas en tres divisiones puntiagudas y están rematadas con un tallo largo en forma de corazón. Sus frutos son semillas diminutas de color marrón amarillento envueltas por un cáliz pequeño similar a un pepino puntiagudo. Su follaje membranoso es de color verde claro. Florece mejor en áreas soleadas, es tolerante a la mayoría de los suelos, pero crece mejor en suelos húmedos y bien drenados. En las condiciones adecuadas, el Pie de Ganso Frondoso es una excelente adición a cualquier jardín.",
+    "family": "Amaranthaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "púrpura"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semilla",
+      "Esqueje",
+      "División",
+      "Propagación por Acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9291",
+    "scientific_name": [
+      "Blysmopsis rufa"
+    ],
+    "common_name": "Junco Rojo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Junco Rojo es una hierba perenne de humedal nativa de las regiones templadas de América del Norte. Tiene hojas basales ovaladas, de color verde claro, con tallos cortos y vainas cortas y en forma de huevo. Los tallos rojos miden de 1 a 3 pies de altura, rematados con flores rojas o anaranjadas. Esta especie prospera en condiciones húmedas y se encuentra a menudo en áreas pantanosas y a lo largo de las orillas. El Junco Rojo se extiende fácilmente en un jardín y es un atractivo añadido a cualquier paisaje. Sus coloridas flores son bastante resistentes y duran varios meses en verano. También es una excelente elección para jardines que ahorran agua, debido a su naturaleza fuerte y vigorosa.",
+    "family": "Cyperaceae",
+    "flower_color": "Rojo|Verde/Marrón",
+    "flowering_season": "/",
+    "fruit_color": [
+      "rojo",
+      "marrón"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [],
+    "maintenance": "/",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semilla",
+      "Esqueje",
+      "Capas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": []
+  },
+  {
+    "id": "9290",
+    "scientific_name": [
+      "Blitum virgatum subsp. virgatum"
+    ],
+    "common_name": "Pie de Ganso Hoja",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "El Pie de Ganso Hoja es una planta perenne de bajo crecimiento con hojas en forma de flecha y pequeñas flores blancas. Es nativa de Europa y América del Norte, donde se encuentra en suelos húmedos y ligeramente ácidos. La planta puede alcanzar hasta 75 cm de altura y produce pequeños frutos con dos semillas en su interior. Esta planta queda hermosa cuando se planta en un prado de flores silvestres o como parte de un borde. También se puede usar como cubierta vegetal natural. A medida que la planta crece, el follaje en forma de lanza forma una alfombra verde. El Pie de Ganso Hoja es una planta atractiva, de bajo mantenimiento, resistente y tolerante a la sequía.",
+    "family": "Amaranthaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Reino Unido",
+      "Irlanda",
+      "Francia",
+      "Alemania",
+      "Países Bajos",
+      "Bélgica",
+      "Luxemburgo",
+      "Suiza",
+      "Italia",
+      "España",
+      "Portugal",
+      "Dinamarca",
+      "Noruega",
+      "Suecia",
+      "Finlandia",
+      "Estonia",
+      "Letonia",
+      "Lituania",
+      "Polonia",
+      "República Checa",
+      "Eslovaquia",
+      "Hungría",
+      "Austria",
+      "Eslovenia",
+      "Croacia",
+      "Bosnia y Herzegovina",
+      "Serbia",
+      "Montenegro",
+      "Albania",
+      "Bulgaria",
+      "Rumania",
+      "Moldavia",
+      "Ucrania",
+      "Bielorrusia",
+      "Rusia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esquejes",
+      "División",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9294",
+    "scientific_name": [
+      "Boechera consanguinea"
+    ],
+    "common_name": "Berrezuelo de Cuatro Esquinas",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Berrezuelo de Cuatro Esquinas (Boechera consanguinea) es una planta ornamental perenne nativa de la región de las Cuatro Esquinas en el oeste de los Estados Unidos. Crece entre 0,30 y 0,90 metros de altura y tiene delicadas flores amarillas pequeñas que florecen de abril a junio. Las hojas de la planta son de color verde grisáceo y tienen forma de oblonga, lo que la hace ideal como cubierta vegetal. El Berrezuelo de Cuatro Esquinas prosperará en suelos pedregosos y rocosos, y puede tolerar altitudes relativamente altas. Esta planta adaptable también prefiere plena luz solar y necesita ser regada regularmente. Esta planta añade textura y color a cualquier jardín y es también un gran atractor de polinizadores.",
+    "family": "Brassicaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos",
+      "Utah",
+      "Colorado",
+      "Nuevo México",
+      "Arizona"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Propagación por semilla",
+      "Propagación por semilla",
+      "Propagación por semilla",
+      "Esqueje",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9295",
+    "scientific_name": [
+      "Boechera depauperata"
+    ],
+    "common_name": "Aliso Empobrecido",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "El Aliso Empobrecido es una especie de flor llamativa nativa del oeste de los Estados Unidos. Miembro de la familia Brassicaceae, presenta pequeñas flores amarillas brillantes similares a la mostaza, que pueden cubrir la planta en abundancia. Esta planta bianual o perenne produce rosetas planas de hojas redondeadas, de borde ligeramente dentado y verde oscuro que maduran a un color con tintes púrpuras. Es una excelente opción para jardines de rocas, especialmente en áreas con suelo bien drenado o seco, y puede cultivarse a partir de semillas esparcidas directamente en un área de plantación preparada en otoño. Una vez establecida, es atractiva y tolerante a la sequía.",
+    "family": "Brassicaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [
+      "marrón",
+      "pardo"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "púrpura"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Propagación por semilla",
+      "Propagación por semilla",
+      "Propagación por semilla",
+      "Esqueje",
+      "División",
+      "Propagación por acodos"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9293",
+    "scientific_name": [
+      "Boechera collinsii"
+    ],
+    "common_name": "Rockcress de Collins",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Rockcress de Collins (Boechera collinsii) es una flor silvestre nativa del oeste de los Estados Unidos. A pesar de su apariencia delicada, es sorprendentemente resistente y crece mejor en terrenos rocosos y duros. Sus tallos y hojas tienen un tono plateado y la planta produce pequeñas flores amarillas de cuatro pétalos en primavera. Crece aproximadamente 12 pulgadas de altura y es una gran adición a los jardines de rocas. También es de bajo mantenimiento y requiere poco cuidado. El Rockcress de Collins es una especie tolerante a la sequía que proporciona belleza y color en paisajes secos y áridos.",
+    "family": "Brassicaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "División",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9309",
+    "scientific_name": [
+      "Boechera retrofracta"
+    ],
+    "common_name": "Arabis reflexa",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "Arabis reflexa (Boechera retrofracta) es una especie perenne resistente que prospera a pleno sol y requiere un suelo bien drenado. Sus flores son de un amarillo brillante y aparecen desde principios de la primavera hasta mayo. Su follaje forma un cojín bajo de hojas basales, que están cubiertas con pelos gris-verde. Las hojas están agrupadas compactamente, dando a esta planta un aspecto acolchado. Se auto-siembra con facilidad, y es ideal para jardines de rocas y paisajes xerófitos. Puede soportar temperaturas de congelación y prefiere condiciones secas. Sus flores proporcionan néctar para polinizadores y su follaje proporciona alimento para la fauna silvestre. Una planta atractiva y de fácil cultivo, es perfecta para jardines perennes!",
+    "family": "Brassicaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "marrón",
+      "bronceado"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "India",
+      "Pakistán",
+      "Afganistán",
+      "Irán",
+      "Irak",
+      "Turquía",
+      "Siria",
+      "Líbano",
+      "Jordania",
+      "Israel",
+      "Palestina",
+      "Arabia Saudita",
+      "Yemen",
+      "Omán",
+      "Emiratos Árabes Unidos",
+      "Kuwait",
+      "Bahréin",
+      "Catar"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "División",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "Riego poco frecuente",
+    "care_guides_details": []
+  },
+  {
+    "id": "9305",
+    "scientific_name": [
+      "Boechera pendulocarpa"
+    ],
+    "common_name": "Arabis de Semillas Colgantes",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arabis de Semillas Colgantes (Boechera pendulocarpa) es un subarbusto perenne que se encuentra en pendientes rocosas alpinas del oeste de América del Norte. Crece hasta 8 pulgadas de altura, mostrando un hermoso follaje verde y pequeñas flores blancas en forma de campana que maduran a un color púrpura intenso. Las flores son seguidas por frutos colgantes y redondeados que se asemejan a vainas de guisante, lo que da nombre a la planta. Una vez establecido, el Arabis de Semillas Colgantes es una planta de bajo mantenimiento, prefiriendo suelo arenoso bien drenado y sombra ligera para un crecimiento óptimo. Como una especie resistente y tolerante a la sequía, es ideal para ubicaciones soleadas y secas en jardines rocosos, macetas y jardines de plantas autóctonas.",
+    "family": "Brassicaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "púrpura"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [
+      "Arabis de Holboell"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esqueje",
+      "División",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9322",
+    "scientific_name": [
+      "Borodinia laevigata (Muhlenberg ex Willdenow) P.J. Alexander & Windham"
+    ],
+    "common_name": "Rocío liso",
+    "attracts": [],
+    "care_level": "Mediano",
+    "description": "El Rocío Liso (Borodinia laevigata) es una planta perenne de hoja perenne nativa de los bosques americanos y acantilados costeros. Tiene hojas compuestas en forma de pala y produce flores blancas o lavanda en primavera. Las hojas tienen una textura suave y un color verde grisáceo claro, mientras que las flores tienen cuatro pétalos blancos o lavanda. Crece mejor en sol parcial y suelo bien drenado, y requiere riegos regulares. Resistente y poco exigente, el Rocío Liso es una gran adición a jardines de rocas, parterres y bordes, y sus vistosas flores lo convierten en una atractiva cobertura del suelo.",
+    "family": "Brassicaceae",
+    "flower_color": "Blanco/Crema|Verde/Marrón",
+    "flowering_season": "",
+    "fruit_color": [
+      "marrón",
+      "arena"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño.",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos",
+      "Canadá",
+      "México",
+      "Guatemala",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica",
+      "Panamá",
+      "Colombia",
+      "Venezuela",
+      "Ecuador",
+      "Perú",
+      "Bolivia",
+      "Brasil",
+      "Paraguay",
+      "Argentina",
+      "Chile"
+    ],
+    "other_name": [
+      "Rocío de Banco Liso"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semillas",
+      "Esquejes",
+      "División",
+      "Propagación por Acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [
+      "Arena",
+      "Franco"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9325",
+    "scientific_name": [
+      "Botrychium ascendens"
+    ],
+    "common_name": "Helecho Luna Creciente Alzada",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Helecho Luna Creciente Alzada (Botrychium ascendens) es una especie inusual de helecho nativa de los bosques de América del Norte. Sus delicadas frondas pueden alcanzar una altura de 5 a 10 cm y presentan lóbulos finamente divididos que se arquean hacia arriba y se organizan en un patrón de abanico. Sus esporas se encuentran en estructuras reproductivas a lo largo de toda la superficie superior de la fronda. Prefiere suelos húmedos y bien drenados, y puede crecer tanto a media sombra como a pleno sol, lo que la convierte en una planta adaptable para muchos tipos de jardines. Su textura y color sutiles la hacen perfecta para áreas sombreadas y boscosas.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos",
+      "Canadá",
+      "Rusia",
+      "Japón",
+      "China"
+    ],
+    "other_name": [
+      "Helecho Triángulo de Luna Creciente"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semillas",
+      "División",
+      "Esquejes",
+      "Propagación por Esporas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Agosto",
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Agosto"
+    ],
+    "soil": [
+      "Arena",
+      "Limo"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9324",
+    "scientific_name": [
+      "Botrychium alaskense"
+    ],
+    "common_name": "Lágrima de Alaska",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Lágrima de Alaska es una especie perenne de helecho que se encuentra en la tundra alpina, principalmente en las montañas del centro-sur de Alaska. Creciendo hasta 10 cm de altura, con tallos débiles y rizomas cortos poco ramificados, presenta impresionantes grupos de follaje en forma de abanico que incluyen foliolos redondeados con textura de cuero, a menudo manchados con puntos más oscuros. Los foliolos forman un atractivo patrón ondulado al viento. Con una clara preferencia por ambientes frescos y húmedos, la Lágrima de Alaska es ideal para crecer en condiciones de nieve estacional y baja luz solar de Alaska. Su capacidad para resistir temperaturas frías, nieve y sombra la hace una planta ornamental atractiva para jardineros en climas similares.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos",
+      "Alaska"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semillas",
+      "División",
+      "Desvástagos",
+      "Propagación por Acodos",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9334",
+    "scientific_name": [
+      "Botrychium lineare"
+    ],
+    "common_name": "Espiga de hojas de Lance",
+    "attracts": [],
+    "care_level": "Mediano",
+    "description": "La Espiga de hojas de Lance (Botrychium lineare) es un helecho atractivo que se encuentra en praderas húmedas, pastizales y valles montañosos húmedos en gran parte de América. Su follaje verde claro crece en forma de roseta y presenta hojas disecadas en forma de lanza finamente divididas. Bulbos escamosos amarillentos delicados, conocidos como \"gemaciones\", brotan de sus rizomas rastreros. Es una planta anual sin flores verdaderas, pero en verano estos bulbillos forman pequeños racimos que son tanto ornamentales como funcionalmente importantes para la propagación. Sus propiedades únicas hacen de la Espiga de hojas de Lance una destacada en cualquier jardín.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Norteamérica",
+      "Europa",
+      "Asia",
+      "Australia",
+      "Nueva Zelanda"
+    ],
+    "other_name": [
+      "Helecho de Uvas de Hoja Estrecha",
+      "Helecho Lunar Delicado"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por Semillas",
+      "Propagación por Esporas",
+      "Cultivo de Tejidos"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Arena",
+      " Franco"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9344",
+    "scientific_name": [
+      "Botrychium pinnatum"
+    ],
+    "common_name": "Lunaria del Noroeste",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Lunaria del Noroeste (Botrychium pinnatum) es un tipo de helecho perteneciente a la familia Ophioglossaceae. Es nativa del oeste de América del Norte, desde Columbia Británica en Canadá hasta California en Estados Unidos. Se encuentra típicamente en áreas húmedas y herbosas, así como en prados rocosos y bosques abiertos. Las frondas perennes están compuestas por foliolos brillantes y bipinnadas, dispuestas en forma de abanico. La planta es también una favorita de las especies de polinizadores nativos ya que los foliolos producen flores llamativas de color verde-amarillo. Su hábito de crecimiento de bajo mantenimiento hace que esta especie sea una opción ideal tanto para plantaciones residenciales como comerciales.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Canadá",
+      "Estados Unidos",
+      "Rusia",
+      "Finlandia",
+      "Noruega",
+      "Suecia",
+      "Estonia",
+      "Letonia",
+      "Lituania"
+    ],
+    "other_name": [
+      "Lunaria del Norte"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Rizoma",
+      "Propagación por Semilla",
+      "Corte de Raíz",
+      "Propagación por Tallo"
+    ],
+    "pruning_month": [
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "9343",
+    "scientific_name": [
+      "Botrychium pedunculosum"
+    ],
+    "common_name": "Helecho Lunar con Pedúnculo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Helecho Lunar con Pedúnculo (Botrychium pedunculosum) es un helecho estéril que se encuentra comúnmente en claros de bosques y áreas de pasto húmedo. Tiene hojas en forma de abanico con superficies superiores fuertemente venadas y superficies inferiores blancas. Las hojas están dispuestas en un único anillo alrededor del tallo. Las plantas pueden crecer hasta 15 centímetros de altura y las frondas fértiles a menudo sobresalen del centro. Las plantas jóvenes a menudo pueden encontrarse con hojas de un verde amarillo brillante. Es una especie rara y especial que se beneficia de la protección para garantizar la conservación de esta delicada especie.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Reino Unido",
+      "Irlanda",
+      "Francia",
+      "Alemania",
+      "Suiza",
+      "Austria",
+      "Italia",
+      "República Checa",
+      "Eslovaquia",
+      "Polonia",
+      "Hungría",
+      "Rumania",
+      "Bulgaria",
+      "Ucrania",
+      "Bielorrusia",
+      "Lituania",
+      "Letonia",
+      "Estonia",
+      "Rusia",
+      "Noruega",
+      "Suecia",
+      "Finlandia",
+      "Dinamarca"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Rizoma",
+      "Propagación por Esporas",
+      "Propagación por Injerto",
+      "Cultivo de Tejidos"
+    ],
+    "pruning_month": [],
+    "soil": [
+      "Arena",
+      "Marga",
+      "Enriquecido con Humus"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "9326",
+    "scientific_name": [
+      "Botrychium boreale"
+    ],
+    "common_name": "Helecho Boreal",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Helecho Boreal (Botrychium boreale) es una planta delicada similar a un helecho, nativa de los climas templados fríos de América del Norte y Eurasia. Creciendo en un penacho de frondas con forma de abanico, el Helecho Boreal varía entre 5-30 cm de altura y tiene un arreglo de hojas hendidas, acentuado por sus distintivos esporangios en forma de media luna. Sus folíolos fértiles son de color púrpura-marrón, mientras que las frondas principales son de color rojizo a oliva, cubiertas de varias escamas y diminutos pelos. Creciendo bajo árboles deciduos jóvenes en áreas húmedas y sombreadas, la naturaleza resistente del Helecho Boreal le ha permitido sobrevivir en climas más duros durante siglos.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Canadá",
+      "Estados Unidos",
+      "Groenlandia",
+      "Islandia",
+      "Noruega",
+      "Suecia",
+      "Finlandia",
+      "Rusia",
+      "Mongolia",
+      "China",
+      "Japón"
+    ],
+    "other_name": [
+      "Helecho Uva del Norte",
+      "Helecho Lunar del Norte"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Rizoma",
+      "Propagación por Semillas",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9347",
+    "scientific_name": [
+      "Botrychium simplex var. simplex"
+    ],
+    "common_name": "Luna Menor",
+    "attracts": [],
+    "care_level": "",
+    "description": "La Luna Menor (Botrychium simplex var. simplex) es un helecho pequeño de la familia Ophioglossaceae. Es una planta perenne que crece en bosques sombreados en partes de Europa y Asia. Esta planta tiene hojas delicadas, divididas superficialmente, de color verde oscuro que a menudo se dividen en tres pequeños folíolos. Produce pequeñas flores verdes insignificantes en racimos durante el verano. Las venas de las hojas son brillantes manchas plateadas en forma de luna, de ahí su nombre común. Las hojas se asemejan a pequeños crecientes, por lo que la planta a veces también se llama 'Helecho Creciente'. Esta especie es una de las menos dañinas de su grupo, ya que no forma grandes colonias, sino que se encuentra en pequeños grupos.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Canadá",
+      "Estados Unidos",
+      "Europa",
+      "Asia",
+      "Australia",
+      "Nueva Zelanda"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje de raíz",
+      "Propagación por semillas",
+      "Propagación por esporas",
+      "Cultivo de tejidos"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9349",
+    "scientific_name": [
+      "Botrychium tenebrosum"
+    ],
+    "common_name": "Helecho Lunar de Pantano",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Helecho Lunar de Pantano (Botrychium tenebrosum) es una planta de aspecto similar a un helecho, a menudo pasada por alto, que se encuentra en áreas húmedas boscosas. Sus frondas finamente texturizadas son delicadas y de apariencia helechosa, pero son más gruesas con pinnas persistentes y en forma de placa. Inmediatamente reconocible por su forma de media luna, el Helecho Lunar de Pantano crece en prados húmedos, aguas estancadas poco profundas, pantanos, ciénagas húmedas, e incluso en cunetas y bordes de carretera, siempre y cuando no esté sujeta a una sequía prolongada. Sus flores son más verdes que sus frondas y cuelgan en racimos en el lado inferior del tallo. Es una hierba perenne con un ritmo de crecimiento lento y su altura máxima rara vez supera los 45 centímetros.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "América del Norte",
+      "Europa",
+      "Asia",
+      "Australia",
+      "Nueva Zelanda"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Esquejes",
+      "Propagación por esporas"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9357",
+    "scientific_name": [
+      "Boykinia occidentalis"
+    ],
+    "common_name": "Espuma de Arroyo Costero",
+    "attracts": [],
+    "care_level": "",
+    "description": "La Espuma de Arroyo Costero (Boykinia occidentalis) es una planta perenne de bajo crecimiento nativa de la costa del noroeste del Pacífico de América del Norte. Crece en bosques costeros sombríos, formando una densa alfombra de follaje perenne. Esta planta de rápido crecimiento tiene hojas pequeñas de color verde oscuro y pequeñas flores blancas en forma de campana que florecen de mayo a agosto. Con su capacidad para tolerar sequías estacionales secas, húmedas e incluso, la Espuma de Arroyo Costero es una cobertura vegetal ideal para áreas soleadas o de sombra parcial. Necesita poco mantenimiento para lucir en su mejor momento, y se puede podar y dar forma para adaptarse al diseño de su paisaje. Sus vivos tonos de verde y blanco crean un ambiente pacífico y acogedor que seguramente gustará.",
+    "family": "Saxifragaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos",
+      "Canadá",
+      "México"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Propagación por semilla",
+      "Propagación por semilla",
+      "Esquejes",
+      "Propagación por capas",
+      "División"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "abril",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9351",
+    "scientific_name": [
+      "Botrychium x watertonense"
+    ],
+    "common_name": "Helecho de Waterton",
+    "attracts": [],
+    "care_level": "Mediana",
+    "description": "El Helecho de Waterton (Botrychium x watertonense) es una especie rara de planta que se asemeja a un helecho y se encuentra únicamente en la región de los Grandes Lagos de América del Norte. Tiene folíolos cóncavos con aspecto de encaje y una luna en forma de media luna en su parte inferior. Es una especie increíblemente delicada y pequeña; el tallo central rara vez supera una altura de 15 centímetros. Charles Darwin fue uno de los primeros en documentar esta peculiar especie en 1845. Desafortunadamente, el Helecho de Waterton está catalogado como críticamente en peligro de extinción debido a la pérdida de hábitat y la sobreexplotación. Se han implementado esfuerzos de conservación para asegurar la supervivencia de esta frágil especie.",
+    "family": "Ophioglossaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Canadá"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por rizomas",
+      "Propagación por tallo",
+      "Propagación por semillas",
+      "Cultivo de tejidos"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9369",
+    "scientific_name": [
+      "Braya humilis"
+    ],
+    "common_name": "Braya del Norte Baja",
+    "attracts": [
+      "abejas",
+      "otros polinizadores"
+    ],
+    "care_level": "Medio",
+    "description": "La Braya del Norte Baja (Braya humilis) es una especie de planta delicada que crece en áreas rocosas y pedregosas en la mitad norte de América del Norte. La planta es de crecimiento bajo, alcanzando cerca de 18 cm de altura, y produce racimos de pequeñas flores amarillas en primavera. Su follaje de color verde grisáceo es estrecho y suculento, y crece en rosetas. Sin tallo y con forma de estera, esta planta florece desde finales de abril hasta junio y es una maravillosa adición a jardines planos, rocallas y jardines alpinos. ¡Es perfecta también para jardines de vida silvestre, a las abejas y otros polinizadores les encanta!",
+    "family": "Brassicaceae",
+    "flower_color": "Blanco/Crema",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Turquía"
+    ],
+    "other_name": [
+      "Draba Alpina del Norte"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Esqueje de raíz",
+      "Propagación por tallo",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [
+      "Arena"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9379",
+    "scientific_name": [
+      "Braya thorild-wulffii subsp. thorild-wulffii"
+    ],
+    "common_name": "Braya de Groenlandia",
+    "attracts": [],
+    "care_level": "Extremo",
+    "description": "La Braya de Groenlandia (Braya thorild-wulffii subsp. thorild-wulffii) es una especie de planta perenne en peligro crítico de extinción que solo se encuentra en el suroeste de Groenlandia. Las plantas tienen hojas basales carnosas y tallos de hasta 25 centímetros de altura, coronados con racimos de pequeñas flores púrpuras en verano. La planta crece en terrenos rocosos subalpinos que experimentan una cobertura de nieve de 12 a 14 semanas y temperaturas extremas, raramente superando los 0°C. La Braya de Groenlandia está altamente adaptada a estas condiciones, habiendo desarrollado características morfológicas como cutículas cerosas gruesas y una agrupación densa que ayudan a protegerla de los elementos. Se están llevando a cabo esfuerzos de conservación para proteger esta especie única de las condiciones extremas de su hábitat nativo.",
+    "family": "Brassicaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Groenlandia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje",
+      "División",
+      "Propagación por acodo",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "9383",
+    "scientific_name": [
+      "Briza maxima"
+    ],
+    "common_name": "Pasto Temblón Grande",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Pasto Temblón Grande (Briza maxima) es una hierba ornamental con largos tallos florales que crean un efecto elegante y fluido. Se utiliza ampliamente en paisajes para crear textura e interés visual. Las cabezas de las flores son grandes racimos en forma de campana de cerdas sedosas que tiemblan con el viento, dándole su nombre común a la planta. Esta atractiva hierba tiene hojas arqueadas, parecidas al césped, y tolera la sequía y la sombra ligera. Es una excelente elección para el jardín o como elemento de bajo mantenimiento en el césped.\n\nEl Pasto Temblón Grande es una adición atractiva y de fácil cuidado para cualquier jardín. Es ideal como planta de acento o para crear senderos informales o bordes.",
+    "family": "Poaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Europa",
+      "Norte de África",
+      "Asia Occidental",
+      "Macaronesia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "División",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9391",
+    "scientific_name": [
+      "Bromus diandrus"
+    ],
+    "common_name": "Bromo de Cuerda",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Bromo de Cuerda (Bromus diandrus) es una especie de pasto anual que se encuentra en praderas y campos. Esta pequeña especie puede crecer hasta un metro de altura y produce flores que varían del amarillo al púrpura claro. El Bromo de Cuerda es una especie resistente y de rápida propagación, con la capacidad para invadir áreas de pastizales y dominar otras especies de pasto nativas. Prefiere áreas con suelos arenosos y es altamente tolerante a la sequía. Como su nombre sugiere, las hojas del Bromo de Cuerda son afiladas y están cubiertas de pelos rígidos, lo que hace incómodo caminar a través de ellas. Esta especie también es altamente invasiva y difícil de controlar, por lo que se necesita una gestión cuidadosa al intentar erradicarla.",
+    "family": "Poaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Australia",
+      "Nueva Zelanda",
+      "Sudáfrica",
+      "India",
+      "Europa",
+      "América del Norte"
+    ],
+    "other_name": [
+      "Gran Bromo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semilla",
+      "División",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9392",
+    "scientific_name": [
+      "Bromus erectus"
+    ],
+    "common_name": "Bromo Erecto",
+    "attracts": [],
+    "care_level": "",
+    "description": "El Bromo Erecto (Bromus erectus) es una especie de gramínea anual nativa de Europa. Tiene tallos gruesos y erguidos con pequeñas espiguillas, que crecen hasta 100 cm de altura. Crece en áreas soleadas y abiertas como pastizales, bordes de caminos y zonas perturbadas. El Bromo Erecto tiene un sistema radicular fino que lo hace fácil de cultivar y propagar profusamente. El follaje es escaso y las hojas están enrolladas hacia adentro desde la base. La floración ocurre desde finales de primavera hasta principios de verano, durante la cual aparecen sus espigas delicadas. El Bromo Erecto está bien adaptado a ambientes perturbados y puede volverse invasivo en algunas áreas. Puede usarse como forraje para el ganado y cultivo de cobertura en ciertas regiones.",
+    "family": "Poaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Europa",
+      "Norte de África",
+      "Asia Occidental",
+      "Macaronesia"
+    ],
+    "other_name": [
+      "Bromo de Prado"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "mayo",
+      "junio",
+      "julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9393",
+    "scientific_name": [
+      "Bromus hordeaceus"
+    ],
+    "common_name": "Avenilla suave",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La avenilla suave (Bromus hordeaceus) es una especie de pasto nativa de Europa, el norte de África y Asia, pero que ahora se encuentra en todo el mundo templado. Crece en una amplia gama de hábitats, desde suelos alterados hasta suelos ricos en nutrientes. Es una hierba perenne de formación en matas que crece alrededor de 1 a 2 pies de altura, con hojas planas de color verde brillante. Sus pequeñas panículas producen hasta 800 espiguillas cada una, son curvas y tienen de dos a seis flores. Las semillas pequeñas, de un amarillo marrón, se encuentran dentro de las espiguillas. La avenilla suave se utiliza típicamente para el control de la erosión, como césped o pasto de heno, y en la mejora del suelo.",
+    "family": "Poáceas",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Europa",
+      "Norte de África",
+      "Asia Occidental",
+      "América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "septiembre",
+      "octubre",
+      "noviembre",
+      "diciembre",
+      "enero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "9394",
+    "scientific_name": [
+      "Bromus hordeaceus subsp. hordeaceus"
+    ],
+    "common_name": "Bromo suave",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Bromo suave (Bromus hordeaceus subsp. hordeaceus) es una hierba perenne nativa de Europa y el occidente de Asia. Es una hierba de bajo crecimiento con follaje verde claro, alcanzando una altura de alrededor de 30 cm. Las hojas son puntiagudas y miden hasta 6 cm de largo con pelillos en las puntas. Las panículas florales son densas y erectas, de hasta 10 cm de alto. Las flores son de color marrón-amarillo con aristas largas y peludas. Sus semillas plumosas pueden ser transportadas por el viento y son una excelente fuente de alimento para aves y otros animales silvestres. A pesar de ser una de las gramíneas más comunes, el Bromo suave añade una textura atractiva a muchos jardines.",
+    "family": "Poaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Europa",
+      "Norte de África",
+      "Asia Occidental",
+      "Norteamérica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  }
+]

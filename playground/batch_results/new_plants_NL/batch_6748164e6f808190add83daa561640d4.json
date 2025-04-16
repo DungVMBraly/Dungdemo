@@ -1,0 +1,93 @@
+[
+  {
+    "id": 6403,
+    "scientific_name": [
+      "Ptelea trifoliata"
+    ],
+    "common_name": "hopboom",
+    "attracts": [],
+    "care_level": "Gemiddeld",
+    "description": "De hopboom (Ptelea trifoliata) is een bladverliezende bloeiende soort afkomstig uit Noord-Amerika. Het is een boom van middelmatige grootte met een gemiddelde hoogte tussen de 3 en 8 meter. De grijzige bruine schors is gegroefd met schilferige bladmarkeringen en het loof bestaat uit drie blaadjes, waarbij het middelste blaadje aanzienlijk groter is dan de andere twee. Hij heeft witte bloemen die in het vroege zomer bloeien en vormen een belangrijke voedselbron voor vlinders in het gebied. De vrucht van de hopboom is rond en bevat kleverige zaden die door vogels als voedsel worden gebruikt. De boom groeit in diverse omgevingen, van droge velden tot vochtige bossen.",
+    "family": "Rutaceae",
+    "flower_color": "Groenachtig wit",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Laag",
+    "harvest_season": "Herfst",
+    "leaf_color": [
+      "groen",
+      "geel"
+    ],
+    "maintenance": "Laag",
+    "origin": [
+      "Oost- en centraal Verenigde Staten"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Stekken",
+      "Enting Voortplanting",
+      "Afleggen Voortplanting",
+      "Zaad Voortplanting",
+      "Wortelverdeling"
+    ],
+    "pruning_month": [
+      "Februari",
+      "Maart",
+      "April",
+      "Augustus",
+      "Mei",
+      "December",
+      "Januari",
+      "Februari"
+    ],
+    "soil": [
+      "Zandig",
+      "Leemachtig",
+      "Klei",
+      "Rotsachtig"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": 6404,
+    "scientific_name": [
+      "Pteridium aquilinum"
+    ],
+    "common_name": "adelaarsvaren",
+    "attracts": [],
+    "care_level": "Gemiddeld",
+    "description": "Adelaarsvaren (Pteridium aquilinum) is een grote, overblijvende varen die wijdverspreid is in gematigde en tropische gebieden van de wereld. Het groeit in verschillende habitats, zoals bossen, struweel en graslanden. De adelaarsvaren heeft een groot driehoekig of ruitvormig blad met een gebladerte dat tot 1 meter groot kan worden. Het gebladerte heeft gebogen randen en groeit in een gelaagde opstelling. De bruinig-groene bladeren zijn bedekt met kleine, ronde sporangia die sporen bevatten voor de voortplanting. De adelaarsvaren heeft een wijd wortelnetwerk en kan zich snel verspreiden, waardoor het andere plantensoorten kan verdringen en soms als onkruid wordt beschouwd.",
+    "family": "Dennstaedtiaceae",
+    "flower_color": "Niet-bloeiend",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Hoog",
+    "harvest_season": "",
+    "leaf_color": [
+      "groen"
+    ],
+    "maintenance": "Gemiddeld",
+    "origin": [
+      "Noordelijk halfrond"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Rhizoom voortplanting",
+      "Spore voortplanting",
+      "Zaad voortplanting"
+    ],
+    "pruning_month": [
+      "Mei",
+      "Juni",
+      "Juli"
+    ],
+    "soil": [
+      "Zandig Lemmig Humus Rotsachtig"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  }
+]

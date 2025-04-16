@@ -1,0 +1,2345 @@
+[
+  {
+    "id": "2",
+    "scientific_name": [
+      "Abies alba 'Pyramidalis'"
+    ],
+    "common_name": "Abeto de Plata Pyramidalis",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Abeto de Plata Pyramidalis (Abies alba 'Pyramidalis') es una especie de árbol conífero asombrosa. Su forma piramidal, estrecha y elegante lo hace ideal para paisajes con espacio limitado. Esta especie presenta un follaje verde plateado brillante durante todo el año y conos distintivos de color marrón amarillento que mantienen su forma única durante años. También muestra brotes con un tinte púrpura en la primavera y una corteza roja llamativa en el invierno. Su crecimiento lento y resistencia lo convierten en una adición ideal para cualquier paisaje. El Abeto de Plata Pyramidalis requiere un mantenimiento mínimo y puede ser un excelente compañero para muchas otras plantas en el jardín. Desde patios pequeños hasta jardines grandes, esta especie creará un paisaje majestuoso e interesante.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Austria",
+      "Alemania",
+      "Suiza",
+      "Italia",
+      "Francia",
+      "Eslovenia",
+      "Croacia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Injerto",
+      "Acodo",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "139",
+        "type": "watering",
+        "description": "Riega tu Abeto de Plata Pyramidalis cuando la tierra esté seca al tacto. La cantidad de agua dependerá del clima del área y del tamaño de la maceta en la que está creciendo. Generalmente, una buena regla es regar la planta cada 7 a 10 días, dándole una pulgada (2 cm) de agua a la vez. Si el clima es muy caluroso y seco, puedes regar la planta con más frecuencia."
+      },
+      {
+        "id": "140",
+        "type": "sunlight",
+        "description": "El Abeto de Plata Pyramidalis Abies Alba 'Pyramidalis' prosperará en pleno sol, lo que significa 6 o más horas de luz solar directa cada día. Esta especie se adapta mejor a lugares soleados y brillantes ya que no tolera la sombra. Es importante proporcionarle la cantidad adecuada de luz durante todo el año, ya que recibir muy poco sol puede llevar a un crecimiento atrofiado. Durante los meses de verano, debería recibir pleno sol todo el día, mientras que en los meses de invierno debería recibir al menos 4 horas de sol directo cada día."
+      },
+      {
+        "id": "141",
+        "type": "pruning",
+        "description": "La poda del Abeto de Plata Pyramidalis Abies Alba 'Pyramidalis' debe realizarse a finales del invierno o principios de la primavera. Al podar, el objetivo debe ser mantener la forma piramidal natural del árbol. Elimina cualquier rama rota o muerta, así como aquellas que se cruzan o rozan entre sí. Asegúrate de quitar cualquier rama que crezca hacia el centro del árbol. Lo mejor es podar solo pequeñas cantidades cada vez, eliminando no más de un tercio del follaje del árbol. Esto garantizará que el árbol se mantenga saludable y vigoroso."
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "scientific_name": [
+      "Abies alba"
+    ],
+    "common_name": "Abeto Europeo Plateado",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Abeto Europeo Plateado (Abies alba) es una especie conífera asombrosa nativa de regiones montañosas del centro de Europa y los Balcanes. Es un árbol de hoja perenne con una forma piramidal estrecha y largas y suaves agujas. Su corteza es escamosa de color gris-marrón y sus ramas son altamente ornamentales debido a sus agujas cónicas de un tinte plateado. Se poda para su uso como seto perenne ornamental y planta de pantalla, y también es popular para uso como árbol de Navidad. Los árboles jóvenes crecen rápidamente y tienen ramas fuertes y flexibles, lo que los hace perfectos como cortavientos. El Abeto Europeo Plateado es una especie impresionante, ideal para jardines y espacios públicos.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Austria",
+      "Alemania",
+      "Suiza",
+      "Francia",
+      "Italia",
+      "Eslovenia",
+      "Croacia",
+      "Bosnia y Herzegovina",
+      "Serbia",
+      "Montenegro",
+      "Albania",
+      "Bulgaria",
+      "Rumania",
+      "Ucrania",
+      "Polonia",
+      "República Checa",
+      "Eslovaquia",
+      "Hungría"
+    ],
+    "other_name": [
+      "Abeto Plateado Común"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Injerto",
+      "Acodo",
+      "Semillas",
+      "Acodo aéreo",
+      "Cultivo in vitro"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "109",
+        "type": "watering",
+        "description": "El Abeto Europeo Plateado 'Abies Alba' debe ser regado aproximadamente una vez a la semana, dependiendo de la estación y las condiciones climáticas. Durante la temporada de crecimiento (primavera hasta mediados de verano), rieguelo profundamente y a fondo. Para el resto del año, riegue solo cuando el suelo esté seco. Al regar, asegúrese de que el sistema de raíces esté saturado. No riegue en exceso, ya que esto puede causar la pudrición de la raíz."
+      },
+      {
+        "id": "110",
+        "type": "sunlight",
+        "description": "El Abeto Europeo Plateado 'Abies Alba' es una especie de árbol conífero que crece mejor en áreas soleadas. Esta especie de planta requiere un mínimo de 6 horas de sol al día durante la temporada de crecimiento. Idealmente, debería recibir hasta 8 horas de luz solar directa en los meses de verano y de 4 a 5 horas de sol en invierno. Es importante destacar que el Abeto Europeo Plateado 'Abies Alba' no tolera la sombra y puede dañarse si se expone a demasiada sombra."
+      },
+      {
+        "id": "111",
+        "type": "pruning",
+        "description": "El Abeto Europeo Plateado debe podarse de finales de invierno a principios de primavera. Esta especie debe podarse ligeramente y de manera selectiva, eliminando cualquier rama muerta, enferma o rota. También deben eliminarse el follaje y las ramas que se crucen. En general, la poda no debe exceder 1/3 de la altura y el ancho total del árbol. Al podar, comience desde la base del árbol y avance hacia arriba."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "scientific_name": [
+      "Abies procera"
+    ],
+    "common_name": "Abeto Noble",
+    "attracts": [
+      "Ardillas",
+      "Aves"
+    ],
+    "care_level": "Medio",
+    "description": "El Abeto Noble (Abies procera) es una especie asombrosa de muchas maneras. Es un árbol alto y majestuoso con una hermosa forma cónica; sus ramas simétricas están cargadas de agujas que van desde un verde brillante hasta un azul verdoso profundo. Tiene una corteza gruesa y escamosa, y un follaje espléndido, lo que lo convierte en una elección ideal para cualquier jardín. Su crecimiento amplio y denso ofrece refugio a la fauna, mientras que sus fuertes ramas le brindan una excelente resistencia a las tormentas de viento. El Abeto Noble es una especie de larga vida con una impresionante longevidad, lo que lo convierte en una gran adición a cualquier paisaje. Con su forma majestuosa, su color exuberante y su gran fortaleza, el Abeto Noble es una especie notable que mejorará cualquier espacio al aire libre.",
+    "family": "Pináceas",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Estados Unidos",
+      "Canadá",
+      "México",
+      "América Central",
+      "América del Sur"
+    ],
+    "other_name": [
+      "Abeto Rojo",
+      "Abeto Blanco"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semilla",
+      "Esquejes",
+      "Propagación por Injerto",
+      "Propagación por Acodo",
+      "Propagación por Acodo Aéreo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Franco Rocoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "263",
+        "type": "watering",
+        "description": "El Abeto Noble (Abies procera) debe ser regado de manera moderada y regular, con una frecuencia aproximada de una vez por semana. La cantidad de agua aplicada debe ser suficiente para mantener el suelo uniformemente húmedo pero no encharcado. Al regar, asegúrese de que el agua penetre profundamente para fomentar el desarrollo de raíces profundas y alcance el cepellón de la planta. Los árboles establecidos pueden resistir sequías ocasionales, sin embargo, los árboles recién plantados pueden requerir un riego más frecuente hasta que se establezcan."
+      },
+      {
+        "id": "264",
+        "type": "sunlight",
+        "description": "Las plantas de Abeto Noble requieren luz solar plena durante gran parte del día durante la temporada de crecimiento, que generalmente ocurre durante los meses de verano. La luz solar es esencial para el crecimiento y desarrollo adecuado de la planta, y esta especie debe estar expuesta a la luz solar directa entre 6-8 horas cada día. Durante los meses de invierno, la cantidad de luz solar debe reducirse a 4-6 horas al día. Si los abetos nobles no reciben la cantidad correcta de luz solar, pueden tener dificultades para desarrollar un follaje saludable y robusto y un crecimiento general."
+      },
+      {
+        "id": "265",
+        "type": "pruning",
+        "description": "El Abeto Noble debe podarse a finales del invierno o principios de la primavera. La poda debe ser mínima, enfocándose en eliminar ramas muertas, dañadas o enfermas. Si es necesario, se pueden eliminar las puntas en crecimiento para mantener el tamaño, la forma y el ángulo de ramificación deseados. Evite cortar ramas en áreas densamente cargadas; en su lugar, estas áreas deben aclararse. Además, limite la poda a no más del 10% del follaje cada año para evitar posibles problemas de mortalidad o enfermedad."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "scientific_name": [
+      "Acer ginnala 'Ruby Slippers'"
+    ],
+    "common_name": "Arce de Amur Ruby Slippers",
+    "attracts": [],
+    "care_level": "",
+    "description": "El Arce de Amur Ruby Slippers es una especie vegetal asombrosa que puede sobrevivir en condiciones extremas. Tiene un hábito vertical único, follaje que crece en el sentido de las agujas del reloj y tallos rojos brillantes, lo que lo convierte en un excelente árbol ornamental. Su follaje veraniego de color verde intenso con un patrón de márgenes blancos cremosos, junto con su llamativo color rojo de los tallos en otoño e invierno, le confiere una belleza única. Es de rápido crecimiento y tolera el calor extremo, la sequía y las bajas temperaturas. También prospera en una variedad de suelos y requiere poco mantenimiento. Por lo tanto, el Arce de Amur Ruby Slippers es una especie increíble para tener en tu jardín, añadiendo belleza y color durante todo el año.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "púrpura",
+      "rubí"
+    ],
+    "maintenance": "",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por Injerto",
+      "Propagación por Acodo",
+      "Propagación por Acodo Aéreo",
+      "División de Raíz"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1226",
+        "type": "watering",
+        "description": "El Arce de Amur Ruby Slippers necesitará ser regado de forma regular, aproximadamente una vez a la semana. Es mejor esperar hasta que la capa superficial del suelo, alrededor de una pulgada, se haya secado antes de regar. La cantidad de agua que se debe dar a la planta puede variar según el tamaño de la maceta y la época del año, pero en general, intenta proporcionar un buen remojo que deje toda la masa de raíces igualmente húmeda. Presta atención a las hojas de la planta en busca de signos de marchitez, lo cual podría indicar que necesita más agua. Durante los meses más cálidos del verano, puede ser necesario regar tan a menudo como cada dos días. Mientras que el Arce de Amur Ruby Slippers no debe dejarse secar completamente, es importante no excederse en el riego, ya que demasiada humedad puede causar podredumbre radicular."
+      },
+      {
+        "id": "1227",
+        "type": "sunlight",
+        "description": "El Arce de Amur Ruby Slippers es una especie de planta caducifolia que se desarrolla mejor a pleno sol, es decir, necesita entre 6-8 horas de luz solar directa al día. Esta especie de arce es más adecuada para ubicaciones que reciben abundante luz natural, aunque también puede prosperar con sol parcial o luz indirecta."
+      },
+      {
+        "id": "1228",
+        "type": "pruning",
+        "description": "La poda del Arce de Amur Ruby Slippers debe realizarse a finales de primavera o principios de verano, después de que haya terminado de florecer y antes de que comience el nuevo crecimiento. El grado de poda para esta especie de árbol es moderado, lo que significa que se debe eliminar aproximadamente un tercio de la estructura de ramas existente para fomentar un crecimiento nuevo y saludable. Para asegurar que el árbol luzca su mejor aspecto, se deben retirar las ramas muertas, enfermas o rotas, así como aquellas que se rocen entre sí o crezcan en una dirección no deseada. También es aconsejable adelgazar el dosel para aumentar el flujo de aire y la penetración de la luz."
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "scientific_name": [
+      "Acer japonicum 'Aconitifolium'"
+    ],
+    "common_name": "Arce Fullmoon de Hoja Cortada",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce Fullmoon de Hoja Cortada es uno de los árboles más hermosos de la naturaleza. Sus hojas intrincadas y delicadas tienen lóbulos profundos y patrones de lobulación únicos, cada uno demostrando su propio carácter distintivo. Su follaje verde plateado se torna amarillo dorado en otoño. El Arce Fullmoon de Hoja Cortada produce largas y elegantes ramas con flores grandes y plenas que brillan a la luz de la luna. En primavera, el follaje emerge en una brillante gama de suaves rosados, blancos y amarillos. Este sorprendente espectáculo le da su nombre, Arce Fullmoon de Hoja Cortada. Combinado con su hermosa corteza que adquiere un atractivo tono blanquecino, este árbol es una adición impresionante a cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Rojo púrpura",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Sureste de Asia",
+      "Japón",
+      "China"
+    ],
+    "other_name": [
+      "Arce fullmoon de hoja de helecho"
+    ],
+    "pest_susceptibility": [
+      "Pulgones",
+      "adelgidos",
+      " Cáncer",
+      "podredumbre de savia",
+      " Oruga",
+      "gusano cortador",
+      " Mancha foliar fúngica",
+      " Agallas",
+      " Podredumbre del corazón",
+      " Ácaros",
+      " Podredumbre de raíces",
+      " Insectos escama",
+      " Marchitez"
+    ],
+    "propagation": [
+      "Esqueje",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [
+      "Rico en humus",
+      " Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1235",
+        "type": "watering",
+        "description": "El Arce Fullmoon de Hoja Cortada debe ser regado regularmente durante la temporada de crecimiento, generalmente cuando la pulgada superior de tierra se seca. En general, este árbol requiere de una a dos pulgadas de agua por semana. Es mejor regar profundamente, es decir, lentamente y durante un período de tiempo prolongado, para que el agua penetre en las primeras 12 pulgadas de suelo."
+      },
+      {
+        "id": "1236",
+        "type": "sunlight",
+        "description": "El Arce Fullmoon de Hoja Cortada (Acer japonicum 'Aconitifolium') generalmente necesita sol pleno a parcial. Prefiere tener sol de la mañana y sombra por la tarde en áreas con climas cálidos. Durante la temporada de crecimiento, esta planta necesita al menos 6 horas de luz solar directa al día. En invierno, la cantidad de luz deberá reducirse a únicamente luz indirecta o difusa."
+      },
+      {
+        "id": "1237",
+        "type": "pruning",
+        "description": "El Arce Fullmoon de Hoja Cortada es una planta de bajo mantenimiento, y debe podarse a inicios de la primavera, justo cuando comienza el nuevo crecimiento. La poda debe ser ligera, eliminando solo las ramas muertas o dañadas, o las ramas que se crucen o estén demasiado cerca unas de otras. El Arce Fullmoon de Hoja Cortada también puede arreglarse ligeramente en verano para mantener una forma agradable. No elimine más del 25% del follaje en una misma temporada. La poda regular estimulará un crecimiento más vigoroso y saludable para esta especie de arce."
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "scientific_name": [
+      "Acer japonicum 'Aureum'"
+    ],
+    "common_name": "Arce de Luna Llena Dorado",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce de Luna Llena Dorado es una asombrosa especie de planta debido a sus deslumbrantes hojas de color amarillo dorado, que centellean al sol. Este árbol es un espectáculo digno de ver, especialmente en otoño, cuando las hojas se tornan de un dorado más intenso. Su corteza es lisa y de color claro, y sus ramas están suavemente curvadas y tienen una forma atractiva. Esta especie de arce es fácil de cultivar y prospera en pleno sol o sombra parcial, junto con suelo fértil bien drenado. También es resistente a la mayoría de las plagas y enfermedades, lo que lo convierte en una opción ideal para el jardín o el patio trasero. Con su forma elegante y hermosas hojas, el Arce de Luna Llena Dorado es verdaderamente una destacada en el paisaje.",
+    "family": "/",
+    "flower_color": "",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "/",
+    "leaf_color": [
+      "dorado",
+      "amarillo"
+    ],
+    "maintenance": "/",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Acodo Aéreo",
+      "Propagación por Injerto",
+      "Esquejes",
+      "División",
+      "Propagación por Semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "1250",
+        "type": "watering",
+        "description": "El Arce de Luna Llena Dorado debe ser regado cuando las 2 pulgadas superiores del suelo estén secas, generalmente al menos una vez a la semana. Riegue profundamente hasta que comience a gotear en la parte inferior de la maceta. En los meses de verano, cuando la temperatura es más alta, riegue con más frecuencia para mantener el suelo húmedo. Para evitar el amarillamiento de las hojas, reduzca el agua en los meses de invierno."
+      },
+      {
+        "id": "1251",
+        "type": "sunlight",
+        "description": "El Arce de Luna Llena Dorado (Acer japonicum 'Aureum') prospera en luz solar directa o sombra parcial, aunque prefiere un lugar más soleado. Es mejor proporcionarle 4-5 horas de luz solar directa cada día. Plantarlo en un lugar que reciba sol directo por la mañana y tarde, o todo el día con luz difusa, es ideal. Además, evite el sobrecalentamiento evitando el sol pleno y directo en la parte más calurosa del día (generalmente a última hora de la tarde)."
+      },
+      {
+        "id": "1252",
+        "type": "pruning",
+        "description": "El Arce de Luna Llena Dorado es un árbol caducifolio que debe podarse a finales del invierno o principios de la primavera, cuando el árbol aún está en reposo y no está en crecimiento activo. Es importante evitar podar demasiado durante la temporada de crecimiento, ya que esto puede debilitar severamente las yemas y disminuir su potencial de floración.\n\nLa poda debe centrarse en las ramas muertas y dañadas, así como en las ramas grandes que interfieren con otras ramas y en las cruzadas. Pode las ramas a un tercio de su longitud. Corte en ángulo para que el agua pueda fluir fácilmente lejos del corte y prevenir enfermedades."
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "scientific_name": [
+      "Acer macrophyllum"
+    ],
+    "common_name": "Arce de Hoja Grande",
+    "attracts": [
+      "Ardillas",
+      "Abejas"
+    ],
+    "care_level": "Medio",
+    "description": "El Arce de Hoja Grande (Acer macrophyllum) es una increíble especie de árbol de arce. Es nativo de la región occidental de América del Norte, alcanzando hasta 30 metros de altura en algunas áreas. Sus hojas son extremadamente grandes, llegando a medir hasta 30 centímetros de ancho y largo, y son de un verde brillante en los meses de verano. En otoño, las hojas se vuelven de un amarillo impresionante, naranja, o incluso una mezcla de ambos colores. El Arce de Hoja Grande es apreciado por su madera dura, lo que lo hace popular para muchos muebles y opciones de pisos. Su tamaño impresionante, color vibrante y madera útil lo convierten en una especie de árbol realmente maravillosa.",
+    "family": "Sapindaceae",
+    "flower_color": "Amarillo verdoso",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Columbia Británica",
+      "California",
+      "Oregón",
+      "Washington"
+    ],
+    "other_name": [
+      "Arce de Oregón"
+    ],
+    "pest_susceptibility": [
+      "Mancha foliar fúngica",
+      "Podredumbre del corazón",
+      "Moho",
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [
+      "Franco arenoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1259",
+        "type": "watering",
+        "description": "El Arce de Hoja Grande debe ser regado una o dos veces por semana, dependiendo de la temporada y las condiciones del suelo. El área debe ser regada a fondo hasta que el agua salga por los agujeros de drenaje. Si el árbol se cultiva en un contenedor, debe ser regado hasta que el suelo esté húmedo pero no empapado. La cantidad de agua depende del tipo de suelo, el tamaño del contenedor y el clima; puede variar de 2 a 5 galones de agua por semana."
+      },
+      {
+        "id": "1260",
+        "type": "sunlight",
+        "description": "Los árboles de Arce de Hoja Grande necesitan pleno sol para prosperar y alcanzarán un crecimiento óptimo en áreas donde reciban de 6 a 8 horas de luz solar directa y sin filtrar al día. Esta especie puede tolerar temperaturas frías e incluso puede crecer en climas más secos del sur siempre que se les proporcione suficiente sombra y protección durante la parte más calurosa del día. Mientras tengan acceso a mucha luz, los Arces de Hoja Grande responderán positivamente y crecerán vigorosamente."
+      },
+      {
+        "id": "1261",
+        "type": "pruning",
+        "description": "El Arce de Hoja Grande (Acer macrophyllum) debe ser podado a finales del invierno o principios de la primavera. La poda debe ser ligera. Se deben eliminar las ramas muertas, dañadas y enfermas. Las ramas deben ser aclaradas, lo que permitirá una mejor circulación del aire, exposición al sol, y alentará el nuevo crecimiento. Es importante no podar más del 15-20% del follaje total del árbol. Esta especie de arce puede producir una profusión de brotes durante la temporada de crecimiento, los cuales deben ser eliminados desde su base."
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "scientific_name": [
+      "Acer palmatum 'Alpenweiss'"
+    ],
+    "common_name": "Arce Japonés Enano Variegado Alpenweiss*",
+    "attracts": [],
+    "care_level": "",
+    "description": "Acer palmatum 'Alpenweiss' es una increíble especie de arce japonés enano con hojas variegadas únicas. Este pequeño árbol tiene un hábito bajo y extendido, lo que lo hace perfecto para una variedad de ambientes de jardín. Durante la primavera y el verano, su follaje es una encantadora mezcla de tonos crema y blanco, que se tornan lentamente en tonos más profundos de amarillo y naranja con la llegada del otoño. Además de su hermoso follaje, produce pequeñas y delicadas flores de color rosa y rojo durante los meses de primavera. Dado que su pequeño tamaño no requiere poda, el Acer palmatum 'Alpenweiss' es un acento de bajo mantenimiento para muchos diseños de paisaje.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "blanco"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Injerto",
+      "Propagación por Acodo",
+      "Esqueje",
+      "Propagación por Acodo Aéreo",
+      "División de Raíz"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "4900",
+        "type": "watering",
+        "description": "Riega tu Arce Japonés Enano Variegado Alpenweiss (Acer palmatum 'Alpenweiss') regularmente durante su período de establecimiento (los primeros 2 períodos de crecimiento). Riega profundamente una vez cada 7-10 días, o con más frecuencia durante periodos calurosos y secos. Después de eso, puedes regar tu arce con menos frecuencia. Durante su establecimiento y su madurez, riégalo profundamente cuando el suelo se sienta seco al tacto a unos 5-7 centímetros de profundidad."
+      },
+      {
+        "id": "4901",
+        "type": "sunlight",
+        "description": "Para un crecimiento óptimo, el Arce Japonés Enano Variegado Alpenweiss debe recibir un mínimo de 4 horas de luz solar directa cada día durante la temporada de crecimiento pico (aproximadamente de abril a octubre). Puede tolerar un poco más de sol si las temperaturas no son demasiado extremas, pero si sus hojas desarrollan manchas quemadas o el color se desvanece, es probable que esté recibiendo demasiado sol directo. En los meses más fríos, cuando los rayos del sol no son tan intensos, es mejor proporcionarle al Arce Japonés Enano Variegado Alpenweiss solo 2 o 3 horas de luz solar directa cada día."
+      },
+      {
+        "id": "4902",
+        "type": "pruning",
+        "description": "El Arce Japonés Enano Variegado Alpenweiss debe podarse durante la temporada de inactividad, generalmente entre finales de otoño y principios de primavera. La poda debe ser ligera, enfocándose en eliminar ramas muertas o dañadas, así como el crecimiento que está desequilibrado con la forma general de la planta. Para mantener una salud óptima y mantener el arbusto compacto, poda ligeramente los brotes de más de unos pocos centímetros de longitud y elimina aquellos que van en otras direcciones. Es fundamental recordar que la poda del Acer palmatum 'Alpenweiss' debe hacerse infrecuentemente y no excesivamente, ya que puede causar daño a largo plazo al arce japonés enano."
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "scientific_name": [
+      "Acer palmatum 'Atrolineare'"
+    ],
+    "common_name": "Arce de Cinco Lobos de Hoja de Cinta*",
+    "attracts": [],
+    "care_level": "Alto",
+    "description": "El Arce de Cinco Lobos de Hoja de Cinta (Acer palmatum 'Atrolineare') es un ejemplar de arce deslumbrantemente hermoso. Presenta delicadas hojas en forma de cinta que crean un efecto en cascada y encaje. Las hojas emergen de un verde brillante en primavera y se profundizan hasta un majestuoso púrpura oscuro durante los meses de verano. Es bastante tolerante a diferentes condiciones y es una excelente opción para jardines pequeños y como planta en maceta. Además, su lento crecimiento facilita el mantenimiento y exhibe un impresionante rango de colores durante toda la temporada. Perfecto para agregar drama al jardín, ¡el Arce de Cinco Lobos de Hoja de Cinta es imprescindible para el jardinero ávido!",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "púrpura",
+      "naranja"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Arce Japonés de Hoja de Cinta Roja"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "Esqueje",
+      "Propagación por acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "4915",
+        "type": "watering",
+        "description": "El Arce de Cinco Lobos de Hoja de Cinta debe regarse cuando la pulgada superior del suelo esté seca. El riego debe hacerse de manera profunda y uniforme, y es importante no regar demasiado rápido para evitar quemaduras en las hojas. La cantidad de agua depende del tamaño de la planta, la temperatura y la humedad, pero como regla general, el suelo debe mantenerse uniformemente húmedo. Riegue la planta cada pocos días en primavera y verano, y cada 7-14 días en otoño e invierno. Asegúrese de no permitir que el agua quede estancada alrededor de las raíces de la planta, ya que es sensible al suelo encharcado."
+      },
+      {
+        "id": "4916",
+        "type": "sunlight",
+        "description": "El Arce de Cinco Lobos de Hoja de Cinta (Acer palmatum 'Atrolineare') crecerá mejor a pleno sol o en sombra parcial. Esta planta debe recibir al menos 4-6 horas de luz solar directa cada día para prosperar. Si la planta está más en la sombra, requerirá menos luz solar, lo cual puede ser tan poco como 2-3 horas por día. Sin embargo, cuando se cultiva en un lugar muy sombreado, la planta puede no mostrar sus colores vibrantes y follaje de manera uniforme."
+      },
+      {
+        "id": "4917",
+        "type": "pruning",
+        "description": "El Arce de Cinco Lobos de Hoja de Cinta (Acer palmatum 'Atrolineare') debe podarse ligeramente a inicios de la primavera, antes de que aparezca un nuevo crecimiento. Podar demasiado tarde en el año puede dañar los nuevos brotes. La planta debe podarse de manera que mantenga su forma natural y se eliminen con cuidado las ramas muertas o dañadas. Recortar brotes largos a la longitud deseada y adelgazar la planta para permitir una mejor circulación del aire también puede ayudar a mantenerla saludable. Se debe retirar aproximadamente un tercio del crecimiento total cada año, incluyendo cualquier rama enferma o dañada."
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "scientific_name": [
+      "Acer palmatum 'Autumn Fire'"
+    ],
+    "common_name": "Arce Japonés Fuego de Otoño",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce Japonés Fuego de Otoño es una especie de planta increíble debido a su impresionante belleza en otoño. Sus hojas empiezan a tornarse de un rojo brillante durante el otoño, proporcionando un contraste vibrante y colorido. Su follaje es delicado con cinco lóbulos puntiagudos y su tasa de crecimiento es más lenta que otras variedades de arce. El Arce Japonés Fuego de Otoño también es de bajo mantenimiento, una excelente opción para áreas pequeñas, y puede tolerar tanto la luz como la sombra parcial. Su apariencia única es perfecta para cualquier jardín o paisaje y será un destacado durante muchos años.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Herbstfeuer"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Esquejes",
+      "Acodo",
+      "Acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "septiembre",
+      "octubre",
+      "noviembre",
+      "febrero",
+      "marzo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "4924",
+        "type": "watering",
+        "description": "El Arce Japonés Fuego de Otoño debe ser regado profundamente pero con poca frecuencia, permitiendo que los primeros centímetros del suelo se sequen entre riego y riego. Durante la temporada de crecimiento (primavera y verano), se deben aplicar aproximadamente 1-2 pulgadas de agua cada 7-10 días, dependiendo del tipo de suelo y el clima. En áreas con veranos calurosos, puede ser necesario regar más a menudo. En otoño e invierno, cuando la planta está en reposo, reduzca la frecuencia de riego a cada 2 semanas."
+      },
+      {
+        "id": "4925",
+        "type": "sunlight",
+        "description": "El Arce Japonés Fuego de Otoño requiere de 6 a 8 horas de sol al día. Prefiere estar en un lugar con sol por la mañana y sombra ligera por la tarde para proteger las hojas de quemaduras bajo el sol pleno. Esta especie es tolerante al calor y la sequía e incluso puede tolerar la sombra parcial, pero demasiada sombra reducirá la belleza del follaje."
+      },
+      {
+        "id": "4926",
+        "type": "pruning",
+        "description": "El Arce Japonés Fuego de Otoño debe podarse a finales del invierno, típicamente en febrero o marzo. La poda debe centrarse en eliminar cualquier crecimiento muerto o dañado, aclarar el follaje denso y mantener la forma deseada del árbol. Evite podar en exceso, ya que esto puede estimular un crecimiento excesivo e inhibir la floración el año siguiente. No se debe eliminar más de un tercio del dosel anualmente."
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "scientific_name": [
+      "Acer palmatum 'Beni Kawa'"
+    ],
+    "common_name": "Arce japonés de corteza coral 'Beni Kawa'",
+    "attracts": [],
+    "care_level": "",
+    "description": "¡El arce japonés de corteza coral 'Beni Kawa' es una vista cautivadora! Este pequeño árbol es admirado por su impresionante corteza de color rojo coral y sus vibrantes hojas amarillo-verdosas. Es el espécimen perfecto para adornar cualquier jardín, grande o pequeño, ya que puede alcanzar un tamaño máximo de hasta 15 pies de altura, convirtiéndose en un hermoso árbol pequeño con un gran follaje vistoso. Es conocido por su forma redonda y elegante y su excepcional rango de colores, agregando un toque de color vivo a un entorno de jardín. También es tolerante a la mayoría de las condiciones de suelo y una variedad de climas, y puede adaptarse a condiciones de sombra total, parcial o incluso ligera. ¡Es verdaderamente un deleite para los jardineros!",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Acodo",
+      "Esquejes",
+      "Acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "2983",
+        "type": "watering",
+        "description": "Para el arce japonés de corteza coral 'Beni Kawa' (Acer palmatum 'Beni Kawa'), se recomienda regarlo profundamente al menos dos veces por semana. La cantidad exacta dependerá de la época del año, las condiciones en que la planta esté creciendo y los requisitos de agua del suelo. Durante el verano, es necesario regar la planta con más frecuencia, ya que tiende a requerir más humedad en este período. Sin embargo, en invierno, la planta puede recibir menos riegos y solo cuando las primeras 2 pulgadas del suelo en la maceta estén secas. Es importante evitar el exceso de agua, ya que esto puede causar problemas como la pudrición de las raíces. Además, proporcionar un drenaje adecuado puede ayudar a evitar el encharcamiento."
+      },
+      {
+        "id": "2984",
+        "type": "sunlight",
+        "description": "El arce japonés de corteza coral 'Beni Kawa' debe plantarse en un área que reciba luz solar durante todo el día, al menos 6-7 horas. Esta especie de arce prefiere el sol de la mañana y la sombra de la tarde, por lo que es mejor colocarlo en un lugar que le permita recibir la cantidad más consistente de luz solar sin tener una exposición directa intensa más tarde en el día."
+      },
+      {
+        "id": "2985",
+        "type": "pruning",
+        "description": "Para el arce japonés de corteza coral 'Beni Kawa', la poda debe realizarse a principios de primavera, antes de que aparezca un nuevo crecimiento. La poda debe mantenerse al mínimo; el árbol solo debe podarse para eliminar ramas muertas, enfermas o cruzadas y para corregir una forma no deseada. Generalmente, solo se debe podar entre 10-20% del crecimiento total cada año. Esto permite que la planta mantenga su forma natural y que las ramas se espesen, desarrollando resistencia contra el viento y otros elementos."
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "scientific_name": [
+      "Acer palmatum 'Arakawa'"
+    ],
+    "common_name": "Arakawa Cork Bark Japanese Maple",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El Arce japonés de corteza de corcho Arakawa (Acer palmatum 'Arakawa') es un árbol increíble para incluir en cualquier jardín. Con un interés durante todo el año, tiene un hermoso follaje y una corteza inusual. Las delicadas hojas de cinco lóbulos son de un verde brillante en verano, cambiando a naranja y amarillo en otoño. Su corteza es impresionante, con crestas gruesas y corchosas, que aportan un elemento de belleza rústica. Además, es ideal para espacios pequeños ya que solo crece hasta 5 metros de altura y solo tarda alrededor de 10 años en alcanzar su tamaño completo. Añádelo a un lugar soleado pero protegido para obtener el mejor rendimiento.",
+    "family": "Sapindaceae",
+    "flower_color": "Púrpura rojizo",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "púrpura",
+      "naranja"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "púrpura",
+      "naranja"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Arce japonés de corteza áspera",
+      "Arakawa Ukon"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Esqueje",
+      "Acodo",
+      "Acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1280",
+        "type": "watering",
+        "description": "Para obtener resultados óptimos, los Arces japoneses de corteza de corcho Arakawa deben regarse de manera constante y uniforme. Durante los períodos de crecimiento activo de la planta, se debe regar una o dos veces por semana para asegurar que el suelo permanezca uniformemente húmedo. Se debe permitir que el suelo casi se seque entre riegos; sin embargo, durante períodos de calor extremo o falta de lluvia, puede ser beneficioso realizar riegos adicionales."
+      },
+      {
+        "id": "1281",
+        "type": "sunlight",
+        "description": "El Arce japonés de corteza de corcho Arakawa (Acer palmatum 'Arakawa') prefiere el pleno sol por la mañana y la tarde, pero también prosperará en sombra parcial. Esta especie debe recibir al menos 6 horas de luz solar directa durante las horas pico de luz diurna de 10 am a 4 pm. Este tipo de arce se ha conocido por adaptarse bien tanto a condiciones de luz alta como baja. Es versátil y puede adaptarse a diferentes niveles de exposición. En áreas de poca luz, puede ser beneficioso un poco de sombra en la tarde de verano. Demasiada luz solar directa puede causar quemaduras solares o, en algunos casos, quemaduras en las hojas."
+      },
+      {
+        "id": "1282",
+        "type": "pruning",
+        "description": "Los Arces japoneses de corteza de corcho Arakawa deben podarse a finales de primavera, después de que haya pasado cualquier amenaza significativa de heladas. Pode ligeramente y con cuidado: eliminando solo tallos y ramas que se crucen o se froten entre sí, así como aquellas que estén muertas o enfermas. Además, la poda debe realizarse para fomentar una mejor estructura y crecimiento simétrico. Asegúrese de dejar un marco equilibrado y uniforme al podar. Al dar forma al árbol, procure eliminar no más de un tercio del crecimiento vivo."
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "scientific_name": [
+      "Acer palmatum"
+    ],
+    "common_name": "Arce Japonés",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Arce Japonés, o Acer Palmatum, es un pequeño árbol hermoso y una increíble adición a cualquier paisaje. Su delicado follaje ofrece una increíble gama de colores, desde rojos vibrantes hasta verdes profundos a lo largo de la temporada de crecimiento. En otoño, sus hojas se vuelven amarillas y naranjas, y finalmente bronce. Con sus ramas intrincadas y colores vibrantes, es una vista digna de admirar. Esta especie también es preferida por su versatilidad, ya que crece bien tanto en jardines de macetas como en grandes espacios al aire libre. Su tamaño pequeño lo hace una opción ideal para una variedad de entornos, siendo una opción excelente para cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Púrpura rojizo",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "púrpura",
+      "naranja",
+      "marrón",
+      "burdeos"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "púrpura",
+      "naranja"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Corea",
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Antracnosis",
+      "Cancro",
+      "podredumbre del sapo",
+      "Oruga",
+      "gusano cortador",
+      "Moho",
+      "Marchitez",
+      "Resistente a plagas",
+      "Resistente a enfermedades",
+      "Resistente a conejos"
+    ],
+    "propagation": [
+      "Acodo aéreo",
+      "Injerto",
+      "Esquejes",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "1271",
+        "type": "watering",
+        "description": "Riega los arces japoneses al menos una vez por semana. El riego debe hacerse por la mañana o al anochecer cuando las temperaturas son suaves, ya que las temperaturas altas pueden hacer que las gotas de agua aumenten y quemen las hojas. Revisa el suelo antes de regar para ver si está seco; si es así, riega generosamente; si el suelo todavía está húmedo del último riego, reduce la cantidad de agua utilizada. Cuando riegues, asegúrate de regar la zona de las raíces del árbol y no solo las hojas."
+      },
+      {
+        "id": "1272",
+        "type": "sunlight",
+        "description": "El Arce Japonés debe colocarse en un lugar que reciba de 3 a 6 horas de luz solar directa por día, preferiblemente por la mañana para obtener mejores resultados. Se debe evitar el sol directo del mediodía, ya que puede causar quemaduras en las hojas. Los arces japoneses también pueden tolerar sombra parcial, pero no prosperarán si se colocan en un lugar completamente sombreado. Si es posible, la planta debe estar protegida de los vientos fuertes, que pueden quemar las hojas, y debe regarse regularmente a lo largo de la temporada de crecimiento."
+      },
+      {
+        "id": "1273",
+        "type": "pruning",
+        "description": "La poda de los arces japoneses debe realizarse a finales del invierno o principios de la primavera cuando los árboles aún están en reposo. La poda debe ser ligera, removiendo no más de 1/3 de los total de copas de los arces. La poda debe centrarse en eliminar ramas muertas y cruzadas, aclarar áreas densas y recortar ramas largas y desarregladas. Esto permitirá que la luz y el aire penetren en el dosel, mejorará la fuerza estructural y ayudará a prevenir enfermedades e infestaciones de plagas. En general, no se deben eliminar más de 5 ramas en una temporada, ya que esto puede causar un estrés indebido para el árbol si se elimina más de eso."
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "scientific_name": [
+      "Acer palmatum 'Chitose Yama'"
+    ],
+    "common_name": "Arce japonés Chitose Yama",
+    "attracts": [],
+    "care_level": "",
+    "description": "El Arce japonés Chitose Yama es un árbol impresionante que puede embellecer cualquier jardín. Su follaje verde suave está estriado con un patrón amarillento-anaranjado, y en otoño, las hojas se tornan de un asombroso color rosa. Es ideal para jardines pequeños, ya que sólo crece hasta 3 metros de altura, pero incluso con su pequeño tamaño tiene una presencia audaz. El follaje brillante y exuberante puede ser un punto focal atractivo, añadiendo un toque de personalidad a cualquier jardín. Además, su crecimiento es lento, eliminando la preocupación de un rápido crecimiento invasivo. Planta el Arce japonés Chitose Yama y admira su belleza todo el año.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Chitoseyama"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Esqueje",
+      "Propagación por acodo",
+      "Propagación por acodo aéreo",
+      "Cultivo in vitro"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "4963",
+        "type": "watering",
+        "description": "El Arce japonés Chitose Yama debe regarse regularmente. Riégalo aproximadamente 2 o 3 veces por semana, permitiendo que el suelo se seque un poco entre riegos. La planta prospera mejor en un suelo húmedo que nunca esté seco o saturado. Evita el exceso de agua, ya que puede causar que las hojas se caigan y se produzca pudrición en las raíces. Asegúrate de que el suelo drene bien para evitar la acumulación de agua en la zona de las raíces. Durante el clima cálido, asegúrate de regar la planta con mayor frecuencia. Si no estás seguro de cuándo regar, una buena regla es revisar el suelo a unos 5 centímetros de profundidad para ver si está seco. Si es así, es hora de regar."
+      },
+      {
+        "id": "4964",
+        "type": "sunlight",
+        "description": "El Arce japonés Chitose Yama se desarrolla mejor cuando está expuesto a la luz solar directa al menos 3-4 horas al día. Prefiere el sol de la mañana y sombra por la tarde, preferiblemente sombra parcial, lo que ayuda a proteger su delicado follaje del calor de la tarde y asegura un crecimiento adecuado. Durante los períodos de clima especialmente caluroso, puede ser beneficioso proporcionar sombra adicional o mover la planta a un área más sombreada."
+      },
+      {
+        "id": "4965",
+        "type": "pruning",
+        "description": "El Arce japonés Chitose Yama debe podarse entre finales del invierno y principios de la primavera, justo antes de que rompa la dormancia. La poda debe ser mínima, no más de un tercio de las ramas deben ser cortadas cada año. Retira cualquier rama muerta, enferma o dañada y adelgaza el dosel para mejorar la circulación de aire y la penetración de luz. Esto debería permitir un crecimiento más vigoroso y denso del follaje. Pode el arbusto en su forma natural, evitando cortes que dejen heridas grandes de poda o que produzcan una muerte regresiva excesiva."
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "scientific_name": [
+      "Acer palmatum 'Chantilly Lace'"
+    ],
+    "common_name": "Arce Japonés Chantilly Lace",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El Arce Japonés Chantilly Lace es una verdadera obra maestra de la belleza de la naturaleza. Con un follaje profundamente dividido de color verde oscuro y bordes vívidos amarillos y blancos, es un hermoso espécimen que puede aportar un toque de elegancia a cualquier jardín. No solo es hermoso, alcanzando hasta 8 metros de altura y ancho, sino que también requiere muy poco mantenimiento. Perfecto para todo tipo de suelos y climas, también es muy resistente a plagas y enfermedades. El Arce Japonés Chantilly Lace es una asombrosa combinación de forma y función que seguramente llamará la atención en cualquier entorno de jardín.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rosa",
+      "blanco"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Arce Japonés de Hojas Alambre"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Acodo",
+      "Esqueje",
+      "Acodo Aéreo",
+      "División de Raíz"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Febrero",
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Fértil",
+      "Arcilloso",
+      "Arenoso"
+    ],
+    "watering_period": "Moderado",
+    "care_guides_details": [
+      {
+        "id": "4957",
+        "type": "watering",
+        "description": "El Arce Japonés Chantilly Lace generalmente requiere suelo moderadamente húmedo durante la temporada de crecimiento. Riegue esta planta dos veces por semana durante los meses de primavera y verano, asegurándose de que el suelo nunca se seque completamente. Durante los meses fríos de invierno, riegue solo cada 2 a 4 semanas o cuando el suelo esté seco a 2–4 centímetros por debajo de la superficie. Trate de mantener el suelo uniformemente húmedo durante todo el año, pero evite regar en exceso."
+      },
+      {
+        "id": "4958",
+        "type": "sunlight",
+        "description": "El Arce Japonés Chantilly Lace (Acer palmatum 'Chantilly Lace') necesita entre 4 y 6 horas de luz solar directa al día. Debe plantarse en un área que reciba sombra moteada brillante o sombra parcial el resto del día. Si la planta está a pleno sol, puede quemarse. Esta planta tolerará algo de sombra ligera, pero prefiere crecer a la luz solar indirecta brillante. El mejor momento del día para el Arce Japonés Chantilly Lace es temprano por la mañana, cuando el sol es más suave y el aire es fresco."
+      },
+      {
+        "id": "4959",
+        "type": "pruning",
+        "description": "El Arce Japonés Chantilly Lace debe podarse a finales del invierno o principios de la primavera antes de que aparezca el nuevo crecimiento. Corte cualquier rama cruzada o dañada y pode el árbol para darle forma y eliminar cualquier madera muerta o dañada. Aunque la poda debe mantenerse al mínimo, ayudará a mantener una forma saludable y atractiva. Apunte a eliminar no más de 1/3 de la longitud total de las ramas en cualquier momento, y en general, evite podar la madera vieja. El momento ideal para podar es entre febrero y abril."
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "scientific_name": [
+      "Acer palmatum 'Hogyoku'"
+    ],
+    "common_name": "Arce japonés Hogyoku",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El Arce japonés Hogyoku (Acer palmatum 'Hogyoku') es una especie vegetal asombrosa conocida por su belleza impresionante. Su follaje delicado emerge con un tono dorado y se convierte en un escarlata vivo durante los meses más fríos. Las flores rojas brillantes florecen en primavera y lucen hermosos tonos durante toda la temporada. El follaje se transforma en amarillo, naranja y rosa en otoño. El color sobresaliente de su corteza es una adición encantadora al paisaje, variando de rojo canela a naranja y amarillo. La belleza de su corteza con rayas de tigre realmente destaca en invierno. El Hogyoku es fácil de cultivar y requiere poco mantenimiento. También se adapta extremadamente bien a los contenedores, creando un acento impresionante para cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Púrpura rojizo",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "Esquejes",
+      "Propagación por acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Abril",
+      "Agosto",
+      "Agosto",
+      "Marzo",
+      "Abril",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "4996",
+        "type": "watering",
+        "description": "Los arces japoneses Hogyoku deben regarse profundamente cuando el suelo esté seco a unos 3-5 centímetros de profundidad. Siempre verifique la humedad del suelo antes de decidir cuánto y con qué frecuencia regar. Durante la temporada de crecimiento, planifique regar al menos una vez por semana, o más a menudo dependiendo del clima de su área. En los meses de invierno, riegue con menos frecuencia, permitiendo que el suelo se seque en su mayoría entre riegos."
+      },
+      {
+        "id": "4997",
+        "type": "sunlight",
+        "description": "El Arce japonés Hogyoku (Acer palmatum 'Hogyoku') necesitará de 4 a 6 horas de luz solar directa al día para crecer bien. Sin embargo, no debe estar expuesto a la luz solar directa y fuerte del mediodía, ya que puede quemar las hojas. El mejor momento para que la planta reciba luz solar directa es temprano en la mañana o al final de la tarde, cuando su intensidad es mucho menor y no quemará las hojas."
+      },
+      {
+        "id": "4998",
+        "type": "pruning",
+        "description": "El Arce japonés Hogyoku debe podarse dos veces al año: una poda ligera a principios de primavera (abril) y una poda más intensa a finales del verano (agosto). A principios de primavera, retire las ramas muertas o dañadas, así como cualquier hijuelo que surja del sistema radicular. A fines del verano, retire cualquier rama grande que esté aglomerando otras ramas y aclarear cualquier área con demasiadas ramas delgadas. No corte todas las ramas de una vez ni retire más de un tercio de las ramas totales del árbol en un solo año. Después de la poda, proporcione al árbol agua adicional para ayudarlo a recuperarse y reponer los nutrientes esenciales."
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "scientific_name": [
+      "Acer palmatum 'Green Mist'"
+    ],
+    "common_name": "Arce Japonés Niebla Verde*",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Arce Japonés Niebla Verde es un impresionante árbol ornamental que agrega color y estilo a cualquier jardín. Con su follaje verde brillante que madura a amarillo y naranja en el otoño, crea un paisaje impresionante. Su tamaño pequeño lo hace adecuado para cualquier espacio al aire libre, mientras que su lento ritmo de crecimiento asegura que el árbol siempre luzca en su mejor forma. También es fácil de cuidar y se adapta a una variedad de condiciones, lo que lo convierte en una opción ideal tanto para jardineros aficionados como para estilos de vida ocupados. Este hermoso y resistente árbol es una manera segura de agregar un toque de elegancia y belleza vibrante a cualquier jardín.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "rosa"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Injerto",
+      "Propagación por Acodos",
+      "Esquejes",
+      "Propagación por Acodo Aéreo",
+      "División de Raíces"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "4984",
+        "type": "watering",
+        "description": "El Arce Japonés Niebla Verde (Acer palmatum 'Green Mist') requiere cantidades moderadas de riego. En general, es mejor regar la planta profundamente cada 7 a 10 días durante la temporada de crecimiento. Después de que caigan las hojas, riega la planta profundamente cada 10 a 14 días durante el invierno. Sin embargo, la frecuencia del riego debe ajustarse según las condiciones ambientales; por ejemplo, si las precipitaciones son escasas, aumenta la frecuencia de riego."
+      },
+      {
+        "id": "4985",
+        "type": "sunlight",
+        "description": "Los requisitos de luz solar para el Arce Japonés Niebla Verde son de moderada a brillante en la mañana o al atardecer. Se cultiva mejor a media sombra y puede soportar pleno sol siempre y cuando las temperaturas no sean demasiado altas. Idealmente, el Arce Japonés Niebla Verde debería recibir al menos 4 a 5 horas de luz solar directa cada día, distribuidas entre la mañana y la tarde. Cuando se planta en un lugar más soleado, se recomienda algo de sombra por la tarde para proteger contra el calor intenso del mediodía."
+      },
+      {
+        "id": "4986",
+        "type": "pruning",
+        "description": "El Arce Japonés Niebla Verde (Acer palmatum 'Green Mist') necesita ser podado a fines del invierno o principios de la primavera, antes de que aparezca el nuevo crecimiento. El momento de la poda es importante, ya que afectará la apariencia del árbol durante el resto de la temporada. Al podar, elimina solo las ramas muertas, enfermas o dañadas. Evita quitar madera sana, ya que esto reducirá el potencial de floración y fructificación. Puedes aclarar selectivamente las ramas, reduciendo su densidad, o cortar las ramas hasta los troncos principales o las horquetillas si es necesario. Evita la poda excesivamente agresiva, ya que la eliminación más drástica puede causar un crecimiento inadecuado, reduciendo la plenitud del dosel del árbol. El objetivo de la poda debe ser proporcionar estructura al árbol y ayudarlo a alcanzar su máximo potencial."
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "scientific_name": [
+      "Acer palmatum 'Inazuma'"
+    ],
+    "common_name": "Arce japonés Inazuma",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce japonés Inazuma (Acer palmatum 'Inazuma') es un árbol caducifolio impresionante y versátil que añade un aura serena y mística a cualquier jardín. Tiene un follaje delicado y plumoso de color verde claro durante el verano, y un vibrante amarillo durante el otoño. El invierno trae colores rojo fuego brillante que lucen simplemente espectaculares contra un fondo nevado. El arce japonés Inazuma es ideal para jardines y paisajes más pequeños ya que solo alcanza entre 4.5 y 6 metros de altura y ancho. Crece mejor en sombra ligera a pleno sol, añadiendo una dimensión única a cualquier área al aire libre. Podarlo para darle una forma bonita de bonsái, o déjelo en su forma natural y observe cómo la belleza de este árbol audaz y asombroso transforma su jardín.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo aéreo",
+      "Propagación por injerto",
+      "Esqueje",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "febrero",
+      "marzo",
+      "abril",
+      "febrero",
+      "marzo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5008",
+        "type": "watering",
+        "description": "Los Arces japoneses Inazuma deben regarse profundamente y con regularidad durante la primavera y el verano. Durante los meses cálidos de la temporada de crecimiento, asegúrese de regar el árbol profundamente una vez a la semana, permitiendo que el suelo se seque entre riegos. Durante los meses de invierno, el arce japonés Inazuma requiere menos agua y se puede regar aproximadamente dos veces al mes. Siempre riegue el árbol lenta y gradualmente en lugar de una sesión de riego superficial y rápida. Asegúrese de no regar en exceso el árbol, ya que esto puede causar pudrición de raíces y otras enfermedades."
+      },
+      {
+        "id": "5009",
+        "type": "sunlight",
+        "description": "El Arce japonés Inazuma (Acer palmatum ‘Inazuma’) es un árbol caducifolio que prospera en pleno sol a sombra parcial. Necesita al menos 6 horas de luz solar directa al día durante la temporada de crecimiento de primavera a verano y tolerará más luz solar directa en meses más frescos. Durante los meses más calurosos del verano, el sol de media mañana a media tarde es lo mejor, ya que esto ayudará al árbol a prevenir el escaldado de las hojas causado por la exposición directa prolongada."
+      },
+      {
+        "id": "5010",
+        "type": "pruning",
+        "description": "El arce japonés Inazuma (Acer palmatum 'Inazuma') debe podarse a finales del invierno o principios de la primavera antes de que comience el nuevo crecimiento, típicamente a finales de febrero o principios de marzo. Pode de manera que abra el árbol para permitir la entrada de luz y aumentar el flujo de aire. Elimine las ramas muertas o moribundas y cualquier rama que crezca hacia el centro del árbol o cruce otras ramas. Haga sus cortes de poda en ángulo justo por encima de una rama lateral para que la herida pueda sanar rápidamente. También elimine cualquier crecimiento ramificado que no sea lo suficientemente grande como para proporcionar interés al árbol. Después de la poda inicial, su Arce japonés Inazuma debe podarse solo con moderación, ya que no es una especie que necesite una poda regular. La poda regular puede debilitar el árbol, haciéndolo vulnerable a plagas."
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "scientific_name": [
+      "Acer palmatum 'Koto No Ito'"
+    ],
+    "common_name": "Arce japonés Koto No Ito",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "¡El Arce japonés Koto No Ito es una vista impresionante! Su llamativo follaje verde brillante lo hace destacar entre otros árboles. Su singular follaje voluminoso añade una textura única y un interés visual al paisaje. Sus elegantes ramas arqueadas crean un contraste pintoresco contra el cielo. Es una especie de crecimiento lento pero resistente que prospera en áreas con sombra parcial. Lo mejor de todo son sus impresionantes tonalidades otoñales de rojo y naranja que lo convierten en el centro de atención durante los meses más fríos. Sin duda, el Arce japonés Koto No Ito es una adición espectacular a cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "No llamativa, rojo oscuro",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "morado",
+      "naranja"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "rosado"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Origen de jardín"
+    ],
+    "other_name": [
+      "Cuerdas de Arpa",
+      "Koto-No-Ito"
+    ],
+    "pest_susceptibility": [
+      "Mancha foliar fúngica",
+      "Pudrición del corazón",
+      "Ácaros",
+      "Pudrición de la raíz",
+      "Insectos escama",
+      "Marchitamiento"
+    ],
+    "propagation": [
+      "Propagación por semilla",
+      "Esquejes",
+      "Propagación por injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Ácido",
+      "Rico en humus",
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5038",
+        "type": "watering",
+        "description": "El arce japonés Koto No Ito (Acer palmatum 'Koto No Ito') debe regarse una vez cada ciertas semanas, dependiendo de la temporada y el clima. Durante los meses de verano, rieguelo un poco más seguido y aumente la cantidad de agua cada vez. Sin embargo, durante los meses de invierno, reduzca la cantidad de agua y la frecuencia de riego. Al regar, empape completamente el suelo y evite mojar el follaje. Riegue hasta que la parte superior de 2 o 3 centímetros del suelo esté húmeda y deje secar el suelo antes de volver a regar."
+      },
+      {
+        "id": "5039",
+        "type": "sunlight",
+        "description": "El arce japonés Koto No Ito (Acer palmatum 'Koto No Ito') requiere de 5 a 6 horas de luz solar directa cada día, siendo el sol de la mañana y de la tarde más beneficiosos. Es importante notar que esta especie de arce prefiere más el sol de la mañana que el de la tarde, ya que el sol directo de la tarde puede ser demasiado caliente y causar quemaduras y daño solar a las hojas. Aunque el sol pleno ayudará a producir un follaje más grande y dará una mejor posibilidad de colores vibrantes en el otoño, la planta debe mantenerse alejada del sol caliente de la tarde durante los meses de verano."
+      },
+      {
+        "id": "5040",
+        "type": "pruning",
+        "description": "La poda del arce japonés Koto No Ito debe realizarse a finales del invierno o principios de la primavera, antes de que broten los capullos. Se debe tener cuidado de no eliminar demasiado follaje de la planta ya que el árbol crece muy lentamente. La poda debe centrarse en abrir el centro del árbol y eliminar las ramas cruzadas para aumentar la circulación del aire y mejorar la forma general del árbol. Las ramas muertas, enfermas o dañadas siempre deben eliminarse primero, y también se deben aclarar las ramas débiles o superpobladas para reducir el estrés en el árbol. Si es necesario, se puede realizar la eliminación selectiva de ramas más grandes para controlar el tamaño del árbol. La poda debe realizarse utilizando tijeras de podar o sierras afiladas y limpias, aplicando técnicas de poda tales como cortes por encima de una rama lateral."
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "scientific_name": [
+      "Acer palmatum 'Margaret Bee'"
+    ],
+    "common_name": "Arce Japonés Margaret Bee",
+    "attracts": [],
+    "care_level": "",
+    "description": "El Arce Japonés Margaret Bee es una especie única de arce que añade un toque de belleza a cualquier jardín. Sus hojas delicadas y pequeñas presentan una gama de tonalidades verdes que se transforman en un vibrante color rojo-anaranjado en el otoño. La estructura pequeña y erguida de este árbol lo hace perfecto para espacios reducidos o para cultivar en maceta bonsái. Es fácil de cuidar, requiriendo solo sol parcial y podas ocasionales. Este árbol puede ser una pieza de conversación en cualquier paisaje, ofreciendo una apariencia intrincada y hermosa con colores vivos para cada una de las cuatro estaciones.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Esqueje",
+      "Acodado",
+      "Acodo Aéreo",
+      "División de Raíz"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5044",
+        "type": "watering",
+        "description": "El Arce Japonés Margaret Bee requiere un riego regular durante la temporada de crecimiento y un poco menos de agua cuando está dormante en invierno. Durante los meses cálidos de verano, el árbol debe regarse profundamente una vez por semana y hasta cada dos días en casos de calor extremo. En el invierno, se debe reducir el riego a semanal o quincenal, asegurándose de que el suelo no se seque completamente. En cualquier temporada, preste atención a la condición del suelo y revíselo regularmente para asegurarse de que no esté demasiado seco o demasiado húmedo."
+      },
+      {
+        "id": "5045",
+        "type": "sunlight",
+        "description": "El Arce Japonés Margaret Bee (Acer palmatum 'Margaret Bee') debe plantarse en un área con sombra parcial y no bajo luz solar directa. Prosperará mejor con luz solar matutina y sombra ligera por la tarde. Durante el verano, se desea más sombra y durante el invierno más luz solar directa sería beneficiosa. Puede tolerar hasta 4 horas de luz solar directa o algo de luz solar tamizada durante el día, pero si recibe más, puede quemar sus delicadas hojas."
+      },
+      {
+        "id": "5046",
+        "type": "pruning",
+        "description": "Al podar un arce japonés Margaret Bee, se recomienda hacerlo a finales de primavera o principios de verano, después de que haya terminado la floración. Solo es necesario retirar la madera muerta, dañada o enferma. Elimine cualquier rama que cruce o se roce entre sí. Retire cualquier rama que esté demasiado cerca del centro del árbol y aquellas que sean demasiado largas y hayan crecido más allá del tamaño o forma deseados. Pode el árbol ligeramente cada año, retirando no más de 1/3 del crecimiento en un año. Esta técnica puede ayudar a garantizar el crecimiento de ramas sanas. Remueva todo el follaje si las hojas están descoloridas o enfermas. Al terminar, inspeccione cuidadosamente el árbol por cualquier extremidad dañada, y recórtelas según sea necesario."
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "scientific_name": [
+      "Acer palmatum 'Nishiki Gawa'"
+    ],
+    "common_name": "Arce japonés Nishiki Gawa",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El arce japonés Nishiki Gawa es un árbol verdaderamente especial. Sus hojas ornamentales, compuestas de impresionantes tonos de rosa y crema, crean un hermoso elemento central en cualquier jardín. Su exclusivo patrón de follaje le permite capturar la luz, transformando el paisaje con formas cambiantes de naranja y rojo en otoño. Con su tasa de crecimiento moderada, este impresionante árbol es una opción ideal para aquellos que deseen un punto focal impresionante en el jardín. Resistente y versátil, el arce japonés Nishiki Gawa es innegablemente llamativo.",
+    "family": "Sapindaceae",
+    "flower_color": "Rojo",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "rosa",
+      "blanco"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [
+      "Arce de corteza de pino"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "Esquejes",
+      "Propagación por acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1058",
+        "type": "watering",
+        "description": "El arce japonés Nishiki Gawa requiere una cantidad moderada de agua y debe regarse aproximadamente una vez por semana. Durante la temporada de crecimiento, es necesario proporcionar al árbol al menos 2 a 3 centímetros de agua por semana. Dado que diferentes suelos retienen diferentes cantidades de humedad, es mejor observar de cerca el árbol para determinar si es necesario regar. El suelo debe estar húmedo, pero no saturado, así que tenga cuidado de no regar en exceso. Durante los meses calurosos de verano, puede ser necesario regar con mayor frecuencia. En las regiones más calientes, también puede ser beneficioso proporcionar alguna forma de sombra para proteger al árbol de temperaturas extremas."
+      },
+      {
+        "id": "1059",
+        "type": "sunlight",
+        "description": "Los árboles de arce japonés Nishiki Gawa necesitan al menos de 6 a 8 horas de luz solar directa al día, especialmente en la mañana temprano y por la tarde. Es mejor colocarlo en un área que reciba mucho sol, como una ubicación orientada al sur en el jardín o una esquina soleada y protegida. El árbol debe ser podado para permitir la penetración de luz en todas las ramas, ya que la sombra densa puede reducir la floración y comprometer el vibrante color del follaje. En climas de verano extremadamente calurosos, se debe proporcionar algo de sombra durante parte del día para protegerlo de quemaduras y escaldaduras solares."
+      },
+      {
+        "id": "1060",
+        "type": "pruning",
+        "description": "El arce japonés Nishiki Gawa debe podarse una vez al año, generalmente a finales del invierno o principios de la primavera. Esto ayudará a mantener el árbol ordenado y también ayudará con la estructura de las ramas. La cantidad de poda depende del tamaño y la forma del árbol, pero típicamente, no se debe podar más de un tercio de las ramas vivas en una sola temporada. Además, se deben eliminar las hojas muertas, sobrantes y las ramas cruzadas o dañadas."
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "scientific_name": [
+      "Acer palmatum 'Orange Dream'"
+    ],
+    "common_name": "Arce japonés Orange Dream",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Arce japonés Orange Dream es un arbusto caducifolio increíblemente resistente. Su follaje de un vibrante color naranja-rojo lo hace destacar en cualquier paisaje. Su intrigante follaje de verano se transforma en brillantes tonos ardientes de naranja-rojo durante el otoño, añadiendo un valioso interés estacional a un jardín. Puede ser utilizado como punto focal, mezclado con otros arbustos más pequeños, o en plantaciones de cimientos. Su forma única, erguida y en forma de jarrón, proporciona un aire de gracia. Se adapta bien al sol directo, sombra parcial y varios tipos de suelo. Su tasa de crecimiento moderada, bajo a mínimo mantenimiento y su color brillante lo convierten en una excelente opción para paisajistas, jardineros y amantes del paisaje.",
+    "family": "/",
+    "flower_color": "",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "/",
+    "leaf_color": [
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "/",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Injerto",
+      "Propagación por Acodo",
+      "Esqueje",
+      "Propagación por Acodo Aéreo",
+      "División de Raíces"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "5065",
+        "type": "watering",
+        "description": "El Arce japonés Orange Dream debe regarse una o dos veces por semana, dependiendo de la época del año y la cantidad de luz solar que reciba. Durante la primavera y el verano, el árbol debe regarse con más frecuencia que en otoño e invierno. Al regar, asegúrese de saturar el suelo hasta que el agua comience a salir libremente del cepellón, luego espere para regar nuevamente hasta que las 2 pulgadas superiores del suelo estén secas. Durante los calurosos meses de verano, puede requerir riegos más frecuentes o profundos para asegurarse de que el árbol permanezca adecuadamente hidratado."
+      },
+      {
+        "id": "5066",
+        "type": "sunlight",
+        "description": "El Arce japonés Orange Dream requiere luz solar completa por la mañana durante al menos 6 horas. La sombra parcial por la tarde está bien, pero debe mantenerse fuera de la luz solar directa y caliente de la tarde, que puede causar estrés por calor y quemaduras solares. La planta prefiere luz solar brillante e indirecta durante el resto del día."
+      },
+      {
+        "id": "5067",
+        "type": "pruning",
+        "description": "El Arce japonés Orange Dream debe podarse a principios de primavera, antes de que comience el nuevo crecimiento. La poda debe ser mínima y debe sólo eliminar las ramas muertas, enfermas o rotas. Evite podar ramas con hojas vivas. El mejor momento para una poda ligera es después de que aparezca el nuevo crecimiento, permitiendo que se establezca la forma del árbol. También se puede hacer una poda intensiva en verano y principios de otoño para controlar el tamaño y la forma. Asegúrese de usar herramientas de poda limpias y afiladas. Asegúrese de eliminar los brotes y cualquier rama que se cruce o roce con otras ramas."
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "scientific_name": [
+      "Acer palmatum 'Otake'"
+    ],
+    "common_name": "Arce Japonés Otake",
+    "attracts": [],
+    "care_level": "Intermedio",
+    "description": "El Arce Japonés Otake (Acer palmatum 'Otake') es un árbol ornamental asombroso que seguramente dejará una impresión duradera en cualquier jardín. Su hermoso follaje amarillo y verde se combina perfectamente con su hábito de montículo bajo, lo que lo convierte en una gran adición a cualquier paisaje. Este árbol también es extremadamente tolerante a la sequía, lo que lo hace ideal para áreas con clima impredecible. Además, sus fuertes ramas le proporcionan una excelente resistencia al viento y su lento ritmo de crecimiento significa que continuará desarrollándose durante muchos años después de ser plantado. Con su elegante follaje y sus requerimientos bajos de mantenimiento, el Arce Japonés Otake es una opción increíble para cualquier jardín.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Acodo",
+      "Esqueje",
+      "Acodo Aéreo",
+      "División de Raíces"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5089",
+        "type": "watering",
+        "description": "Las plantas de Arce Japonés Otake deben regarse con frecuencia y de manera consistente. Es mejor regar la planta profundamente cada 2 o 3 días durante los meses calurosos y secos de verano, para que la tierra se mantenga húmeda y no se seque completamente. Durante los meses más frescos, la planta se puede regar con menos frecuencia, aproximadamente una vez a la semana. Es importante no regar la planta en exceso, ya que el suelo encharcado puede impedir que las raíces obtengan el oxígeno que necesitan. Para verificar si es el momento de regar la planta, introduce tu dedo en la tierra aproximadamente una o dos pulgadas de profundidad; si está seca, entonces riega."
+      },
+      {
+        "id": "5090",
+        "type": "sunlight",
+        "description": "Para el Arce Japonés Otake, la cantidad óptima de luz solar es de 4 a 6 horas de sol directo al día. El mejor momento del día para el sol es durante las horas de la mañana. Demasiado sol directo durante el calor máximo del día puede ser perjudicial para la salud de esta especie de arce. Durante los meses de verano, el Arce Japonés Otake se beneficiará de unas horas de sombra ligera por la tarde para protegerlo del calor."
+      },
+      {
+        "id": "5091",
+        "type": "pruning",
+        "description": "El Arce Japonés Otake debe podarse ligeramente a principios de primavera antes de que aparezca el nuevo crecimiento. La poda debe realizarse con pequeñas tijeras afiladas, en lugar de podaderas grandes o tijeras de seto, para fomentar una estructura de ramas más refinada. Para mantener la planta compacta y llena, dale forma ligera retirando algunos de los nuevos brotes que crecen del crecimiento del año anterior. Al eliminar brotes, es probable que haya pequeños brotes alrededor de la base. Estos pueden podarse temprano para evitar que se vuelvan demasiado grandes. No podes demasiado severamente ya que esto puede dañar el árbol. Procura reducir cada rama en aproximadamente 1/3."
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "scientific_name": [
+      "Acer palmatum 'Purple Ghost'"
+    ],
+    "common_name": "Arce Japonés Fantasma Púrpura*",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce Japonés Fantasma Púrpura (Acer palmatum 'Purple Ghost') es una especie de planta increíble con su follaje púrpura intenso, contrastando con sus brillantes venas blancas. Es una adición notable a cualquier jardín y ciertamente merece un lugar en su espacio exterior. Su dramático follaje se torna de un brillante amarillo en el otoño, añadiendo emoción y belleza al jardín. Además de su buena apariencia, es una especie resistente y de bajo mantenimiento, por lo que no necesita preocuparse de que le quite mucho tiempo. Compacta y de crecimiento lento, esta planta es la manera perfecta de traer vida, color y personalidad a su jardín.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "púrpura"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Acodo aéreo",
+      "Esquejes",
+      "Acodo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5104",
+        "type": "watering",
+        "description": "El Arce Japonés Fantasma Púrpura (Acer palmatum 'Purple Ghost') debe regarse regularmente para mantener el suelo uniformemente húmedo. Riegue profundamente la planta una o dos veces por semana, dependiendo del clima. Proporcione más agua durante los períodos calurosos y menos cuando las temperaturas bajen. Asegúrese de que el suelo drene adecuadamente, no lo riegue en exceso. Asegúrese de que el suelo no esté ni seco ni empapado. Durante los meses secos, revise la humedad del suelo a unos pocos centímetros de profundidad cada pocos días para asegurarse de que el arce esté recibiendo suficiente agua."
+      },
+      {
+        "id": "5105",
+        "type": "sunlight",
+        "description": "El Arce Japonés Fantasma Púrpura (Acer palmatum 'Purple Ghost') prefiere de 4 a 5 horas de luz solar directa cada día para mostrar su mejor coloración de follaje y un crecimiento saludable. Al elegir un lugar de plantación, opte por un área que reciba sol por la mañana y sombra por la tarde, o luz solar moteada durante todo el día."
+      },
+      {
+        "id": "5106",
+        "type": "pruning",
+        "description": "El Arce Japonés Fantasma Púrpura (Acer palmatum 'Purple Ghost') debe podarse a principios de primavera antes de que comience el nuevo crecimiento. La poda debe ser menor y ligera, y solo se deben remover las ramas necesarias o muertas. La poda solo debe hacerse cuando sea necesaria y no debe ser excesiva, ya que podría dañar la forma de la planta. La poda solo debe hacerse en una rama si está muerta, enferma, rozando otra rama o si está aglomerando otras ramas. Para ayudar a preservar la forma natural del árbol, sólo pode si es absolutamente necesario."
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "scientific_name": [
+      "Acer palmatum 'Red Select'"
+    ],
+    "common_name": "Arce japonés Rojo Selecto",
+    "attracts": [],
+    "care_level": "Altamente exigente",
+    "description": "El Arce japonés Rojo Selecto es una especie impresionante. Destaca por su hermoso dosel denso y extendido con un follaje de color rojo púrpura intenso, lo que lo convierte en una adición vibrante y atractiva para cualquier paisaje. Es un árbol de bajo mantenimiento que requiere una poda mínima. Puede cultivarse a pleno sol o en semisombra, prefiriendo suelos bien drenados con algo de humedad. Cuando su follaje cambia de la primavera al verano, es una verdadera delicia. Este árbol versátil es una opción ideal para jardines pequeños y es perfecto como árbol de muestra o planta en maceta. Añade un Arce japonés Rojo Selecto a tu paisaje y disfruta de su colorida belleza durante años.",
+    "family": "Sapindaceae",
+    "flower_color": "Rojo",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "marrón rojizo",
+      "borgoña",
+      "rubí"
+    ],
+    "growth_rate": "Lento",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "rojo",
+      "borgoña"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Acodo",
+      "Esqueje",
+      "Acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5119",
+        "type": "watering",
+        "description": "Riega profundamente el Arce japonés Rojo Selecto (Acer palmatum 'Red Select') todos los días durante el primer mes, luego cada dos días durante los siguientes 2 meses y finalmente cada 3 a 4 días durante el verano. Durante el invierno, riega esta especie solo una o dos veces al mes mientras está en estado de reposo. Siempre verifica la humedad del suelo antes de regar y hazlo solo cuando sea necesario. Riega directamente en la base de la planta, evitando mojar las hojas. Añade una capa de mantillo de 5 a 7 centímetros para ayudar a mantener el suelo húmedo y desalentar las malas hierbas."
+      },
+      {
+        "id": "5120",
+        "type": "sunlight",
+        "description": "El Arce japonés Rojo Selecto (Acer palmatum 'Red Select') prefiere de 6 a 8 horas diarias de luz solar indirecta brillante. Crece mejor en un lugar que reciba sol por la mañana y sombra o luz filtrada por la tarde. También tolera la semisombra durante parte del día. Evita la luz solar directa, ya que puede causar quemaduras o ampollas en las hojas. Específicamente, no debe colocarse en pleno sol de la tarde. El Arce japonés Rojo Selecto prosperará en un lugar que reciba luz solar tamizada o filtrada, como la que se encuentra debajo de árboles de hoja caduca."
+      },
+      {
+        "id": "5121",
+        "type": "pruning",
+        "description": "El Arce japonés Rojo Selecto debe podarse a finales del invierno o principios de la primavera. La poda debe realizarse con moderación, solo eliminando las ramas muertas, enfermas o dañadas. Es importante mantener la forma natural del árbol al podar. Es mejor podar selectivamente las ramas más grandes cortando hasta una rama lateral en lugar de eliminarlas por completo. La poda debe realizarse de manera moderada, eliminando solo alrededor de 1/4 del total de las ramas del árbol. Esto ayudará a mantener la forma del árbol. También es importante asegurarse de que los cortes se realicen en el lugar correcto, ya que los cortes incorrectos pueden reducir la salud del árbol."
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "scientific_name": [
+      "Acer palmatum 'Sazanami'"
+    ],
+    "common_name": "Arce Japonés Sazanami",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Arce Japonés Sazanami es un cultivar impresionante con un follaje notable. Sus hojas tienen un hermoso color púrpura rojizo con lóbulos profundamente dentados, mientras que sus ramitas tienen una forma única delicadamente ondulada. Durante el otoño, las hojas adquieren un impresionante color rojo-amarillo. Esta característica le da al árbol un aspecto interesante y atractivo durante todo el año. El arce también es fácil de mantener y puede adaptarse a una variedad de tipos de suelo y condiciones. Con su tasa de crecimiento moderada y sus colores hermosos, el Arce Japonés Sazanami es una adición cautivadora a cualquier jardín o paisaje.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "rosa"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Propagación por acodos",
+      "Esquejes",
+      "Propagación por acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "febrero",
+      "marzo",
+      "abril"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "5146",
+        "type": "watering",
+        "description": "Durante los meses más cálidos, se debe regar la planta profunda y completamente una o dos veces por semana. El agua debe añadirse lentamente para garantizar que todo el sistema radicular esté regado, saturando el suelo. Durante el invierno, riegue cuando el suelo se vuelva seco. Además, durante los meses muy calurosos, es beneficioso regar la planta cada dos días durante la madrugada y al anochecer. Siempre asegúrese de regar hasta que el suelo esté saturado."
+      },
+      {
+        "id": "5147",
+        "type": "sunlight",
+        "description": "El Arce Japonés Sazanami (Acer palmatum 'Sazanami') se desarrolla mejor con sol parcial a pleno. Debe recibir al menos 4 horas de sol directo al día, pero puede tolerar hasta 8 horas o más dependiendo de la temporada y el clima. Esta especie no requiere sol pleno por la tarde, por lo que el sol de la mañana o la luz filtrada en la tarde será suficiente. Cuando se expone a demasiado sol directo, el follaje de Sazanami puede quemarse. En climas más cálidos, se debe evitar el sol de la tarde durante los meses de verano, pero cuando las temperaturas bajan a principios del otoño, más sol puede ser beneficioso."
+      },
+      {
+        "id": "5148",
+        "type": "pruning",
+        "description": "El Arce Japonés Sazanami debe podarse a finales del invierno o principios de la primavera para asegurar que el árbol esté sano y vigoroso. La cantidad de poda debe ser relativamente mínima y debe centrarse en eliminar cualquier rama muerta, enferma o apretada y cortar selectivamente las ramas para mantener una forma general deseada. La poda debe hacerse lentamente, verificando la presencia de yemas vivas o signos de crecimiento en cada rama y solo podando selectivamente las ramas vivas si es necesario. Esta especie de árbol no requiere una poda rutinaria por tamaño y forma, ya que la poda frecuente puede resultar en un exceso de brotes, por lo que es mejor solo podar cuando sea necesario."
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "scientific_name": [
+      "Acer palmatum 'Spring Delight'"
+    ],
+    "common_name": "Arce japonés 'Delicia de Primavera'",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "El Arce japonés 'Delicia de Primavera' es una especie de árbol maravillosa por muchas razones. Sus hojas presentan una combinación única de colores entre amarillo y rosa, con un verde brillante durante el verano. La corteza es atractiva con un sutil tono de naranja. Esta especie se destaca de otros Arces japoneses debido a su relativamente rápido ritmo de crecimiento, lo que significa que puedes disfrutar de su belleza en un período de tiempo más corto. También es bastante resistente a enfermedades y plagas, lo que lo convierte en un árbol fácil de mantener. Su tamaño pequeño lo hace ideal para plantar en jardines urbanos y otros espacios pequeños, permitiéndote disfrutar de un florecimiento pacífico de la naturaleza en tu espacio.",
+    "family": "Aceraceae",
+    "flower_color": "",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "N/A",
+    "leaf_color": [
+      "verde",
+      "rosa",
+      "blanco"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Afiladores de hojas"
+    ],
+    "propagation": [
+      "Propagación por Injerto",
+      "Propagación por Acodo",
+      "Propagación por Esquejes",
+      "Propagación por Acodo Aéreo",
+      "División de Raíces"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Febrero"
+    ],
+    "soil": [
+      "Suelo arcilloso",
+      "Suelo arenoso"
+    ],
+    "watering_period": "Primavera hasta mediados del otoño",
+    "care_guides_details": [
+      {
+        "id": "5170",
+        "type": "watering",
+        "description": "El Arce japonés 'Delicia de Primavera' debe ser regado profundamente aproximadamente una vez a la semana durante la temporada de crecimiento desde principios de primavera hasta mediados de otoño. Si el área está sujeta a sequía, asegúrate de aumentar la frecuencia y cantidad de riego. Durante los meses de invierno, reduce la cantidad de agua a una vez cada 2 o 3 semanas, y riega con moderación. Si no estás seguro de si tu planta necesita agua, comprueba el suelo antes de regar y considera el tiempo transcurrido desde el último riego. Si el suelo está seco a unos 5 centímetros por debajo de la superficie, es hora de regar."
+      },
+      {
+        "id": "5171",
+        "type": "sunlight",
+        "description": "El Arce japonés 'Delicia de Primavera' (Acer palmatum 'Spring Delight') prefiere el sol pleno por la mañana y sombra parcial por la tarde. Este arce necesita entre 6 y 8 horas de luz solar directa cada día para mantener sus colores vibrantes y crecimiento. Cuando se planta en un área que recibe menos de 6 horas de sol al día, la planta puede volverse raquítica o delgada y puede no mostrar su coloración óptima."
+      },
+      {
+        "id": "5172",
+        "type": "pruning",
+        "description": "El Arce japonés 'Delicia de Primavera' (Acer palmatum 'Spring Delight') debe podarse a finales de invierno o principios de primavera antes de que comience el nuevo crecimiento. Asegúrate de usar guantes y gafas de protección para mayor seguridad. Poda las ramas muertas, dañadas o enfermas hasta el punto de crecimiento saludable. Además, elimina cualquier brote que crezca hacia abajo o retoños desde la base del árbol y recorta las ramas laterales para mantener la forma deseada del árbol. Asegúrate de hacer cortes limpios y precisos. Si es posible, trata de evitar la poda drástica ya que puede dañar la planta."
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "scientific_name": [
+      "Acer palmatum 'Yellow Bird'"
+    ],
+    "common_name": "Arce Japonés Pájaro Amarillo",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Arce Japonés Pájaro Amarillo es uno de los arces más valiosos en el jardín. Su follaje verde amarillento es llamativo, especialmente cuando las puntas de cada hoja se tornan doradas en otoño. Este arce semi-enano prospera en sol parcial a pleno y se desarrolla mejor en suelos tanto húmedos como bien drenados. Su porte es abierto y erguido y puede alcanzar alturas de 2,5–3 metros en diez años, lo que lo hace ideal para jardines pequeños o medianos. Su vibrante follaje verde-amarillento brilla al sol y ofrece un acento dramático todo el año. Con su grácil hábito de llorón, es una excelente opción para añadir un bello interés a las áreas sombreadas. Tanto si se selecciona por su belleza, su hábito grácil o su color durante todo el año, el Arce Japonés Pájaro Amarillo es imprescindible para cualquier jardín.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Acodo",
+      "Esqueje",
+      "Acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo",
+      "diciembre",
+      "enero",
+      "febrero",
+      "marzo",
+      "abril",
+      "mayo",
+      "diciembre",
+      "enero",
+      "febrero",
+      "diciembre",
+      "enero",
+      "febrero",
+      "marzo",
+      "abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5218",
+        "type": "watering",
+        "description": "El Arce Japonés Pájaro Amarillo debe regarse de manera profunda y exhaustiva aproximadamente una vez a la semana durante la temporada de crecimiento, asegurándose de regar las raíces directamente. Durante el clima cálido, puede necesitar riego más frecuente. Durante los meses de invierno, sin embargo, se puede reducir el riego y permitir que el suelo se seque ligeramente entre cada riego."
+      },
+      {
+        "id": "5219",
+        "type": "sunlight",
+        "description": "El Arce Japonés Pájaro Amarillo prefiere el sol pleno a la sombra parcial. Debe plantarse en un lugar que reciba al menos 4 horas de luz solar directa cada día, especialmente durante el verano cuando las temperaturas son más altas. Si es posible, elija un lugar alejado de cualquier sol fuerte de la tarde, como en las partes este o norte de un jardín. Durante los meses de invierno, esta especie puede tolerar niveles bajos de luz solar directa."
+      },
+      {
+        "id": "5220",
+        "type": "pruning",
+        "description": "El Arce Japonés Pájaro Amarillo debe podarse dos veces al año, una en primavera y otra en invierno cuando está inactivo. En primavera, elimine cualquier rama muerta o cruzada para mejorar el flujo de aire y fomentar un crecimiento saludable. Pode cualquier crecimiento de chupones o aclare áreas abarrotadas para refinar la forma general. Esto también ayudará a mantener un buen equilibrio entre el crecimiento vigoroso superior y las raíces. En invierno, cuando la planta está en reposo, pode cualquier rama muerta, débil o rota para crear un dosel más abierto y permitir una mejor circulación del aire. Asegúrese de podar según sea necesario, ya que la poda excesiva puede causar un nuevo crecimiento excesivo y descontrolado. Tenga cuidado de no podar más de un tercio del follaje de la planta para evitar un shock. Finalmente, la poda en invierno o principios de primavera puede ayudar a reducir problemas de enfermedades y plagas al eliminar cualquier área infectada."
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "scientific_name": [
+      "Acer rubrum"
+    ],
+    "common_name": "Arce Rojo",
+    "attracts": [
+      "Ardillas",
+      " Aves",
+      " Abejas",
+      " Otros insectos vistosos"
+    ],
+    "care_level": "Medio",
+    "description": "El Arce Rojo (Acer rubrum) es un árbol asombroso que es nativo de América del Norte. Tiene flores brillantes y rojas en la primavera, así como un impresionante follaje en otoño, convirtiéndose en maravillosos colores de naranja, amarillo y rojo. Es conocido por ser muy resistente, tolerando una amplia gama de temperaturas, frío intenso y viento extremo. También crece muy rápido, hasta dos pies por año en buenas condiciones. El Arce Rojo es una excelente opción para jardinería, ya que se adapta bien a muchos tipos de suelo, es fácil de cuidar y es una fuente muy valiosa de alimento y refugio para la vida silvestre.",
+    "family": "Sapindaceae",
+    "flower_color": "Rojo, a veces amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este y centro de América del Norte"
+    ],
+    "other_name": [
+      "Arce de Pantano",
+      " Arce Escarlata"
+    ],
+    "pest_susceptibility": [
+      "Heterópteros - verdaderos insectos",
+      " Ácaros",
+      " Insectos barrenadores del tallo",
+      " Marchitez",
+      " Resistente a la sequía"
+    ],
+    "propagation": [
+      "Propagación por Semillas",
+      "Esquejes de Madera Verde",
+      "Propagación por Injerto"
+    ],
+    "pruning_month": [
+      "Febrero",
+      " Marzo",
+      " Abril"
+    ],
+    "soil": [
+      "Arenoso Franco Arcilloso"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5248",
+        "type": "watering",
+        "description": "Los arces rojos deben regarse regularmente conforme al clima. Si el clima es caluroso y seco, los arces rojos deben regarse profundamente una vez a la semana. Si el clima es más fresco y recibe más lluvias, deben regarse profundamente cada 2 semanas. Al regar, asegúrese de que el agua penetre al menos de 6 a 10 pulgadas en el suelo. Además, durante los meses calurosos de verano, el acolchado en la base del árbol puede ayudar a mantener la humedad del suelo y evitar que el suelo se seque rápidamente."
+      },
+      {
+        "id": "5249",
+        "type": "sunlight",
+        "description": "Los arces rojos requieren pleno sol para alcanzar su máximo potencial de crecimiento. La cantidad óptima de luz solar directa para un arce rojo maduro es de 8-10 horas al día. Para los árboles jóvenes de arce rojo, deben recibir al menos 6 horas de luz solar directa durante su período de establecimiento. Ten en cuenta que la cantidad de luz solar que el árbol debe recibir necesita estar equilibrada con la cantidad de humedad suministrada al árbol, ya que demasiado sol sin suficiente agua puede ser un desastre."
+      },
+      {
+        "id": "5250",
+        "type": "pruning",
+        "description": "El Arce Rojo (Acer rubrum) puede podarse en cualquier momento del año. Sin embargo, el mejor momento para podar el Arce Rojo suele ser a finales del invierno o principios de la primavera, mientras el árbol todavía está en reposo. La cantidad de poda debe mantenerse al mínimo cuando sea posible. Por razones estéticas, elimine las ramas muertas o rotas durante todo el año y recorte las ramas cruzadas o interferentes para abrir el dosel del árbol. Por cuestiones de salud y seguridad, considere eliminar cualquier rama que esté creciendo demasiado cerca de una estructura o líneas eléctricas, y adelgace para reducir el riesgo de daños por el viento."
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "scientific_name": [
+      "Acer shirasawanum 'Yasemin'"
+    ],
+    "common_name": "Arce Yasemin Luna Llena",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce Yasemin Luna Llena, o Acer shirasawanum 'Yasemin', es una especie de planta asombrosa para tener en cualquier jardín. Es un árbol vigoroso y caducifolio que ofrece una apariencia única e impactante en la primavera, con su follaje único de hojas profundamente lobuladas de color marrón. En el otoño, las hojas se vuelven aún más llamativas con vibrantes colores de naranja, rojo y púrpura. Además, en los meses de verano, presenta pequeñas flores de color amarillo-verde que se transforman en bayas de color naranja-rojo. Esta especie también ofrece una estructura única en sus ramas, con su apariencia llorona y de aspecto en cascada, lo que la convierte en una gran adición a cualquier jardín. El Arce Yasemin Luna Llena es un árbol deslumbrante, impresionante y único que no encontrarás en ningún otro jardín.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "púrpura"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Acodado Aéreo",
+      "Propagación por Injerto",
+      "Esqueje",
+      "División",
+      "Propagación por Semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1546",
+        "type": "watering",
+        "description": "El Arce Yasemin Luna Llena debe ser regado profundamente y de manera regular, aproximadamente una vez a la semana o cuando la pulgada superior del suelo se sienta seca. Ten cuidado de no regar en exceso, ya que la planta puede volverse susceptible a la pudrición de la raíz. Durante los meses cálidos, puedes regar con más frecuencia. Durante los meses fríos, reduce el riego, ya que esta planta entrará en dormancia y no requiere tanta humedad."
+      },
+      {
+        "id": "1548",
+        "type": "sunlight",
+        "description": "Las plantas de Arce Yasemin Luna Llena prefieren pleno sol, lo que significa al menos 6 horas de luz solar directa al día. Necesitan al menos 6 horas en la tarde y temprano en la tarde, por lo que estas plantas deben estar en un área donde reciban la mayor cantidad de sol entre las 10am y las 4pm. Durante el verano, la planta también debe protegerse de los rayos extremadamente intensos del sol de la tarde tardía."
+      },
+      {
+        "id": "1550",
+        "type": "pruning",
+        "description": "El Arce Yasemin Luna Llena no debería requerir poda frecuente. La poda se debe realizar solo para eliminar ramas muertas, enfermas o dañadas, y para dar forma al árbol para un efecto deseado. Si se necesita una poda ligera, es mejor hacerlo a finales del invierno o principios de la primavera, antes de que comience el nuevo crecimiento. Pode las puntas de las ramas y los brotes laterales según sea necesario, y elimine las ramas cruzadas cuando aparezcan. Evita las podas mayores como el despunte o la poda estructural mayor, ya que alterarán el patrón natural de crecimiento del árbol."
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "scientific_name": [
+      "Acer tegmentosum"
+    ],
+    "common_name": "Arce de Corteza de Serpiente",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce de Corteza de Serpiente (Acer tegmentosum) es una especie de árbol asombrosa. Su corteza única, parecida a la piel de serpiente, es lo que le da su nombre. A menudo se le conoce como el árbol vibrante, es una especie caducifolia con un follaje de vivos colores rojo, verde y amarillo que se destaca entre otros árboles, convirtiéndolo en una incorporación maravillosa a cualquier paisaje. En otoño, se destaca aún más cuando sus hojas se tornan en tonos de amarillo, naranja y rojo. No solo es esta especie de arce una hermosa adición a cualquier espacio exterior, sino que también es muy resistente y puede prosperar en una amplia gama de climas. Es una excelente opción para jardines de bajo mantenimiento y requiere poca poda. En general, el Arce de Corteza de Serpiente es una especie de árbol increíble para disfrutar.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Japón",
+      "China",
+      "Corea",
+      "Taiwán"
+    ],
+    "other_name": [
+      "Arce de Rayas Manchú"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "Esquejes",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5281",
+        "type": "watering",
+        "description": "El Arce de Corteza de Serpiente requiere suelo húmedo y bien drenado y debe regarse cuando las 2 a 3 pulgadas superiores del suelo estén secas. Riega profundamente, dando tiempo al suelo para drenar y rellenarse de humedad. Durante la temporada de crecimiento (primavera y verano), riega el Arce dos veces por semana. Durante el invierno, cuando el árbol está en reposo, reduce el riego a una vez al mes."
+      },
+      {
+        "id": "5282",
+        "type": "sunlight",
+        "description": "Los Arces de Corteza de Serpiente prefieren crecer en sombra parcial a completa donde puedan acceder a luz solar moteada y brillante durante todo el día. Durante los meses de primavera y verano, pueden tolerar la luz solar directa hasta por 3 horas al día; sin embargo, durante los meses más cálidos es mejor proteger el árbol del sol intenso y directo proporcionando sombra durante las partes más calurosas del día (de las 10am a las 4pm). En invierno, los Arces de Corteza de Serpiente deben mantenerse en luz indirecta brillante o sombra moteada. Se debe evitar la exposición prolongada al sol pleno o directo en días calurosos."
+      },
+      {
+        "id": "5283",
+        "type": "pruning",
+        "description": "El Arce de Corteza de Serpiente debe podarse a finales del invierno o principios de la primavera antes de que comience el nuevo crecimiento. La cantidad de poda debe limitarse a la eliminación de ramas muertas o enfermas, ya que el árbol no necesita una poda severa. Los árboles jóvenes deben podarse más intensamente, eliminando cualquier líder múltiple y desbastando la copa. A medida que el árbol envejece, se debe podar solo para eliminar la madera muerta y restaurar la forma natural del dosel. Se debe tener cuidado de no esquilar el árbol ni quitar demasiada follaje, ya que esto puede reducir la capacidad de florecimiento y fructificación del árbol."
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "scientific_name": [
+      "Acer tegmentosum 'Joe Witt'"
+    ],
+    "common_name": "Arce de Corteza de Serpiente Joe Witt",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce de Corteza de Serpiente Joe Witt (Acer tegmentosum 'Joe Witt') es una visión inolvidable con su corteza de dramáticos parches verdes y negros que serpentean sobre ramas de un rico color naranja-rojo. Este extraordinario arce es un árbol ejemplar ideal, creciendo hasta 30 pies con una forma ovalada delicada. En otoño, sus hojas se transforman de un suave verde a un espectacular amarillo, completado con tonos rojizos. Resistente y adaptable, este árbol robusto es una adición confiable a cualquier paisaje. Además, es tolerante al calor y la humedad, por lo que incluso los climas más cálidos pueden apreciar su majestuosa belleza. El Arce de Corteza de Serpiente Joe Witt es una especie verdaderamente asombrosa.",
+    "family": "Sapindaceae",
+    "flower_color": "No llamativo, amarillo verdoso",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "rojo",
+      "marrón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [],
+    "maintenance": "",
+    "origin": [
+      "Origen de jardín (Manchuria",
+      "Corea)"
+    ],
+    "other_name": [
+      "Arce de Rayas de Manchuria"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "5284",
+        "type": "watering",
+        "description": "El Arce de Corteza de Serpiente Joe Witt debe regarse una vez a la semana o cada 5 a 7 días. La cantidad de agua debe ser suficiente para humedecer el suelo a una profundidad de 6 a 8 pulgadas. Asegúrese de no regar con demasiada frecuencia ya que esto puede causar pudrición de la raíz. También es mejor evitar el exceso de riego; permita que el suelo se seque ligeramente entre riegos. Si el suelo se seca demasiado, puede causar que las hojas caigan y se debiliten. Durante los meses más calurosos, puede necesitar más agua. Generalmente, es mejor regar la planta por la mañana para que la humedad tenga tiempo de evaporarse antes de la noche, o puede regar por la tarde si las temperaturas del día han sido más frescas."
+      },
+      {
+        "id": "5285",
+        "type": "sunlight",
+        "description": "El Arce de Corteza de Serpiente Joe Witt prefiere pleno sol o sol parcial, recibiendo al menos 4 horas de luz solar directa cada día. Para un crecimiento y floración óptimos, debe estar expuesto a la luz del sol de la mañana y algo de sol temprano por la tarde. En climas más cálidos, algo de sombra por la tarde puede ser beneficioso para prevenir que las hojas se quemen con el intenso sol de la tarde. Cuando se cultiva en áreas más sombreadas, puede no florecer tan abundantemente y su crecimiento general puede ser más lento."
+      },
+      {
+        "id": "5286",
+        "type": "pruning",
+        "description": "El Arce de Corteza de Serpiente Joe Witt debe podarse moderadamente para mantener su forma y fomentar el nuevo crecimiento. El mejor momento para la poda es a finales del invierno, antes de que la planta empuje nuevo crecimiento en la primavera. La poda menor puede realizarse durante toda la temporada de crecimiento, pero la poda mayor no debe realizarse hasta finales del invierno. Para podar correctamente el Arce de Corteza de Serpiente Joe Witt, elimine las ramas muertas o enfermas y abra el copo del árbol eliminando ramas cruzadas o que crezcan hacia adentro. La poda debe hacerse ligeramente para evitar eliminar demasiado del follaje del árbol."
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "scientific_name": [
+      "Arbutus menziesii"
+    ],
+    "common_name": "Madroño del Pacífico*",
+    "attracts": [
+      "Aves"
+    ],
+    "care_level": "Medio",
+    "description": "El Madroño del Pacífico (Arbutus menziesii) es un árbol perenne nativo de la Costa Oeste de América del Norte. Es una especie increíblemente resistente y vigorosa, con un brillante rango natural de colores y texturas que lo hacen destacarse de otros árboles. El árbol a menudo tiene una corteza de color naranja-rojizo pálido salpicada de parches de corteza lisa en tonos bronceados. En verano, su follaje es de un verde brillante, ofreciendo una vista maravillosamente alegre. En otoño, la planta pasa a un color amarillo-marrón, sumando a su impresionante belleza. Quienes cultivan el Madroño del Pacífico se benefician de su capacidad para prosperar en diversas condiciones y su resistencia a la sequía veraniega. Su apariencia llamativa y única lo convierte en una excelente opción para jardines, paisajismo y otros proyectos.",
+    "family": "Ericaceae",
+    "flower_color": "Blanco cremoso",
+    "flowering_season": "",
+    "fruit_color": [
+      "rojo",
+      "naranja"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Norteamérica Occidental"
+    ],
+    "other_name": [
+      "Madrona; Madroño; Árbole de Fresa"
+    ],
+    "pest_susceptibility": [
+      "Mancha foliar fúngica",
+      "Podredumbre de la raíz"
+    ],
+    "propagation": [
+      "Propagación por semillas",
+      "Estacas de madera verde"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Febrero",
+      "Diciembre",
+      "Enero"
+    ],
+    "soil": [
+      "Arenoso",
+      "Arcilloso",
+      "Rocoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1768",
+        "type": "watering",
+        "description": "Generalmente, prefiere ser regada profundamente, pero no con demasiada frecuencia, cuando el suelo esté seco. Durante la temporada de crecimiento activo, que típicamente es en la primavera y el verano, deberías regar la planta profundamente aproximadamente cada 7-10 días, dependiendo de la humedad del suelo. En otoño e invierno, puedes reducir el riego a cada 2-3 semanas. Es importante asegurarse de que el agua que proporcionas a tu planta esté a una temperatura adecuada y que no sea demasiado fría o caliente como para afectarla. El exceso de riego puede llevar a la podredumbre de las raíces, por lo que es importante observar las necesidades individuales de la planta y no regar con demasiada frecuencia."
+      },
+      {
+        "id": "1769",
+        "type": "sunlight",
+        "description": "Los árboles de Madroño del Pacífico necesitan al menos 6 horas de luz solar directa para prosperar. Deben estar expuestos al sol por un mínimo de 4 horas en la mañana y en la tarde, o 3 horas en la mañana y 3 horas en la tarde. Esta cantidad de luz solar directa debe proporcionarse cada día durante la temporada de crecimiento del árbol, típicamente desde finales de primavera hasta principios de otoño. Además, es importante colocar los árboles de Madroño del Pacífico en un área donde no estén muy sombreados, ya que esto puede afectar su crecimiento."
+      },
+      {
+        "id": "1770",
+        "type": "pruning",
+        "description": "La poda para el Madroño del Pacífico (Arbutus menziesii) debe ser mínima, ya que la poda excesiva puede dañar la salud de la planta. El Madroño del Pacífico responde bien a la poda ligera para dar forma a principios de la temporada de crecimiento, típicamente entre Febrero y Junio. Para una poda más severa, es mejor esperar hasta los meses de invierno cuando la planta está en estado de reposo. Siempre poda cuando la planta esté seca, ya que podar plantas mojadas puede llevar a enfermedades fúngicas o al deterioro de la planta. Al podar, usa tijeras de podar afiladas para hacer cortes limpios y precisos. Trata de evitar podar demasiado en una temporada, ya que esto podría dejar a la planta vulnerable. Como guía, poda aproximadamente 1/3 de cada rama en cualquier temporada dada, pero asegúrate de usar tu juicio sobre cuánto cortar."
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "scientific_name": [
+      "Arbutus unedo"
+    ],
+    "common_name": "Madroño",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Madroño (Arbutus unedo) es una especie increíble que ofrece belleza durante todo el año. Es un árbol de hoja perenne frutal con un follaje atractivo y delicadas flores blanquecinas-rosadas que se convierten en frutos brillantes de color rojo-naranja a lo largo de la temporada. Además de su atractivo visual, esta planta es increíblemente resistente y puede sobrevivir en una amplia gama de tipos de suelo y condiciones de luz. Con su bajo mantenimiento y estilo de vida interesante, el Madroño es imprescindible para cualquier jardinero que busque una adición llamativa y de bajo cuidado a su paisaje.",
+    "family": "Ericaceae",
+    "flower_color": "Blanco rosado",
+    "flowering_season": "Invierno",
+    "fruit_color": [
+      "rojo",
+      "amarillo",
+      "naranja",
+      "rosa"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa Meridional",
+      "Asia Occidental",
+      "África del Norte"
+    ],
+    "other_name": [
+      "Manzana de Caín; Manzana de Caña"
+    ],
+    "pest_susceptibility": [
+      "Mancha foliar fúngica",
+      "Pudrición de la raíz",
+      "Escamas de insectos",
+      "Resistente a la sequía"
+    ],
+    "propagation": [
+      "Esquejes de madera verde",
+      "Esquejes de madera dura",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1765",
+        "type": "watering",
+        "description": "El Madroño prefiere suelos bien drenados y ácidos y le gusta ser regado profundamente, pero no con demasiada frecuencia. Durante los meses de primavera y verano, el madroño debe ser regado cada 7-10 días. En otoño e invierno, reduzca la frecuencia de riego y solo riegue cada 3-4 semanas o cuando el suelo esté seco a una profundidad de 5-7 cm debajo de la superficie. Asegúrese de no regar en exceso, ya que esto puede provocar pudrición de las raíces. Use su dedo para verificar la humedad del suelo antes de decidir regar su planta."
+      },
+      {
+        "id": "1766",
+        "type": "sunlight",
+        "description": "Un Madroño (Arbutus unedo) requiere pleno sol o sombra parcial. Rinde mejor en áreas donde recibe al menos 6 horas de luz solar directa cada día. También puede tolerar sombra ligera, pero su crecimiento podría ralentizarse. Durante los meses de verano, es beneficioso proporcionar algo de sombra por la tarde, especialmente en climas calurosos, para evitar que las hojas se quemen."
+      },
+      {
+        "id": "1767",
+        "type": "pruning",
+        "description": "El Madroño (Arbutus unedo) generalmente debe ser podado una vez al año, en los primeros meses de primavera. Esto ayudará a mantener su forma y tamaño deseado. Los árboles jóvenes pueden ser podados intensamente para promover una mejor forma, pero los árboles mayores deben ser podados solo ligeramente. Todas las ramas muertas, enfermas y rotas deben eliminarse rápidamente para mantener la salud de la planta. La poda debe incluir la eliminación selectiva de no más de 1/3 del crecimiento total del árbol en cualquier estación."
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "scientific_name": [
+      "Betula papyrifera"
+    ],
+    "common_name": "Abedul de Papel",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Abedul de Papel (Betula papyrifera) es una especie de árbol impresionante debido a su distintiva corteza blanca y su forma graciosa. Crece rápidamente, alcanzando los 21 metros o más, con una copa densamente poblada de ramas caídas. El tronco de un abedul de papel es de color gris claro y su corteza se desprende en largas tiras que se suman a su belleza. También es increíblemente resistente, soportando tormentas y temperaturas de hasta -60 grados Fahrenheit. La corteza a menudo se utiliza en el arte, mientras que las ramitas y hojas son excelentes para prender fuego en campamentos. Sus colores otoñales también lo hacen una opción popular para el paisajismo.",
+    "family": "Betulaceae",
+    "flower_color": "Marrón amarillento (masculino) y verde (femenino)",
+    "flowering_season": "",
+    "fruit_color": [
+      "marrón"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "Alta",
+    "origin": [
+      "América del Norte"
+    ],
+    "other_name": [
+      "Abedul Blanco",
+      "Abedul Canoe"
+    ],
+    "pest_susceptibility": [
+      "Escarabajos",
+      "Gorgojos",
+      " Insectos minadores de hojas",
+      " Insectos barrenadores de tallo",
+      " Resistente a los ciervos",
+      " Resistente a la sequía"
+    ],
+    "propagation": [
+      "Propagación por Semillas",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Arenoso y Franco"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "5329",
+        "type": "watering",
+        "description": "El Abedul de Papel debe regarse una vez por semana y se deben proporcionar entre 5 a 7 centímetros de agua. Esto ayudará a que las raíces del árbol estén más profundamente hidratadas y también mantendrá la humedad en su zona de raíces poco profundas. Asegúrese de evitar el riego excesivo, ya que esto puede causar pudrición de la raíz. Riegue por la mañana o al final de la tarde para minimizar la evaporación. Reduzca el riego en los meses de invierno y cuando el clima sea más frío. Durante la temporada de crecimiento, complemente las lluvias naturales con aproximadamente 2.5 centímetros adicionales de agua para asegurar que la planta se mantenga hidratada."
+      },
+      {
+        "id": "5330",
+        "type": "sunlight",
+        "description": "El Abedul de Papel (Betula papyrifera) prefiere el sol pleno o parcial para un crecimiento óptimo. Generalmente, el árbol debería recibir al menos 6 horas de luz solar al día, pero hasta 8 o 9 horas son ideales. En climas donde los veranos son extremadamente calurosos, puede ser beneficioso plantar el árbol en un área donde reciba más sol parcial para evitar quemaduras solares o estrés."
+      },
+      {
+        "id": "5331",
+        "type": "pruning",
+        "description": "El abedul de papel (Betula papyrifera) debe podarse a principios de la primavera (abril o mayo) cuando el suelo comience a descongelarse. La poda debe limitarse solo a árboles jóvenes, ya que los abedules maduros son más vulnerables a daños. Al podar, apunte a eliminar cualquier rama muerta, enferma o rota. También, forme el árbol eliminando ramas delgadas o ramas que rocen entre sí. Sin embargo, evite podar más de un tercio de la copa de un árbol maduro. Para mantener la forma de un árbol joven, enfoque la poda en la mitad superior de la copa. Pode las ramas hacia una rama lateral o el tronco. Para los árboles más viejos, pode las ramas más grandes hacia una rama intersectante o el tronco. Finalmente, evite crear árboles con copas planas al podar."
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "scientific_name": [
+      "Carpinus betulus"
+    ],
+    "common_name": "Carpe europeo",
+    "attracts": [],
+    "care_level": "",
+    "description": "El Carpe europeo (Carpinus betulus), conocido también como Madera de Hierro, es un árbol impresionante por varias razones. Se destaca por su llamativo follaje verde-amarillento, que suele cambiar de tonos desde finales del verano hasta el otoño. Es resistente, tolerante a la sequía y de crecimiento lento, lo que lo hace ideal para jardines pequeños. La madera del Carpe es muy dura y duradera, e incluso se ha utilizado para fabricar muebles. Su copa extendida crea una gran cantidad de sombra y proporciona hábitats para la fauna silvestre. En resumen, el Carpe europeo es una opción ideal para agregar tanto belleza como funcionalidad al jardín.",
+    "family": "Betulaceae",
+    "flower_color": "Amarillo (macho) y verde (hembra)",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "verde",
+      "marrón"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa",
+      "Asia"
+    ],
+    "other_name": [
+      "Carpe Común"
+    ],
+    "pest_susceptibility": [
+      "Heteroptera - chinches verdaderas",
+      "Cigarras",
+      "cigarrilla",
+      "Resistente a enfermedades",
+      "Resistente a la sequía"
+    ],
+    "propagation": [
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5341",
+        "type": "watering",
+        "description": "El Carpe europeo requiere un riego moderado, aproximadamente una o dos veces por semana con alrededor de 1-2 pulgadas de agua. Aunque puede tolerar algunos períodos de sequía, se desarrolla mejor con un riego regular. En verano, riega el Carpe europeo al menos una vez por semana, y durante períodos de calor extremo, puede necesitar más riego. En invierno, proporciona agua solo si el clima ha sido seco y el suelo se siente seco al tacto. Evita el exceso de riego ya que puede causar pudrición de raíces o problemas de hongos. Al regar, asegúrate de empapar bien el suelo y evita rociar las hojas."
+      },
+      {
+        "id": "5342",
+        "type": "sunlight",
+        "description": "El Carpe europeo (Carpinus betulus) es una especie que necesita luz solar indirecta brillante. Esta especie prosperará mejor si se coloca en un lugar que reciba algunas horas de luz solar adecuada al día. Se desarrolla mejor en áreas parcialmente sombreadas, donde puede recibir luz solar moteada o luz solar de mañana/tarde. Demasiada luz solar directa puede ser perjudicial para esta especie, por lo que es importante proporcionar un lugar adecuado para que crezca. En un ambiente ideal, requerirá de 4 a 6 horas de luz solar al día."
+      },
+      {
+        "id": "5343",
+        "type": "pruning",
+        "description": "El Carpe europeo (Carpinus betulus) debe podarse ligeramente a finales del invierno o principios de la primavera. La poda debe ser generalmente ligera y selectiva para eliminar madera enferma, rota y muerta, así como cualquier rama que cruce o roce. Esto ayudará a mantener una estructura saludable mientras se evita el shock y daño innecesarios. También se pueden podar los brotes bajos y cualquier rama que haya crecido fuera de la forma deseada. Además, en primavera se puede realizar un trabajo de modelado importante, especialmente si la planta requiere una forma formal o un seto. Esta especie también es adecuada para la poda en primavera o verano, lo que ayuda a mantener los árboles más pequeños y producir un cultivo regular de follaje durante varios años."
+      }
+    ]
+  }
+]

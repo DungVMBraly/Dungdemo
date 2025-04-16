@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "17338",
+    "scientific_name": [
+      "Salvia lavanduloides"
+    ],
+    "common_name": "Salvia de hoja de lavanda",
+    "attracts": [
+      "Abejas",
+      "Mariposas",
+      "Colibríes"
+    ],
+    "care_level": "Medio",
+    "description": "Salvia lavanduloides, la salvia de hoja de lavanda, es una especie de planta con flores de la familia Lamiaceae, nativa de México, Guatemala, Honduras y Costa Rica. Se encuentra en bosques montanos y es capaz de adaptarse al fuego.",
+    "family": "",
+    "flower_color": "Rosa",
+    "flowering_season": "Falso",
+    "fruit_color": [],
+    "growth_rate": "Moderada",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde grisáceo"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "México",
+      "Estados Unidos"
+    ],
+    "other_name": [
+      "Salvia de hoja de lavanda"
+    ],
+    "pest_susceptibility": [
+      "Mancha foliar por hongos",
+      "Áfidos"
+    ],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "La Salvia lavanduloides, conocida comúnmente como salvia de lavanda, prefiere un suelo moderadamente húmedo pero es tolerante a la sequía una vez establecida. Riega la planta a fondo cuando sientas la tierra seca a aproximadamente una pulgada por debajo de la superficie. Evita el encharcamiento, ya que puede llevar a la pudrición de las raíces. Durante períodos secos y calurosos, aumenta la frecuencia de riego. Sin embargo, asegúrate de un buen drenaje en la maceta o el parterre para evitar el agua estancada. Durante el período de latencia de la planta en invierno, reduce aún más el riego ya que las necesidades de agua de la planta son menores."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "La Salvia lavanduloides prospera en condiciones de pleno sol, requiriendo al menos seis a ocho horas de luz solar directa cada día. Plántala en un lugar orientado al sur si es posible, para maximizar la exposición al sol. Aunque puede tolerar sombra parcial, la luz solar insuficiente puede conducir a una floración reducida y una planta menos vigorosa. En climas muy calurosos, proporcionar algo de sombra por la tarde puede ayudar a proteger la planta del calor extremo, evitando escaldaduras y ayudando a conservar la humedad del suelo."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Salvia lavanduloides ayuda a mantener su forma y fomenta un crecimiento más tupido y vigoroso. Pode la planta a comienzos de la primavera justo cuando comience a aparecer el nuevo crecimiento. Corte los tallos a un tercio de su altura anterior, eliminando cualquier rama muerta, dañada o débil para promover una buena circulación de aire. Durante la temporada de crecimiento, elimine las flores marchitas para fomentar más floraciones y evitar que la planta se vuelva desgarbada. A finales de otoño, una poda ligera puede arreglar la planta antes del invierno."
+      }
+    ]
+  },
+  {
+    "id": "16939",
+    "scientific_name": [
+      "Rumex sanguineus"
+    ],
+    "common_name": "Acedera de Venosa Roja",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "Rumex sanguineus, comúnmente conocida como acedera de venas rojas o acedera de hojas rojas, es una especie de planta con flores perenne de la familia Polygonaceae. Rumex sanguineus es una dicotiledónea y se puede observar en Europa con al menos dos variedades...",
+    "family": "",
+    "flower_color": "Verdoso",
+    "flowering_season": "",
+    "fruit_color": [
+      "Marrón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "Verde con venas rojas"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Europa",
+      "Asia"
+    ],
+    "other_name": [
+      "Acedera de los Bosques"
+    ],
+    "pest_susceptibility": [
+      "Pulgones",
+      "Babosas"
+    ],
+    "propagation": [
+      "Propagación por semillas",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Arcilloso",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "1",
+        "type": "watering",
+        "description": "Rumex sanguineus, comúnmente conocida como acedera sangrante o acedera de venas rojas, prefiere suelos consistentemente húmedos pero no encharcados. Riegue la planta profundamente cada vez que la capa superior de una pulgada de tierra se sienta seca al tacto. En clima caluroso y seco, puede requerir un riego más frecuente para evitar el marchitamiento. Asegúrese de que la maceta o el jardín proporcionen un buen drenaje para evitar la pudrición de las raíces. El acolchado alrededor de la base puede ayudar a retener la humedad del suelo y reducir la frecuencia del riego. Es importante mantener un equilibrio; un exceso de agua puede ser tan dañino como permitir que el suelo se seque por completo."
+      },
+      {
+        "id": "2",
+        "type": "sunlight",
+        "description": "Rumex sanguineus prospera mejor en sombra parcial, pero también puede tolerar pleno sol, especialmente si se le proporciona suficiente humedad. En regiones con sol intenso por la tarde, puede beneficiarse de algo de protección para evitar que las hojas se quemen. Idealmente, coloque la planta en un lugar donde reciba luz solar por la mañana y algo de sombra por la tarde. Esto asegura que reciba suficiente luz para un crecimiento saludable sin exponer las venas rojas de sus hojas al riesgo de desvanecerse. Si se cultiva en interiores, una ventana orientada al norte o al este es generalmente ideal para satisfacer sus necesidades de luz."
+      },
+      {
+        "id": "3",
+        "type": "pruning",
+        "description": "La poda de Rumex sanguineus implica remover regularmente hojas muertas o dañadas para fomentar el nuevo crecimiento y mantener la apariencia de la planta. Recortar los tallos de las flores antes de que den semilla también puede ayudar a enfocar la energía de la planta en la producción de hojas, lo cual es ideal para una planta ornamental de follaje como la acedera sangrante. Lo mejor es usar tijeras o podadoras limpias y afiladas para evitar dañar la planta. Además, cortar la planta a finales de otoño después de que el follaje se haya secado puede prepararla para un crecimiento saludable en la próxima temporada."
+      }
+    ]
+  },
+  {
+    "id": "16344",
+    "scientific_name": [
+      "Elytraria imbricata"
+    ],
+    "common_name": "escobo morado",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "",
+    "family": "",
+    "flower_color": "Azul",
+    "flowering_season": "No",
+    "fruit_color": [
+      ""
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Centroamérica",
+      "Sudamérica"
+    ],
+    "other_name": [
+      "escobo morado"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Elytraria imbricata, comúnmente conocida como escobo morado, es una planta tolerante a la sequía que requiere un cuidado especial en el riego. Se desarrolla mejor manteniéndola del lado más seco, así que riégala con moderación. Durante la temporada de crecimiento, riega la planta de manera abundante y luego permite que la capa superior de tierra se seque antes de volver a regar. Debes evitar el riego excesivo, ya que puede provocar la pudrición de las raíces. En los meses de invierno, reduce el riego para evitar que la tierra se sature de agua. Asegúrate siempre de que la planta esté en un suelo bien drenado para facilitar el drenaje adecuado."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Elytraria imbricata prospera mejor en condiciones de pleno sol a sombra parcial. Requiere al menos cuatro a seis horas de luz solar directa diariamente para rendir de manera óptima, produciendo un follaje exuberante y flores vibrantes. Si se planta en un área que recibe considerable luz del sol durante el día, asegúrate de que también reciba sombra por la tarde para evitar que las hojas se quemen en climas más calurosos. En áreas con sol intenso, el sol de la mañana con algo de sombra por la tarde puede ser ideal. Observa el crecimiento de la planta y ajusta su exposición a la luz si las hojas parecen blanqueadas o quemadas."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Elytraria imbricata es mínima y se enfoca principalmente en remover tallos muertos o dañados para fomentar un crecimiento saludable. El mejor momento para podar es a principios de la primavera, antes de que la planta comience su temporada de crecimiento activo. Usa herramientas limpias y afiladas para hacer cortes limpios en un ligero ángulo. La poda no solo ayuda a mantener la forma deseada, sino que también promueve un crecimiento más denso y una floración más prolífica. Remueve cualquier flor que comience a desvanecerse para fomentar una floración continua durante la temporada de crecimiento."
+      }
+    ]
+  },
+  {
+    "id": "16543",
+    "scientific_name": [
+      "Iris setosa"
+    ],
+    "common_name": "Lirio costero",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Fácil",
+    "description": "Iris setosa, el lirio de punta grisácea, es una especie de planta con flores del género Iris de la familia Iridaceae. Pertenece al subgénero Limniris y a la serie Tripetalae. Es una planta perenne rizomatosa que se extiende a lo largo del mar Ártico, incluyendo Alaska, Maine, Canadá (incluyendo Columbia Británica, Terranova, Quebec y Yukón), Rusia (incluyendo Siberia), noreste de Asia, China, Corea y al sur hasta Japón. La planta tiene tallos ramificados altos, hojas de verde medio y flores violetas, púrpura-azuladas, azul-violáceas,...",
+    "family": "",
+    "flower_color": "Púrpura",
+    "flowering_season": "",
+    "fruit_color": [
+      ""
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Asia Oriental",
+      "América del Norte"
+    ],
+    "other_name": [
+      "Lirio costero"
+    ],
+    "pest_susceptibility": [
+      "Taladro del iris",
+      "Babosas",
+      "Áfidos"
+    ],
+    "propagation": [
+      "División de rizomas"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Ácido",
+      "Húmedo"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Iris setosa, conocido comúnmente como lirio costero, prospera en suelos consistentemente húmedos. El riego regular es esencial, particularmente durante el periodo de crecimiento en primavera y verano. Es importante mantener el suelo uniformemente húmedo, pero no encharcado, para prevenir la pudrición de las raíces. Durante el descanso en otoño e invierno, reduzca la frecuencia de riego, pero no permita que el suelo se seque completamente ya que la planta no tolera bien las condiciones secas. Utilice siempre un suelo bien drenado para asegurar un desarrollo saludable de las raíces y la salud óptima de la planta."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Iris setosa, o lirio costero, prefiere condiciones de pleno sol a sombra parcial. Idealmente, esta planta debería recibir al menos seis horas de luz solar directa al día para promover la floración y un fuerte crecimiento. Sin embargo, en climas más cálidos, proporcionar algo de sombra por la tarde puede ser beneficioso para evitar la quemadura de las hojas. En regiones con veranos más frescos, plantar a pleno sol puede ayudar a optimizar la floración. Es importante elegir un lugar que equilibre la exposición a la luz para apoyar un desarrollo saludable y flores vibrantes."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Iris setosa generalmente implica la eliminación de hojas muertas o dañadas y tallos florales secos. Esto debe hacerse después de que la planta haya terminado de florecer, generalmente a finales de verano. Recorte los tallos florales hasta la base, y también elimine cualquier hoja amarillenta o marrón para mantener una apariencia ordenada y prevenir enfermedades. Haga cortes limpios usando herramientas esterilizadas para evitar la propagación de patógenos. La poda regular ayuda a prevenir el hacinamiento, fomenta el nuevo crecimiento y mantiene el vigor general de la planta."
+      }
+    ]
+  },
+  {
+    "id": "16154",
+    "scientific_name": [
+      "Carex pedunculata"
+    ],
+    "common_name": "junco de pedúnculo largo",
+    "attracts": [
+      "Polinizadores"
+    ],
+    "care_level": "Media",
+    "description": "",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Norteamérica"
+    ],
+    "other_name": [
+      "junco de pedúnculo largo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Húmedo",
+      "Arcilloso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Carex pedunculata, también conocido como junco de pedúnculo largo, prefiere suelos consistentemente húmedos, especialmente durante su temporada de crecimiento activo en primavera y principios de verano. Riegue la planta regularmente para evitar que el suelo se seque completamente. No obstante, evite las condiciones de anegamiento ya que pueden provocar pudrición de las raíces. Colocar mantillo alrededor de la base puede ayudar a retener la humedad y reducir la necesidad de riegos frecuentes. Siempre permita que la capa superior del suelo se seque ligeramente entre riegos para evitar la sobresaturación."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Carex pedunculata prospera en ambientes de sombra parcial a completa. Aunque puede tolerar algo de luz solar directa por la mañana, prefiere luz moteada o sombra filtrada para evitar el fuerte sol del mediodía, que puede quemar su follaje. Cuando se cultiva en un área sombreada, imita el entorno natural de bosque al que está acostumbrado, garantizando un crecimiento vibrante y saludable. Si se cultiva en interiores o en una zona de poca luz, asegúrese de que reciba suficiente luz indirecta para mantener su color verde intenso."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Carex pedunculata implica cortar el follaje muerto o dañado, generalmente al final de la temporada de crecimiento o a principios de primavera antes de que aparezca el nuevo crecimiento. Podar ayuda a mantener la apariencia de la planta y fomenta un crecimiento saludable. Use tijeras o podaderas limpias y afiladas para recortar las hojas marrones o muertas cerca de la base. Además, eliminar los tallos florales después de la producción de semillas puede prevenir la auto-siembra si no se desea y también puede mejorar el atractivo estético de la planta."
+      }
+    ]
+  },
+  {
+    "id": "17736",
+    "scientific_name": [
+      "Tillandsia erubescens"
+    ],
+    "common_name": "",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Tillandsia erubescens es una especie de planta epífita del género Tillandsia. Esta especie es endémica de México, encontrada en gran parte del país desde Chihuahua hasta Oaxaca.",
+    "family": "",
+    "flower_color": "Rojo",
+    "flowering_season": "Falso",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Centroamérica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semillas",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Tillandsia erubescens, al igual que otras plantas de aire, debe ser regado mediante el método de inmersión. Cada 1-2 semanas, sumerja la planta en agua a temperatura ambiente durante aproximadamente 20-30 minutos. Permita que se seque completamente antes de colocarla de nuevo en su lugar para evitar moho y pudrición. Dependiendo de la humedad de su entorno, es posible que necesite rociar entre las inmersiones. En climas más secos, considere rociar la planta cada pocos días. Durante los meses más cálidos o si nota alguna sequedad, aumente la frecuencia del riego."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Tillandsia erubescens prospera en luz brillante e indirecta. La luz solar directa es demasiado intensa y puede quemar las hojas, causando daños. Un lugar cerca de una ventana donde reciba bastante luz filtrada diaria es ideal. Si la luz natural es limitada, especialmente en los meses de invierno, la iluminación fluorescente puede complementar la luz necesaria. Asegúrese de que reciba 12 horas de luz para un crecimiento saludable, imitando las condiciones de su hábitat natural. Tenga cuidado de no colocarla en sombra profunda, ya que esto obstaculizará su crecimiento."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda para Tillandsia erubescens no es típicamente necesaria para la gestión del crecimiento como en otras plantas, pero a menudo se realiza para eliminar hojas muertas o marrones. Utilizando tijeras estériles, recorte cuidadosamente estas piezas antiestéticas sin cortar la sección viva y sana de la planta. También puede recortar cualquier tricoma excesivo si se vuelven demasiado gruesos. Eliminar flores muertas después de que la planta haya terminado de florecer puede fomentar un crecimiento general más saludable de la planta."
+      }
+    ]
+  },
+  {
+    "id": "17934",
+    "scientific_name": [
+      "Avenella flexuosa"
+    ],
+    "common_name": "pelo rizado",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Deschampsia flexuosa, comúnmente conocida como pelo rizado, es una especie de hierba en la familia de las gramíneas distribuida ampliamente en Eurasia, África, América del Sur y América del Norte.",
+    "family": "",
+    "flower_color": "Púrpura",
+    "flowering_season": "false",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Europa",
+      "Asia",
+      "Norteamérica"
+    ],
+    "other_name": [
+      "pelo rizado"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Ácido",
+      "Bien drenado"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Avenella flexuosa, comúnmente conocida como cabello ondulado, generalmente requiere poca agua ya que es tolerante a la sequía. Prosperan mejor en condiciones relativamente secas y no requieren riegos frecuentes una vez establecido. Para mantener un crecimiento saludable, regar con moderación, solo cuando hay períodos prolongados de sequía. El exceso de riego puede llevar a la pudrición de las raíces, ya que la planta prefiere suelos bien drenados, arenosos o limosos. Asegúrese de que el suelo se haya secado un poco antes de agregar más agua. El mulching puede ayudar a retener la humedad y mantener la temperatura del suelo, pero es crucial evitar condiciones de suelo anegado."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Avenella flexuosa prefiere el pleno sol a la sombra parcial para un crecimiento óptimo. Puede crecer en condiciones de luz variables, pero prospera cuando recibe al menos 6 horas de luz solar directa al día. En climas muy calurosos, un poco de sombra por la tarde puede evitar que el follaje se queme. Es adaptable a diferentes condiciones de luz, pero tendrá un crecimiento y floración más vigorosos en ubicaciones más soleadas. Al plantar, coloque su Avenella flexuosa en un lugar donde recibirá suficiente luz solar para una actividad fotosintética adecuada, lo que lleva a un crecimiento más saludable y vigoroso."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Avenella flexuosa generalmente no es necesaria ya que es una planta de bajo mantenimiento. Sin embargo, puede recortar el follaje viejo, muerto o dañado a finales del invierno o principios de la primavera antes de que comience el nuevo crecimiento. Esto ayuda a mantener un aspecto ordenado de la planta y fomenta un crecimiento saludable y vigoroso. Si la hierba se vuelve demasiado densa, se puede dividir y replantar. Al podar, asegúrese de usar tijeras o cortadoras limpias y afiladas para prevenir cualquier transmisión de enfermedades a las partes sanas de la planta."
+      }
+    ]
+  },
+  {
+    "id": "17636",
+    "scientific_name": [
+      "Blechnum penna-marina"
+    ],
+    "common_name": "helecho duro pequeño",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Blechnum penna-marina, conocido como helecho duro antártico, helecho de agua alpino, o pinque (en español chileno), es una especie de helecho de la familia Blechnaceae. Su rango natural abarca desde la Región de la Araucanía hacia el sur, y desde la costa hasta la línea de árboles de los bosques magallánicos en Chile y áreas adyacentes de Argentina. También se encuentra en Nueva Zelanda, Australia y algunas islas del Pacífico. Es perenne y alcanza los 20 cm (8 pulgadas).",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Nueva Zelanda",
+      "Sudamérica"
+    ],
+    "other_name": [
+      "helecho duro pequeño"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por esporas"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Ácido",
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "1",
+        "type": "watering",
+        "description": "Blechnum penna-marina, o Helecho de Agua Alpino, prefiere suelos húmedos pero no encharcados. Es esencial mantener una humedad consistente, especialmente durante la temporada de crecimiento en primavera y verano. Evite que la planta se quede en agua, ya que esto puede llevar a la pudrición de las raíces. En ambientes interiores, aumente la humedad rociando o colocando una bandeja de humedad cerca. Durante el invierno, reduzca ligeramente el riego pero asegúrese de que el suelo nunca se seque completamente, ya que este helecho aprecia una humedad constante durante todo el año."
+      },
+      {
+        "id": "2",
+        "type": "sunlight",
+        "description": "Blechnum penna-marina prospera mejor en ambientes de sombra parcial a total. En su hábitat natural, generalmente crece bajo el dosel de plantas más grandes, lo que significa que la luz indirecta o tamizada es ideal. La luz solar directa, especialmente durante las partes más calurosas del día, debe evitarse, ya que puede quemar las frondas delicadas de este helecho. Si se mantiene en interiores, colóquelo cerca de una ventana orientada al norte o al este donde pueda recibir luz brillante y filtrada. Asegurarse de que reciba la cantidad adecuada de iluminación indirecta mantendrá la planta saludable y vibrante."
+      },
+      {
+        "id": "3",
+        "type": "pruning",
+        "description": "La poda del Blechnum penna-marina implica eliminar las frondas muertas o dañadas para fomentar un nuevo crecimiento y mantener una apariencia ordenada. Esto se puede hacer en cualquier época del año, pero es particularmente beneficioso a principios de primavera antes de que comience el nuevo crecimiento. Simplemente corte las frondas no deseadas en la base utilizando tijeras limpias y afiladas. La poda regular no solo ayuda a mantener el atractivo visual de la planta, sino que también permite una mejor circulación de aire alrededor de las frondas, reduciendo la posibilidad de enfermedades."
+      }
+    ]
+  },
+  {
+    "id": "16940",
+    "scientific_name": [
+      "Rumohra adiantiformis"
+    ],
+    "common_name": "helecho cuero",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "Rumohra adiantiformis, comúnmente llamado helecho cuero y helecho de cuero, helecho escudo coriáceo, helecho de hierro, helecho de 7 semanas y helecho escudo trepador, es una especie de helecho en la familia Dryopteridaceae.",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [
+      ""
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "América del Sur",
+      "África"
+    ],
+    "other_name": [
+      "helecho cuero"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Limoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Rumohra adiantiformis, conocido comúnmente como el helecho cuero, prefiere un ambiente húmedo con suelo consistentemente húmedo. Riegue la planta cuando el centímetro superior de la tierra se sienta seco al tacto. Es importante evitar el exceso de agua, ya que esto puede conducir a la pudrición de las raíces. Asegúrese de que haya un drenaje adecuado utilizando una maceta con agujeros de drenaje y una mezcla para macetas que drene bien. En ambientes de baja humedad o durante los meses de invierno, puede necesitar rociar la planta para mantener los niveles de humedad. Ajuste la frecuencia de riego según el entorno de la planta y evite dejar que el suelo se seque completamente."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Rumohra adiantiformis prospera en luz indirecta brillante. Puede tolerar condiciones de luz más bajas, pero debe mantenerse alejado de la luz solar directa, ya que puede quemar sus frondas y causar quemaduras en las hojas. Un lugar ideal es cerca de una ventana orientada al norte o al este, donde pueda recibir el suave sol de la mañana. Si se cultiva en interiores, complemente la iluminación durante los meses más oscuros para asegurarse de que reciba suficiente luz. Recuerde rotar la planta ocasionalmente para garantizar una exposición solar uniforme en todos los lados. Proporcionando una luz constante y filtrada, el helecho cuero mantendrá su follaje verde y exuberante."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda del helecho cuero implica eliminar cualquier fronda amarillenta o muerta para mantener su apariencia y promover un crecimiento saludable. Use tijeras afiladas y esterilizadas para cortar las frondas afectadas en la base, teniendo cuidado de no dañar el crecimiento sano circundante. La poda regular fomenta un crecimiento más robusto y ayuda a prevenir la propagación de cualquier enfermedad. Además, eliminar las frondas más viejas puede permitir que más luz y aire lleguen al interior de la planta, promoviendo un desarrollo más saludable en general. Pode según sea necesario durante todo el año para mantener la planta en su mejor aspecto."
+      }
+    ]
+  },
+  {
+    "id": "16744",
+    "scientific_name": [
+      "Palafoxia rosea"
+    ],
+    "common_name": "Palafoxia Rosada",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "Palafoxia, palafoxia, es un género de plantas con flores de América del Norte en la tribu Bahia dentro de la familia del girasol.",
+    "family": "",
+    "flower_color": "Rosa",
+    "flowering_season": "No hay información",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "No hay información",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "América del Norte"
+    ],
+    "other_name": [
+      "Palafoxia Rosada"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semillas"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Arenoso",
+      "Bien drenado"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "La Palafoxia rosea, comúnmente conocida como palafoxia rosada, prefiere suelos bien drenados y puede tolerar condiciones secas una vez establecida. Riegue la planta profundamente pero con poca frecuencia, permitiendo que el suelo se seque entre las sesiones de riego. Esta planta es tolerante a la sequía, por lo que es importante no regar en exceso, lo cual puede llevar a la pudrición de la raíz. Durante períodos de sequía prolongada, puede regar más regularmente para mantener la planta saludable, pero siempre asegúrese de que la capa superior del suelo esté seca al tacto antes de volver a regar. En los meses más fríos, reduzca la frecuencia de riego a medida que el crecimiento de la planta disminuye."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "La Palafoxia rosea prospera mejor en condiciones de pleno sol, requiriendo al menos seis horas de luz solar directa cada día. Puede tolerar sombra parcial, pero puede que no florezca tan profusamente si no se le da suficiente luz. La luz solar adecuada es crucial para la floración y la salud general de la planta. Si está en interiores, coloque la planta cerca de una ventana orientada al sur donde pueda recibir abundante luz durante el día. En ambientes exteriores, elija un lugar que ofrezca una luz solar sin obstrucciones para asegurar un crecimiento óptimo y flores vibrantes. Tenga cuidado con el sol intenso de la tarde en climas muy cálidos, lo que podría causar quemaduras en las hojas."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Palafoxia rosea implica la eliminación de tallos muertos o dañados para fomentar un crecimiento saludable y mantener una apariencia ordenada. Pode a principios de la primavera antes de que comience el nuevo crecimiento, o después del período de floración si es necesario eliminar flores y cabezas de semillas gastadas. Se pueden realizar recortes ligeros durante la temporada de crecimiento para fomentar un follaje más denso y eliminar cualquier crecimiento estraggly o no deseado. Siempre use tijeras de podar esterilizadas para prevenir la transmisión de enfermedades, y evite cortar demasiado a la vez, ya que esto puede estresar a la planta. Una poda adecuada mejorará su forma natural y promoverá una floración más prolífica."
+      }
+    ]
+  },
+  {
+    "id": "17141",
+    "scientific_name": [
+      "Vernonia lindheimeri"
+    ],
+    "common_name": "Hierba de hierro lanosa",
+    "attracts": [
+      "Mariposas",
+      "Abejas"
+    ],
+    "care_level": "Medio",
+    "description": "Vernonia lindheimeri, conocida comúnmente como hierba de hierro lanosa, es una especie de planta con flores de la familia de las asteráceas (Asteraceae). Es nativa de América del Norte, específicamente del estado de Coahuila en México y del estado de Texas en Estados Unidos. Su hábitat natural se encuentra en áreas abiertas y calcáreas.",
+    "family": "",
+    "flower_color": "Púrpura",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos",
+      "México"
+    ],
+    "other_name": [
+      "Hierba de hierro lanosa"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Vernonia lindheimeri, conocida como hierba de hierro de Lindheimer, requiere riego moderado. Es crucial mantener el suelo consistentemente húmedo, especialmente durante la temporada de crecimiento, que generalmente abarca desde la primavera hasta el otoño temprano. Sin embargo, asegúrese de un buen drenaje para evitar que las raíces permanezcan en agua, lo que puede provocar la pudrición de las raíces. Durante los meses de invierno, cuando la planta está inactiva, reduzca el riego para permitir que el suelo se seque un poco entre riegos. Se debe evitar el riego excesivo para prevenir problemas fúngicos relacionados con la humedad excesiva."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "La hierba de hierro de Lindheimer prospera en condiciones de sol pleno. Rinde mejor cuando recibe al menos seis horas de luz solar directa cada día. En regiones con veranos muy calurosos, proporcionar algo de sombra por la tarde puede ayudar a prevenir que las hojas se quemen. Si se planta en un lugar más sombreado, la planta puede crecer espigada y producir menos flores. Asegurar una adecuada exposición al sol también ayudará a mantener sus vibrantes flores púrpuras y apoyará el vigor y crecimiento general de la planta. La exposición al sol pleno también ayuda a prevenir enfermedades fúngicas relacionadas con demasiada sombra y retención de humedad."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Vernonia lindheimeri implica cortar el crecimiento viejo para fomentar una planta saludable y tupida. Esto generalmente debe hacerse a fines del invierno o principios de la primavera antes de que comience el nuevo crecimiento. Retire cualquier tallo muerto o dañado en la base para mejorar la circulación de aire y la salud general de la planta. Despuntar las flores marchitas puede prolongar el período de floración y prevenir que la planta se resembras excesivamente. Si la planta se está volviendo muy grande o desordenada, también se puede recortar para mantener una forma y tamaño deseados."
+      }
+    ]
+  },
+  {
+    "id": "16544",
+    "scientific_name": [
+      "Iris verna"
+    ],
+    "common_name": "Iris enano",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Iris verna es una especie de iris en la familia Iridaceae, también en el subgénero de Iris. También es conocido con el nombre común de Iris Violeta Enano. Se encuentra desde Maryland, a lo largo de la costa este de los Estados Unidos hasta Florida (incluyendo Ohio).",
+    "family": "",
+    "flower_color": "Púrpura",
+    "flowering_season": "",
+    "fruit_color": [
+      "Marrón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este de los Estados Unidos"
+    ],
+    "other_name": [
+      "Iris enano"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "División de rizomas"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Arenoso",
+      "Ácido"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Iris verna, conocido también como el Iris violeta enano, prefiere suelos bien drenados con niveles de humedad moderados. Es importante mantener el suelo consistentemente húmedo durante la temporada de crecimiento, especialmente en períodos secos, pero evitar el riego excesivo ya que esto puede llevar a pudrición de raíces. Asegúrate de que la capa superior de una pulgada del suelo se seque entre riegos. Durante el período de latencia a finales del verano, reduce el riego para evitar el encharcamiento mientras mantienes el suelo ligeramente húmedo. El acolchado puede ayudar a retener la humedad del suelo y aliviar las fluctuaciones de temperatura, manteniendo un ambiente estable para las raíces."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Iris verna prospera mejor en condiciones de pleno sol, lo que contribuye a una floración óptima y colores vibrantes de las flores. Idealmente, debería recibir al menos seis horas de sol directo al día. En regiones con veranos particularmente calurosos, la planta puede tolerar sombra ligera, especialmente en la tarde, para proteger las flores delicadas y retener humedad. Si se cultiva en sombra parcial, el iris puede tener menos flores y un crecimiento más larguirucho. Asegurar la exposición adecuada de la luz solar no solo contribuirá a la salud general de la planta, sino que también realzará su atractivo estético en un entorno de jardín."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Iris verna debe realizarse con cuidado para mantener la salud y apariencia de la planta. Después del período de floración, que generalmente ocurre a principios de primavera, se deben retirar las flores marchitas para estimular el vigor de la planta y prevenir la formación de semillas, lo que puede desviar energía de la planta. A finales del otoño, una vez que el follaje comience a morir naturalmente, recorta las hojas justo por encima del rizoma para ordenar el jardín y prevenir enfermedades. Siempre utiliza herramientas limpias y afiladas para prevenir lesiones o transmisión de enfermedades. Inspecciona regularmente la planta para detectar cualquier parte muerta o dañada y retírala inmediatamente."
+      }
+    ]
+  },
+  {
+    "id": "17738",
+    "scientific_name": [
+      "Galphimia glauca"
+    ],
+    "common_name": "Lluvia de oro",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Galphimia glauca, también conocida como lluvia de oro, duchas doradas, thryallis y chorro de oro, es un arbusto floreciente de la familia Malpighiaceae que es originario de América Central.",
+    "family": "Malpighiaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "No especificado",
+    "fruit_color": [
+      "Marrón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "No especificado",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "México",
+      "América Central",
+      "Sudamérica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Áfidos",
+      "Moscas blancas"
+    ],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Galphimia glauca, conocida comúnmente como thryallis, prefiere un horario de riego regular. Es importante mantener el suelo consistentemente húmedo pero no saturado, permitiendo que el primer centímetro del suelo se seque entre riegos. Durante la temporada de crecimiento en primavera y verano, aumente la frecuencia de riego ya que esta es la época en que la planta está creciendo activamente. Reduzca el riego en otoño e invierno, ya que la planta requiere menos humedad. Asegúrese de que la maceta o el suelo del jardín tengan un buen drenaje para evitar la pudrición de raíces."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Esta planta prospera en entornos de pleno sol a sombra parcial. Tiene su mejor desempeño en lugares donde recibe al menos 6 horas de luz solar directa a diario. En regiones más cálidas, puede beneficiarse de algo de sombra por la tarde para prevenir que las hojas se quemen. Si se cultiva en interiores, colóquelo cerca de una ventana brillante donde pueda recibir abundante luz. Cuanto más sol reciba, más probabilidad habrá de que florezca, mejorando su atractivo ornamental."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "Podar Galphimia glauca se realiza típicamente para mantener su forma y fomentar un crecimiento saludable. El momento ideal para podar es a principios de primavera antes de que comience el nuevo crecimiento. Use tijeras afiladas y limpias para eliminar cualquier rama muerta, enferma o cruzada. La poda regular puede ayudar a mantener una apariencia frondosa y eliminar flores marchitas, lo que promueve una floración continua. Tenga cuidado de no podar en exceso ya que esto puede estresar la planta y reducir su potencial de floración."
+      }
+    ]
+  },
+  {
+    "id": "16846",
+    "scientific_name": [
+      "Pluchea carolinensis"
+    ],
+    "common_name": "Curalotodo",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Fácil",
+    "description": "Pluchea carolinensis es una planta del género Pluchea.",
+    "family": "",
+    "flower_color": "Rosa",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "Primavera",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Caribe",
+      "Centroamérica",
+      "Florida",
+      "Sudamérica"
+    ],
+    "other_name": [
+      "Curalotodo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Pluchea carolinensis, comúnmente conocida como curalotodo, prefiere un nivel de humedad constante en su suelo, imitando su hábitat natural de marismas. Es importante asegurarse de que el suelo se mantenga ligeramente húmedo pero no encharcado, ya que un exceso de humedad puede provocar la pudrición de las raíces. Una regla general es regar la planta a fondo, permitiendo que la capa superior de la tierra se seque antes del próximo riego. Durante los meses más cálidos, es posible que necesites regar con más frecuencia, mientras que en los meses más fríos, asegúrate de que el suelo se mantenga lo suficientemente húmedo para sostener el crecimiento sin saturación excesiva."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Pluchea carolinensis prospera en condiciones de pleno sol a sombra parcial. Idealmente, debería recibir al menos de 4 a 6 horas de luz solar directa por día para asegurar un crecimiento y floración óptimos. Si se coloca en sombra parcial, asegúrate de que todavía reciba luz solar indirecta brillante para apoyar su desarrollo. En regiones con sol intenso al mediodía, proporcionar algo de sombra por la tarde puede ayudar a evitar que las hojas se quemen. Observar la planta en busca de signos de luz insuficiente, como crecimiento alargado o menos floraciones, puede ayudarte a ajustar su ubicación para asegurar una exposición adecuada al sol."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda es una parte esencial del cuidado de Pluchea carolinensis para mantener su forma y evitar que se vuelva demasiado rebelde. Eliminar regularmente los tallos y hojas muertas o enfermas puede promover un crecimiento más saludable y mejorar la circulación del aire. También puedes recortar las ramas demasiado crecidas para fomentar un crecimiento nuevo y más denso. El mejor momento para podar es durante la temporada de crecimiento, desde la primavera hasta principios de otoño, evitando la poda durante la dormancia en los meses de invierno, ya que esta planta puede ser sensible a los cambios drásticos en condiciones más frías."
+      }
+    ]
+  },
+  {
+    "id": "17637",
+    "scientific_name": [
+      "Aristolochia baetica"
+    ],
+    "common_name": "Parra Silvestre de Andalucía",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Aristolochia baetica, conocida como Parra de Pipa de Andalucía o Parra de Pipa, es una enredadera perenne y venenosa que se encuentra desde Argelia hasta España y Portugal.",
+    "family": "",
+    "flower_color": "Púrpura",
+    "flowering_season": "",
+    "fruit_color": [
+      "Marrón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Marruecos",
+      "Portugal",
+      "España"
+    ],
+    "other_name": [
+      "Parra Silvestre de Andalucía"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Esquejes",
+      "Propagación por Semillas"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "1",
+        "type": "watering",
+        "description": "Aristolochia baetica prefiere suelos bien drenados y debe regarse moderadamente. Es crucial evitar el encharcamiento, ya que la planta es sensible al exceso de humedad, lo que puede provocar la pudrición de las raíces. Deje que la capa superior del suelo se seque ligeramente entre riegos. Durante la temporada de crecimiento en primavera y verano, puede ser necesario regar más frecuentemente, asegurando una humedad uniforme. Por el contrario, reduzca el riego en otoño e invierno, cuando el crecimiento de la planta se ralentiza. Monitorizar la respuesta de la planta te ayudará a ajustar tu rutina de riego en consecuencia."
+      },
+      {
+        "id": "2",
+        "type": "sunlight",
+        "description": "Aristolochia baetica prospera a pleno sol o en sombra parcial, lo que la hace adaptable a diferentes condiciones de luz. Idealmente, debe recibir al menos 4-6 horas de luz solar directa al día para asegurar un crecimiento y floración saludables. En climas más calurosos, proporcionar algo de sombra por la tarde puede ayudar a prevenir el quemado de las hojas. Si se cultiva en interiores, coloque la planta cerca de una ventana luminosa con luz filtrada, asegurándose de que reciba suficiente luz sin exposición a luz solar intensa y directa por períodos prolongados. Ajuste su posición según sea necesario para adaptarse a las condiciones de luz y considere iluminación suplementaria si parece necesitar más luz."
+      },
+      {
+        "id": "3",
+        "type": "pruning",
+        "description": "La poda de Aristolochia baetica implica recortar la planta para fomentar un crecimiento saludable y mantener su forma. Puede podarse a inicios de la primavera antes de que comience el nuevo crecimiento. Elimine cualquier tallo muerto, dañado o enfermo, así como cualquier crecimiento que desvíe la forma deseada. Si la planta se vuelve demasiado densa, aclare selectivamente algunos de los tallos más viejos para mejorar la circulación del aire y la penetración de luz. Use tijeras de podar limpias y afiladas para prevenir daños y reducir el riesgo de transmisión de enfermedades. La poda regular también puede ayudar a controlar el tamaño de la planta y promover un nuevo y vigoroso crecimiento."
+      }
+    ]
+  },
+  {
+    "id": "16446",
+    "scientific_name": [
+      "Gymnocladus dioicus"
+    ],
+    "common_name": "Árbol del café de Kentucky",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El árbol del café de Kentucky, Gymnocladus dioicus, es un árbol de la subfamilia Caesalpinioideae de la familia de las leguminosas Fabaceae, nativo del Medio Oeste y el sur superior de América del Norte. Las semillas pueden tostarse y utilizarse como sustituto de los granos de café; sin embargo, las vainas y semillas sin tostar son tóxicas. La madera del árbol es utilizada por ebanistas y carpinteros.",
+    "family": "",
+    "flower_color": "Blanco",
+    "flowering_season": "Falso",
+    "fruit_color": [
+      "Marrón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "América del Norte"
+    ],
+    "other_name": [
+      "Árbol del café de Kentucky"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Gymnocladus dioicus, conocido comúnmente como el árbol del café de Kentucky, es una especie resistente a la sequía que requiere un riego mínimo una vez establecida. Durante su fase inicial de crecimiento, es esencial regarla regularmente para desarrollar un sistema radicular robusto, generalmente alrededor de una vez por semana, asegurando que el suelo permanezca húmedo pero no encharcado. A medida que madura, reduzca la frecuencia de riego ya que este árbol prospera en suelos bien drenados y puede tolerar condiciones secas. Durante períodos prolongados de sequía, un riego profundo ocasional fomenta un crecimiento radicular más profundo, mejorando la resistencia a la sequía. Siempre permita que la capa superior del suelo se seque entre sesiones de riego para evitar la sobre-saturación y la podredumbre de las raíces."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Gymnocladus dioicus prospera mejor a pleno sol, lo que significa que requiere al menos seis horas de luz directa del día para crecer de manera óptima. Aunque puede tolerar sombra parcial, el pleno sol asegura un crecimiento vigoroso y salud general. La gran estatura y la forma arquitectónica de este árbol se benefician de la luz solar abundante para desarrollar su follaje denso y atractivo durante la temporada de crecimiento. Colocarlo en un área abierta no sólo satisface sus necesidades de luz solar sino que también le permite extenderse naturalmente. En condiciones sombreadas, el árbol puede exhibir un crecimiento más lento y una densidad de follaje reducida, afectando su atractivo ornamental."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda del Gymnocladus dioicus debe realizarse a finales del invierno o principios de la primavera, mientras el árbol está inactivo, antes de que comience el nuevo crecimiento. Concéntrese en eliminar las ramas muertas, dañadas o cruzadas para mantener una estructura saludable y promover una mejor circulación de aire dentro de la copa. También es beneficioso podar cualquier chupón o rama colgante temprano para fomentar un líder central fuerte. Generalmente, se requiere una poda mínima para este árbol, ya que naturalmente desarrolla una copa abierta y aireada. Evite la poda excesiva para mantener su belleza arquitectónica, permitiendo al mismo tiempo que todos los apartados de la copa del árbol reciban suficiente luz solar."
+      }
+    ]
+  },
+  {
+    "id": "16648",
+    "scientific_name": [
+      "Melochia pyramidata"
+    ],
+    "common_name": "Flor de Pirámide",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Melochia pyramidata, comúnmente conocida como Flor de Pirámide, es una planta que atrae a polinizadores como abejas y mariposas. Originaria de regiones de África, América e India, crece con un ritmo moderado y requiere un cuidado de nivel medio. Sus flores rosadas florecen mayormente en otoño y sus hojas son de color verde. Se propaga principalmente por semillas y es susceptible a plagas como los áfidos y la mosca blanca.",
+    "family": "",
+    "flower_color": "Rosa",
+    "flowering_season": "No aplicable",
+    "fruit_color": [
+      "Marrón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "África",
+      "Américas",
+      "India"
+    ],
+    "other_name": [
+      "Flor de Pirámide"
+    ],
+    "pest_susceptibility": [
+      "Áfidos",
+      "Mosca blanca"
+    ],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Melochia pyramidata prefiere una rutina de riego equilibrada que evite tanto la sequía como el exceso de agua. La planta prospera en un suelo consistentemente húmedo pero bien drenado. Es importante permitir que la pulgada superior del suelo se seque entre sesiones de riego para evitar la pudrición de las raíces, especialmente en entornos en maceta. Durante la temporada de crecimiento activo en primavera y verano, el riego debe ser más frecuente para favorecer un crecimiento vigoroso, mientras que en los meses más fríos, la frecuencia se puede reducir. El agua de lluvia o filtrada es ideal ya que minimiza la acumulación potencial de minerales, lo que puede dañar la planta."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Melochia pyramidata prospera a plena luz del sol a sombra parcial. Idealmente, debe recibir al menos 6 horas de luz solar directa diaria para un crecimiento y floración óptimos. Si se cultiva en regiones con un sol intenso al mediodía, proporcionar algo de sombra por la tarde puede ayudar a prevenir el quemado de las hojas. Cuando se cultiva en interiores, una ventana orientada al sur o al oeste que reciba mucha luz es adecuada. Sin embargo, si la luz solar natural es insuficiente, complementarla con una luz de crecimiento puede asegurar que la planta reciba suficiente luz para mantener un desarrollo saludable y la producción de flores."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "Podar Melochia pyramidata implica eliminar ramas muertas o dañadas y dar forma a la planta para estimular un crecimiento más arbustivo. Esta planta se puede podar a inicios de la primavera, justo antes de que comience la temporada de crecimiento. Recortar tallos largos también puede ayudar a mantener su forma deseada y evitar que se vuelva demasiado desordenada. La poda regular promoverá una mejor circulación del aire así como un crecimiento más saludable. Siempre use herramientas limpias y afiladas para hacer cortes precisos. Además, eliminar las flores marchitas puede estimular una floración adicional y mantener la apariencia de la planta."
+      }
+    ]
+  },
+  {
+    "id": "17638",
+    "scientific_name": [
+      "Flavocetraria nivalis"
+    ],
+    "common_name": "Liquen de nieve arrugado",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Regiones árticas",
+      "Zonas alpinas"
+    ],
+    "other_name": [
+      "Liquen de nieve arrugado"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [],
+    "pruning_month": [
+      "Septiembre"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Gravilloso",
+      "Rocoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Flavocetraria nivalis, comúnmente conocido como liquen de nieve, generalmente crece en entornos árticos o alpinos donde la humedad proviene principalmente de la nieve derretida o de lluvias periódicas. En cultivo, requiere riego mínimo, ya que está adaptado para sobrevivir en condiciones secas. Asegúrese de que el sustrato no esté encharcado, permitiendo que se seque entre riegos. Dependiendo de las condiciones ambientales, puede regar esta planta con moderación, idealmente imitando su ecosistema natural. Un sustrato de buen drenaje es crucial para prevenir la podredumbre de raíz, ya que este liquen prefiere ambientes donde el agua drene rápidamente."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Flavocetraria nivalis prospera naturalmente en ambientes abiertos con mucha luz, típico de sus áreas nativas árticas o alpinas. En cultivo, debe recibir luz indirecta brillante. La luz solar directa puede ser demasiado intensa, especialmente si las condiciones son más cálidas que los ambientes frescos a los que está adaptado. Asegúrese de que esté colocado en un área bien iluminada o bajo luces de crecimiento que imiten su exposición solar natural difusa. Si muestra signos de decoloración o estrés, ajuste la exposición a la luz en consecuencia, posiblemente proporcionando algo de luz filtrada o ubicándolo en un ambiente de luz menos intensa."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Flavocetraria nivalis generalmente no es necesaria ya que los líquenes crecen muy lentamente y no tienen tallos o hojas tradicionales que necesiten un recorte regular. Sin embargo, si partes se vuelven antiestéticas o si hay algún daño, puede eliminar suavemente las secciones afectadas. Use tijeras limpias y afiladas o simplemente pellízquelas con los dedos. Debe tenerse cuidado de no perturbar su adhesión al sustrato. La observación regular es más importante que la poda para asegurar que su crecimiento natural se mantenga, libre de un manejo excesivo que podría alterar su delicada estructura."
+      }
+    ]
+  },
+  {
+    "id": "18026",
+    "scientific_name": [
+      "Viola hederacea"
+    ],
+    "common_name": "Violeta de hoja de hiedra",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Fácil",
+    "description": "La Viola hederacea es una especie de violeta nativa de Australia. Es común y ampliamente distribuida en Victoria y Tasmania, a lo largo de la Gran Cordillera Divisoria en Nueva Gales del Sur al norte, al menos hasta el área de Barrington Tops, en el extremo sureste de Australia del Sur, y en un área pequeña de las colinas de Adelaida entre Belair y Mount Lofty.",
+    "family": "",
+    "flower_color": "Púrpura",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Australia"
+    ],
+    "other_name": [
+      "Violeta de hoja de hiedra"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco",
+      "Arenoso",
+      "Arcilloso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "La Viola hederacea, comúnmente conocida como violeta nativa australiana, prefiere suelos constantemente húmedos, pero no tolera condiciones encharcadas. El riego debe ser frecuente pero moderado para que el suelo permanezca ligeramente húmedo entre riegos. Dependiendo del clima y la ubicación, la frecuencia del riego puede variar, pero generalmente uno o dos veces por semana es suficiente. En períodos de calor y sequía, aumente el monitoreo para asegurarse de que la planta se mantenga húmeda, pero disminuya el riego en meses más fríos para evitar la sobresaturación. El uso de mantillo puede ayudar a retener la humedad del suelo."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "La Viola hederacea prospera a la sombra parcial o completa, replicando su entorno nativo de sotobosque. Aunque puede tolerar un poco de sol matinal o luz solar filtrada muy ligera, la luz solar directa intensa, especialmente por la tarde, puede quemar las hojas y causar estrés. Si se cultiva al aire libre, un lugar bajo árboles o junto a plantas más altas donde reciba luz solar moteada sería ideal. Para el cultivo en interiores, coloque la planta en una habitación bien iluminada pero alejada de la luz solar directa, como en una ventana orientada al norte o al este."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda para Viola hederacea es generalmente mínima, ya que la planta tiene un hábito de crecimiento naturalmente ordenado. Sin embargo, para fomentar un crecimiento más denso y eliminar cualquier hoja muerta o amarillenta, se puede realizar una poda ligera. Después de la floración, se pueden pellizcar las flores marchitas para evitar la formación de semillas y fomentar una apariencia más ordenada. También es útil podar cualquier tallo corredor o que se extienda excesivamente para mantener la planta contenida y promover una apariencia más compacta. Generalmente, realizar estas tareas una o dos veces al año es suficiente."
+      }
+    ]
+  },
+  {
+    "id": "17444",
+    "scientific_name": [
+      "Rubus reflexus"
+    ],
+    "common_name": "Frambuesa de pelo oxidado",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Rubus reflexus es una especie china de zarzas de la familia de las rosas. Se ha encontrado solo en China (provincias de Fujian, Guangdong, Guangxi, Guizhou, Hubei, Hunan, Jiangxi, Taiwán, Yunnan y Zhejiang).",
+    "family": "",
+    "flower_color": "Blanco",
+    "flowering_season": "Floración no especificada",
+    "fruit_color": [
+      "Rojo"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Verano",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "China",
+      "Himalaya"
+    ],
+    "other_name": [
+      "Frambuesa de pelo oxidado"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Rubus reflexus, conocido por su adaptabilidad, requiere humedad constante en el suelo, especialmente durante la temporada de crecimiento desde primavera hasta verano. Prefiere un suelo bien drenado para prevenir la pudrición de las raíces, aunque no debe dejarse secar completamente. Riegue la planta profundamente una vez por semana, asegurándose de que el suelo esté húmedo pero no encharcado. Reduzca el riego durante el período de inactividad invernal para evitar el exceso de humedad que podría dañar el sistema radicular."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Rubus reflexus prospera mejor a pleno sol o sombra parcial. Idealmente, la planta debe recibir al menos 6 horas de luz solar diaria. La exposición al pleno sol promueve un crecimiento saludable y la producción de frutos, aunque en climas particularmente calurosos, puede evitarse que las hojas se quemen con una sombra parcial por la tarde. Si se planta en sombra parcial, asegúrese de que la planta reciba suficiente luz solar directa por la mañana para optimizar su salud general y rendimiento."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Rubus reflexus es esencial para mantener su estructura y promover un crecimiento saludable. Se recomienda realizarla a finales del invierno o principios de la primavera antes de que comience el nuevo crecimiento. Elimine cualquier caña muerta, dañada o enferma cortándola hasta el suelo. Además, aclare las zonas demasiado densas para fomentar una mejor circulación del aire y una mayor penetración de luz. Recorte las ramas laterales para mantener la forma deseada y fomentar la producción de frutos."
+      }
+    ]
+  },
+  {
+    "id": "16747",
+    "scientific_name": [
+      "Panicum anceps"
+    ],
+    "common_name": "Panicum Barbudillo",
+    "attracts": [
+      "Aves"
+    ],
+    "care_level": "Medio",
+    "description": "Panicum anceps es una especie de pasto conocida comúnmente como panicum barbudillo. Es nativa del sureste de los Estados Unidos, donde se encuentra tan al norte como Nueva Jersey y tan al oeste como Kansas y Texas.",
+    "family": "/",
+    "flower_color": "Marrón",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "/",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "América del Norte"
+    ],
+    "other_name": [
+      "Panicum Barbudillo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semillas"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Limoso",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "1",
+        "type": "watering",
+        "description": "Panicum anceps, una especie de pasto resistente, prefiere condiciones de humedad constante pero no encharcadas. Durante su fase de crecimiento, proporcione riego regular para mantener la humedad del suelo, especialmente en ausencia de lluvia. Sin embargo, tenga cuidado con el exceso de riego, ya que prospera en suelos bien drenados. En períodos de sequía o altas temperaturas, aumente la frecuencia de riego para asegurar que la planta no se seque. Reduzca el riego durante los meses más fríos cuando el crecimiento de la planta disminuye. Usar mantillo puede ayudar a retener la humedad y controlar las malas hierbas alrededor de la planta."
+      },
+      {
+        "id": "2",
+        "type": "sunlight",
+        "description": "Panicum anceps prospera mejor a pleno sol pero puede tolerar sombra parcial. El crecimiento y la floración óptimos ocurren cuando la planta recibe al menos 6 horas de luz solar directa al día. Aunque puede sobrevivir en condiciones de sombra parcial, la floración y el vigor pueden reducirse. Para obtener los mejores resultados, coloque este pasto donde reciba abundante exposición al sol. En climas más cálidos, algo de sombra por la tarde puede ayudar a protegerlo del estrés excesivo por calor, pero recuerde que una sombra significativa podría llevar a una planta menos robusta."
+      },
+      {
+        "id": "3",
+        "type": "pruning",
+        "description": "La poda para el Panicum anceps es mínima pero beneficiosa principalmente para mantener su forma y fomentar un crecimiento saludable. A principios de la primavera, antes de que comience el nuevo crecimiento, recorte el crecimiento del año anterior a unos 15-30 cm sobre el suelo para ayudar a vigorizar nuevos brotes. Esto también ayuda a eliminar cualquier tallo muerto o dañado. A lo largo de la temporada de crecimiento, elimine cualquier follaje muerto o tallos de flores gastados para mantener una apariencia ordenada. La poda regular también ayudará a evitar que la planta se vuelva demasiado desordenada o inestética."
+      }
+    ]
+  },
+  {
+    "id": "16547",
+    "scientific_name": [
+      "Iva annua"
+    ],
+    "common_name": "Hierba de Sump",
+    "attracts": [
+      "Abejas"
+    ],
+    "care_level": "Media",
+    "description": "Iva annua, conocida como el marsh elder anual o hierba de sump, es una planta anual herbácea norteamericana de la familia del girasol. Es nativa del noreste de México (Tamaulipas) y de los Estados Unidos centrales y del sur, principalmente de las Grandes Llanuras y del Valle del Misisipi, hasta el norte de Dakota del Norte. Existen algunas poblaciones en el este de EE.UU., pero parecen representar introducciones.",
+    "family": "/",
+    "flower_color": "/",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "América del Norte"
+    ],
+    "other_name": [
+      "Hierba de Sump"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Iva annua, comúnmente conocida como marsh elder anual, prefiere condiciones de suelo moderadamente húmedo a ligeramente seco. Es tolerante a la sequía, pero se beneficia de un riego consistente para mantener un crecimiento saludable, especialmente durante sus fases iniciales de crecimiento o periodos de calor extremo. Riega la planta a fondo, permitiendo que la pulgada superior del suelo se seque entre riegos. Evita el encharcamiento, ya que el exceso de humedad puede provocar pudrición de raíces. Reduce el riego en meses más fríos a medida que la planta entra en dormancia."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Iva annua prospera mejor a pleno sol o en sombra parcial. Disfruta de al menos 6-8 horas de sol diario para asegurar un crecimiento y floración robustos. En regiones con intenso sol de la tarde o durante los meses de verano, proporcionar algo de sombra parcial puede ayudar a prevenir el estrés en la planta. Si se cultiva en interiores o en áreas menos soleadas, asegúrate de que se coloca en un lugar que reciba mucha luz brillante e indirecta para promover un desarrollo y floración saludables."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "Poda de Iva annua generalmente no es necesaria, ya que es una planta anual y completa su ciclo de vida en una temporada de crecimiento. Sin embargo, si deseas controlar su tamaño o promover un crecimiento más tupido, puedes recortar algunos de los tallos. Podar las flores ya pasadas también puede ser beneficioso para evitar que la planta se auto-siemble demasiado agresivamente. Quitar regularmente cualquier follaje muerto o enfermo ayudará a mantener la salud y apariencia general de la planta."
+      }
+    ]
+  },
+  {
+    "id": "16943",
+    "scientific_name": [
+      "Saccharum giganteum"
+    ],
+    "common_name": "plumerillo de caña de azúcar",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "",
+    "family": "",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "América del Norte"
+    ],
+    "other_name": [
+      "plumerillo de caña de azúcar"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco",
+      "Arenoso"
+    ],
+    "watering_period": "Mañanas",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Para regar adecuadamente el Saccharum giganteum, conocido comúnmente como caña de azúcar gigante, asegúrese de que el suelo permanezca constantemente húmedo pero no encharcado. Durante su temporada de crecimiento activo en primavera y verano, esta planta requerirá un riego más frecuente, aproximadamente una vez por semana o más a menudo en condiciones más calurosas. Reduzca la frecuencia de riego en otoño e invierno, cuando su crecimiento se ralentiza. Es importante evitar que el suelo se seque completamente o se encharque excesivamente, ya que esto puede estresar a la planta y afectar su crecimiento."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "El Saccharum giganteum prospera en condiciones de pleno sol, necesitando al menos seis a ocho horas de luz solar directa al día para un crecimiento óptimo. Esta planta se origina en áreas abiertas y soleadas y puede tolerar un calor elevado, lo que la convierte en una excelente opción para áreas con días largos y brillantes. Si bien puede sobrevivir en sombra parcial, el crecimiento puede verse afectado, y la planta podría no alcanzar su tamaño potencial completo. Asegurarse de que reciba suficiente luz solar le permitirá desarrollar tallos fuertes y robustos y un follaje vibrante."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Saccharum giganteum debe centrarse principalmente en eliminar cualquier tallo muerto o dañado para promover un crecimiento saludable. Pode el follaje y los tallos muertos a fines del invierno o principios de la primavera antes de que emerja el nuevo crecimiento. Esto ayuda a mantener su aspecto vigoroso y puede prevenir problemas potenciales de plagas. Al cortar el crecimiento viejo, asegúrese de usar tijeras de podar limpias y afiladas, y corte en la base del tallo. La poda regular también permite una mejor circulación del aire, lo cual es beneficioso para la salud general de la planta."
+      }
+    ]
+  },
+  {
+    "id": "17545",
+    "scientific_name": [
+      "Astrophytum myriostigma"
+    ],
+    "common_name": "Sombrero del Obispo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Astrophytum myriostigma (nombres comunes: cactus sombrero del obispo, gorra del obispo o mitra del obispo) es una especie de cactus nativa de las tierras altas del noreste y centro de México.",
+    "family": "/",
+    "flower_color": "Amarillo",
+    "flowering_season": "/",
+    "fruit_color": [
+      "Marrón"
+    ],
+    "growth_rate": "Lento",
+    "harvest_season": "/",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "México"
+    ],
+    "other_name": [
+      "Sombrero del Obispo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Arenoso",
+      "Rocoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "El Astrophytum myriostigma, comúnmente conocido como el cactus Sombrero del Obispo, requiere un riego cuidadoso debido a su naturaleza tolerante a la sequía. Riegue la planta con moderación y deje que el suelo se seque completamente entre riegos, típicamente cada 2-4 semanas dependiendo de las condiciones de humedad y temperatura. Un exceso de agua puede causar pudrición de raíces, por lo que es crucial atenerse a un horario que evite la acumulación excesiva de humedad. Durante el invierno, cuando la planta está inactiva, el riego debe ser aún menos frecuente, una vez cada 6 semanas o posiblemente nada, para imitar las condiciones secas naturales de su hábitat nativo."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Este cactus prospera en luz solar brillante e indirecta, imitando las condiciones naturales de su hábitat desértico. Coloque el Astrophytum myriostigma en un lugar donde pueda recibir varias horas de sol filtrado por día, por ejemplo, cerca de una ventana orientada al sur. Aunque puede tolerar algo de luz solar directa, especialmente si se aclimata gradualmente, se debe evitar el sol fuerte de la tarde para prevenir quemaduras. La luz solar inadecuada puede llevar a un crecimiento alargado o pérdida de la coloración natural. Rotar la planta periódicamente fomentará un crecimiento uniforme y una exposición solar equilibrada a todos los lados, promoviendo una forma balanceada."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "En general, el Astrophytum myriostigma requiere mínima poda. La poda se centra principalmente en remover cualquier flor muerta o partes dañadas o enfermas del cactus, como manchas secas o podridas. Esto ayuda a mantener la salud y apariencia de la planta. Siempre use herramientas limpias y afiladas para hacer cortes precisos, minimizando el daño al tejido sano. La poda se realiza mejor durante la temporada de crecimiento, en primavera o principios de verano, cuando la planta está creciendo activamente y puede recuperarse más rápidamente de los cortes. La inspección regular ayuda en la detección temprana de áreas que necesitan poda."
+      }
+    ]
+  },
+  {
+    "id": "16449",
+    "scientific_name": [
+      "Gypsophila repens"
+    ],
+    "common_name": "Aliento de bebé rastrero",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "Gypsophila repens, conocida como jipsofila alpina o aliento de bebé rastrero, es una especie de planta con flores de la familia Caryophyllaceae, originaria de las montañas del centro y sur de Europa, donde crece en pendientes secas y calcáreas. El nombre en latín significa literalmente \"amante de la tiza rastrera\". Es una planta perenne herbácea, postrada y formadora de matas, que crece alrededor de 20 cm de altura por 30–50 cm de ancho. Durante gran parte del verano, produce masas de flores en forma de estrella que pueden ser blancas, lilas o...",
+    "family": "",
+    "flower_color": "Blanco o rosa",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Europa"
+    ],
+    "other_name": [
+      "Aliento de bebé rastrero"
+    ],
+    "pest_susceptibility": [
+      "Pulgones",
+      "Mildiu polvoriento"
+    ],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Gypsophila repens, comúnmente conocida como Aliento de bebé rastrero, prefiere suelos bien drenados y es algo tolerante a la sequía una vez establecida. Riegue la planta moderadamente durante su temporada de crecimiento, que es típicamente en primavera y verano. Permita que el suelo se seque entre riegos para evitar la pudrición de la raíz, ya que esta planta no tolera bien las condiciones consistentemente húmedas. En los meses más secos, el riego ocasional debería ser suficiente, pero ajústelo según el clima local y los niveles de humedad del suelo. Tenga cuidado de no regar en exceso, especialmente durante los meses más fríos, cuando las necesidades de agua de la planta disminuyen."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Gypsophila repens prospera en pleno sol, requiriendo al menos seis horas de luz solar directa cada día para producir abundantes flores. Puede tolerar sombra parcial, pero la floración óptima y la salud de la planta se logran con suficiente luz solar. Cuando se planta en lugares más sombreados, la planta puede volverse desgarbada y producir menos flores. Asegúrese de que esté plantada en un lugar donde reciba luz solar constante durante toda su temporada de crecimiento. Considere sus necesidades de sol al planificar la colocación en el jardín, ya que esta planta amante del sol prospera mejor en áreas abiertas y soleadas que imitan su entorno alpino nativo."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "Para mantener una apariencia ordenada y fomentar un crecimiento más denso, pode la Gypsophila repens después del período de floración. Recorte las flores marchitas y cualquier tallo desordenado o extendido para promover un nuevo crecimiento y asegurar que la planta permanezca compacta. La eliminación regular de flores marchitas durante la temporada de floración también fomentará más flores. Tenga cuidado de no cortar demasiado de la planta de una vez; un enfoque suave y gradual suele ser más beneficioso. Evite podar a finales de otoño o invierno, ya que el nuevo crecimiento podría ser vulnerable a los daños por heladas. Pode ligeramente para dar forma y también eliminar cualquier tallo dañado o muerto."
+      }
+    ]
+  },
+  {
+    "id": "17243",
+    "scientific_name": [
+      "Cucurbita ficifolia"
+    ],
+    "common_name": "Calabaza de hoja de higuera",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Cucurbita ficifolia, también conocida como Melón de Siete Años, es un tipo de calabaza cultivada por sus semillas, frutos y hojas comestibles. Aunque está estrechamente relacionada con otras calabazas de su género, muestra una diferencia bioquímica considerable con ellas y no se hibrida fácilmente.",
+    "family": "",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [
+      "Verde"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "América Central",
+      "América del Sur"
+    ],
+    "other_name": [
+      "Calabaza de hoja de higuera"
+    ],
+    "pest_susceptibility": [
+      "Taladro de la vid de calabaza",
+      "Oídio"
+    ],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "1",
+        "type": "watering",
+        "description": "La Cucurbita ficifolia requiere humedad constante pero no debe ser regada en exceso. La planta prefiere un suelo bien drenado para evitar la pudrición de raíces y enfermedades fúngicas, especialmente en condiciones húmedas. Riegue la planta profundamente una vez que la capa superior de una pulgada de suelo se sienta seca al tacto. Durante el clima cálido o cuando la planta esté creciendo activamente, puede necesitar riego con mayor frecuencia. Asegúrese de que el agua no toque las hojas ya que esto puede promover enfermedades fúngicas. Usar mantillo para retener la humedad del suelo y regular la temperatura del suelo también puede ser beneficioso."
+      },
+      {
+        "id": "2",
+        "type": "sunlight",
+        "description": "La Cucurbita ficifolia prospera a plena luz del sol, requiriendo al menos de 6 a 8 horas de luz solar directa cada día para rendir al máximo. Plantar en una ubicación que asegure plena exposición al sol promoverá un crecimiento vigoroso y aumentará la producción de frutos. En áreas con luz solar o calor intenso, proporcionar algo de sombra por la tarde puede ayudar a prevenir el quemado de hojas. Si la luz natural es limitada, considere usar luces de cultivo suplementarias para asegurar que la planta reciba la luz adecuada para un desarrollo saludable."
+      },
+      {
+        "id": "3",
+        "type": "pruning",
+        "description": "La poda de Cucurbita ficifolia consiste principalmente en eliminar hojas y tallos muertos, enfermos o dañados para promover un crecimiento saludable y mejorar la circulación de aire. Revise regularmente la planta en busca de signos de enfermedad y elimine rápidamente las partes afectadas. Recorte el crecimiento excesivo para evitar el hacinamiento y permitir que la luz solar llegue a todas las partes de la planta. Esto también puede ayudar a manejar el tamaño de la planta y prevenir que se extienda demasiado. La poda debe realizarse preferiblemente durante las partes más frescas del día para minimizar el estrés en la planta."
+      }
+    ]
+  },
+  {
+    "id": "17446",
+    "scientific_name": [
+      "Ramalina canariensis"
+    ],
+    "common_name": "Liquen de Correa Inelegante",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Islas Canarias"
+    ],
+    "other_name": [
+      "Liquen de Correa Inelegante"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [],
+    "pruning_month": [
+      "Enero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Rocoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Ramalina canariensis, también conocido como liquen de las Islas Canarias, no requiere riego basado en el suelo, ya que absorbe la humedad directamente del aire. El riego generalmente no es necesario en su hábitat natural, pero si se cultiva en interiores o en condiciones controladas, se deben mantener altos niveles de humedad. Rocíe el liquen con agua destilada cada pocos días para simular el rocío y la lluvia natural. Asegúrese de que el liquen no esté empapado, ya que el exceso de humedad puede provocar el crecimiento de moho. Es mejor simular sus ciclos naturales de sequía y humedad, permitiendo que se seque completamente entre las nebulizaciones."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Ramalina canariensis prospera en luz solar indirecta y filtrada, que imita la luz salpicada que recibiría en su hábitat natural. La luz solar directa puede dañar o secar el liquen, por lo que es importante colocarlo en un lugar donde reciba luz brillante pero indirecta. Si se mantiene en interiores, un lugar cerca de una ventana orientada al norte o al este es ideal. Si la iluminación natural es insuficiente, el uso de luces de cultivo artificiales también puede ayudar a proporcionar las condiciones de luz requeridas. Tenga cuidado de no exponer el liquen a iluminación artificial intensa durante períodos prolongados."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Ramalina canariensis no es un requisito frecuente, ya que los líquenes suelen crecer lentamente y mantienen una forma estable. Sin embargo, si la poda se vuelve necesaria, debe realizarse para eliminar cualquier segmento dañado o enfermo para promover la salud general. Use tijeras o una cuchilla sanitizada para recortar cuidadosamente las partes afectadas. Asegúrese de no cortar demasiado cerca de la base para evitar frenar el crecimiento. La poda debe ser suave, ya que esta especie es sensible a las perturbaciones físicas. Evite podar durante sus fases de crecimiento activo si es posible, para reducir el estrés de la planta."
+      }
+    ]
+  },
+  {
+    "id": "17345",
+    "scientific_name": [
+      "Physcia caesia"
+    ],
+    "common_name": "Liquen Roseta Azul Grisáceo",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "Physcia caesia es una especie de hongo liquenizado de tipo foliáceo. Descrito por primera vez por Georg Franz Hoffmann en 1784, es común en gran parte de Europa, América del Norte y Nueva Zelanda, y tiene una distribución más irregular en América del Sur, Asia, Australia y la Antártida. Existen dos subespecies, P. c. caesia y P. c. ventosa, así como varias formas y variedades distintas. Los estudios moleculares sugieren que la especie, tal como se define actualmente, podría ser polifilética. Se encuentra típicamente en...",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa",
+      "América del Norte"
+    ],
+    "other_name": [
+      "Liquen Roseta Azul Grisáceo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Dispensión de Esporas"
+    ],
+    "pruning_month": [
+      "Enero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Rocoso"
+    ],
+    "watering_period": "Tarde",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Physcia caesia, comúnmente conocido como el liquen roseta azul grisáceo, generalmente no requiere riego cuando se cultiva en su entorno natural. Al cultivar liquen en interiores o bajo condiciones controladas, es importante mantener un alto nivel de humedad. Rociar ligeramente con agua destilada puede ayudar a simular las condiciones naturales de rocío y lluvia, evitando la saturación directa. El riego excesivo puede interrumpir su proceso de crecimiento natural, por lo que es mejor rociar ocasionalmente en lugar de regar en exceso. Asegurar una circulación de aire adecuada es crucial para prevenir la acumulación de humedad que puede llevar a la deterioración del liquen."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Physcia caesia prospera en luz solar indirecta filtrada, generalmente encontrada en ambientes como paredes orientadas al norte o cortezas de árboles sombreadas. La luz solar directa puede ser demasiado intensa y causar desecación o estrés al liquen, por lo que es mejor simular un entorno de luz moteada. En un terrario o ambiente interior, colocarlo lejos del sol directo pero en una ubicación brillante, ayudará a mantener su color y vitalidad. También se pueden usar luces de crecimiento artificiales, pero deben imitar un espectro equilibrado con intensidad moderada para evitar el sobrecalentamiento."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda para líquenes como Physcia caesia no es tradicional como con plantas de interior o plantas de jardín, ya que los líquenes generalmente no requieren recortes o podas frecuentes. Sin embargo, ocasionalmente eliminar partes que parezcan deterioradas o enfermas puede ayudar a mantener su salud. Si el liquen está creciendo en un sustrato (como una roca o corteza) y tiene una cobertura extensa, podría ser necesario remover secciones suavemente para controlar su propagación. Manejar el liquen cuidadosamente para evitar dañar su estructura, usando pinzas o herramientas pequeñas para precisión si es necesario."
+      }
+    ]
+  },
+  {
+    "id": "16944",
+    "scientific_name": [
+      "Sagina nodosa"
+    ],
+    "common_name": "Perlina Nudosa",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "Sagina nodosa, conocida comúnmente como perlina nudosa, es una especie del género Sagina, nativa del norte de Europa. Es una planta de porte bajo que alcanza hasta 15 cm de altura, con hojas emparejadas de hasta 1 cm de largo. Las flores miden de 5 a 10 mm de diámetro, con cinco pétalos blancos.",
+    "family": "",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [
+      ""
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa",
+      "Norteamérica"
+    ],
+    "other_name": [
+      "Perlina Nudosa"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semilla",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Sagina nodosa, conocida comúnmente como perlina nudosa, prefiere mantenerse constantemente húmeda, especialmente durante su periodo de crecimiento activo en primavera y verano. Evite que el suelo se seque por completo, pero asegúrese de que no quede encharcado, ya que esto puede provocar pudrición de la raíz. En los meses de invierno, riegue con menos frecuencia, permitiendo que el suelo se seque ligeramente entre los riegos. Se recomienda el uso de suelo bien drenado para mantener niveles adecuados de humedad mientras se previene el exceso de retención de agua."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Sagina nodosa prospera en áreas donde puede recibir pleno sol a sombra parcial. Idealmente, proporciónele al menos de 4 a 6 horas de luz solar al día. En regiones con veranos muy calurosos, algo de sombra por la tarde es beneficiosa para evitar que la planta se queme y se seque. Asegúrese de plantarla en un lugar donde pueda recibir la luz solar de la mañana y estar protegida de los rayos más intensos del mediodía si el calor es particularmente fuerte. Este equilibrio fomenta un crecimiento y floración óptimos."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "Podar Sagina nodosa implica principalmente recortar las flores marchitas y cualquier follaje muerto o amarillento para mantener la planta saludable y ordenada. Esto puede hacerse durante toda la temporada de crecimiento. La poda regular fomenta un nuevo crecimiento y ayuda a mantener su hábito compacto. Si la planta se vuelve demasiado larga o crecida, puede recortarla más significativamente a principios de primavera o principios de otoño para rejuvenecer la planta y promover un hábito de crecimiento más denso."
+      }
+    ]
+  },
+  {
+    "id": "17940",
+    "scientific_name": [
+      "Tagetes lucida"
+    ],
+    "common_name": "Marigold Mexicano",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Tagetes lucida Cav. es una planta perenne originaria de México y América Central. Se utiliza como planta medicinal y como hierba culinaria. Las hojas tienen un sabor similar al estragón, con toques de anís, y ha ingresado al mercado de viveros en América del Norte como un sustituto del estragón. Los nombres comunes incluyen 'cempasúchil aromático', marigold mexicano, menta mexicana, estragón mexicano, estragón español, dulce macis, estragón de Texas, pericón, yerbaniz y hierbanís.",
+    "family": "",
+    "flower_color": "Amarillo",
+    "flowering_season": "Estación indefinida",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "Verano",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "México",
+      "América Central"
+    ],
+    "other_name": [
+      "Marigold Mexicano"
+    ],
+    "pest_susceptibility": [
+      "Manchas foliares por hongos",
+      "Podredumbre de raíz"
+    ],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Humoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Tagetes lucida, comúnmente conocido como estragón mexicano, prefiere suelos bien drenados y riego moderado. Es crucial no regar en exceso esta planta, ya que es algo tolerante a la sequía una vez establecida. Permita que el suelo se seque entre riegos para evitar la pudrición de la raíz. Durante la temporada de crecimiento, riegue de manera constante, pero asegúrese de que la planta no esté en suelo encharcado. En los meses de invierno, reduzca la frecuencia de riego, ya que el crecimiento de la planta se ralentiza. Observar las hojas de la planta es un buen indicador: si empiezan a caer, es momento de regar."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Tagetes lucida prospera a pleno sol y requiere al menos 6-8 horas de luz solar directa cada día para un crecimiento y floración óptimos. Puede tolerar sombra parcial, pero la planta puede producir menos flores. Si se cultiva en interiores o en áreas con luz solar limitada, coloque la planta en el lugar más soleado disponible, como una ventana orientada al sur. Proporcionar suficiente luz solar garantiza un crecimiento robusto y mejora las cualidades aromáticas de las hojas. En climas excesivamente calurosos, ofrecer algo de sombra por la tarde puede ser beneficioso para proteger la planta del estrés térmico extremo."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Tagetes lucida ayuda a mantener su forma y fomentar un crecimiento más frondoso. Pellizcar regularmente las puntas puede conducir a una planta más plena y compacta. Después del período de floración, recortar la planta en aproximadamente un tercio eliminará las flores marchitas y promoverá nuevo crecimiento. También puede eliminar cualquier hoja muerta o dañada para ayudar a mejorar la circulación de aire dentro de la planta y mantener su salud. Siempre use herramientas limpias y afiladas para cortar y prevenir la transmisión de enfermedades. Podar a principios de la primavera es ideal antes de que la planta comience su fase de crecimiento activo."
+      }
+    ]
+  },
+  {
+    "id": "16750",
+    "scientific_name": [
+      "Papaver radicatum"
+    ],
+    "common_name": "Amapola Ártica",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Papaver radicatum es una especie de amapola conocida por los nombres comunes amapola ártica, amapola arraigada y amapola amarilla.",
+    "family": "/",
+    "flower_color": "Amarillo",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "/",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Ártico",
+      "Regiones Alpinas"
+    ],
+    "other_name": [
+      "Amapola Ártica"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Gravoso",
+      "Bien drenado"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Papaver radicatum, conocido comúnmente como la amapola ártica, requiere un riego mínimo debido a su adaptación a ambientes fríos y secos. Es importante permitir que el suelo se seque completamente entre riegos para evitar la pudrición de las raíces. Durante la temporada de crecimiento, riegue con moderación solo cuando la capa superior del suelo se sienta seca. Reduzca significativamente el riego durante la latencia en invierno. Asegúrese de que la planta esté en un suelo bien drenado y evite condiciones encharcadas para imitar su hábitat alpino natural."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Papaver radicatum prospera a pleno sol. Requiere al menos seis horas de luz solar directa diaria para producir su mejor exhibición de flores vibrantes. Esta planta está bien adaptada a áreas con largas horas de luz diurna, típicas de sus regiones árticas nativas. Si crece en un entorno menos extremo, asegúrese de que reciba sol por la mañana en climas más calientes para evitar que el follaje se queme. Puede tolerar sombra parcial, pero muy poca luz inhibirá la floración y puede afectar el crecimiento general."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda para Papaver radicatum es generalmente mínima. Retire las flores marchitas para fomentar más floraciones y evitar que la planta ponga energía en la producción de semillas, a menos que desee recolectar semillas. Recorte foliaje muerto o dañado a principios de primavera o después de la temporada de floración para mantener una apariencia ordenada y prevenir enfermedades. Es importante usar herramientas limpias y afiladas para hacer cortes precisos y evitar dañar tejidos saludables."
+      }
+    ]
+  },
+  {
+    "id": "16252",
+    "scientific_name": [
+      "Crotalaria pallida"
+    ],
+    "common_name": "Rattleweed Rayado",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "Crotalaria pallida (sin. Crotalaria mucronata Desc, Crotalaria striata DC, Crotalaria falcata VAHL ex DC, Crotalaria brownei DC., Crotalaria fertilis Delile, Crotalaria hookeri Arn., Crotalaria pisiformis Guill. & Perr., Crotalaria siamica F.N.Williams, Crotalaria striata var. acutifolia Trin., Crotalaria tinctoria Baill, Crotalaria zuccarininana D.Dietr.), comúnmente conocida como el chique chique, gergelim bravo, gigante striata, guiso-de-cascavel, maraca-de-cobra, rattleweed, rattlebox, crotalaria lisa o rattleweed rayado, es una especie de planta con flores dentro de la familia Fabaceae.",
+    "family": "",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderada",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "Regiones Tropicales y Subtropicales"
+    ],
+    "other_name": [
+      "Rattleweed Rayado"
+    ],
+    "pest_susceptibility": [
+      "Mancha foliar fúngica"
+    ],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Marzo"
+    ],
+    "soil": [
+      "Bien-drenado",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "La Crotalaria pallida requiere una cantidad moderada de agua. Es importante regar la planta a fondo, permitiendo que el suelo se seque ligeramente entre riegos. Debe evitarse el exceso de agua ya que puede provocar pudrición de raíces. Durante la temporada de crecimiento en primavera y verano, la planta puede necesitar riegos más frecuentes, especialmente si se cultiva en maceta. En cambio, durante el otoño e invierno, se debe reducir el riego. Asegúrese siempre de que el contenedor o el suelo del jardín tenga un buen drenaje para evitar condiciones de anegamiento."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "La Crotalaria pallida prospera con exposición total al sol. Requiere al menos de seis a ocho horas de luz solar directa por día para desarrollarse óptimamente. Aunque puede tolerar algo de sombra parcial, el sol pleno garantiza que la planta pueda producir flores vibrantes y mantener un crecimiento saludable. Si se cultiva en interiores, colocar la planta cerca de una ventana orientada al sur puede ayudar a satisfacer sus necesidades de luz solar. La insuficiencia de sol puede llevar a un crecimiento desgarbado y a una floración reducida, por lo que asegúrese de que la planta esté posicionada donde pueda recibir abundante sol a lo largo del día."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de la Crotalaria pallida generalmente es mínima pero puede ser beneficiosa para fomentar un crecimiento más frondoso y mantener la forma. La poda debe llevarse a cabo a principios de primavera antes de que la planta inicie su fase de crecimiento activo. Retire cualquier rama muerta, dañada o enferma para prevenir la propagación de plagas y enfermedades. Recorte las ramas demasiado crecidas para fomentar una apariencia más llena. Utilice siempre herramientas de poda limpias y afiladas para realizar cortes limpios y evitar infecciones. La poda también puede ayudar a mejorar la circulación de aire dentro de crecimientos densos, promoviendo un desarrollo vegetal más saludable."
+      }
+    ]
+  },
+  {
+    "id": "17642",
+    "scientific_name": [
+      "Lecidella elaeochroma"
+    ],
+    "common_name": "Liquen Lecidella",
+    "attracts": [],
+    "care_level": "Alto",
+    "description": "Lecidella elaeochroma, conocido como el liquen Lecidella, es un liquen que no requiere riego tradicional como una planta convencional. Absorbe la humedad del aire, prosperando en ambientes húmedos. En cultivo, como sobre una roca en un hogar o jardín, asegúrese de que el área circundante mantenga un nivel constante de humedad. Rociar ocasionalmente los objetos o el entorno donde crece puede ayudar a mantener sus niveles de humedad, especialmente en condiciones secas. Sin embargo, evite el riego directo o mantenerlo demasiado húmedo, ya que los líquenes están adaptados para soportar períodos de sequía naturalmente.",
+    "family": "/",
+    "flower_color": "/",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "América del Norte",
+      "Europa",
+      "Asia"
+    ],
+    "other_name": [
+      "Liquen Lecidella"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Rocoso",
+      "Bien drenado"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Lecidella elaeochroma, siendo un liquen, no requiere riego tradicional como una planta convencional. Absorbe la humedad del aire, prosperando en ambientes húmedos. En cultivo, como sobre una roca en un hogar o jardín, asegúrese de que el área circundante mantenga un nivel constante de humedad. Rociar ocasionalmente los objetos o el entorno donde crece puede ayudar a mantener sus niveles de humedad, especialmente en condiciones secas. Sin embargo, evite el riego directo o mantenerlo demasiado húmedo, ya que los líquenes están adaptados para soportar períodos de sequía naturalmente."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Lecidella elaeochroma prospera en áreas con amplia luz solar indirecta ya que se encuentra comúnmente en ambientes naturales como cortezas de árboles y rocas. La exposición directa a la luz solar intensa puede ser perjudicial, causando desecación o daño. Las condiciones ideales incluirán luz solar moteada o sombra parcial que permita la luz permeable de manera indirecta. Si está recreando su entorno, proporcione una ubicación que replique estas condiciones, asegurándose de que el sol del mediodía intenso esté filtrado o difuso, ayudando a mantener condiciones adecuadas para un crecimiento y salud óptimos. Monitorizar su reacción a los niveles de luz puede ayudar a ajustar el entorno según sea necesario."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "Típicamente, Lecidella elaeochroma no requiere poda. Siendo un liquen, su forma de crecimiento es bastante diferente a la de las plantas típicas. Si encuentra que la colonia está demasiado crecida para el efecto deseado o se está extendiendo donde no se desea, recorte cuidadosamente las secciones no deseadas usando pequeñas tijeras. Podar para líquenes de forma libre a menudo implica promover formas naturales, por lo que solo elimine partes que comprometan la estética deseada o experimente con su belleza natural teniendo cuidado de no dañar el sustrato sobre el que crece."
+      }
+    ]
+  },
+  {
+    "id": "17941",
+    "scientific_name": [
+      "Bauhinia divaricata"
+    ],
+    "common_name": "Árbol de Orquídea Pom Pom",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Bauhinia divaricata es una especie de arbusto con flores de la familia Fabaceae. B. divaricata es la especie tipo del género Bauhinia. Un nombre común para esta especie es árbol de orquídea pom pom. Es nativa de China, Jamaica, India y también crece en la mitad sur de Florida. Tiene hojas bilobulares blancas que se alternan.",
+    "family": "",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Sur de China",
+      "Sudeste de Asia"
+    ],
+    "other_name": [
+      "Árbol de Orquídea Pom Pom"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Bauhinia divaricata, comúnmente conocida como el Árbol de las Mariposas, requiere un riego moderado. Es importante permitir que la capa superior del suelo se seque entre riegos para prevenir el encharcamiento, el cual puede provocar la pudrición de las raíces. Durante la temporada de crecimiento, típicamente en primavera y verano, riega la planta a fondo una vez a la semana o cuando el suelo se sienta seco al tacto. Durante los meses inactivos del invierno, reduce la frecuencia de riego, asegurándote de que la planta no permanezca en condiciones excesivamente húmedas. Siempre usa un suelo bien drenado para ayudar a manejar los niveles de humedad de manera efectiva."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Bauhinia divaricata prospera mejor en pleno sol a sombra parcial. Requiere al menos de 4 a 6 horas de luz solar directa cada día para promover un crecimiento y florecimiento saludables. Cuando se planta en áreas con sol intenso y caliente, proporcionar algo de sombra por la tarde puede ayudar a proteger la planta del calor excesivo y del quemado de hojas. Sin embargo, demasiada sombra puede resultar en una disminución de las flores y un crecimiento más lento. Idealmente, coloca la planta en una ubicación donde reciba sol por la mañana y algo de protección de los intensos rayos de la tarde, permitiéndole desarrollarse de manera óptima."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda es esencial para el crecimiento saludable de Bauhinia divaricata. Se debe realizar durante su periodo de dormancia a finales de invierno o principios de primavera antes de que comience el nuevo crecimiento. Retira cualquier rama muerta o enferma y recorta los tallos demasiado crecidos para mantener la forma deseada. También es esencial podar cualquier rama cruzada para mejorar la circulación de aire dentro de la planta. La poda ayuda a fomentar un hábito de crecimiento más arbustivo y puede aumentar la producción de flores durante la temporada de floración. Es crucial usar herramientas limpias y afiladas para evitar cualquier daño o transmisión de enfermedades."
+      }
+    ]
+  },
+  {
+    "id": "17245",
+    "scientific_name": [
+      "Moraea polystachya"
+    ],
+    "common_name": "Tulpán de Karoo",
+    "attracts": [
+      "Polinizadores"
+    ],
+    "care_level": "Medio",
+    "description": "Moraea polystachya es una especie de planta de la familia Iridaceae, nativa del sur de África.",
+    "family": "",
+    "flower_color": "Azul",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Sudáfrica"
+    ],
+    "other_name": [
+      "Tulpán de Karoo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "octubre"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Loamy"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Moraea polystachya, conocida como el tulipán de pavo real, requiere un riego moderado. Durante su período de crecimiento activo desde finales de otoño hasta primavera, riegue la planta regularmente para mantener el suelo ligeramente húmedo pero no encharcado. Es importante permitir que la capa superior del suelo se seque entre riegos para prevenir la pudrición de las raíces. En su período de dormancia durante el verano, reduzca significativamente el riego y permita que el suelo se seque completamente. El exceso de agua durante la dormancia puede provocar la pudrición del bulbo y debe evitarse para asegurar un crecimiento saludable durante el siguiente ciclo."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Moraea polystachya prospera en condiciones de pleno sol y debe colocarse en un lugar donde pueda recibir al menos seis horas de luz solar directa cada día. Esta exposición es crucial para un correcto florecimiento y un crecimiento saludable en general. En áreas con climas muy cálidos, podría ser beneficioso proporcionar algo de sombra por la tarde para evitar que la planta se queme. Sin embargo, en climas menos intensos, el pleno sol a lo largo del día es ideal. La insuficiencia de luz solar puede llevar a un crecimiento delgado y una floración deficiente, así que asegúrese de que reciba luz adecuada."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Moraea polystachya generalmente implica la eliminación de flores marchitas y cualquier follaje muerto o amarillo, lo que promueve una apariencia ordenada y dirige la energía de la planta hacia un crecimiento saludable y nuevas flores. Corte los tallos de las flores hasta la base después de la floración para fomentar la renovación del bulbo. Dado que es una planta bulbosa, no se requiere una poda mayor generalmente. También es beneficioso eliminar cualquier hoja que muestre signos de enfermedad o daño inmediatamente para prevenir la propagación de infecciones."
+      }
+    ]
+  },
+  {
+    "id": "18030",
+    "scientific_name": [
+      "Sedum hirsutum"
+    ],
+    "common_name": "Sedum velloso",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "Sedum hirsutum es una suculenta tolerante a la sequía que requiere un riego mínimo. Permita que el suelo se seque completamente entre sesiones de riego. Durante la temporada de crecimiento, generalmente en primavera y verano, riegue la planta cada dos semanas, asegurándose de que el exceso de agua se drene para evitar la pudrición de raíces. En los meses inactivos del invierno, reduzca el riego a una vez al mes o menos. Siempre verifique la humedad del suelo introduciendo el dedo—si se siente seco, es hora de regar. Estas plantas prefieren estar sub-riego en lugar de sobre-riego.",
+    "family": "Crassulaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "No aplica",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "No aplica",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Europa"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Octubre"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Gravoso",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Sedum hirsutum es una suculenta tolerante a la sequía que requiere un riego mínimo. Permita que el suelo se seque completamente entre sesiones de riego. Durante la temporada de crecimiento, generalmente en primavera y verano, riegue la planta cada dos semanas, asegurándose de que el exceso de agua se drene para evitar la pudrición de raíces. En los meses inactivos del invierno, reduzca el riego a una vez al mes o menos. Siempre verifique la humedad del suelo introduciendo el dedo—si se siente seco, es hora de regar. Estas plantas prefieren estar sub-riego en lugar de sobre-riego."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Sedum hirsutum prospera a pleno sol, necesitando al menos seis horas de luz solar directa cada día para mantener su crecimiento compacto y sus hojas de color vibrante. Es ideal para jardines de rocas al aire libre o jardines en contenedores en lugares soleados. Si se cultiva en interiores, colóquelo en una ventana orientada al sur o al oeste donde pueda recibir mucha luz. La luz solar insuficiente puede hacer que la planta se vuelva larguirucha y pierda su apariencia vibrante. Durante la parte más calurosa del día, algo de sombra ligera puede prevenir el escaldado de las hojas, pero en general, más sol conduce a un crecimiento más saludable."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Sedum hirsutum generalmente es simple y gira en torno a la eliminación del follaje muerto o dañado. Pode a inicios de primavera para fomentar un crecimiento saludable a medida que la planta sale de su latencia. Use tijeras limpias y afiladas para cortar hojas o tallos muertos o descoloridos, cortando en un ángulo cercano a la parte saludable de la planta. Además, elimina cualquier flor marchita después de la floración para mantener una apariencia ordenada. La poda ayuda a prevenir plagas y enfermedades al mismo tiempo que promueve una planta más densa y estéticamente agradable."
+      }
+    ]
+  },
+  {
+    "id": "16751",
+    "scientific_name": [
+      "Parrya nudicaulis"
+    ],
+    "common_name": "Flor de muro de tallo desnudo",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": ":null",
+    "family": ":null",
+    "flower_color": "Púrpura",
+    "flowering_season": ":falso",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": ":null",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Alaska",
+      "Canadá",
+      "Rusia"
+    ],
+    "other_name": [
+      "Flor de muro de tallo desnudo"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Julio"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Rocoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Parrya nudicaulis prefiere un suelo bien drenado, y es crucial asegurarse de que la planta no se quede en agua estancada. Riega la planta cuando el suelo esté seco al tacto, generalmente una vez a la semana durante la temporada de crecimiento. En los meses más fríos, reduce la frecuencia de riego, permitiendo que el suelo se seque entre riegos. Ten cuidado de no regar en exceso, ya que esto puede provocar la pudrición de las raíces. Es mejor regar un poco menos que en exceso, ya que la planta es relativamente resistente a la sequía y puede recuperarse mejor de condiciones secas que de condiciones excesivamente húmedas."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Parrya nudicaulis prospera mejor en pleno sol a sombra parcial. Trata de proporcionarle al menos 6 horas de luz solar directa cada día para asegurar un crecimiento y floración vibrantes. Aunque puede tolerar algo de sombra, la floración óptima ocurre con abundante exposición a la luz solar. En climas particularmente cálidos, proporcionar un poco de sombra por la tarde puede proteger a la planta del calor. Asegúrate de que reciba la luz del sol de la mañana para iniciar su proceso fotosintético de manera efectiva, mientras que la sombra por la tarde puede ayudar a moderar su temperatura. En interiores, colócala cerca de una ventana soleada para obtener mejores resultados."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda para Parrya nudicaulis es mínima pero beneficiosa para mantener una apariencia ordenada y apoyar un crecimiento saludable. Retira periódicamente cualquier hoja marchita o muerta para fomentar un nuevo crecimiento y prevenir enfermedades. Recortar los tallos de las flores después de la floración también puede ayudar a conservar la energía de la planta. La poda debería realizarse idealmente a finales del otoño o principios de la primavera antes de que comience el nuevo crecimiento. Siempre utiliza herramientas limpias y afiladas para hacer cortes, y evita recortar excesivamente cualquier follaje verde y saludable que la planta necesite para la fotosíntesis. "
+      }
+    ]
+  },
+  {
+    "id": "16452",
+    "scientific_name": [
+      "Halenia deflexa"
+    ],
+    "common_name": "Genciana espolonada",
+    "attracts": [
+      "Abejas"
+    ],
+    "care_level": "Medio",
+    "description": "Halenia deflexa, también conocida como genciana verde o genciana espolonada, es una flor nativa de las regiones del norte de los Estados Unidos (Montana, Dakota del Norte, Wisconsin, Michigan, Maine y Pensilvania) así como de todo Canadá. Se encuentra principalmente en humedales o bosques húmedos de estas regiones. La temporada de floración es típicamente de julio a agosto.",
+    "family": "",
+    "flower_color": "Púrpura",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "América del Norte",
+      "Europa del Norte"
+    ],
+    "other_name": [
+      "Genciana espolonada"
+    ],
+    "pest_susceptibility": [
+      "Mancha foliar fúngica"
+    ],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franca"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Halenia deflexa prefiere condiciones de suelo húmedo pero bien drenado. Durante su temporada de crecimiento activo, asegúrese de regar la planta regularmente para mantener la humedad consistente en el suelo. Sin embargo, evite el encharcamiento ya que puede provocar la pudrición de las raíces. Durante el periodo de dormancia, reduzca el riego pero no deje que el suelo se seque por completo. El acolchado puede ayudar a retener la humedad en el suelo. Ajuste la frecuencia de riego según el entorno específico de la planta, como la temperatura y la humedad."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Halenia deflexa prospera en condiciones de sombra parcial. Puede tolerar algo de luz solar directa, pero la exposición prolongada al sol intenso puede causar quemaduras en las hojas. Idealmente, debe recibir luz solar matutina seguida de sombra por la tarde. Si se cultiva en interiores, colóquela cerca de una ventana orientada al norte o al este. Evite colocarla en sombra completa o en condiciones de baja luz ya que esto puede obstaculizar el crecimiento y la floración. Ajuste su ubicación según los cambios estacionales para asegurar que reciba luz adecuada pero no excesiva."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Halenia deflexa generalmente es mínima, ya que no requiere un mantenimiento intensivo. Retire cualquier hoja o tallo muerto o dañado para promover un crecimiento saludable y prevenir enfermedades. La poda se puede realizar durante la temporada de crecimiento o después de la floración para mantener la apariencia de la planta ordenada. Despuntar regularmente las flores marchitas puede fomentar un período de floración más largo. Siempre use tijeras afiladas y limpias para realizar los cortes y así evitar dañar la planta y reducir el riesgo de transmisión de enfermedades."
+      }
+    ]
+  },
+  {
+    "id": "17448",
+    "scientific_name": [
+      "Cotoneaster glaucophyllus"
+    ],
+    "common_name": "Cotoneaster de cuentas brillantes",
+    "attracts": [
+      "Abejas",
+      "Aves"
+    ],
+    "care_level": "Media",
+    "description": "Cotoneaster glaucophyllus, comúnmente conocido como cotoneaster glauco o cotoneaster de cuentas brillantes, es una planta nativa de China y el Himalaya.",
+    "family": "",
+    "flower_color": "Blanco",
+    "flowering_season": "Temporada de floración no especificada",
+    "fruit_color": [
+      "Rojo"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Temporada de cosecha no especificada",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "China"
+    ],
+    "other_name": [
+      "Cotoneaster de cuentas brillantes"
+    ],
+    "pest_susceptibility": [
+      "Pulgones",
+      "Insectos escama"
+    ],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenados",
+      "Franco",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Cotoneaster glaucophyllus, también conocido como cotoneaster de hojas grises, prefiere un riego moderado. Es importante dejar que el suelo se seque ligeramente entre riegos para prevenir la pudrición de las raíces. Durante la temporada de crecimiento, riega la planta una vez a la semana, pero disminuye la frecuencia en los meses de invierno. Asegurarse de que el suelo drena bien es clave, ya que la planta es más susceptible al exceso de riego que a la sequía. Si se planta en un contenedor, verifica más frecuentemente el nivel de humedad del suelo, especialmente durante el clima caluroso, ya que las macetas tienden a secarse más rápido."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Cotoneaster glaucophyllus prospera mejor a pleno sol o sombra parcial. Aunque puede tolerar una variedad de condiciones de luz, el pleno sol asegurará que crezca vigorosamente y produzca más flores y bayas. Si se cultiva en sombra parcial, la planta puede mostrar un hábito ligeramente menos denso y menos flores. En climas particularmente calurosos y soleados, proporcionar sombra por la tarde puede evitar el quemado de las hojas. Observa la respuesta de la planta y ajusta su ubicación en consecuencia, esforzándote por al menos 4-6 horas de luz solar diaria para una salud óptima."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "Podar Cotoneaster glaucophyllus es esencial para mantener su forma y fomentar un crecimiento saludable. Lo mejor es podar a finales de invierno o a principios de primavera antes de que aparezca el nuevo crecimiento. Retira cualquier rama muerta, dañada o enferma para prevenir su propagación y mantener la salud de la planta. La poda ligera también puede ayudar a dar forma a la planta, especialmente si se usa como seto o topiario. Para un ramificado denso, corta las ramas más largas para fomentar una forma más arbustiva. Adelgaza regularmente el centro para facilitar la circulación del aire y reducir los problemas fúngicos."
+      }
+    ]
+  },
+  {
+    "id": "16551",
+    "scientific_name": [
+      "Jatropha cardiophylla"
+    ],
+    "common_name": "tronadora de hojas de corazón",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": ": Jatropha cardiophylla, conocida comúnmente como tronadora de hojas de corazón, es una suculenta tolerante a la sequía que requiere un cuidado moderado. Su crecimiento es moderado y se adapta mejor a climas cálidos. Originaria de México y del suroeste de Estados Unidos, esta planta se utiliza principalmente como ornamental debido a sus llamativas flores amarillas. Para un crecimiento saludable, es esencial proporcionarle un suelo bien drenado y condiciones de cultivo adecuadas.",
+    "family": ": Euphorbiaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "Primavera/Verano",
+    "fruit_color": [
+      "Verde"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": ": N/A",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "México",
+      "Estados Unidos (Suroeste)"
+    ],
+    "other_name": [
+      "tronadora de hojas de corazón"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Gravoso",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Jatropha cardiophylla es una suculenta tolerante a la sequía que requiere riego mínimo. Es crucial dejar que el suelo se seque completamente entre riegos para evitar la pudrición de las raíces. Durante la temporada de crecimiento, en primavera y verano, riegue la planta a fondo pero con poca frecuencia, típicamente cada 2-3 semanas, dependiendo del clima y las condiciones del suelo. En otoño e invierno, reduzca significativamente el riego, ya que el crecimiento de la planta se ralentiza. El riego excesivo es un problema común, así que es mejor pecar de poca agua. Asegúrese de que la planta esté en un suelo bien drenado para fomentar el crecimiento saludable de las raíces."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Jatropha cardiophylla prospera a pleno sol o semisombra. Es mejor ubicarla en lugares donde pueda recibir varias horas de luz solar directa al día, lo cual ayuda a mantener su crecimiento compacto y fomenta la floración. Sin embargo, en climas extremadamente calientes y áridos, algo de sombra por la tarde será beneficioso para proteger la planta de quemaduras en las hojas. Si se cultiva en interiores, colóquela cerca de una ventana orientada al sur u oeste donde pueda recibir abundante luz. La luz solar adecuada es crucial para su crecimiento y floración; la luz insuficiente puede causar un crecimiento largo y menos flores."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda de Jatropha cardiophylla generalmente es mínima pero puede ser necesaria para darle forma o eliminar el crecimiento muerto o dañado. El mejor momento para podar es durante la temporada de crecimiento, a finales de primavera o principios de verano. Use herramientas limpias y afiladas para realizar cortes limpios y evitar dañar los tejidos sanos. Retire primero cualquier rama muerta, enferma o débil, luego recorte cualquier sección crecida en exceso para promover una estructura más compacta. La savia látex de esta planta puede ser ligeramente irritante, por lo que se recomienda usar guantes al podar. La poda regular también fomenta la floración y mantiene su atractivo estético."
+      }
+    ]
+  },
+  {
+    "id": "17644",
+    "scientific_name": [
+      "Lilium michauxii"
+    ],
+    "common_name": "Lirio de Carolina",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Lilium michauxii, conocido comúnmente como el lirio de Carolina, se encuentra en el sureste de Estados Unidos, desde el sur de Virginia en el norte hasta la región de la Florida Panhandle en el sur y hasta el este de Texas en el oeste. Es más común en julio y agosto, pero puede encontrarse floreciendo hasta octubre. Recibió su nombre en honor al botánico francés André Michaux, quien viajó e hizo una extensa investigación a lo largo del sureste.",
+    "family": "",
+    "flower_color": "Naranja",
+    "flowering_season": "Falso",
+    "fruit_color": [
+      "Verde"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "América del Norte"
+    ],
+    "other_name": [
+      "Lirio de Carolina"
+    ],
+    "pest_susceptibility": [
+      "Áfidos",
+      "Virus",
+      "Trips"
+    ],
+    "propagation": [
+      "Propagación por semilla",
+      "División de bulbo"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Ácido",
+      "Bien drenado"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "",
+        "type": "watering",
+        "description": "Lilium michauxii, conocido comúnmente como el lirio de Carolina, prefiere suelos consistentemente húmedos pero bien drenados. Es importante mantener el suelo uniformemente húmedo, especialmente durante sus temporadas de crecimiento y floración. Riega abundantemente siempre que el centímetro superior del suelo se sienta seco al tacto, pero evita el encharcamiento, ya que puede provocar pudrición de las raíces. Usa una capa de mantillo para retener la humedad del suelo y prevenir la pérdida por evaporación. Durante su temporada de latencia, reduce la frecuencia de riego significativamente, permitiendo que la planta experimente un período más seco en relación a sus necesidades de temporada de crecimiento."
+      },
+      {
+        "id": "",
+        "type": "sunlight",
+        "description": "Los lirios de Carolina prosperan en condiciones de luz solar parcial a completa. Requieren al menos de 4 a 6 horas de luz solar directa cada día para un crecimiento y floración óptimos. En climas más calientes, proporcionar algo de sombra durante las horas pico al mediodía puede evitar que las hojas se quemen. Un lugar con sol de mañana y sombra por la tarde suele funcionar mejor, ya que asegura suficiente luz mientras protege a la planta del estrés por calor intenso. Asegúrate de que el sitio de plantación no esté demasiado sombreado, ya que esto reducirá la floración y resultará en plantas alargadas."
+      },
+      {
+        "id": "",
+        "type": "pruning",
+        "description": "La poda para Lilium michauxii es mínima y principalmente implica limpiar hojas muertas o moribundas y tallos de flores gastados para mantener la salud y estética de la planta. Elimina las flores marchitas de inmediato para evitar la formación de vainas de semilla y conservar la energía de la planta. Después de la temporada de floración, permite que las hojas mueran naturalmente ya que son vitales para almacenar energía en el bulbo para el próximo ciclo de crecimiento. Recorta el follaje muerto en la base una vez que esté completamente amarillento y se haya caído naturalmente para reducir el riesgo de enfermedades y plagas."
+      }
+    ]
+  },
+  {
+    "id": "17348",
+    "scientific_name": [
+      "Peltigera collina"
+    ],
+    "common_name": "líquen peltígero del árbol",
+    "attracts": [
+      "líquenes"
+    ],
+    "care_level": "Medio",
+    "description": "",
+    "family": "",
+    "flower_color": "",
+    "flowering_season": "Falso",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "Europa",
+      "América del Norte"
+    ],
+    "other_name": [
+      "líquen peltígero del árbol"
+    ],
+    "pest_susceptibility": [
+      "Infecciones fúngicas"
+    ],
+    "propagation": [
+      "Propagación por esporas"
+    ],
+    "pruning_month": [
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Peltigera collina, un liquen, típicamente no requiere riego regular cuando vive al aire libre, ya que a menudo recoge suficiente humedad de la lluvia y el rocío. Si lo mantienes en interiores o en un ambiente más seco, emula su hábitat natural rociándolo suavemente cada pocos días para asegurarte de que se mantenga húmedo. Evita empaparlo, ya que el exceso de agua puede llevar a la descomposición. Prefiere alta humedad, así que asegúrate de que el aire circundante no esté demasiado seco. Monitorea cualquier signo de sequedad o descomposición para ajustar el riego en consecuencia."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Peltigera collina prospera en ambientes parcialmente sombreados similares a sus hábitats naturales en los bosques. Puede tolerar algo de luz solar directa, especialmente en condiciones más frescas y húmedas, pero la exposición excesiva al sol podría llevar a la desecación. Trata de imitar las condiciones de luz dispersa, proporcionando luz solar filtrada o indirecta durante unas pocas horas cada día. Demasiada luz solar directa puede secar el liquen demasiado rápido, así que ten cuidado con su ubicación de luz y ajústala según su salud y nivel de humedad."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Peltigera collina no es necesaria ya que es un liquen y no crece vigorosamente como otras plantas. En su lugar, enfócate en limpiar suavemente el área donde crece para evitar que se acumule desechos. Si el liquen parece estar extendiéndose en un área no deseada, puedes quitar cuidadosamente piezas a mano para manejar su crecimiento. Asegúrate de que tenga suficiente espacio y no esté invadido por otras plantas o sustancias que podrían obstaculizar su crecimiento o afectar su salud."
+      }
+    ]
+  },
+  {
+    "id": "17247",
+    "scientific_name": [
+      "Polygala myrtifolia"
+    ],
+    "common_name": "Arbusto del Guisante Dulce",
+    "attracts": [
+      "Abejas",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Polygala myrtifolia L., conocido como el arbusto guisante dulce, es un arbusto o árbol pequeño siempreverde de 2-4m de altura originario de Sudáfrica. Se encuentra a lo largo de las costas sur y sureste, desde cerca de Clanwilliam en el Cabo Occidental hasta KwaZulu-Natal. Es una planta pionera de rápido crecimiento, típica de los fynbos, y puede encontrarse en dunas, lugares rocosos, a lo largo de márgenes de bosques, junto a arroyos y en praderas abiertas. Pertenece a la familia Poligalaceae.",
+    "family": "/",
+    "flower_color": "Púrpura",
+    "flowering_season": "/",
+    "fruit_color": [
+      "/"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "/",
+    "leaf_color": [
+      "Verde Oscuro"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "Sudáfrica"
+    ],
+    "other_name": [
+      "Arbusto del Guisante Dulce"
+    ],
+    "pest_susceptibility": [
+      "Áfidos",
+      "Ácaros rojos"
+    ],
+    "propagation": [
+      "Esqueje",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Octubre"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Franco",
+      "Arenoso"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "1234",
+        "type": "watering",
+        "description": "Polygala myrtifolia, conocida comúnmente como arbusto del guisante dulce, prefiere riegos regulares, especialmente durante sequías. Aunque puede tolerar cierta sequía una vez establecida, prospera con humedad moderada. Asegúrese de que el suelo se seque un poco entre riegos para prevenir la pudrición de raíces. En la temporada de crecimiento, riegue una o dos veces por semana, ajustando según la lluvia y la temperatura. Reduzca el riego en invierno cuando la planta está en reposo, cuidando que el suelo no permanezca encharcado. El exceso de agua es un problema común, por lo que es crucial proporcionar un suelo bien drenado para mantener esta planta saludable."
+      },
+      {
+        "id": "5678",
+        "type": "sunlight",
+        "description": "Polygala myrtifolia florece a pleno sol pero puede tolerar sombra parcial, especialmente en climas más cálidos. Idealmente, debe recibir al menos seis horas de luz solar directa por día para asegurar una floración prolífica y un crecimiento saludable. En regiones muy calientes y secas, algo de sombra por la tarde puede ayudar a prevenir que las hojas se quemen y sufran estrés. Las condiciones de sol parcial pueden llevar a menos flores y una estructura de planta más alargada. Colocarlo en un lugar con sol de mañana y algo de sombra por la tarde funciona bien en regiones con luz solar intensa. Asegúrese de que se satisfagan sus necesidades de luz solar para una salud robusta y flores vibrantes."
+      },
+      {
+        "id": "91011",
+        "type": "pruning",
+        "description": "La poda de Polygala myrtifolia ayuda a mantener su forma y fomenta un crecimiento denso, resultando en más flores. Es mejor podarlo después de que haya terminado el principal periodo de floración. Use tijeras afiladas para remover ramas muertas o cruzadas, y recorte el crecimiento excesivo para mantener la forma deseada. Evite podar en exceso la madera vieja, ya que esto puede no producir nuevo crecimiento. La poda ligera también puede realizarse durante la temporada de crecimiento para eliminar flores marchitas y promover más floración. La poda regular no solo mantiene la planta ordenada, sino que también mejora la intensidad de la floración."
+      }
+    ]
+  },
+  {
+    "id": "16653",
+    "scientific_name": [
+      "Merremia aegyptia"
+    ],
+    "common_name": "Rosa de madera peluda",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "Merremia aegyptia, conocida comúnmente como la rosa de madera peluda, es una planta que se cultiva por sus delicadas flores blancas. Es originaria de África y el Asia tropical, donde crece en suelos bien drenados. Se caracteriza por su crecimiento rápido y es apreciada en jardines por su capacidad de cubrir rápidamente áreas grandes.",
+    "family": "Convolvulaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "N/A",
+    "fruit_color": [
+      "N/A"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "N/A",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "África",
+      "Asia Tropical"
+    ],
+    "other_name": [
+      "Merremia blanca"
+    ],
+    "pest_susceptibility": [
+      "Manchas foliares por hongos"
+    ],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "Mañana",
+    "care_guides_details": [
+      {
+        "id": "watering",
+        "type": "watering",
+        "description": "Merremia aegyptia, comúnmente conocida como la rosa de madera peluda, prefiere riegos moderados. Durante su temporada de crecimiento, asegúrese de que el suelo esté constantemente húmedo pero no encharcado. Deje que la superficie del suelo se seque ligeramente entre riegos para evitar la pudrición de las raíces. En la temporada de inactividad, reduzca la frecuencia de riego pero no deje que el suelo se seque completamente. Use una mezcla de suelo bien drenante para prevenir el exceso de retención de humedad, que podría dañar las raíces."
+      },
+      {
+        "id": "sunlight",
+        "type": "sunlight",
+        "description": "Merremia aegyptia prospera con pleno sol a sombra parcial. Idealmente, debe recibir al menos 6 horas de luz solar directa diariamente para promover un crecimiento robusto y la floración. En climas más cálidos, algo de sombra por la tarde puede ser beneficiosa para protegerla del calor extremo. Asegúrese de plantarla o colocarla en un lugar donde pueda acceder a sus necesidades de luz, ya que la luz insuficiente podría llevar a un crecimiento deficiente y menos flores."
+      },
+      {
+        "id": "pruning",
+        "type": "pruning",
+        "description": "La poda de Merremia aegyptia implica la eliminación de tallos muertos o dañados y el control de su naturaleza de rápido crecimiento. Revise regularmente cualquier crecimiento débil o no saludable y recórtelo para fomentar un desarrollo más completo y saludable. Pode después de la floración para arreglar la planta y mantener su forma deseada. Durante la temporada de crecimiento, la poda ocasional de las vides demasiado extendidas puede ayudar a gestionar su tamaño y prevenir que se vuelva invasiva en un jardín."
+      }
+    ]
+  }
+]

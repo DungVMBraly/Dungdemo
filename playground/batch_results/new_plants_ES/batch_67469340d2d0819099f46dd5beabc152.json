@@ -1,0 +1,2910 @@
+[
+  {
+    "id": "403",
+    "scientific_name": [
+      "Abelia grandiflora 'MINDUO1' SUNNY ANNIVERSARY"
+    ],
+    "common_name": "abelia lustrosa",
+    "attracts": [
+      "Colibríes",
+      " Mariposas"
+    ],
+    "care_level": "Fácil",
+    "description": "La abelia lustrosa (Abelia grandiflora 'MINDUO1' Sunny Anniversary) es una planta increíble. Un arbusto perenne de bajo mantenimiento, que crece hasta alturas de 1,8 metros. Su follaje tiene un acabado brillante, y sus racimos de pequeñas flores blancas en forma de estrella florecen desde mediados del verano hasta el otoño. Esta planta es tolerante al calor y a la sequía, por lo que es una opción ideal para quienes buscan un arbusto sin complicaciones para su jardín. Otras ventajas de esta planta incluyen su follaje fragante y su capacidad para atraer polinizadores, como abejas, mariposas y colibríes. Sobre todo, requiere poco mantenimiento, y su hermoso follaje y deslumbrantes racimos de flores la convierten en una atractiva adición a cualquier jardín.",
+    "family": "Caprifoliaceae",
+    "flower_color": "Rosa con amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Acodo",
+      "División",
+      "Injerto",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5788",
+        "type": "watering",
+        "description": "Las plantas de abelia lustrosa deben regarse cuando los primeros centímetros del suelo estén secos. Es importante evitar el exceso de riego, ya que las abelias son sensibles a la acumulación de humedad en el suelo. Durante la temporada de crecimiento (mayo-septiembre), generalmente es mejor regarlas cada 5-7 días. Al regar, es preferible inundar el suelo completamente con agua y permitir que drene antes de volver a regar. Asegúrese de verificar los niveles de humedad del suelo antes de regar. Durante los meses de invierno (octubre-abril), es mejor reducir el riego ya que las abelias no requieren tanta agua como durante la temporada de crecimiento. Durante este tiempo, se deben regar cada 10-14 días. En áreas con temperaturas extremas y/o periodos prolongados de sequía, puede ser necesario un riego adicional."
+      },
+      {
+        "id": "5789",
+        "type": "sunlight",
+        "description": "La abelia lustrosa (Abelia grandiflora 'MINDUO1' SUNNY ANNIVERSARY) es un arbusto semi-perenne que puede prosperar en una variedad de climas diferentes. Esta especie de planta es ideal para ubicaciones que reciben sol pleno la mayor parte del día, lo que le proporciona la exposición solar necesaria para ayudarle a crecer y florecer.\n\nPara obtener los mejores resultados, esta planta debe colocarse en un lugar que reciba al menos 6 horas de sol al día. El sol de la mañana es preferible debido a que las horas soleadas producidas por los rayos del sol son más fuertes durante esa parte del día."
+      },
+      {
+        "id": "5790",
+        "type": "pruning",
+        "description": "La abelia lustrosa (Abelia grandiflora 'MINDUO1' SUNNY ANNIVERSARY) debe podarse una vez al año, preferiblemente a finales del invierno o principios de primavera cuando la planta aún está en reposo. Esto ayudará a dar forma y controlar el crecimiento de la planta. Para mantener su estado deseado, elimine el crecimiento leñoso viejo y corte selectivamente los tallos anormalmente largos a la forma deseada. También es importante eliminar regularmente cualquier flor muerta o marchita durante la temporada de crecimiento para fomentar nuevas floraciones. Es importante no podar más de lo necesario, ya que una poda drástica puede debilitar o dañar la planta."
+      }
+    ]
+  },
+  {
+    "id": "409",
+    "scientific_name": [
+      "Abeliophyllum distichum"
+    ],
+    "common_name": "forsitia blanca",
+    "attracts": [
+      "abejas",
+      "mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La forsitia blanca (Abeliophyllum distichum) es una especie de planta impresionante, con hermosos flores blancas en la primavera temprana y hojas de un vibrante verde claro que aumentan su atractiva belleza. Este arbusto compacto y caducifolio es fácil de cultivar, y puede encajar incluso en jardines pequeños. Es adecuado para jardines en casi cualquier clima y necesita muy poco mantenimiento para prosperar. Gracias a sus flores fragantes, una vez florecida, aporta una gran belleza y encanto a cualquier jardín y también atrae tanto a abejas como a mariposas. La forsitia blanca es, sin duda, una espectacular adición ornamental a tu espacio exterior.",
+    "family": "Oleaceae",
+    "flower_color": "Blanco, a veces con un toque rosado",
+    "flowering_season": "Primavera temprana",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Corea"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Acodo",
+      "Injerto",
+      "División",
+      "Siembra"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "7 a 10 días",
+    "care_guides_details": [
+      {
+        "id": "5806",
+        "type": "watering",
+        "description": "La forsitia blanca debe ser regada cuando el suelo en la maceta se sienta seco. Es mejor comprobar el nivel de humedad del suelo con el dedo antes de regar, ya que el exceso de agua puede ser perjudicial. Permite que el suelo se seque entre riegos, pero no dejes que las plantas se sequen por completo. Generalmente, riega las plantas una vez cada 7 a 10 días, pero en verano riega más frecuentemente. Cuando riegues, usa agua tibia y riega hasta que drene por el fondo de la maceta. Durante los meses de invierno, riega con menos frecuencia."
+      },
+      {
+        "id": "5807",
+        "type": "sunlight",
+        "description": "La forsitia blanca (Abeliophyllum distichum) se desarrolla mejor a pleno sol, recibiendo al menos entre 6 a 8 horas diarias. Durante los meses de verano, las plantas deben recibir sol pleno al mediodía, cuando el sol está más alto en el cielo. En los meses más frescos, permitir que la planta reciba sol por la mañana es ideal."
+      },
+      {
+        "id": "5808",
+        "type": "pruning",
+        "description": "La forsitia blanca (Abeliophyllum distichum) debe podarse mejor a principios o mediados de la primavera, cuando la planta está comenzando a mostrar signos de crecimiento. Esto fomentará nuevo crecimiento y ayudará a que se mantenga robusta y saludable. La poda debe mantenerse al mínimo; quita cualquier rama muerta, moribunda o débil. Si cualquier rama larga ha crecido, pueden recortarse ligeramente para crear una forma más agradable. Finalmente, si el arbusto se ha vuelto demasiado grande y denso, puedes recortarlo para que más aire y luz puedan alcanzar las ramas internas para ayudar en la salud general de la planta."
+      }
+    ]
+  },
+  {
+    "id": "411",
+    "scientific_name": [
+      "Abelmoschus esculentus 'Baby Bubba'"
+    ],
+    "common_name": "okra",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Okra, con el nombre científico Abelmoschus esculentus 'Baby Bubba', es una especie de planta asombrosa que puede aportar una textura y sabor únicos a los platos. Sus vainas crecen rápidamente, tienen un sabor a nuez soberbio y son sorprendentemente tiernas. También son extremadamente versátiles y pueden usarse en una amplia variedad de recetas como sopas, guisos, gumbo, encurtidos e incluso fritas. Su textura gruesa y viscosa ayuda a espesar sopas y salsas. Cultivar okra es fácil y se puede hacer en casi cualquier región de cultivo. Sus vainas están llenas de antioxidantes, vitaminas y minerales, lo que significa que puedes disfrutar de su sabor mientras obtienes un impulso saludable. Sin mencionar que sus atractivas flores añaden un elemento decorativo al jardín. No hay duda de por qué la okra Baby Bubba es una especie de planta increíble.",
+    "family": "Malvaceae",
+    "flower_color": "Amarillo claro",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Verano",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "India",
+      "Etiopía",
+      "Sudán",
+      "Nigeria",
+      "Somalia",
+      "Pakistán",
+      "Bangladesh",
+      "Yemen",
+      "Egipto"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "Propagación por acodo",
+      "División",
+      "Injerto"
+    ],
+    "pruning_month": [
+      "Agosto",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "5809",
+        "type": "watering",
+        "description": "La okra debe ser regada profundamente y de forma regular durante la temporada de crecimiento. Intenta proporcionar aproximadamente 2.5 cm de agua por semana. Riega la okra por la mañana o al atardecer, de modo que el follaje tenga tiempo de secarse antes de la noche. Esto previene enfermedades fúngicas. Cuando la planta comience a florecer, reduce el riego y cambia a nebulizar regularmente las hojas ya que las flores pueden caer si se riegan directamente. Si el suelo está seco por un período prolongado de tiempo, riega profundamente pero con poca frecuencia para estimular el crecimiento profundo de las raíces, así la planta tendrá mejor acceso al agua en el futuro."
+      },
+      {
+        "id": "5810",
+        "type": "sunlight",
+        "description": "La especie de planta de okra (Abelmoschus esculentus 'Baby Bubba') necesita pleno sol para producir su mejor rendimiento. Se debe proporcionar luz solar directa durante al menos 6 horas al día. Dependiendo de la región y la temporada, la luz solar directa podría no estar disponible todos los días, y la sombra parcial puede ayudar a prevenir el exceso de calor y proteger las plantas de demasiado sol. Colocar las plantas de okra donde reciban sol de mañana y algo de sombra por la tarde puede ayudar a mantener cosechas saludables y reducir el riesgo de quemaduras solares."
+      },
+      {
+        "id": "5811",
+        "type": "pruning",
+        "description": "La okra (Abelmoschus esculentus 'Baby Bubba') requiere de poda mínima. Se recomienda remover las flores marchitas y las vainas de semillas para asegurar la producción continua de nuevas ramas fructíferas. Si la planta crece demasiado, se puede podar a un tamaño deseado, pero asegúrate de evitar podar demasiado temprano en la temporada. La poda debe hacerse en el verano, a mitad o al final, para la salud óptima de la planta. La poda también debe hacerse con cautela para evitar eliminar demasiada parte de la planta, ya que esto podría disminuir el rendimiento de las vainas de okra."
+      }
+    ]
+  },
+  {
+    "id": "416",
+    "scientific_name": [
+      "Abies balsamea 'Nana'"
+    ],
+    "common_name": "abeto balsámico",
+    "attracts": [
+      "ardillas",
+      "aves"
+    ],
+    "care_level": "Bajo",
+    "description": "El abeto balsámico (Abies balsamea 'Nana') es una especie de árbol extraordinaria con una agradable forma cónica, agujas suaves y un hermoso color verde azulado plateado. Es ideal para la jardinería paisajística porque es tolerante a una amplia gama de condiciones de crecimiento e incluso puede sobrevivir en suelos secos y arenosos. También se utiliza ampliamente como árbol de Navidad y es muy apreciado por su aroma. El abeto balsámico tiene una gran longevidad, ya que puede vivir hasta 70 años. Esta especie es una maravillosa adición a cualquier jardín, ya que añade belleza, ramas fuertes y sombra.",
+    "family": "Pinaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "Norteamérica"
+    ],
+    "other_name": [
+      "bálsamo de Canadá",
+      "abeto oriental",
+      "abeto balsámico de brácteas",
+      "abeto de ampolla",
+      "abeto blanco",
+      "abeto oriental",
+      "abeto balsámico de brácteas",
+      "abeto de ampolla",
+      "abeto blanco"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Injerto",
+      "Acodo",
+      "Propagación de semillas",
+      "Acodo aéreo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Franco arenoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5821",
+        "type": "watering",
+        "description": "El abeto balsámico (Abies balsamea 'Nana') debe regarse una vez a la semana mientras esté en crecimiento activo. Riegue hasta que el suelo esté húmedo y uniformemente saturado. Asegúrese de no regar en exceso y evite que la planta se quede en agua para prevenir la pudrición de raíces. Durante los meses más cálidos, puede necesitar riego dos veces por semana, o más si el suelo se seca rápidamente. Durante los meses más fríos, reduzca el riego a una vez al mes o menos."
+      },
+      {
+        "id": "5822",
+        "type": "sunlight",
+        "description": "El abeto balsámico (Abies balsamea 'Nana') requiere pleno sol o sombra parcial. La sombra parcial es preferible en lugares con veranos calurosos. La planta debe recibir de 5 a 7 horas de sol pleno diariamente para prosperar. Para asegurar que reciba suficiente luz, debe plantarse en un área orientada al sur o al oeste, o en el borde de un área boscosa. Esta especie también puede tolerar sombra completa por períodos cortos de tiempo, pero si se mantiene en una zona completamente sombreada durante un largo período de tiempo, puede no prosperar."
+      },
+      {
+        "id": "5823",
+        "type": "pruning",
+        "description": "El abeto balsámico (Abies balsamea 'Nana') debe podarse en la primavera. La poda debe ser ligera para minimizar el estrés a la planta. Solo se deben remover las ramas muertas, rotas o enfermas. Intente mantener la forma cónica natural y asegúrese de no podar las yemas terminales en el ápice de la planta. Si se desea una forma específica, se puede hacer en este momento, pero la planta no debe ser recortada. La poda debe realizarse poco después de que los días se vuelvan consistentemente cálidos y empiece el nuevo crecimiento de la temporada de inactividad."
+      }
+    ]
+  },
+  {
+    "id": "423",
+    "scientific_name": [
+      "Abies nordmanniana subsp. equi-trojani"
+    ],
+    "common_name": "Abeto caucásico",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El abeto caucásico, también conocido como Abies nordmanniana subsp. equi-trojani, es un majestuoso árbol conífero perenne originario de las montañas del Cáucaso. Es conocido por su elevada estatura, alcanzando alturas de hasta 27 metros (90 pies), y sus agujas de color verde oscuro. Produce grandes conos que tienden a colgar de las ramas y se asemejan a grandes adornos navideños. Esta especie tolera la sombra, crece rápidamente y es muy resistente, lo que la convierte en una excelente adición para jardines y paisajes. El abeto caucásico es resistente a la sequía, tolerante al viento y compatible con la mayoría de los suelos, lo que lo convierte en una opción ideal para diversos terrenos. Además, es notablemente resistente a las enfermedades, lo que le otorga una larga vida útil. Con su singular forma, bajo mantenimiento y resistencia al estrés, el abeto caucásico es una opción increíble.",
+    "family": "Pinaceae",
+    "flower_color": "No florece",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Moderado",
+    "origin": [
+      "Turquía"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Injerto",
+      "Acodo",
+      "Acodo aéreo",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5842",
+        "type": "watering",
+        "description": "El abeto caucásico debe ser regado una vez a la semana. La cantidad de agua dependerá del clima y del tamaño del árbol. Durante períodos de calor extremo o sequía, será necesario un riego más frecuente. En promedio, riega el abeto de manera profunda para que el suelo se empape hasta una profundidad de entre 20 a 30 centímetros. Esto se puede lograr utilizando una manguera de jardín o una regadera con un patrón de lluvia suave. Durante este proceso, asegúrate de evitar el exceso de riego, ya que esto puede provocar la pudrición de las raíces y otros problemas de enfermedades. En los meses de invierno, riega con menos frecuencia, pero asegúrate de mantener las raíces para que no se sequen completamente."
+      },
+      {
+        "id": "5843",
+        "type": "sunlight",
+        "description": "El abeto caucásico (Abies nordmanniana subsp. equi-trojani) prefiere luz solar brillante e indirecta. Debe recibir al menos 6 horas de luz solar directa al día durante la temporada de crecimiento, pero evita la luz directa durante las horas más calurosas del día. Durante los meses de invierno, debe recibir luz solar indirecta a lo largo del día. Evita cualquier exposición prolongada a la luz solar directa, ya que esto podría dañar las agujas de la planta."
+      },
+      {
+        "id": "5844",
+        "type": "pruning",
+        "description": "El abeto caucásico (Abies nordmanniana subsp. equi-trojani) debe ser podado a finales del invierno o principios de la primavera cuando la planta está inactiva. Antes de comenzar la poda, inspecciona el árbol en busca de ramas muertas o enfermas y retíralas. El objetivo de la poda debe ser fomentar el desarrollo de una estructura fuerte y ramas uniformemente espaciadas. La poda ligera debe realizarse para mantener el árbol ordenado, pero se debe evitar la poda moderada a intensa. Asegúrate de podar las ramas hasta una rama lateral o el tronco principal, en lugar de dejar un muñón. Esto ayudará a que el árbol mantenga su forma natural y reducirá el riesgo de infección o enfermedad."
+      }
+    ]
+  },
+  {
+    "id": "429",
+    "scientific_name": [
+      "Acacia cognata 'Mini Cog'"
+    ],
+    "common_name": "zarzo del río",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El Zarzo del Río (Acacia Cognata 'Mini Cog') es una sorprendente planta nativa de Australia. Su follaje perenne y su forma en forma de jarrón la convierten en una adición llamativa para cualquier jardín. Su tamaño pequeño también la hace una opción ideal para patios pequeños o jardines de bajo mantenimiento. Su vibrante follaje verde, con suaves y delicadas flores amarillas, proporciona un gran toque de color. Esta planta se desarrolla mejor en sitios soleados y requiere de poca o ninguna agua. También es una gran opción para jardines pequeños ya que no necesita mucho recorte y puede dejarse crecer naturalmente. Todas estas cualidades hacen del Zarzo del Río una de las mejores y más fáciles de mantener para agregar color y vida a cualquier espacio exterior.",
+    "family": "Fabaceae",
+    "flower_color": "amarillo suave",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Australia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Acodo",
+      "Injerto",
+      "Semilla",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Agosto",
+      "Octubre",
+      "Junio",
+      "Julio",
+      "Diciembre",
+      "Febrero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [
+      "Bien drenado",
+      "Arenoso",
+      "Arcilloso"
+    ],
+    "watering_period": "Verano: semanal, Invierno: quincenal o mensual",
+    "care_guides_details": [
+      {
+        "id": "5848",
+        "type": "watering",
+        "description": "El Zarzo del Río requerirá riego abundante para lucir lo mejor posible. Debe regarse cada 7 a 10 días durante los meses más cálidos y cada 14 a 21 días durante los meses más fríos. Durante la época calurosa, regar a nivel de raíz asegurándose de que el suelo esté húmedo. En épocas más frías, suficiente agua para mantener el suelo húmedo pero no empapado. Si el suelo se seca, proporcionar agua hasta saturar el suelo. Es importante evitar el exceso de agua para prevenir la pudrición de raíces."
+      },
+      {
+        "id": "5849",
+        "type": "sunlight",
+        "description": "El Zarzo del Río requiere pleno sol, al menos 6 horas de luz solar directa al día para un crecimiento y floración óptimos. Puede tolerar algo de sombra parcial, pero la cantidad de sol influirá en su vigor y floración. En pleno sol, tendrá más flores y un follaje más frondoso. Durante meses calurosos de verano, se debe proteger del sol de la tarde."
+      },
+      {
+        "id": "5850",
+        "type": "pruning",
+        "description": "Se sugiere podar el Zarzo del Río dos veces al año: a finales de invierno/primavera (Agosto a Octubre) y de nuevo a principios de verano (Diciembre a Febrero). Podar ligeramente a finales de invierno/primavera, eliminando ramas muertas o débiles y reduciendo el tamaño del arbusto. A principios de verano, dar forma recortando ramas dispersas y eliminando madera muerta, enferma o dañada. Recuerde que el Zarzo del Río no responde bien a podas severas. Use tijeras afiladas y limpias para una buena regeneración."
+      }
+    ]
+  },
+  {
+    "id": "427",
+    "scientific_name": [
+      "Abutilon 'Moonchimes'"
+    ],
+    "common_name": "arce floreciente",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El arce floreciente (Abutilon 'Moonchimes') es una especie de planta sorprendente con flores únicas para cualquier jardín. Produce flores moradas en forma de campana, con toques de blanco y amarillo que simplemente hipnotizan bajo el sol de verano. Sus hojas son grandes y con forma de arce, lo que proporciona un bonito contraste con las flores en forma de campana. Es una gran adición a cualquier jardín debido a su belleza, sus bajas necesidades de mantenimiento y su resistencia en la zona 6. Además, crece bien tanto a pleno sol como en sombra parcial, convirtiéndola en una elección ideal para una variedad de espacios de jardín. Consigue tu propio arce floreciente hoy y disfruta de su especial belleza en tu propio patio.",
+    "family": "Malvaceae",
+    "flower_color": "Amarillo suave",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Brasil"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Estacas",
+      "Esquejes de Raíz",
+      "Capas Aéreas",
+      "División",
+      "Propagación por Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1421",
+        "type": "watering",
+        "description": "Para la planta de arce floreciente, es importante mantener el suelo constantemente húmedo. Necesitarás regarla una vez a la semana o cuando la capa superior de una pulgada de tierra se haya secado. Al regar, asegúrate de hacerlo hasta que el agua salga por los orificios de drenaje de la maceta. Durante los días calurosos de verano, puede que necesites regar más frecuentemente tu arce floreciente para mantener la humedad del suelo."
+      },
+      {
+        "id": "1423",
+        "type": "sunlight",
+        "description": "El arce floreciente (Abutilon 'Moonchimes') prefiere luz solar brillante e indirecta a lo largo del día. Prosperará mejor en un lugar donde pueda recibir no menos de 4 a 6 horas de luz solar moderada a directa cada día, idealmente desde la mañana hasta media tarde. Demasiada luz solar directa puede quemar el follaje, por lo que, si es posible, procura ubicarla en un lugar que reciba sombra desde la tarde hasta temprano en la mañana. Esto garantizará que tu arce floreciente mantenga su vibrante follaje y sus hermosas flores durante todo el año."
+      },
+      {
+        "id": "1428",
+        "type": "pruning",
+        "description": "El arce floreciente (Abutilon 'Moonchimes') debe podarse a finales del invierno o principios de la primavera cada año. A lo largo del año, deberías podar regularmente cualquier rama muerta, enferma o demasiado densa, así como aquellas ramas que estén demasiado juntas. Esto mantendrá saludable y ordenada la planta. Al final del invierno o a principios de la primavera, deberías podar el arce floreciente de manera más intensa para promover una buena circulación de aire, eliminar la madera muerta y controlar el tamaño de la planta. Dependiendo de la forma y tamaño que deseas lograr, puedes cortar ligeramente algunas ramas hasta 1/3 o podar todas las ramas hasta la forma deseada."
+      }
+    ]
+  },
+  {
+    "id": "430",
+    "scientific_name": [
+      "Acacia koa"
+    ],
+    "common_name": "koa",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La Koa (Acacia koa) es una increíble especie de árbol hawaiano conocida por su hermosa y única apariencia. Cultivada por su follaje verde oscuro y sus fragantes flores amarillas, la Koa es una especie altamente valorada que se puede encontrar en todas las islas de Hawái. Su madera es famosa por sus tonos profundos y cálidos y se utiliza a menudo en muebles, instrumentos musicales y ebanistería. Además, su madera es muy resistente, ya que resiste la descomposición y el fuego, lo que la convierte en una excelente opción para uso exterior y paisajismo. La Koa es una especie increíblemente versátil que agrega un carácter único a cualquier lugar y es imprescindible en cualquier jardín hawaiano.",
+    "family": "Fabaceae",
+    "flower_color": "Amarillo pálido",
+    "flowering_season": "",
+    "fruit_color": [
+      "marrón",
+      "negro"
+    ],
+    "growth_rate": "Rápido",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Moderada",
+    "origin": [
+      "Hawái"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Acodo aéreo",
+      "Injertos",
+      "Esquejes",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "diciembre",
+      "enero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5851",
+        "type": "watering",
+        "description": "La Koa (Acacia koa) necesita ser regada aproximadamente una vez por semana, o con más frecuencia si el suelo se seca rápidamente. Es mejor regar profundamente, a una profundidad de al menos 15 centímetros, para fomentar raíces profundas. Deje que el suelo se seque un poco entre riegos, pero no completamente. La Koa no debe permanecer en tierra saturada o muy húmeda. Durante los días de verano, cuando las temperaturas son más altas, la Koa puede necesitar riegos más frecuentes. Durante los meses de invierno, cuando la temperatura y la luz son menores, la Koa necesita riegos menos frecuentes y el suelo debe secarse ligeramente entre riegos."
+      },
+      {
+        "id": "5852",
+        "type": "sunlight",
+        "description": "Las plantas de Koa (Acacia koa) prosperan a pleno sol cuando se cultivan al aire libre. Sin embargo, las plantas jóvenes deben recibir solo sombra parcial durante los primeros años para ayudarlas a adaptarse al entorno. En general, deben recibir entre 6 y 8 horas de luz solar directa al día."
+      },
+      {
+        "id": "5853",
+        "type": "pruning",
+        "description": "Los árboles de Koa (Acacia koa) deben podarse a fines del otoño o principios del invierno. Al podar koa, es importante considerar la forma general del árbol y eliminar cualquier rama muerta, dañada o enferma. También seleccione ramas para podar con el fin de controlar el tamaño y dar forma al árbol, y trate de no podar más de un tercio del crecimiento total en una temporada, ya que esto podría causar shock al árbol. Si intenta aclarar el dosel del árbol, recuerde podar varias ramas en diferentes áreas. Esto permite que la luz solar y el aire penetren en el follaje y ayuda a reducir la superficie en la koa."
+      }
+    ]
+  },
+  {
+    "id": "444",
+    "scientific_name": [
+      "Acer buergerianum"
+    ],
+    "common_name": "arce tridente",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El arce tridente es una de las plantas más asombrosas. Sus brotes de color verde brillante y sus hojas trilobuladas lo hacen destacar entre las demás. Es ideal para crear una declaración grandiosa en cualquier paisaje. Además, el vibrante color amarillo y rojo de las hojas en otoño añade aún más a su belleza.\n\nEs una especie adaptable que puede tolerar casi cualquier condición del suelo y desde pleno sol hasta sombra ligera. Además, su rápido crecimiento y su capacidad para soportar la sequía lo convierten en la opción perfecta para paisajes urbanos. El arce tridente también es una gran opción para crear una pantalla en un patio o jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Amarillo verdoso",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "China oriental",
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Acodo aéreo",
+      "Injerto",
+      "Esqueje",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Rico en humus",
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5890",
+        "type": "watering",
+        "description": "Al regar un arce tridente (Acer buergerianum), debería recibir aproximadamente 2.5 cm de agua por semana, ya sea a través de la lluvia o de riego manual. Durante los meses de primavera y verano, riegue el arce tridente dos veces por semana, permitiendo que el suelo se seque entre riegos. Durante los meses más fríos, reduzca la frecuencia del riego a una vez por semana. El momento del riego debe depender de cuándo el arce tridente esté creciendo activamente y cuando las temperaturas sean más cálidas. Asegúrese de evitar el exceso de riego, ya que esto puede llevar a la pudrición de las raíces u otros problemas."
+      },
+      {
+        "id": "5891",
+        "type": "sunlight",
+        "description": "El arce tridente (Acer buergerianum) generalmente prefiere luz solar plena a parcial. Para un crecimiento óptimo, debería recibir de 4 a 6 horas de luz solar al día durante la temporada de crecimiento. Cuando se cultiva al aire libre, debe colocarse en un área que reciba luz solar por la mañana para obtener los mejores resultados. Cuando se cultiva en interiores, debe ubicarse en un área que reciba luz solar generosa e ininterrumpida durante al menos 6 horas cada día. Para protegerlo de la intensa luz solar directa, coloque la planta en una ventana orientada al este o al oeste."
+      },
+      {
+        "id": "5892",
+        "type": "pruning",
+        "description": "El arce tridente (Acer buergerianum) debe podarse cuando la planta está inactiva, normalmente a fines del invierno o principios de la primavera. Dependiendo del aspecto o forma deseados del árbol, se puede necesitar alguna poda después de que el árbol florezca. La poda severa generalmente debe evitarse, ya que esto puede dañar el árbol y reducir su potencial de floración. Se puede realizar una poda ligera, como la eliminación de flores marchitas, ramas cruzadas o brotes débiles, o el aclaramiento del dosel del árbol de manera segura de manera anual o según sea necesario. \n\nEn cuanto a cuánto podar, no se debe ni se necesita podar severamente al arce tridente; eliminar el 10-15% de las ramas es generalmente suficiente para mantener el aspecto y la forma deseados. Es importante no eliminar demasiadas hojas ni hacer cortes demasiado cerca del tronco principal del árbol."
+      }
+    ]
+  },
+  {
+    "id": "451",
+    "scientific_name": [
+      "Acer cissifolium"
+    ],
+    "common_name": "arce de hojas de hiedra",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El arce de hojas de hiedra (Acer cissifolium) es una especie de planta asombrosa debido a su follaje rojo brillante y a la forma única de sus hojas. Las hojas brillantes son lanceoladas y ligeramente lobuladas, asemejándose a las de las plantas de hiedra. Esta especie florece a principios del verano y produce bellas flores en forma de campana, que son rápidamente seguidas por racimos de frutos lobulados, rojos y amarillos. Es una planta resistente, tolerante tanto a veranos húmedos como a inviernos secos, lo que la hace ideal para jardines y paisajes. El follaje otoñal del arce de hojas de hiedra es especialmente impresionante, con sus colores vibrantes. Esta especie seguramente aportará belleza y vida a cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "Propagación por injerto",
+      "División",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "mayo",
+      "junio",
+      "julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5911",
+        "type": "watering",
+        "description": "El arce de hojas de hiedra necesita ser regado regularmente para mantener un follaje saludable y promover su crecimiento. El suelo debe mantenerse uniformemente húmedo, pero no encharcado, en todo momento. Riega el arce de hojas de hiedra cada 7-10 días, o verifica la humedad del suelo cada pocos días y riega según sea necesario si comienza a sentirse seco. Durante los meses más cálidos, el riego puede ser necesario con más frecuencia. Asegúrate de regar el arce de hojas de hiedra a nivel del suelo y evita mojar las hojas."
+      },
+      {
+        "id": "5912",
+        "type": "sunlight",
+        "description": "El arce de hojas de hiedra (Acer cissifolium) prospera mejor a media sombra o con luz solar filtrada, y puede tolerar el sol pleno siempre que se le proporcione suficiente humedad. También puede tolerar algo de sombra ligera. La cantidad ideal de luz solar para un arce de hojas de hiedra es de 4-5 horas de sol directo al día. Las plantas cultivadas a media sombra no alcanzarán su tamaño potencial completo, pero crecerán mucho más lentamente y serán propensas a más infecciones fúngicas."
+      },
+      {
+        "id": "5913",
+        "type": "pruning",
+        "description": "El arce de hojas de hiedra (Acer cissifolium) debe podarse una vez al año a finales de la primavera o principios del verano. Pode cada tallo hasta el crecimiento del año anterior, dejando 2 o 3 yemas. Pode lo suficiente para controlar el tamaño y la forma de la planta y evitar que se vuelva demasiado densa o crezca en exceso. Además, elimine cualquier crecimiento muerto, enfermo o dañado a medida que ocurra."
+      }
+    ]
+  },
+  {
+    "id": "453",
+    "scientific_name": [
+      "Acer freemanii 'Marmo'"
+    ],
+    "common_name": "Arce de Freeman",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El arce de Freeman, o Acer freemanii 'Marmo', es un impresionante árbol de arce con su brillante follaje otoñal, altamente atractivo durante toda la temporada. Este árbol crece rápidamente y crea una declaración audaz en cualquier jardín. Produce un grano fino con un color marrón rojizo profundo que destaca del verde exuberante del paisaje circundante. Su corteza también está profundamente surcada, con un color gris oscuro a negro. Favorece los hábitats de la vida silvestre y su denso dosel ofrece un refugio perfecto para aves, ardillas y otros animales pequeños. Su amplia adaptabilidad en varios tipos de suelos, climas fríos y paisajes urbanos hacen que el arce de Freeman sea una excelente opción para el jardín hogareño.",
+    "family": "Sapindaceae",
+    "flower_color": "Rojo",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto de propagación",
+      "Esqueje",
+      "Propagación por acodo",
+      "Propagación por acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "5917",
+        "type": "watering",
+        "description": "El Arce de Freeman (Acer freemanii 'Marmo') debe ser regado profunda y regularmente durante su primera temporada de crecimiento para ayudar a establecer un sistema de raíces extenso. Una vez establecido, riegue según sea necesario durante las épocas de sequía. En general, riegue cada 7-10 días durante períodos de clima seco. Empape la zona de las raíces a una profundidad de al menos 20 cm cada vez que riegue. Los arces de Freeman prefieren suelos que estén húmedos, pero no empapados. Riegue por la mañana y no por la noche, ya que el follaje húmedo durante la noche puede aumentar el riesgo de enfermedad."
+      },
+      {
+        "id": "5918",
+        "type": "sunlight",
+        "description": "El arce de Freeman (Acer freemanii 'Marmo') es una especie de arce caducifolio que prefiere la exposición al sol pleno. En climas del norte, esta especie debe recibir alrededor de 6 horas de luz solar directa al día para prosperar. Al plantar este arce, es importante tener en cuenta que no debe tener sombra para un crecimiento óptimo."
+      },
+      {
+        "id": "5919",
+        "type": "pruning",
+        "description": "El arce de Freeman (Acer freemanii 'Marmo') debe podarse durante el final del invierno o principios de la primavera, antes del inicio de la temporada de crecimiento. La poda debe limitarse a la eliminación de ramas muertas, enfermas o dañadas, a la eliminación selectiva de ramas para mejorar la estructura o la estética, o al aclareo de ramas para aumentar la circulación del aire. Dado que esta especie se considera de crecimiento moderado, la poda no debe reducir la masa total del árbol en más del 25% de la línea total del techo en cualquier temporada."
+      }
+    ]
+  },
+  {
+    "id": "454",
+    "scientific_name": [
+      "Acer freemanii 'Scarsen' SCARLET SENTINEL"
+    ],
+    "common_name": "Arce Freeman",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Arce Freeman, Acer freemanii 'Scarsen' Scarlet Sentinel, es un árbol increíblemente hermoso. Sus hojas vibran espectaculares en tonos de rojo vibrante y morado intenso en otoño, creando un despliegue de colores impresionante. Durante todo el año, el Scarlet Sentinel presenta un dosel simétrico con hojas verde brillante que se tornan en ámbar amarillento en otoño. El Arce Freeman es extremadamente adaptable, tolerante a condiciones climáticas adversas y de bajo mantenimiento. Su rápido crecimiento le permite proporcionar una cobertura rápida y es ideal para una pantalla de privacidad o árbol de sombra. Su adaptabilidad, colores vibrantes y rápido crecimiento hacen del Arce Freeman un árbol impresionante.",
+    "family": "Sapindaceae",
+    "flower_color": "Amarillo verdoso",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Esquejes",
+      "Acodo",
+      "Acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5920",
+        "type": "watering",
+        "description": "El arce Freeman (Acer freemanii 'Scarsen' SCARLET SENTINEL) debe regarse aproximadamente una vez a la semana durante su temporada de crecimiento activo, que suele ser en primavera y verano. Al regar, dele a su árbol un buen remojón profundo, generalmente suficiente agua para penetrar hasta la zona de raíces del árbol, lo que significa que debe humedecerse a una profundidad de 3-4 pies. Durante períodos de sequía, puede ser necesario regar con más frecuencia. En invierno, cuando el árbol está en reposo, solo debe regarse cuando el suelo esté seco al tacto."
+      },
+      {
+        "id": "5921",
+        "type": "sunlight",
+        "description": "El Arce Freeman (Acer freemanii 'Scarsen' SCARLET SENTINEL) requiere al menos de 4 a 6 horas de luz solar directa al día para un crecimiento óptimo. Puede sobrevivir en sombra parcial, pero puede no florecer tan abundantemente con menos sol. Proporcionar luz solar adicional durante los días más largos de la temporada (junio y julio) puede mejorar la producción de flores."
+      },
+      {
+        "id": "5922",
+        "type": "pruning",
+        "description": "El arce Freeman (Acer freemanii 'Scarsen' SCARLET SENTINEL) generalmente no requiere poda regular. Cualquier poda debe realizarse durante el final de la temporada de invierno, cuando el árbol está en reposo. Evite podar en primavera o verano para minimizar el estrés en el árbol. Sin embargo, la poda en el momento adecuado puede mejorar la forma general del árbol y puede ayudar a promover un crecimiento saludable. La poda debe hacerse con tijeras afiladas y cada corte debe hacerse en el ángulo adecuado para garantizar una mejor cicatrización. Cualquier rama muerta, enferma o rota debe eliminarse lo más rápido posible para fomentar un crecimiento saludable adicional."
+      }
+    ]
+  },
+  {
+    "id": "458",
+    "scientific_name": [
+      "Acer palmatum 'Shishio Improved'"
+    ],
+    "common_name": "Arce japonés",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El arce japonés (Acer palmatum 'Shishio Improved') es una especie de planta impresionante, con un follaje deslumbrante y una forma grácil. Con sus delicadas hojas filigranas y forma elegante, añade una sensación de gracia y elegancia a cualquier jardín. En primavera y verano, las hojas de tonos rojo-verde añaden un toque vibrante al paisaje, mientras que en otoño se tornan de un hermoso tono carmesí. También es muy versátil, prospera en una variedad de climas y tipos de suelo. Con su mantenimiento bajo y crecimiento lento y erguido, es perfecto para espacios pequeños. En resumen, el arce japonés (Acer palmatum 'Shishio Improved') es imprescindible para cualquier proyecto paisajístico y una adición invaluable a cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Rojo",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Acodo",
+      "Esqueje",
+      "Acodo aéreo",
+      "Cultivo de tejidos"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Febrero",
+      "Enero",
+      "Marzo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5929",
+        "type": "watering",
+        "description": "El arce japonés (Acer palmatum 'Shishio Improved') requiere un riego regular pero controlado para un crecimiento óptimo. Durante la temporada de crecimiento (de primavera a verano), el suelo debe mantenerse ligeramente húmedo pero nunca empapado. Generalmente, regar de 1 a 2 veces por semana en climas más cálidos y 1 pulgada de agua por semana en climas más frescos es suficiente. Durante la temporada más fría y de reposo (otoño e invierno) en climas con temperaturas de congelación, reduzca el riego al mínimo. Espere para regar hasta que las primeras pulgadas superiores del suelo estén secas."
+      },
+      {
+        "id": "5930",
+        "type": "sunlight",
+        "description": "El arce japonés (Acer palmatum 'Shishio Improved') prefiere al menos de 3 a 4 horas de luz solar al día. Generalmente se cultiva en un lugar que recibe sol parcial a pleno, aunque es importante proteger al árbol del viento y del sol caliente del verano. La mayoría de los arces japoneses prefieren la luz solar de la mañana y las primeras horas de la tarde, y sombra moteada durante las horas avanzadas de la tarde."
+      },
+      {
+        "id": "5931",
+        "type": "pruning",
+        "description": "El arce japonés (Acer palmatum 'Shishio Improved') debe podarse dos veces al año: una vez a finales de invierno y otra a mediados de verano. Pode esta especie ligeramente a finales de invierno (de enero a marzo) para eliminar cualquier rama muerta, rota o enferma, así como cualquier rama cruzada que pueda estar creando una apariencia congestionada. A mediados de verano (de julio a agosto), realice una poda más intensa para ayudar a mantener el tamaño y la forma deseados. Al recortar, asegúrese de hacer cortes en un ángulo leve y en un nodo lateral (donde la rama se conecta a otra rama o al tronco principal)."
+      }
+    ]
+  },
+  {
+    "id": "457",
+    "scientific_name": [
+      "Acer palmatum 'Germaine's Gyration'"
+    ],
+    "common_name": "Arce japonés",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El arce japonés (Acer palmatum 'Germaine's Gyration') es una especie de planta asombrosa. Sus grandes hojas profundamente cortadas son de un verde llamativo que forma una hermosa y plena figura. En primavera, las hojas se tornan de un naranja claro antes de pasar lentamente a un color naranja-rojizo intenso en otoño, proporcionando un increíble interés estacional. El árbol crece típicamente hasta unos 20 pies de altura y 15 pies de ancho, agregando interés hortícola a cualquier jardín con su forma única y colores brillantes. Con su bajo mantenimiento, poca necesidad de agua y resistencia, este arce japonés es la adición perfecta a cualquier paisaje.",
+    "family": "Sapindaceae",
+    "flower_color": "Púrpura rojizo",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Acodo",
+      "Esqueje",
+      "Acodo aéreo",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5926",
+        "type": "watering",
+        "description": "Los arces japoneses deben ser regados a fondo una vez a la semana en primavera, verano y otoño. Deben ser regados antes si el suelo está seco al tacto. Durante temperaturas especialmente cálidas, las plantas pueden requerir riego adicional semanal. Asegúrese de verificar la humedad del suelo antes de regar. En los meses de invierno, el suelo debe permanecer muy seco, por lo que solo se debe regar lo suficiente para mantener el suelo ligeramente húmedo."
+      },
+      {
+        "id": "5927",
+        "type": "sunlight",
+        "description": "El arce japonés (Acer palmatum 'Germaine's Gyration') crece mejor en ubicaciones que reciben al menos de 4 a 6 horas de luz solar directa al día. Plantar arces japoneses en una zona totalmente sombreada puede dañar el árbol, ya que necesitan absorber luz solar para que la fotosíntesis sea fuerte y saludable. Idealmente, los arces japoneses deben recibir luz solar por la mañana y algo de sombra por la tarde, ya que la luz solar puede quemar las hojas en climas cálidos. La luz solar matutina ayudará a que las hojas se sequen del rocío y fomentará un color de hoja profundo y vibrante."
+      },
+      {
+        "id": "5928",
+        "type": "pruning",
+        "description": "Los arces japoneses deben podarse a fines del invierno o principios de la primavera, antes de que comience el nuevo crecimiento. La poda debe centrarse en eliminar madera muerta o dañada, ramas cruzadas o apiñadas, y cualquier rama vigorosa y vertical que detraiga de la forma del árbol. Generalmente, no se debe remover más del 20-30% del total del dosel en una sola temporada. Asegúrese de dejar suficiente espacio de aire entre las ramas para garantizar una buena circulación del aire."
+      }
+    ]
+  },
+  {
+    "id": "468",
+    "scientific_name": [
+      "Acer saccharum 'Sweet Shadow'"
+    ],
+    "common_name": "arce azucarero",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El arce azucarero (Acer saccharum 'Sweet Shadow') es un árbol extraordinario con muchas características atractivas. Es un árbol de tamaño mediano, increíblemente robusto y con un hermoso follaje verde oscuro durante los meses de verano, que cambia a un vívido amarillo, naranja y rojo en otoño. El arce azucarero produce una abundancia de savia, lo que lo convierte en una excelente opción para producir delicioso jarabe de arce. Además, sus majestuosas ramas erguidas proporcionan excelente sombra y es una gran opción para ofrecer alimento y refugio a una variedad de vida silvestre. En definitiva, el arce azucarero es una excelente elección si deseas un árbol con numerosos beneficios estéticos y prácticos.",
+    "family": "Sapindaceae",
+    "flower_color": "Amarillo|Verde/Marrón",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "amarillo",
+      "marrón"
+    ],
+    "growth_rate": "Alta",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "",
+    "origin": [
+      "Canadá",
+      "Estados Unidos"
+    ],
+    "other_name": [
+      "Arce Duro",
+      "Arce de Roca",
+      "Arce Duro",
+      "Arce Ojo de Pájaro",
+      "Arce Rizado",
+      "Arce Dulce",
+      "Arce Azucarero del Norte",
+      "Arce Cabeza"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Injerto",
+      "Esquejes",
+      "Propagación por Acodo",
+      "Propagación por Acodo Aéreo",
+      "Cultivo de Tejidos"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Arena",
+      " Marga",
+      " Enriquecido con Humus"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "1563",
+        "type": "watering",
+        "description": "El riego para un arce azucarero (Acer saccharum 'Sweet Shadow') debe realizarse dos veces por semana durante la temporada de crecimiento. Debes regar el árbol profundamente, permitiendo que el agua penetre hasta las raíces. El volumen de agua dependerá del tamaño de tu árbol y del clima donde esté creciendo, pero 1 a 2 galones por cada tres pies de altura del árbol es una buena regla general. Riega tu arce azucarero temprano en la mañana para reducir la pérdida de agua por evaporación."
+      },
+      {
+        "id": "1565",
+        "type": "sunlight",
+        "description": "Los árboles de arce azucarero requieren pleno sol para su mejor crecimiento y desarrollo. Pueden tolerar algo de sombra, pero producen mejores resultados cuando reciben al menos 6 a 8 horas de luz solar directa por día. Durante la primavera y el verano, cuando los días son más largos, asegúrate de que el árbol esté expuesto al sol durante un mínimo de 6 a 8 horas por día. Durante los meses de invierno, cuando los días son generalmente más cortos, es posible que el árbol no reciba la cantidad mínima requerida de luz solar. Si este es el caso, puede ser necesario proporcionar iluminación suplementaria para ayudar a asegurar un crecimiento y desarrollo óptimos."
+      },
+      {
+        "id": "1567",
+        "type": "pruning",
+        "description": "Los árboles de arce azucarero deben podarse a finales del invierno o principios de la primavera antes de que los brotes comiencen a hincharse. La poda debe hacerse de forma esporádica y solo cuando sea necesario, como cuando el árbol tiene ramas cruzadas o interferentes, o si está creciendo demasiado para su espacio. No elimines más del 15% del total de la copa (follaje) del árbol en un año determinado para evitar estresar demasiado al árbol. Si hay ramas muertas, enfermas o rotas, deben eliminarse por completo."
+      }
+    ]
+  },
+  {
+    "id": "459",
+    "scientific_name": [
+      "Acer palmatum var. dissectum 'Inaba-shidare'"
+    ],
+    "common_name": "Arce japonés",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El arce japonés (Acer palmatum var. dissectum 'Inaba-shidare') es una especie de planta impresionante debido a su follaje cautivador, que presenta hojas de un verde oscuro, profundamente divididas que se tornan de un vibrante amarillo, luego naranja y finalmente un rojo espectacular en otoño. Sus ramas también tienen un atractivo hábito de lloro, creando una vista elegante y hermosa cuando son iluminadas por el sol. Puede tolerar el viento y algunas temperaturas frías y puede cultivarse fácilmente en una variedad de suelos, requiriendo solo un cuidado mínimo. Inaba-shidare será un punto focal impresionante en cualquier espacio y es una excelente opción para cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Rojo",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "púrpura",
+      "naranja"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "Esqueje",
+      "Propagación por acodo aéreo",
+      "División",
+      "Esqueje de raíz"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Febrero",
+      "Marzo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1564",
+        "type": "watering",
+        "description": "El arce japonés debe ser regado a fondo y profundamente de manera regular para un crecimiento óptimo. Dependiendo de las condiciones del suelo, la cantidad de sol/sombra y el tamaño de las plantas, deben regarse una vez cada 5 a 10 días en verano. Durante las partes más calurosas del día, puede ser beneficioso rociar o asperjar las plantas para proporcionar agua adicional, especialmente durante largos períodos de sequía. En invierno, la planta solo debe ser regada cuando el suelo esté completamente seco."
+      },
+      {
+        "id": "1566",
+        "type": "sunlight",
+        "description": "Los árboles de arce japonés deben recibir aproximadamente de 4 a 6 horas de luz solar directa al día. Esta está disponible, principalmente, durante las horas tempranas de la mañana y tarde. Durante el período más caluroso y soleado del día, entre las 10 am y las 2 pm, el arce japonés debe protegerse del sol intenso para evitar el quemado y secado de las hojas. Durante los meses de invierno, es mejor proporcionar al arce japonés solo unas pocas horas de luz en forma de sol matutino, ya que el sol es menos intenso durante este período."
+      },
+      {
+        "id": "1568",
+        "type": "pruning",
+        "description": "La poda de los arces japoneses es importante para mantener un árbol sano y fomentar un nuevo crecimiento. La poda debe hacerse a finales de invierno o principios de primavera (febrero o marzo) antes de que el árbol comience a brotar. Es mejor eliminar no más de 1/3 de las ramas totales en un año y no más de 1/2 de las ramas más pequeñas. Los cortes de poda deben mantenerse al mínimo y hacerse justo por encima de un brote para preservar la forma estéticamente agradable del árbol. Evitar eliminar ramas grandes cerca del tronco, lo cual puede arruinar la forma y el contorno del árbol. Los arces japoneses deben podarse ligeramente cada año, en lugar de una poda intensa anual."
+      }
+    ]
+  },
+  {
+    "id": "471",
+    "scientific_name": [
+      "Achillea 'Anblo' ANTHEA"
+    ],
+    "common_name": "milenrama",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Achillea 'Anblo' ANTHEA, o milenrama, es una planta increíblemente versátil y fácil de cultivar. Su follaje verde plateado y sus flores blancas brillantes la convierten en una gran adición a cualquier jardín. También es una excelente planta compañera, ya que ayuda a otras plantas a repeler plagas del jardín. Además, la milenrama se puede utilizar en medicina natural. Sus hojas y flores pueden ayudar a tratar dolencias en animales y humanos, como resfriados, fiebre y diarrea. Sus flores también son una excelente fuente de alimento para polinizadores como abejas, mariposas y otros insectos beneficiosos. La milenrama es una planta increíblemente resistente que traerá belleza y vida a cualquier jardín.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo claro",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Alemania"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Acodo",
+      "Propagación por semilla",
+      "Injerto"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "1712",
+        "type": "watering",
+        "description": "La milenrama (Achillea 'Anblo' ANTHEA) debe regarse una vez por semana, proporcionando suficiente agua para humedecer el suelo pero evitando el exceso de agua. Es mejor regar por la mañana para permitir que la planta se seque durante el día y evitar problemas fúngicos. Si la planta está en una maceta, es posible que necesite riegos más frecuentes y verificar los niveles de humedad del suelo regularmente para asegurarse de que no se seque. Además, es importante regar en la base de la planta para evitar mojar las hojas y permitir que el agua penetre en el suelo."
+      },
+      {
+        "id": "1715",
+        "type": "sunlight",
+        "description": "La milenrama (Achillea 'Anblo' ANTHEA) requiere de 6 a 8 horas de luz solar directa al día. Puede tolerar sombra parcial, pero su crecimiento y floración serán mejores si recibe 8 horas de luz directa. Planta la milenrama en un lugar que reciba sol directo todo el día o parte del día y algo de sombra filtrada por la tarde."
+      },
+      {
+        "id": "1718",
+        "type": "pruning",
+        "description": "La milenrama (Achillea 'Anblo' ANTHEA) debe podarse a principios de primavera, antes de que aparezca el nuevo crecimiento. La poda se puede realizar para eliminar cualquier tallo muerto, débil o improductivo. Los tallos se pueden cortar hasta el suelo o al largo deseado. Para promover una abundante floración, remove aproximadamente 1/3 de los tallos hasta la base de la planta. Al podar, asegúrate de cortar los tallos en ángulo en un punto por encima de una yema orientada hacia afuera. La milenrama es una planta resistente, por lo que incluso si se cortan tallos incorrectos o se poda demasiado, debería recuperarse rápidamente y florecer en verano. Si la poda se realiza correctamente y en los momentos adecuados, estas flores deberían estar en plena floración hasta finales de verano y durante el otoño."
+      }
+    ]
+  },
+  {
+    "id": "470",
+    "scientific_name": [
+      "Acer truncatum"
+    ],
+    "common_name": "arce de Shantung",
+    "attracts": [],
+    "care_level": "",
+    "description": "El arce de Shantung, o Acer truncatum, es un árbol de crecimiento rápido originario de partes de China y Corea. Su follaje de un brillante rojo anaranjado lo hace destacar, especialmente en otoño cuando sus hojas se tornan de vibrantes tonos de rojo y naranja. Es un árbol altamente adaptable que puede tolerar el calor, frío severo y sequía. También puede soportar cantidades moderadas de sal y contaminación del aire. Con su crecimiento denso y erguido y tamaño pequeño, es una excelente opción como árbol de sombra o para pantalla de privacidad. El arce de Shantung es un árbol de bajo mantenimiento que seguramente añadirá un toque impresionante a cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Amarillo verdoso",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Norte de China",
+      "Manchuria",
+      "Corea"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Injerto",
+      "Esquejes",
+      "Acodo simple",
+      "Acodo aéreo",
+      "Cultivo de tejidos"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Febrero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5956",
+        "type": "watering",
+        "description": "El arce de Shantung necesita ser regado de manera constante y profunda, de modo que el suelo se mantenga uniformemente húmedo. Sin embargo, es importante evitar el exceso de agua, ya que esto puede causar pudrición de las raíces. Riega tu arce de Shantung cuando la capa superior (una o dos pulgadas) del suelo esté seca, y proporciona suficiente agua para que salga por el fondo de la maceta. Intenta regar el arce dos veces por semana en primavera y verano, y una vez por semana en otoño e invierno. Durante períodos de calor extremo o sequía, puede ser necesario regar con más frecuencia."
+      },
+      {
+        "id": "5957",
+        "type": "sunlight",
+        "description": "El arce de Shantung (Acer truncatum) prospera a pleno sol o sombra parcial. Generalmente, se desarrolla mejor con 3 a 6 horas de luz solar directa al día, dependiendo de la estación, con algo de luz indirecta adicional el resto del día. Durante la primavera y el verano, la luz solar directa debe ser abundante y constante, con niveles de luz ligeramente reducidos durante el otoño tardío e invierno."
+      },
+      {
+        "id": "5958",
+        "type": "pruning",
+        "description": "El arce de Shantung (Acer truncatum) debe podarse durante la temporada de invierno, cuando la planta está inactiva, usando tijeras de poda afiladas. La poda es esencial para ayudar al árbol a mantener su forma y salud general a lo largo del año. Generalmente, esta especie de arce debe podarse ligeramente cada año. Esto ayudará a evitar que el árbol crezca demasiado y que el dosel se vuelva demasiado denso. Las ramas viejas, débiles, cruzadas o muertas deben ser removidas para controlar el tamaño y mantener una forma saludable. Las ramas que son demasiado altas también deben recortarse a la altura deseada. Para promover un nuevo crecimiento y ramas más densas, se recomienda recortar ligeramente los extremos de las ramas cada año."
+      }
+    ]
+  },
+  {
+    "id": "476",
+    "scientific_name": [
+      "Achillea filipendulina 'Gold Coin Dwarf'"
+    ],
+    "common_name": "milenrama de hojas de helecho",
+    "attracts": [],
+    "care_level": "Fácil",
+    "description": "La milenrama de hojas de helecho (Achillea filipendulina 'Gold Coin Dwarf') es una perenne resistente sorprendente con un follaje en forma de abanico. Flores de un brillante color amarillo dorado adornan los tallos erguidos desde la primavera hasta principios de verano, brindando un color vibrante al jardín. Esta variedad amante del sol y tolerante a la sequía requiere muy poco mantenimiento y prosperará en suelos de calidad media a pobre. Su follaje perenne no necesita ser reemplazado cada año, lo que significa que puedes disfrutar de su belleza única durante años. Es una opción perfecta para añadir textura e interés a jardines y macetas de bajo mantenimiento. Las características únicas de la milenrama de hojas de helecho la convierten en una planta verdaderamente asombrosa.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "oro",
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa Central y Oriental",
+      "Asia Occidental",
+      "Norte de África",
+      "América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Acodo",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5968",
+        "type": "watering",
+        "description": "Riega la milenrama de hojas de helecho profundamente dos veces a la semana. Permite que el suelo se seque ligeramente entre riegos para evitar la pudrición de las raíces. Durante los períodos de crecimiento activo, riega con más frecuencia si el suelo comienza a secarse. Durante los meses de invierno, reduce la frecuencia a no más de una vez cada 2 semanas. Asegúrate de observar la planta con frecuencia: si comienza a aparecer marchita, puede necesitar más agua."
+      },
+      {
+        "id": "5969",
+        "type": "sunlight",
+        "description": "La milenrama de hojas de helecho (Achillea filipendulina 'Gold Coin Dwarf') requiere luz solar directa durante 6-7 horas al día para prosperar. Cuando se cultiva a pleno sol, la planta forma montículos completos de follaje oro-verde salpicados de flores fragantes amarillas con puntos blancos, similares a margaritas. Cuando se cultivan en sol parcial, las plantas pueden volverse delgadas y dispersas."
+      },
+      {
+        "id": "5970",
+        "type": "pruning",
+        "description": "La milenrama de hojas de helecho (Achillea filipendulina 'Gold Coin Dwarf') debe podarse una vez al año a finales de primavera o principios de verano cuando el follaje comienza a verse desordenado. El mejor momento para podar es justo después de que la planta florezca. Durante este tiempo, adelgaza ligeramente la planta recortando los tallos demasiado largos a 10-20 cm de la planta principal. Es mejor usar tijeras o podadoras afiladas y recortar la planta, asegurándose de cortar por encima de los nudos del follaje para el nuevo crecimiento. Hacer esta poda anual ayudará con su crecimiento general y te recompensará con un hermoso arbusto floreciente más propenso a alcanzar su máximo potencial."
+      }
+    ]
+  },
+  {
+    "id": "462",
+    "scientific_name": [
+      "Acer rubrum 'Franksred' RED SUNSET"
+    ],
+    "common_name": "arce rojo",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El Arce Rojo (Acer rubrum 'Franksred' RED SUNSET) es una especie increíble de árbol. Es un árbol de hoja caduca de rápido crecimiento, conocido por su distintiva hoja roja en otoño y sus puntas de ramitas rojas en invierno. Sus ramas horizontales extendidas crean una forma suave y redondeada, que lo convierte en un árbol ejemplar ideal en jardines y paisajes. También es tolerante a la sequía y popular por sus llamativos brotes y flores rojas en primavera. En otoño, sus hojas de tres lóbulos, de un verde brillante, se tornan de un rojo vibrante, iluminando cualquier paisaje con belleza. Una vez establecido, es muy tolerante a la mayoría de las condiciones, por lo que es una elección ideal para jardineros que necesitan belleza y floración durante todo el año.",
+    "family": "Sapindaceae",
+    "flower_color": "Rojo (flor masculina amarillenta)",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "amarillo",
+      "naranja"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por injerto",
+      "Esquejes",
+      "Propagación por acodo",
+      "Propagación por acodo aéreo",
+      "Cultivo de tejidos",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "febrero",
+      "marzo",
+      "abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5938",
+        "type": "watering",
+        "description": "Las plantas de Arce Rojo deben regarse según sea necesario para mantener el suelo ligeramente húmedo, pero no empapado. Riega tu Arce Rojo una vez a la semana, asegurándote de que el suelo esté húmedo hasta una profundidad de 2 a 3 pulgadas. Proporciona una pulgada de agua cada semana hasta que el suelo esté saturado. En verano, durante los períodos de calor y sequía, es posible que necesites regar más a menudo, hasta dos veces por semana. Reduce el riego en invierno para que las raíces no se congelen, pero no dejes que el suelo se seque por completo. Si las temperaturas bajan de cero, deja de regar y espera a que el suelo se descongele antes de volver a regar."
+      },
+      {
+        "id": "5939",
+        "type": "sunlight",
+        "description": "El arce rojo (Acer rubrum 'Franksred' RED SUNSET) necesita pleno sol para un crecimiento óptimo; sin embargo, tolera sombra parcial o sombra ligera por la tarde. Debe recibir al menos de 4 a 6 horas de luz solar directa diaria para un crecimiento y floración óptimos."
+      },
+      {
+        "id": "5940",
+        "type": "pruning",
+        "description": "El Arce Rojo (Acer rubrum 'Franksred' RED SUNSET) debe podarse a principios de primavera, cuando los nuevos brotes acaban de aparecer. La cantidad total de poda debe ser mínima para mantener la forma natural del árbol. Se deben eliminar ramas muertas o enfermas, ramas cruzadas o que se rozan entre sí para mejorar la forma del árbol. La poda debe limitarse a no eliminar más del 25% del dosel del árbol. Si es necesaria una poda adicional, debe hacerse a finales de invierno o principios de primavera."
+      }
+    ]
+  },
+  {
+    "id": "477",
+    "scientific_name": [
+      "Achillea filipendulina 'Gold Plate'"
+    ],
+    "common_name": "milenrama de hoja de helecho",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Gold Plate') es una planta sorprendente que es ideal para jardines. Tiene hermosas cabezuelas de flores amarillas aplanadas con un follaje exuberante similar a un helecho. También es bastante de bajo mantenimiento y tolerante a la sequía, requiriendo muy poco cuidado una vez establecida en un jardín. Sus flores aparecen desde finales de primavera hasta verano, proporcionando color y textura durante meses. ¡Es fácil ver por qué esta planta se ha vuelto tan popular en estos días! Es una excelente opción para lugares secos, jardines de rocas o como planta delineadora a lo largo de caminos. Sus brillantes pétalos amarillos seguramente traerán alegría y belleza a cualquier jardín o paisaje.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [
+      "dorado",
+      "amarillo",
+      "marrón"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "dorado",
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Asia Central",
+      " Asia occidental"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      " Resistente a enfermedades",
+      " Resistente a ciervos",
+      " Resistente a conejos",
+      " Resistente a la sequía"
+    ],
+    "propagation": [
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [
+      "Rocoso",
+      " gravoso",
+      " seco"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5971",
+        "type": "watering",
+        "description": "La milenrama de hoja de helecho debe regarse moderadamente. Riegue cuando la capa superior de una o dos pulgadas del suelo esté seca al tacto. Dependiendo de la temperatura y la luz a la que esté expuesta la planta, puede necesitar regarla más o menos frecuentemente. Generalmente, la planta prefiere ser regada dos veces a la semana o cada 3 días. Durante períodos de calor intensa o sol intenso, puede que necesite regarla más a menudo. Sin embargo, tenga cuidado de no excederse en el riego o la planta puede empezar a pudrirse o desarrollar enfermedades fúngicas."
+      },
+      {
+        "id": "5972",
+        "type": "sunlight",
+        "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Gold Plate') es una perenne resistente y amante del sol que requiere pleno sol para un mejor desarrollo. Esta planta debe recibir un mínimo de 4 horas de luz solar directa cada día, aunque prospera con más. Para obtener los mejores resultados, la planta debe plantarse en un lugar que reciba sol por la mañana y sombra por la tarde, asegurando que obtenga un día completo de luz solar con un pequeño descanso en el calor del mediodía."
+      },
+      {
+        "id": "5973",
+        "type": "pruning",
+        "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Gold Plate') debe podarse a finales de invierno o principios de primavera, antes de que comience el nuevo crecimiento. Es mejor eliminar cualquier tallo muerto, dañado o enfermo, así como cualquier tallo demasiado alto o delgado. La poda debe mantenerse al mínimo para preservar la forma y tamaño de la planta. Una vez lograda la forma deseada, se puede realizar una poda ligera durante la temporada de crecimiento para mantener la forma y fomentar un crecimiento más denso."
+      }
+    ]
+  },
+  {
+    "id": "478",
+    "scientific_name": [
+      "Achillea filipendulina 'Parker's Variety'"
+    ],
+    "common_name": "milenrama de hoja de helecho",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Parker's Variety') es una perenne caducifolia increíblemente tolerante a la sequía, que destaca por su follaje de textura fina y parecido al helecho, de color verde brillante, y sus prominentes racimos de flores amarillas brillantes que aparecen durante todo el verano. Esta planta amante del calor y de larga floración forma un grupo erguido coronado con un follaje plumoso y fragante, y añade un toque de color encantador a su jardín o paisaje. Es una planta fácil de cultivar, de bajo mantenimiento, que requiere muy poco cuidado y se ve genial en parterres mixtos, jardines rocosos y contenedores. El llamativo follaje de la milenrama de hoja de helecho proporciona un elegante telón de fondo para cualquier área de jardín, atrae insectos beneficiosos y proporciona alimento nutritivo para aves silvestres. Es una excelente opción para las Zonas Climáticas Sunset 1–24. ¡Experimente la belleza cautivadora que ofrece esta encantadora flor con sus notables hojas plumosas de helecho!",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo dorado",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Alemania",
+      "Austria",
+      "Suiza",
+      "Francia",
+      "Italia",
+      "Eslovenia",
+      "Croacia",
+      "Bosnia y Herzegovina",
+      "Serbia",
+      "Montenegro",
+      "Albania",
+      "Bulgaria",
+      "Rumanía",
+      "Ucrania",
+      "Moldavia",
+      "Bielorrusia",
+      "Polonia",
+      "República Checa",
+      "Eslovaquia",
+      "Hungría"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "febrero",
+      "marzo",
+      "abril",
+      "agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5974",
+        "type": "watering",
+        "description": "Riegue su milenrama de hoja de helecho cada 7–10 días dependiendo del clima. Riegue a fondo, de modo que el agua salga del fondo de la maceta, y deje que la tierra casi se seque entre riegos. Reduzca la frecuencia de riego en invierno. Si cultiva la planta en interiores, generalmente reduzca el riego aún más que para las plantas de exterior. Nunca permita que la planta se quede en el agua, ya que esto puede provocar la pudrición de las raíces."
+      },
+      {
+        "id": "5975",
+        "type": "sunlight",
+        "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Parker's Variety') debe cultivarse a pleno sol al menos 6 horas cada día para florecer. Crece mejor en lugares brillantes y soleados del jardín donde pueda recibir luz solar directa la mayor parte del día. Evite cultivar esta planta en áreas con demasiada sombra, ya que no prosperará y puede volverse larguirucha."
+      },
+      {
+        "id": "5976",
+        "type": "pruning",
+        "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Parker's Variety') debe podarse 2 veces al año para mantener su crecimiento vigoroso. Es mejor podar la planta ligeramente a finales del invierno o principios de la primavera, una vez que haya pasado el riesgo de heladas, ya que esto le proporcionará una oportunidad para iniciar un nuevo crecimiento. Luego, pode de nuevo a mediados o finales del verano para fomentar el crecimiento continuado a lo largo de la temporada. La poda debe ser mínima, eliminando sólo el follaje muerto o en proceso de morir, así como cualquier rama o tronco extra."
+      }
+    ]
+  },
+  {
+    "id": "485",
+    "scientific_name": [
+      "Achillea millefolium 'Peachy Seduction'"
+    ],
+    "common_name": "milenrama",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La milenrama (Achillea millefolium 'Peachy Seduction') es una planta increíble debido a su belleza impactante y muchos usos prácticos. Las flores altas forman un hermoso paraguas de pétalos de tonos rosa y melocotón con un aroma fuerte y dulce. También es una flor increíblemente resistente y de bajo mantenimiento, prosperando en la mayoría de los suelos, creciendo rápidamente y durando meses en los jardines de verano. Además, las hojas se pueden secar y preparar un té con propiedades medicinales, como mejorar la circulación sanguínea y ayudar a la salud digestiva. Esta flor versátil es una excelente adición a cualquier jardín.",
+    "family": "Asteraceae",
+    "flower_color": "Blanco",
+    "flowering_season": "Verano",
+    "fruit_color": [
+      "rosado",
+      "melocotón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "melocotón"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Europa",
+      "Asia occidental",
+      "Norteamérica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Moho",
+      " Óxido",
+      " Resistente a plagas",
+      " Resistente a ciervos",
+      " Resistente a conejos",
+      " Resistente a la sequía"
+    ],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [
+      "Arenoso Limoso Arcilloso"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "5995",
+        "type": "watering",
+        "description": "La milenrama (Achillea millefolium 'Peachy Seduction') debe regarse regularmente, para ayudar a mantener el suelo uniformemente húmedo. Debe recibir aproximadamente de 1 a 1-1/2 pulgadas de agua por semana, ya sea de lluvia o riego manual. Lo mejor es regar las plantas temprano en la mañana para que el follaje tenga la oportunidad de secarse antes del anochecer. Evite el riego por encima, ya que esto puede conducir a enfermedades fúngicas y manchas en las hojas. En áreas con altas temperaturas y aire seco, puede ser necesario el riego complementario para mantener el suelo uniformemente húmedo. Además, en áreas con alta precipitación, es importante asegurarse de que el suelo no se sature demasiado."
+      },
+      {
+        "id": "5996",
+        "type": "sunlight",
+        "description": "Las plantas de milenrama (Achillea millefolium 'Peachy Seduction') prefieren pleno sol a sombra parcial pero pueden tolerar algo de sombra ligera. Se recomienda colocar estas plantas en un área con luz solar directa durante al menos 6 horas cada día para un crecimiento y floración óptimos. Para una floración óptima, la milenrama debe recibir luz solar directa la mayor parte del día. Para asegurar suficiente luz para estas plantas, plantarlas contra una pared de color claro, en un parterre orientado al sur o en el lado sur de una estructura o edificio del jardín son todas buenas opciones. En regiones con veranos calurosos, se beneficiará de sombra por la tarde."
+      },
+      {
+        "id": "5997",
+        "type": "pruning",
+        "description": "La milenrama (Achillea millefolium 'Peachy Seduction') debe podarse a fines de primavera después de que florezca. Podar a fines de primavera fomentará una floración adicional a lo largo del verano y ayudará a mantener la planta saludable y fuerte. La poda fomenta un crecimiento más tupido y denso. Para mantener una forma ordenada y prolija, la milenrama debe podarse justo por encima del follaje. Solo se deben eliminar las ramas muertas y dañadas, no más de un tercio de la planta total en cualquier poda. Si la planta se ha vuelto demasiado grande, también se puede podar al tamaño deseado. En general, la milenrama no requiere mucha poda, pero es importante mantenerla ordenada y recortada para promover un crecimiento saludable."
+      }
+    ]
+  },
+  {
+    "id": "475",
+    "scientific_name": [
+      "Achillea filipendulina 'Altgold'"
+    ],
+    "common_name": "milenrama de hoja de helecho",
+    "attracts": [
+      "mariposas",
+      "abejas"
+    ],
+    "care_level": "Medio",
+    "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Altgold') es una especie fantástica para añadir a cualquier jardín. Tiene una forma única, con un hermoso follaje como encaje de helecho y suaves flores amarillas en forma de copa. El follaje requiere poco mantenimiento y es tolerante a la sequía, mientras que las flores proporcionan un toque brillante de color en el jardín. Su larga temporada de floración las hace excelentes para jardines de bajo mantenimiento y también atraen muchas mariposas y abejas. Además, son resistentes a ciervos y conejos, por lo que son una excelente opción para proteger el jardín. La milenrama de hoja de helecho es verdaderamente un espectáculo sorprendente y una gran adición a cualquier espacio al aire libre.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Alemania",
+      "Austria",
+      "Suiza",
+      "Francia",
+      "Italia",
+      "Eslovenia",
+      "Croacia",
+      "Bosnia y Herzegovina",
+      "Serbia",
+      "Montenegro",
+      "Albania",
+      "Bulgaria",
+      "Rumania",
+      "Ucrania",
+      "Moldavia",
+      "Hungría",
+      "Polonia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "5965",
+        "type": "watering",
+        "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Altgold') debe regarse a fondo cuando las primeras 1-2 pulgadas de tierra se hayan secado. Debe inspeccionarse regularmente, aproximadamente una vez por semana, para detectar signos de exceso de agua o falta de agua. Durante el verano, puede requerir riego cada 3-4 días, mientras que en los meses más fríos, puede necesitar riego solo una vez por semana. Es importante asegurarse de que la tierra no se seque completamente entre riegos."
+      },
+      {
+        "id": "5966",
+        "type": "sunlight",
+        "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Altgold') es una planta perenne de bajo mantenimiento que prefiere el pleno sol o sombra ligera. Esta planta se adapta mejor a 6 a 8 horas de luz solar directa cada día. Durante el verano, la planta debe recibir hasta 8 horas de luz solar directa para promover el crecimiento y la floración. Durante el invierno, debe recibir un promedio de 4 a 6 horas de luz solar directa."
+      },
+      {
+        "id": "5967",
+        "type": "pruning",
+        "description": "La milenrama de hoja de helecho (Achillea filipendulina 'Altgold') debe podarse una vez al año, típicamente a finales de la primavera cuando emerge el nuevo crecimiento. La poda debe hacerse cortando la planta a unos 20 cm (8 pulgadas) sobre la superficie del suelo. Esto eliminará cualquier tallo muerto o dañado y promoverá un crecimiento más vigoroso y arbustivo. También es posible cortar ligeramente los 15-20 cm (6 a 8 pulgadas) superiores de la planta a mediados del verano para promover una forma más atractiva y llena. No es necesario podar estas plantas cada temporada ya que pueden crecer bien con una poda mínima."
+      }
+    ]
+  },
+  {
+    "id": "495",
+    "scientific_name": [
+      "Achillea sibirica subsp. camschatica 'Love Parade'"
+    ],
+    "common_name": "milenrama",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "La milenrama 'Love Parade' (Achillea sibirica subsp. camschatica 'Love Parade') es una especie de planta increíble. Es un híbrido único, que ofrece una paleta de colores dramática con matices exóticos de rosas, púrpuras y blancos. Esta variedad produce abundantes racimos de flores que son un verdadero deleite. Sus flores duraderas seguramente añadirán un toque vibrante de colores a tu jardín. Además, esta variedad es extremadamente resistente y soporta bien el frío, lo que la hace adecuada para una variedad de climas y áreas. Esta perenne tolerante a la sequía, al calor y a la humedad puede incluso sobrevivir en suelos secos, convirtiéndola en una excelente elección para jardines con menos suministro de agua. ¡'Love Parade' es verdaderamente una especie de planta asombrosa que sin duda va a realzar tu espacio exterior!",
+    "family": "Asteraceae",
+    "flower_color": "Rosa suave con estambres amarillos",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lenta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "gris",
+      "gris"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Rusia",
+      "Mongolia",
+      "China",
+      "Kazajistán"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "junio",
+      "julio",
+      "agosto",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6019",
+        "type": "watering",
+        "description": "La milenrama (Achillea sibirica subsp. camschatica 'Love Parade') debe regarse de 1 a 2 veces por semana. Se debe permitir que el suelo se seque ligeramente entre riegos, lo que significa que no se debe aplicar agua hasta que la superficie del suelo esté seca al tacto. Si está plantada al aire libre en verano, probablemente necesitará más agua para mantenerse sana, especialmente durante las partes más calurosas del día. Si se planta en un contenedor, se debe revisar diariamente para asegurarse de que el suelo no se seque demasiado."
+      },
+      {
+        "id": "6020",
+        "type": "sunlight",
+        "description": "La milenrama (Achillea sibirica subsp. camschatica 'Love Parade') necesita pleno sol, o un mínimo de 6 horas diarias de sol directo para prosperar y florecer bien. Durante los meses más calurosos, debe plantarse en un lugar con algo de sombra por la tarde, para no recibir demasiada luz solar directa. El sol de la mañana temprano o de la tarde es suficiente para que prospere en verano siempre que reciba al menos 6 horas de luz solar al día."
+      },
+      {
+        "id": "6021",
+        "type": "pruning",
+        "description": "La milenrama (Achillea sibirica subsp. camschatica 'Love Parade') debe podarse a principios de la primavera, antes de que el follaje comience a rebrotar. Cortar la planta a 2-4 pulgadas del suelo fomentará un crecimiento más ramoso y lleno. La parte superior de la planta también se puede adelgazar para evitar un crecimiento desgarbado. Cualquier tallo muerto o enfermo debe eliminarse tan pronto como se note. Durante los cálidos meses de verano, puede ser necesario podar las flores muertas para fomentar una segunda floración. Nuevamente, cortar los tallos a 2-4 pulgadas es generalmente lo mejor para promover un nuevo crecimiento."
+      }
+    ]
+  },
+  {
+    "id": "498",
+    "scientific_name": [
+      "Achillea 'Summerwine'"
+    ],
+    "common_name": "milenrama",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La milenrama Achillea 'Summerwine' es una especie de flor increíblemente fácil de mantener. Es una perenne de hoja perenne con una larga temporada de floración, con densos grupos de pequeñas flores blancas con centros amarillos que son de color verde plateado por debajo. Esta especie de milenrama es ideal para bordes, jardines de flores silvestres, jardines de rocas y para delimitar senderos. Su fragancia puede disfrutarse desde la distancia, y algunas especies incluso se han utilizado en remedios herbales tradicionales. Con muy poco cuidado, esta especie de milenrama es ideal para añadir belleza e interés a cualquier jardín.",
+    "family": "Asteráceas",
+    "flower_color": "Rojo burdeos",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "púrpura",
+      "burdeos"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Alemania",
+      "Reino Unido",
+      "Países Bajos",
+      "Estados Unidos",
+      "Francia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por acodo",
+      "Propagación por semillas",
+      "Propagación por injertos"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "6028",
+        "type": "watering",
+        "description": "La milenrama (Achillea 'Summerwine') debe regarse profundamente cuando las 2 pulgadas superiores del suelo estén secas. El agua debe dirigirse al suelo y no al follaje, y debe realizarse por la mañana para que las hojas tengan tiempo de secarse al final del día. El riego debe realizarse una vez cada 7 a 10 días. Durante los meses de verano, el suelo debe secarse más a fondo entre riegos, los cuales deben realizarse cada 10 a 14 días. En invierno, reduzca el riego a una vez cada 3 a 4 semanas. Sin embargo, observe la planta de cerca y riegue si el suelo está seco al tacto."
+      },
+      {
+        "id": "6029",
+        "type": "sunlight",
+        "description": "La milenrama Achillea 'Summerwine' debe recibir pleno sol para un crecimiento y floración óptimos. Prefiere al menos 6 horas de luz solar directa cada día, siendo óptimas 8 horas de luz solar diaria. La milenrama debe protegerse del calor intenso del mediodía y situarse en un área que reciba algo de sombra por la tarde."
+      },
+      {
+        "id": "6030",
+        "type": "pruning",
+        "description": "La milenrama (Achillea 'Summerwine') debe podarse a finales del invierno o principios de la primavera. La poda de este tipo de milenrama debe realizarse ligeramente. Reduzca la planta a una altura de 6 a 8 pulgadas. Elimine cualquier tallo muerto o dañado. Quitar las cabezas de las flores fomentará un nuevo crecimiento y floración a finales del verano o principios del otoño. Este tipo de milenrama producirá muchas cabezas de flores secundarias si se eliminan las cabezas de las flores viejas durante la poda."
+      }
+    ]
+  },
+  {
+    "id": "496",
+    "scientific_name": [
+      "Achillea 'Snow Sport'"
+    ],
+    "common_name": "milenrama",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La milenrama Achillea 'Snow Sport' es una increíble especie de planta. Presenta un hermoso follaje gris plateado que es perfecto para agregar textura a su jardín. Produce delicados racimos de flores blancas, convirtiéndola en un relleno excelente para cualquier espacio al aire libre. Esta perenne resistente tolera una variedad de condiciones, incluida la sequía, y requiere poco mantenimiento, por lo que se puede plantar casi en cualquier lugar. Atrae mariposas al jardín, y una vez establecida, se extiende, ayudando a rellenar cualquier espacio vacío. Es perfecta para lograr un estilo de jardín de campo que será llamativo durante toda la temporada.",
+    "family": "Asteraceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "plateado",
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Alemania"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje de raíz",
+      "Propagación por tallo",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "junio",
+      "julio",
+      "agosto",
+      "septiembre",
+      "octubre",
+      "noviembre",
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto",
+      "septiembre"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6022",
+        "type": "watering",
+        "description": "La milenrama (Achillea 'Snow Sport') es una perenne de bajo mantenimiento que prefiere estar más seca. Riegue una vez por semana durante los meses de verano si no hay lluvias; mantenga el suelo uniformemente húmedo, pero no mojado o encharcado. Durante los meses más fríos, riegue una vez cada 1 a 2 semanas."
+      },
+      {
+        "id": "6023",
+        "type": "sunlight",
+        "description": "La milenrama (Achillea 'Snow Sport') debe cultivarse a pleno sol o en sombra parcial. Cuando crece a pleno sol, la planta debe recibir de 6 a 8 horas de luz solar directa al día. Si se cultiva en sombra parcial, es mejor proporcionarle de 4 a 6 horas de luz solar directa y unas 4 a 6 horas de sombra parcial. Para maximizar la floración y el rendimiento, es mejor proporcionar a la planta condiciones de medio sol y media sombra. Las milenramas prefieren un clima fresco y pueden tolerar temperaturas más bajas en los meses de invierno, pero no deben plantarse en áreas donde haya calor extremo constante."
+      },
+      {
+        "id": "6024",
+        "type": "pruning",
+        "description": "La milenrama (Achillea 'Snow Sport') debe podarse después de que haya terminado de florecer en verano, o incluso en otoño para las plantas que vuelven a florecer. Pode las plantas a aproximadamente 2/3 de su altura original, cortando los tallos hasta los brotes laterales o justo por encima del crecimiento foliar existente. Podar los tallos fomentará que la planta produzca un crecimiento más arbustivo y más tallos florales. Se sugiere una poda regular durante la temporada de crecimiento para asegurar un follaje joven y fresco que apoye las flores y para mantener las plantas con un aspecto ordenado y compacto."
+      }
+    ]
+  },
+  {
+    "id": "506",
+    "scientific_name": [
+      "Aconitum carmichaelii 'Arendsii'"
+    ],
+    "common_name": "acónito azul",
+    "attracts": [
+      "mariposas",
+      "otros polinizadores"
+    ],
+    "care_level": "Medio",
+    "description": "El acónito azul (Aconitum carmichaelii 'Arendsii') es una especie de flor hermosa y única. Sus flores de un azul eléctrico, que muestran su color vibrante y forma singular, aparecen brevemente cada verano y con frecuencia duran mucho más. Es fácil de mantener, y su naturaleza de bajo mantenimiento lo convierte en una excelente adición al jardín de cualquiera. La bola central de color amarillo brillante añade un toque de sol a cualquier entorno, creando un gran contraste contra sus capullos de color púrpura profundo. Esta especie también es bien conocida por su capacidad para atraer mariposas y otros polinizadores durante su temporada de floración. El acónito azul es verdaderamente una flor notable e impresionante.",
+    "family": "Ranunculaceae",
+    "flower_color": "azul celeste",
+    "flowering_season": "Verano tardío",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": ".",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Corte de raíz",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [
+      "bien drenado",
+      "rico en humus",
+      "suelto"
+    ],
+    "watering_period": "Cada 1 a 2 semanas",
+    "care_guides_details": [
+      {
+        "id": "6043",
+        "type": "watering",
+        "description": "El acónito azul (Aconitum carmichaelii 'Arendsii') es una planta perenne resistente que florece a finales del verano. La planta debe regarse a fondo al momento de plantarla por primera vez, y luego cada 1 a 2 semanas, dependiendo del clima y las condiciones del suelo. Durante períodos prolongados de sequía, riegue dos veces por semana, permitiendo que el suelo se seque entre riegos. Si se permite que el suelo se seque demasiado, sus flores pueden no abrirse y sus hojas pueden amarillear o marchitarse. Es importante no excederse al regar, ya que esto puede causar la pudrición de las raíces."
+      },
+      {
+        "id": "6044",
+        "type": "sunlight",
+        "description": "El acónito azul (Aconitum carmichaelii 'Arendsii') es una especie de planta que prospera a pleno sol y se desarrolla mejor cuando recibe al menos 6 horas de sol diariamente. Puede tolerar algo de sombra parcial, pero la cantidad de luz solar que recibe impactará su crecimiento y capacidad de floración. Cuando se cultiva a pleno sol, esta planta típicamente florece a finales del verano con pétalos grandes y de un profundo color azul lavanda."
+      },
+      {
+        "id": "6045",
+        "type": "pruning",
+        "description": "El acónito azul (Aconitum carmichaelii 'Arendsii') debe podarse a finales de la primavera, después de su periodo de floración. Esta especie florece en verano, por lo que es mejor podarla justo después de que haya terminado de florecer. Pode la parte superior de la planta para mantener su tamaño, recortando solo las partes superiores y las ramas cruzadas o demasiado densas. Esto ayudará a producir tallos más fuertes y erguidos, para que la planta pueda apreciarse mejor en el jardín. También elimine cualquier tallo muerto o dañado y aclare moderadamente la planta, para que el aire, la luz solar y el agua puedan alcanzar mejor la parte interna de la planta. Evite una poda intensa, lo cual podría dañar la salud de su acónito azul."
+      }
+    ]
+  },
+  {
+    "id": "507",
+    "scientific_name": [
+      "Aconitum carmichaelii var. angustius"
+    ],
+    "common_name": "Aconito Azul",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Aconito Azul (Aconitum carmichaelii var. angustius) es una especie floreciente atractiva y cautivadora que añade un toque llamativo de color a cualquier jardín. Esta perenne presenta grandes flores de color azul eléctrico con forma de capucha que se elevan altas en tallos fuertes y robustos. El Aconito Azul es una planta fácil de cuidar que prospera en jardines sombreados y produce delicadas flores desde mediados hasta finales del verano. Su color único y belleza exótica añaden un encanto especial que seguramente será admirado. No solo es hermoso, sino que también es sorprendentemente fácil de cultivar.",
+    "family": "Ranunculaceae",
+    "flower_color": "Púrpura intenso (interior) y azul pálido (exterior)",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "/",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "China",
+      "Vietnam"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes de raíz",
+      "Propagación por semillas",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Marzo",
+      "Mayo",
+      "Agosto",
+      "Agosto",
+      "Septiembre",
+      "Septiembre",
+      "Octubre",
+      "Noviembre",
+      "Octubre",
+      "Noviembre"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "6046",
+        "type": "watering",
+        "description": "El Aconito Azul debe regarse de manera consistente durante la temporada de crecimiento. Durante la primavera y el verano, riega la planta con regularidad, cuidando que el nivel de humedad se mantenga uniforme. Asegúrate de no excederte en el riego; es mejor seco que empapado. En invierno, espera hasta que la superficie del suelo esté seca antes de regar. En promedio, el Aconito Azul necesitará aproximadamente de 1 a 2 pulgadas de agua por semana. Sin embargo, esta cantidad puede necesitar ajustes según tu entorno local, calidad del suelo y época del año."
+      },
+      {
+        "id": "6047",
+        "type": "sunlight",
+        "description": "El Aconito Azul, o Aconitum carmichaelii var. angustius, es un tipo de planta floreciente que prospera con pleno sol. Prefiere al menos 6 horas de luz solar directa al día y, generalmente, rinde mejor cuando se expone al sol todo el día. Crecer en sombra parcial es aceptable, siempre que reciba al menos 6 horas de luz solar directa durante el día. Cuando se expone a pleno sol, el Aconito Azul produce más flores y sus colores son más vivos."
+      },
+      {
+        "id": "6048",
+        "type": "pruning",
+        "description": "El Aconito Azul requiere poda 3 o 4 veces al año. La poda debe realizarse en primavera (marzo-mayo) antes de que comience el nuevo crecimiento, a mediados de verano (agosto-septiembre) después del primer florecimiento, y en otoño (octubre-noviembre) una vez que la planta está inactiva.\n\nRespecto a cuánto podar, es mejor centrarse en mantener una forma atractiva. Retira los tallos más viejos, oscuros y gruesos del centro de la planta, dejando los tallos verdes nuevos que deben formar la forma compacta. También deben recortarse los tallos muertos o dañados. La poda debe realizarse con moderación, no tanto como para dejar los tallos desnudos. El objetivo es promover una planta saludable con follaje completo y una forma agradable."
+      }
+    ]
+  },
+  {
+    "id": "510",
+    "scientific_name": [
+      "Aconitum napellus"
+    ],
+    "common_name": "acónito",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El acónito (Aconitum napellus) es una sorprendente especie de planta conocida por sus profundas flores azules y su majestuosa estatura. Es una vista impresionante que seguramente captará la atención en cualquier jardín. Las flores tienen una forma y un patrón inconfundibles que a menudo se comparan con la capucha de un monje. Esta especie tiene una alta tolerancia a la mayoría de suelos y es sorprendentemente resistente incluso en climas fríos. También es una excelente adición a cualquier jardín, proporcionando altura y una presencia única. El acónito es muy fácil de mantener y prosperará con poda regular. Una vez establecida, esta especie florecerá año tras año y traerá alegría a cualquier jardín.",
+    "family": "Ranunculaceae",
+    "flower_color": "Azul púrpura profundo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Europa"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Mildiu",
+      "Resistente a plagas",
+      "Resistente a enfermedades",
+      "Resistente a ciervos",
+      "Resistente a conejos"
+    ],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1713",
+        "type": "watering",
+        "description": "El acónito debe regarse moderadamente durante su temporada de crecimiento. Riega profundamente tus plantas de acónito una vez por semana, permitiendo que el suelo se seque ligeramente entre riegos. Dale al acónito un riego profundo que sature toda la zona de las raíces y que humedezca completamente el suelo hasta una profundidad de varios centímetros. El acónito es una especie bastante tolerante a la sequía; sin embargo, durante las semanas más calurosas del verano, es mejor regar las plantas de acónito con mayor frecuencia para ayudar a resistir el marchitamiento."
+      },
+      {
+        "id": "1716",
+        "type": "sunlight",
+        "description": "El acónito (Aconitum napellus) generalmente se cultiva mejor en sombra parcial, por lo que debe recibir de 2 a 4 horas de luz solar por día. El acónito no debe exponerse a las horas más calurosas y brillantes del día, que suelen ser al mediodía, ya que esto podría dañar las hojas. Para obtener mejores resultados, el acónito debe tener luz solar de la mañana o de la tarde."
+      },
+      {
+        "id": "1719",
+        "type": "pruning",
+        "description": "El acónito (Aconitum napellus) debe podarse para mantener las plantas en una forma y tamaño compactos. La poda debe realizarse en primavera, recortando las plantas justo por encima del suelo una vez que la floración haya terminado. Debe eliminar las ramas dañadas, muertas o cruzadas, teniendo cuidado de dejar suficiente follaje sano para no retirar más de 1/3 de la planta total en ningún momento."
+      }
+    ]
+  },
+  {
+    "id": "521",
+    "scientific_name": [
+      "Actaea 'Chocoholic'"
+    ],
+    "common_name": "cimífuga",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "La cimífuga (Actaea 'Chocoholic') es una especie de planta increíble. Con su impresionante follaje y flores increíbles, es un añadido llamativo para cualquier jardín. Las hojas de un profundo color púrpura con su distintivo patrón de manchas proporcionan un fondo interesante para sus flores blancas cremosas. Esta variedad de cimífuga produce una impresionante muestra de masas de pequeñas flores fragantes durante el verano. Además, su follaje aromático con olor a chocolate oscuro seguramente atraerá comentarios apreciativos de los visitantes del jardín. La cimífuga es una excelente opción para cualquier jardín, ¡haciendo de ella una especie de planta asombrosa!",
+    "family": "Ranunculaceae",
+    "flower_color": "Malva-rosa",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "púrpura",
+      "negro"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Acodo",
+      "Esqueje",
+      "Semilla"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6085",
+        "type": "watering",
+        "description": "La cimífuga es un arbusto resistente y requiere muy poco mantenimiento. Debe regarse una vez por semana durante la temporada de crecimiento cuando no llueva. Durante períodos prolongados de clima caluroso, puede necesitar ser regada dos veces a la semana para evitar que el suelo se seque demasiado. En invierno, riegue solo cuando el suelo se sienta seco al tacto. Demasiada agua puede causar pudrición de raíces, así que asegúrese de que el suelo drene bien y que el exceso de agua se pueda escurrir. El riego excesivo es una de las razones más comunes del mal crecimiento."
+      },
+      {
+        "id": "6086",
+        "type": "sunlight",
+        "description": "La cimífuga (Actaea 'Chocoholic') es una especie de planta que prefiere crecer en condiciones de semi-sombra. En general, debe recibir luz solar filtrada que no dure más de 4-5 horas al día. Hay que evitar la luz solar directa, ya que puede quemar las hojas. El mejor momento del día para que la luz del sol llegue a la planta es durante la mañana temprano o por la tarde, cuando la luz es directa pero no necesariamente fuerte."
+      },
+      {
+        "id": "6087",
+        "type": "pruning",
+        "description": "La cimífuga (Actaea 'Chocoholic') no requiere mucha poda, pero quitar las flores marchitas puede promover nuevas floraciones. La eliminación de flores marchitas se hace cortando las flores después de que se hayan desvanecido para incentivar nuevas floraciones. Generalmente, esto debe hacerse en otoño, después de que la planta haya terminado de florecer durante la temporada. La poda debe realizarse a principios de la primavera antes de que comience a aparecer el nuevo crecimiento. La planta se puede recortar hasta aproximadamente la mitad de su altura original. No es necesario podar la cimífuga ('Chocoholic'), pero se puede hacer para mantener un tamaño o forma deseada."
+      }
+    ]
+  },
+  {
+    "id": "527",
+    "scientific_name": [
+      "Actaea racemosa"
+    ],
+    "common_name": "cohosh negro",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El cohosh negro (Actaea racemosa) es una especie asombrosa, nativa de América del Norte con muchas cualidades notables. El sistema de raíces profundo y complejo del cohosh negro es muy valorado con fines medicinales, especialmente por su capacidad para ayudar a regular el ciclo menstrual de la mujer. Además, estudios científicos indican que las características antiinflamatorias, antiespasmódicas, analgésicas y antioxidantes del cohosh negro pueden ser útiles para aliviar el dolor muscular y articular. La hierba perenne crece hasta dos pies de altura, produciendo impresionantes flores blancas y a menudo se encuentra creciendo en áreas sombreadas. En general, el cohosh negro es una especie increíble elogiada por sus usos medicinales y apreciada por su belleza.",
+    "family": "Ranunculaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [
+      "azul",
+      "negro"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "América del Norte"
+    ],
+    "other_name": [
+      "Bugbane",
+      "Raíz de víbora negra",
+      "Velas de hadas",
+      "Black Bugbane",
+      "Raíz de víbora negra",
+      "Velas de hadas",
+      "Black Bugbane"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "División",
+      "Esqueje de raíz",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril"
+    ],
+    "soil": [
+      "Franco",
+      " Enriquecido con humus"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "2034",
+        "type": "watering",
+        "description": "El cohosh negro (Actaea racemosa) debe regarse generalmente una vez por semana. El suelo alrededor de la planta debe mantenerse uniformemente húmedo, pero nunca empapado o excesivamente mojado. Para lograr esto, riegue su planta lo suficiente como para humedecer bien el suelo, pero no tanto como para que el agua escurra. Si el suelo está particularmente seco o la planta está en un contenedor, riéguela con más frecuencia. Durante los meses más calurosos, es posible que deba regarla más a menudo (hasta dos veces por semana) para evitar que el suelo se seque."
+      },
+      {
+        "id": "2035",
+        "type": "sunlight",
+        "description": "El cohosh negro (Actaea racemosa) prefiere una cantidad moderada de luz solar (3 a 6 horas de sol directo por día). Si se planta en un área sombreada, la cantidad de luz solar debe reducirse. El mejor momento para obtener la cantidad óptima de sol para esta especie es desde temprano en la mañana hasta avanzada la tarde, cuando el sol está más fuerte. Evite exponer su planta a la luz solar directa durante la parte más calurosa del día (mediodía), ya que esto podría dañar el follaje."
+      },
+      {
+        "id": "2036",
+        "type": "pruning",
+        "description": "La poda del cohosh negro debe realizarse a principios de primavera, una vez que haya pasado el peligro de heladas fuertes. La poda debe realizarse cuando la planta esté creciendo activamente para fomentar el nuevo crecimiento. La cantidad de poda necesaria varía dependiendo del tamaño y forma de la planta. En términos generales, las plantas más viejas y grandes deben podarse más severamente que las plantas jóvenes y más pequeñas. Se deben podar las ramas muertas, así como cualquier rama que esté enferma o dañada. Para maximizar la floración, elimine los tallos que hayan florecido. La poda del cohosh negro ayudará a la planta a mantenerse saludable y fomentará un nuevo y vigoroso crecimiento en la próxima temporada."
+      }
+    ]
+  },
+  {
+    "id": "522",
+    "scientific_name": [
+      "Actaea dahurica"
+    ],
+    "common_name": "cimífuga",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La cimífuga (Actaea dahurica) es una increíble especie de planta. Su follaje verde brillante y flores blancas son una hermosa vista en cualquier jardín, y es una planta perenne robusta, tolerando condiciones secas y algo de sombra. Sus fragantes espigas de flores blancas proporcionan un espectacular florecimiento a finales del verano, mientras que su follaje único puede usarse para crear praderas exuberantes, senderos sinuosos y delicados arriates de flores. ¿Harto de los insectos molestos? La cimífuga también los ahuyenta gracias a su olor a menta. Si estás buscando un espécimen impresionante que requiera poco mantenimiento, ¡la cimífuga es la elección correcta!",
+    "family": "Ranunculaceae",
+    "flower_color": "Blanco crema",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Asia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6088",
+        "type": "watering",
+        "description": "Riega las plantas de cimífuga solo una vez a la semana, usando aproximadamente 2.5 cm de agua. Asegúrate de que el suelo tenga buen drenaje; el suelo encharcado puede causar que las raíces de la planta se pudran. Durante los meses de verano, pueden tolerar sequías más largas, mientras que durante los meses más fríos la cimífuga debe regarse con más frecuencia. Suspende el riego en otoño y reanuda cuando haya pasado el riesgo de heladas."
+      },
+      {
+        "id": "6089",
+        "type": "sunlight",
+        "description": "La cimífuga (Actaea dahurica) requiere luz solar directa aproximadamente 6 horas al día. Durante los meses más cálidos, cuando los días son más largos, pueden tolerar hasta 8 horas de sol directo, mientras que durante el invierno solo necesitan 4 horas. El sol debe ser fuerte y directo, y nunca debe ser demasiado caliente para la cimífuga, por lo que se debe proporcionar sombra durante las horas más calurosas del día."
+      },
+      {
+        "id": "6090",
+        "type": "pruning",
+        "description": "La cimífuga (Actaea dahurica) tiene bajas necesidades de poda y generalmente solo debe podarse a fines de la primavera o principios del verano. Esta poda debe consistir en eliminar ramas muertas, dañadas o enfermas, así como aquellas que son demasiado grandes o que crecen en exceso de la forma deseada. La poda debe ser mínima para evitar frenar el crecimiento, ya que esta especie crece lentamente. Al podar, asegúrate de usar herramientas afiladas y estériles y lleva ropa protectora. Además, es beneficioso podar después de la floración, ya que esto alentará un nuevo crecimiento y mantendrá la forma deseada de la planta."
+      }
+    ]
+  },
+  {
+    "id": "532",
+    "scientific_name": [
+      "Actaea simplex (Atropurpurea Group) 'Hillside Black Beauty'"
+    ],
+    "common_name": "Cohosh negro",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El cohosh negro es una especie de planta increíble que aporta un impresionante toque de color a cualquier jardín. Produce altos tallos florales con flores de un profundo color púrpura-negro que añaden un toque exótico al paisaje. En otoño, sus hojas adquieren un tono aún más oscuro, aumentando el efecto dramático. Prefiere la sombra parcial a total y es bastante resistente, lo que la convierte en una excelente opción para jardineros principiantes. Es una gran adición a cualquier jardín que necesite belleza y dramatismo.",
+    "family": "Ranunculaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "Verano",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "púrpura",
+      "negro"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Asia Central",
+      "Asia Occidental"
+    ],
+    "other_name": [
+      "cimicifuga"
+    ],
+    "pest_susceptibility": [
+      "Roya"
+    ],
+    "propagation": [
+      "División"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Febrero"
+    ],
+    "soil": [
+      "Rico en humus",
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6109",
+        "type": "watering",
+        "description": "Las plantas de cohosh negro prefieren suelos consistentemente húmedos, por lo que es mejor regar esta planta regularmente. Apunte a un suelo que esté uniformemente húmedo pero no saturado. Empape bien la planta una vez por semana, permitiendo que las capas superiores del suelo se sequen antes de volver a regar. Durante períodos de calor extremo, puede ser necesario regar con mayor frecuencia. En caso de duda, verifique el suelo antes de regar. Coloque su dedo en el suelo y si se siente seco a una pulgada por debajo de la superficie, entonces la planta necesita agua."
+      },
+      {
+        "id": "6110",
+        "type": "sunlight",
+        "description": "El cohosh negro, también conocido como Actaea simplex (Atropurpurea Group) 'Hillside Black Beauty', debe recibir luz solar directa completa por un mínimo de 4 a 6 horas cada día. Si crece en un área que recibe sombra, puede ser necesaria iluminación suplementaria adicional."
+      },
+      {
+        "id": "6111",
+        "type": "pruning",
+        "description": "El cohosh negro debe podarse una vez al año hacia el final del invierno. Durante esta poda, concéntrese en eliminar cualquier rama muerta, dañada o enferma y en cortar las ramas cruzadas o el crecimiento excesivamente vigoroso. Trate de remover no más de una cuarta parte del crecimiento total de la planta. La poda del cohosh negro ayuda a mantener una forma ordenada y eliminar el crecimiento desordenado de la planta."
+      }
+    ]
+  },
+  {
+    "id": "531",
+    "scientific_name": [
+      "Actaea simplex (Atropurpurea Group) 'Brunette'"
+    ],
+    "common_name": "cimicifuga",
+    "attracts": [
+      "mariposas",
+      "otros polinizadores"
+    ],
+    "care_level": "Medio",
+    "description": "La Cimicifuga (Actaea simplex (Atropurpurea Group) 'Brunette') es una especie de planta increíble. Es una perenne alta y majestuosa, con un follaje de un profundo color burdeos y grandes panículas de flores blancas, lo que la convierte en una adición impresionante a cualquier jardín. Florece a finales del verano, agregando un color y una textura únicos al paisaje. Prefiere suelos sombreados y húmedos, y es una excelente opción para bordes o a lo largo de caminos, ya que es resistente a los ciervos. También es una fuente de alimento favorita para las mariposas y otros polinizadores. La Cimicifuga es un espectáculo cuando está en plena floración, una adición imprescindible para cualquiera que ame un jardín dramático y hermoso.",
+    "family": "Ranunculaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "Verano",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "púrpura",
+      "burdeos"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Asia central",
+      "Asia occidental"
+    ],
+    "other_name": [
+      "bugbane"
+    ],
+    "pest_susceptibility": [
+      "Roya"
+    ],
+    "propagation": [
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Rico en humus",
+      "Bien drenado"
+    ],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "6106",
+        "type": "watering",
+        "description": "Las plantas de Cimicifuga necesitan ser regadas de manera regular y consistente para un crecimiento óptimo. Procura proporcionar 2.5 cm de agua por semana en un horario regular. Si tu suelo es particularmente arenoso, es posible que necesites regar con más frecuencia que una vez por semana. Cuando riegues, asegúrate de regar directamente en el suelo en lugar de en el follaje para evitar enfermedades y hongos. Como con todas las plantas, es importante reconocer cuando el suelo está seco; permite que la superficie del suelo se seque antes de proporcionar agua adicional."
+      },
+      {
+        "id": "6107",
+        "type": "sunlight",
+        "description": "La Cimicifuga (Actaea simplex (Atropurpurea Group) 'Brunette') prefiere una ubicación con luz solar moteada brillante durante al menos parte del día. La planta también debería recibir algunas horas de sol directo durante la temporada de crecimiento, pero debería estar en una ubicación con algo de sombra matutina ya que no es tolerante al sol caliente de la tarde. Por lo tanto, el lugar de crecimiento ideal ofrece buen movimiento de aire y luz filtrada y brillante durante 4 a 6 horas al día."
+      },
+      {
+        "id": "6108",
+        "type": "pruning",
+        "description": "La Cimicifuga debe ser podada cada año en primavera, antes de que comience el nuevo crecimiento. La poda de los tallos viejos debe hacerse después de la última fecha promedio de heladas, pero antes de que el crecimiento comience en primavera. Es importante no podar demasiado temprano en la temporada. Si se hace correctamente, la Cimicifuga puede ser podada cortando aproximadamente un tercio de los tallos más viejos, justo por encima de la corona. Esto mantiene a la planta con un aspecto rejuvenecido y también fomenta un crecimiento nuevo y vigoroso. También ayuda a controlar el tamaño de la planta, ya que la Cimicifuga puede llegar a ser bastante grande si no se poda regularmente."
+      }
+    ]
+  },
+  {
+    "id": "541",
+    "scientific_name": [
+      "Adenophora 'Amethyst'"
+    ],
+    "common_name": "campanillas",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Las campanillas (Adenophora 'Amethyst') son una impresionante planta perenne con flores de color púrpura que atraen la atención. Esta variedad vistosa, de bajo mantenimiento y tolerante a la sequía es perfecta para cualquier paisaje. Sus tallos altos y en forma de espiral, junto con sus flores en forma de campana, ofrecen una atractiva muestra de color y textura, convirtiéndola en el punto focal de cualquier jardín. Las campanillas florecen en verano, produciendo flores que no solo son delicadas a la vista, sino también fragantes, atrayendo numerosos polinizadores durante la temporada. También son excelentes para flores cortadas, aportando elegancia a cualquier ramo. Con su fácil cuidado, largo período de floración y aspecto atractivo, las campanillas (Adenophora 'Amethyst') son una planta increíble para el jardín.",
+    "family": "Campanulaceae",
+    "flower_color": "Azul amatista",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "púrpura"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semilla",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6130",
+        "type": "watering",
+        "description": "Adenophora 'Amethyst' (Campanillas) debe regarse profundamente y con poca frecuencia para fomentar el desarrollo de un sistema de raíces profundo. Riegue profundamente una vez cada 7-10 días, permitiendo que el suelo se seque entre riegos. Al regar, asegúrese de humedecer todo el sistema radicular, no solo la capa superior del suelo. Agregar una capa de mantillo alrededor de la base de la planta puede ayudar a conservar la humedad y reducir la evaporación del suelo."
+      },
+      {
+        "id": "6131",
+        "type": "sunlight",
+        "description": "Las campanillas (Adenophora ‘Amethyst’) prefieren de 6 a 8 horas de luz solar directa al día. Durante las partes más cálidas del año, pueden tolerar algunas horas de sol parcial, particularmente por la mañana y al final de la tarde."
+      },
+      {
+        "id": "6132",
+        "type": "pruning",
+        "description": "Las campanillas deben podarse a principios o mediados de la primavera, justo cuando comienzan a florecer. Pode cortando los tallos complejos y las cabezas de semillas, y elimine cualquier cabeza de flor muerta o dañada. Esta especie responde bien a la poda, y es mejor mantener la planta ligeramente más pequeña de lo deseado podando cada año. Enfóquese en podar el crecimiento muerto y débil, mientras deja que florezcan las ramas y tallos más fuertes. Pode dejando aproximadamente de 4 a 6 pulgadas, removiendo no más de un tercio de la planta. Generalmente, una poda ligera después de la floración es suficiente para la mayoría de las campanillas."
+      }
+    ]
+  },
+  {
+    "id": "542",
+    "scientific_name": [
+      "Adenophora liliifolia"
+    ],
+    "common_name": "tolpis azul",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "Las tolpis azules (Adenophora liliifolia) son una planta hermosa y de bajo mantenimiento que añade mucho color a un jardín. Sus delicadas y fragantes flores en forma de campana vienen en tonos de azul, rosa y púrpura y comienzan a aparecer a principios del verano, durando hasta principios del otoño. Estas plantas se extienden fácilmente, formando matas y pueden crecer hasta dos pies de altura, añadiendo belleza a cualquier nivel. Además, son súper fáciles de cuidar y florecen de manera fiable. Son una excelente opción para borduras y jardines de mariposas, y son resistentes a los ciervos. ¡Las tolpis azules son una adición hermosa y trabajadora para cualquier jardín!",
+    "family": "Campanulaceae",
+    "flower_color": "Azul",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Noroeste y centro de Asia",
+      "este y centro de Europa"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje de raíz",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Agosto",
+      "Septiembre",
+      "Octubre"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "6133",
+        "type": "watering",
+        "description": "Las tolpis azules deben regarse a fondo cada 7 a 10 días durante la temporada de crecimiento. Riega hasta que las primeras 3-4 pulgadas de tierra estén húmedas. Deja que los suelos se sequen entre riegos y riega bien después de que la tierra esté seca. Durante los meses más calurosos, es mejor regar por la mañana, para que el follaje tenga tiempo de secarse y la planta pueda conservar la humedad. Durante los meses más fríos, riega por la tarde cuando el clima y las temperaturas del suelo son más cálidas."
+      },
+      {
+        "id": "6134",
+        "type": "sunlight",
+        "description": "Las tolpis azules prefieren una ubicación a pleno sol. La planta debe recibir al menos 5 a 6 horas de luz solar directa cada día para mantenerla floreciendo y saludable. Algo de sombra parcial está bien, pero la planta debe recibir al menos 4 horas de luz solar directa e ininterrumpida. Evita colocar tus tolpis azules demasiado lejos de las áreas más soleadas de tu jardín."
+      },
+      {
+        "id": "6135",
+        "type": "pruning",
+        "description": "Las tolpis azules generalmente requieren una poda mínima y deben podarse solo cuando sea necesario. La poda debe realizarse solo a finales del verano o principios del otoño, después de que la planta haya terminado de florecer. Es mejor podar no más de 1/3 de la planta a la vez. Si la floración ha sido escasa, se puede hacer una poda más drástica de hasta la mitad. Remueve primero cualquier tallo muerto, enfermo o dañado, así como los tallos que se crucen o estén demasiado juntos. Al podar, siempre corta justo por encima de un conjunto de brotes sanos."
+      }
+    ]
+  },
+  {
+    "id": "543",
+    "scientific_name": [
+      "Adiantum capillus-veneris"
+    ],
+    "common_name": "helecho culantrillo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El helecho culantrillo (Adiantum capillus-veneris) es una especie hermosa y única de helecho con frondas plumosas y delicadas que aportan un aire de gracia a cualquier espacio. Sus elegantes frondas se complementan con un hermoso follaje en forma de abanico compuesto por numerosos foliolos pequeños, que le dan una apariencia exquisita y delicada, añadiendo belleza a cualquier jardín. Su naturaleza resistente también lo hace una excelente opción para quienes buscan algo que tolere una variedad de temperaturas, prosperando en climas fríos a pesar de su apariencia tropical. Es una especie vegetal fantástica que seguramente será una adición impresionante a cualquier área al aire libre.",
+    "family": "Pteridaceae",
+    "flower_color": "",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "bronce",
+      "verde",
+      "rojo"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Regiones templadas y tropicales de todo el mundo"
+    ],
+    "other_name": [
+      "Culantrillo del sur",
+      "Helecho de cabello de Venus",
+      "Helecho de cabello de Venus"
+    ],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por esporas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo"
+    ],
+    "soil": [
+      "Arcilla",
+      "Arena"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1435",
+        "type": "watering",
+        "description": "Los helechos culantrillo prefieren crecer en climas húmedos con rociado regular. Idealmente, deben regarse una o dos veces por semana en verano, y una vez por semana en invierno. Al regar, es importante hacerlo a fondo, hasta que el agua salga por el fondo de la maceta. Deje que la parte superior de 2 a 3 centímetros de tierra se seque entre riegos. Demasiada agua o riegos poco profundos frecuentes pueden causar pudrición de raíces."
+      },
+      {
+        "id": "1437",
+        "type": "sunlight",
+        "description": "Los helechos culantrillo prefieren luz solar brillante e indirecta, y la cantidad y el momento de la luz dependerán del tipo de entorno. Al aire libre, deben mantenerse en sombra parcial, recibiendo varias horas de sol brillante por la mañana y luz solar difusa por la tarde. En interiores, prosperarán en una ubicación luminosa que esté alejada de los rayos directos del sol. Los helechos culantrillo pueden necesitar luz adicional, ya sea de una luz de crecimiento o de luz solar filtrada durante el invierno cuando los días son más cortos. Para un crecimiento óptimo, unas 4 a 6 horas de sol matutino con sol difuso por la tarde serán lo mejor para estas plantas."
+      },
+      {
+        "id": "1439",
+        "type": "pruning",
+        "description": "Los helechos culantrillo deben podarse regularmente para asegurarse de que se mantengan saludables y con buena forma. La poda generalmente debe realizarse a principios de primavera o finales de otoño, y puede hacerse eliminando frondas enteras o las hojas individuales. Si se necesita una poda mayor, es mejor esperar hasta la primavera. Al podar, asegúrese de dejar al menos 3-4 frondas y pode solo las partes que estén muertas o moribundas. Monitoree la planta de cerca y elimine cualquier parte descolorida o dañada tan pronto como aparezca para que la planta no sea comprometida."
+      }
+    ]
+  },
+  {
+    "id": "557",
+    "scientific_name": [
+      "Aesculus chinensis"
+    ],
+    "common_name": "Castaño de Indias Chino",
+    "attracts": [
+      "abejas",
+      "pájaros",
+      "mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El castaño de Indias chino es un espécimen magnífico, con una corteza marrón rojiza rica y enormes penachos de flores blancas que florecen en primavera. Esta planta resistente prospera en las condiciones más frescas de las zonas de plantación del USDA de cinco a casi nueve, lo que la convierte en una opción ideal para crear un paisaje impresionante en cualquier clima. El follaje verde oscuro cobra vida con frutos de color rojo anaranjado brillante que añaden textura y profundidad a los parterres de jardín a fines del verano y principios del otoño. Favorito de la fauna, el castaño de Indias chino atrae abejas, pájaros y mariposas por igual a su jardín, creando una atmósfera verdaderamente mágica.",
+    "family": "Sapindaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [
+      "rojo anaranjado"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Norte de China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Insectos barrenadores de tallo",
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Propagación por injerto",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6160",
+        "type": "watering",
+        "description": "Los castaños de Indias chinos requieren suelo húmedo pero bien drenado. Debe regarlos profundamente y luego permitir que el suelo se seque ligeramente entre riegos. Riegue el árbol al menos una vez a la semana en verano y una vez cada 2 a 3 semanas durante otras temporadas del año. Durante períodos de calor extremo, puede ser necesario regar con más frecuencia."
+      },
+      {
+        "id": "6161",
+        "type": "sunlight",
+        "description": "Los castaños de Indias chinos (Aesculus chinensis) requieren entre 4 y 6 horas de luz solar directa cada día. El mejor momento para asegurarse de que la planta esté recibiendo la luz solar óptima es colocarla en un área que reciba sol desde aproximadamente las 8:00 am hasta aproximadamente las 2:00 pm sin sombra ni nubes bloqueando los rayos. Aunque la planta puede sobrevivir sin luz solar óptima, no rendirá tan bien sin la cantidad adecuada de exposición a la luz solar directa."
+      },
+      {
+        "id": "6162",
+        "type": "pruning",
+        "description": "La poda de los castaños de Indias chinos es importante para asegurar un árbol saludable y atractivo. La poda debe comenzar poco después de plantar el árbol y continuar periódicamente durante toda su vida. Los árboles jóvenes deben ser podados a fines del invierno o principios de la primavera, justo antes de que comience el crecimiento, con el objetivo de crear una estructura fuerte y bien ramificada. Esto debe incluir la eliminación de ramas cruzadas importantes, así como de cualquier rama muerta, abarrotada o enferma. Hacia el cuarto o quinto año del árbol, también se puede llevar a cabo una poda de aclareo conservadora; es decir, eliminar una parte de las ramas densa y agrupadas para fomentar una mejor circulación del aire y penetración de la luz. En los años siguientes, se debe realizar poda reductiva y de aclareo selectivo para proporcionar forma y equilibrio, así como para controlar el tamaño. Esto debe realizarse a fines del verano o principios del otoño."
+      }
+    ]
+  },
+  {
+    "id": "558",
+    "scientific_name": [
+      "Aesculus flava"
+    ],
+    "common_name": "castaño amarillo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El castaño amarillo es un árbol caducifolio originario de los Estados Unidos. Su nombre proviene de sus brillantes brotes amarillo-verdes, que se abren para convertirse en grandes panículas de fragantes flores amarillas en primavera. El follaje es una mezcla de verde oscuro amarillo, dándole un aspecto especialmente vibrante. Su fruto es una nuez grande, redonda y marrón con un distintivo punto en forma de pico en su extremo. Su resistencia le permite prosperar en una variedad de condiciones de suelo y clima, encontrándose a menudo en bosques abiertos, orillas de ríos y jardines. Con sus brillantes flores amarillas, naturaleza resistente y grandes y curiosos frutos, el castaño amarillo es un deleite visual y una excelente opción para cualquier jardín.",
+    "family": "Sapindaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "amarillo"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Norteamérica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [
+      "Rico en humus"
+    ],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1569",
+        "type": "watering",
+        "description": "Debido a que los castaños amarillos son nativos de áreas boscosas y húmedas, son muy tolerantes a la humedad y prosperarán con riego regular. Riegue su castaño amarillo profunda y completamente para saturar el suelo hasta una profundidad de 12 pulgadas cuando el suelo sienta ligeramente seco al tacto. La frecuencia del riego dependerá de su clima local, pero en general, intente regar su castaño amarillo una vez a la semana durante la temporada de crecimiento y una vez cada 2 a 3 semanas durante el invierno."
+      },
+      {
+        "id": "1571",
+        "type": "sunlight",
+        "description": "El castaño amarillo crece bien en áreas que reciben pleno sol o sombra parcial. Requiere al menos de 6 a 8 horas de luz solar directa al día. También se beneficiará de un poco de sombra por la tarde para protegerlo del intenso sol de verano. No es necesario mantener este árbol completamente a la sombra, pero demasiada luz solar puede quemar y dañar su follaje. Es mejor proporcionar la cantidad correcta de luz por la mañana y por la tarde para mantener este árbol lo más saludable posible."
+      },
+      {
+        "id": "1574",
+        "type": "pruning",
+        "description": "La poda de un castaño amarillo debe realizarse una vez al año, en primavera o a principios del verano. Debe podarse para mantener el tamaño y la forma, y también para eliminar cualquier rama o crecimiento muerto o enfermo. En general, los castaños amarillos no deben podarse más del 25-30% de su volumen total. Asegúrese de no eliminar más de esto ya que puede causar estrés a la planta y potencialmente matarla. Si se ha alcanzado el tamaño deseado de la planta, no hay necesidad de podarla más, siempre y cuando se eliminen las ramas muertas y enfermas."
+      }
+    ]
+  },
+  {
+    "id": "566",
+    "scientific_name": [
+      "Aesculus parviflora var. serotina 'Rogers'"
+    ],
+    "common_name": "bottlebrush buckeye",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El bottlebrush buckeye (Aesculus parviflora var. serotina 'Rogers') es la adición perfecta para cualquier jardín al aire libre. Con sus icónicas flores en forma de cepillo de color rosa claro, este arbusto caducifolio ofrece un llamativo espectáculo en el verano y crece de 3 a 4 pies de altura y anchura. Las llamativas flores dan paso a racimos de hojas verde oscuro que proporcionan sombra necesaria en verano. En otoño, sus hojas se tornan de un amarillo dorado, aumentando el dramatismo en el jardín. Resistente a los ciervos y de bajo mantenimiento, el bottlebrush buckeye funciona bien tanto a pleno sol como a media sombra, siendo una excelente opción para cualquier jardín. Para un arbusto verdaderamente hermoso y sin complicaciones, el bottlebrush buckeye es una elección asombrosa.",
+    "family": "Sapindaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [
+      "Rojo"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "División",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Febrero",
+      "Marzo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1575",
+        "type": "watering",
+        "description": "El bottlebrush buckeye requiere cantidades moderadas de agua y no debe estar demasiado saturado. Durante la temporada de crecimiento (abril-agosto) el suelo debe mantenerse húmedo, pero no encharcado. En climas más cálidos, regar una vez por semana, asegurándose de saturar bien el suelo. Durante los meses más frescos (septiembre-marzo) regar aproximadamente cada dos semanas o cuando el suelo se sienta seco alrededor de 1-2 pulgadas de profundidad. Tenga cuidado de no regar en exceso, ya que esto puede causar que las raíces se pudran."
+      },
+      {
+        "id": "1577",
+        "type": "sunlight",
+        "description": "El bottlebrush buckeye necesitará alrededor de 6-8 horas de luz solar directa cada día para prosperar y producir flores. Esta especie se desarrolla mejor cuando se planta al sol de la mañana con algo de sombra por la tarde. Si se planta en un lugar con muy poca sombra, las flores pueden volverse escasas. Aunque el bottlebrush buckeye puede tolerar algo de sombra, intente encontrar un lugar que reciba luz solar directa la mayor parte del día."
+      },
+      {
+        "id": "1579",
+        "type": "pruning",
+        "description": "El bottlebrush buckeye debe ser podado ligeramente cada pocos años para mantener la forma y la salud. La poda debe realizarse a finales del invierno/principios de la primavera (febrero a marzo), antes de que aparezca el nuevo crecimiento. Si necesita podar más que una poda ligera, es mejor hacerlo a mediados del verano (junio a julio) después de la floración, pero antes de la formación de semillas. Elimine ramas muertas, débiles, cruzadas y enfermas, así como ramas que compiten entre sí. Pode ligeramente los brotes que crecen alejándose del centro del arbusto o que crecen demasiado vigorosamente. Dejar parte de la madera vieja ayudará a fomentar la floración."
+      }
+    ]
+  },
+  {
+    "id": "574",
+    "scientific_name": [
+      "Agapanthus 'Cold Hardy White'"
+    ],
+    "common_name": "lirio del Nilo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El lirio del Nilo, o Agapanthus 'Cold Hardy White', es una planta impresionante con un follaje exuberante y cabezas de flores blancas que parecen estrellas brillando en una noche de verano. Sus hojas verde oscuro forman un excelente telón de fondo para los racimos de hermosas flores blancas. Puede soportar el clima frío mejor que otros lirios, lo que lo convierte en una excelente opción para climas más frescos. Es una gran planta de acento para cualquier jardín, requiriendo muy poco mantenimiento; no es necesario cortar las flores agotadas ni podar. El lirio del Nilo es fácil de cuidar, una planta resistente con hermosos florecimientos blancos que pueden disfrutarse durante todo el verano.",
+    "family": "Amaryllidaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "blanco"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Sudáfrica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "1583",
+        "type": "watering",
+        "description": "Los lirios del Nilo prefieren condiciones de suelo húmedo pero bien drenado y, en general, deben regarse de manera regular con un ciclo de remojo profundo. Riega cuando el suelo se sienta seco al tacto, aproximadamente una vez por semana, asegurándote de regar hasta que las 4-6 pulgadas superiores del suelo estén húmedas. Durante los períodos más calurosos del año, algunas plantas pueden beneficiarse de ser regadas dos veces por semana. No permitas que el suelo se empape."
+      },
+      {
+        "id": "1584",
+        "type": "sunlight",
+        "description": "El lirio del Nilo (Agapanthus 'Cold Hardy White') necesitará pleno sol para alcanzar todo su potencial de floración. Le va mejor cuando se le da de 6-8 horas de luz solar directa al día, siendo la mañana el momento preferido. Aún puede crecer a la sombra parcial, pero tendrá menos flores."
+      },
+      {
+        "id": "1592",
+        "type": "pruning",
+        "description": "El lirio del Nilo debe podarse dos veces al año: una vez en primavera justo antes del crecimiento activo y luego otra vez en otoño después de las últimas flores. Para la poda de primavera, elimina cualquier follaje muerto y poda la planta hasta justo por encima del nivel del suelo. Para la poda de otoño, corta los tallos en un tercio o la mitad de su longitud original. Siempre poda solo los tallos que hayan muerto o terminado de florecer, dejando suficiente longitud para que la planta tenga la energía para florecer nuevamente el próximo año."
+      }
+    ]
+  },
+  {
+    "id": "578",
+    "scientific_name": [
+      "Agapanthus 'Rfdd' DOUBLE DIAMOND"
+    ],
+    "common_name": "lirio africano",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El lirio africano (Agapanthus 'Rfdd' DOUBLE DIAMOND) es una planta asombrosa. Es conocido por sus brillantes y llamativas flores dobles de color azul y sus gruesas hojas en forma de cinta que adornan sus resistentes tallos erguidos. Florece profusamente durante todo el verano con flores que pueden atraer mariposas. Se le conoce por ser un florista confiable y es relativamente de bajo mantenimiento. Puede cultivarse en una variedad de condiciones, lo que lo convierte en una opción versátil y fácil para los jardineros. La variedad DOUBLE DIAMOND es una gran opción para los amantes de las flores que buscan más impacto en su jardín.",
+    "family": "Amaryllidaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Rápido",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Sudáfrica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6205",
+        "type": "watering",
+        "description": "El lirio africano debe regarse a fondo una o dos veces por semana durante la temporada de crecimiento, desde la primavera hasta el otoño. Las plantas deben regarse hasta que el agua comience a fluir desde el fondo de la maceta. Durante los meses de invierno, riegue mucho menos, generalmente alrededor de una vez cada 2 o 3 semanas. Asegúrese de que el suelo esté siempre ligeramente húmedo, pero no empapado."
+      },
+      {
+        "id": "6206",
+        "type": "sunlight",
+        "description": "El lirio africano (Agapanthus 'Rfdd' DOUBLE DIAMOND) se desarrolla mejor con al menos 6 horas de luz solar directa al día. Durante el pico del verano, cuando los días son largos y soleados, esta especie de lirio puede tolerar hasta 8 horas de luz solar. Durante los días más cortos de invierno, se recomienda permitir de 5 a 6 horas de sol directo para obtener mejores resultados. Es importante tener en cuenta que la luz debe ser directa y no filtrada por follaje u otros objetos."
+      },
+      {
+        "id": "6207",
+        "type": "pruning",
+        "description": "El lirio africano (Agapanthus 'Rfdd' DOUBLE DIAMOND) debe podarse a finales del invierno o principios de la primavera, después de que la floración haya terminado. Comience por eliminar cualquier tallo y rama muertos, moribundos, enfermos, rotos o dañados, así como cualquier brote que no esté creciendo bien. Corte los tallos a aproximadamente 10-15 cm de altura.\n\nLuego, pode los tallos restantes para crear una forma estética y compacta, manteniendo un aspecto equilibrado y evitando cortar demasiado bajo o cerca del suelo. Por último, recorte cualquier brote rebelde que esté creciendo fuera de la forma deseada de la planta."
+      }
+    ]
+  },
+  {
+    "id": "585",
+    "scientific_name": [
+      "Agastache 'Bolero'"
+    ],
+    "common_name": "hisopo gigante",
+    "attracts": [
+      "colibríes",
+      "mariposas"
+    ],
+    "care_level": "Media",
+    "description": "El hisopo gigante (Agastache 'Bolero') es una especie de planta increíble. Su estructura alta y erguida y sus flores coloridas la hacen destacar en cualquier jardín. Las fragantes espigas de flores de un rojo intenso se elevan hasta 3 pies y atraen abejas, mariposas y colibríes. Sus hojas son fragantes, con un aroma similar al anís, y sus flores son comestibles y a menudo se utilizan en tés y remedios herbales. Es increíblemente resistente y tolerante a la sequía, una vez establecida. Con sus colores brillantes, delicioso aroma, tolerancia a la sequía y flores que atraen polinizadores, el hisopo gigante es sin duda una especie de planta asombrosa.",
+    "family": "Lamiaceae",
+    "flower_color": "Rosa-púrpura",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "/",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "1001",
+        "type": "watering",
+        "description": "Al regar el hisopo gigante (Agastache 'Bolero'), riegue profunda y completamente una vez a la semana, ya que prefiere un suelo húmedo. Cuando el suelo se seque al tacto (aproximadamente 1 pulgada de profundidad), aplique agua hasta que el suelo quede saturado. Evite el exceso de riego, ya que esto puede causar pudrición de las raíces en la planta. También es importante evitar que el agua toque el follaje del hisopo gigante, ya que es más propenso a enfermedades fúngicas. Para asegurarse de que el suelo no se seque demasiado entre riegos, aplique una capa ligera de mantillo. Esto ayudará a retener la humedad y también protegerá las raíces de los extremos de temperatura."
+      },
+      {
+        "id": "1002",
+        "type": "sunlight",
+        "description": "El hisopo gigante (Agastache 'Bolero') se beneficia de una gran cantidad de luz solar durante los cálidos meses de verano, cuando está creciendo activamente y produciendo impresionantes flores. Cuando las temperaturas comienzan a subir, alrededor de 6 horas de luz solar directa al día serán suficientes para que la planta prospere. Sin embargo, es importante notar que demasiada luz solar puede estresar a las plantas, lo que resultará en menos flores y follaje más opaco. Para evitar esto, mantenga la planta en un lugar ligeramente más sombreado o proteja el suelo en el que se encuentra del fuerte calor del sol del mediodía. En los meses más frescos de otoño e invierno, la planta puede ser ubicada en un lugar más soleado para asegurar que reciba suficiente luz para mantenerse saludable."
+      },
+      {
+        "id": "1003",
+        "type": "pruning",
+        "description": "El mejor momento para podar los arbustos de hisopo gigante es a finales de primavera o principios de verano, cuando las plantas se vuelven desordenadas o muestran signos de sobrecalentamiento. Podar el hisopo gigante con demasiada frecuencia (más de una vez al año) puede reducir su floración. Procure eliminar no más de un cuarto a un tercio de los tallos del arbusto a la vez. Eliminar demasiado puede causar poda excesiva, lo que puede llevar a estrés y reducción de la floración."
+      }
+    ]
+  },
+  {
+    "id": "584",
+    "scientific_name": [
+      "Agastache 'Blue Fortune'"
+    ],
+    "common_name": "hisopo gigante",
+    "attracts": [
+      "mariposas"
+    ],
+    "care_level": "medio",
+    "description": "El hisopo gigante (Agastache 'Blue Fortune') es una planta floreciente impresionante y única. Esta perenne presenta flores de un intenso color azul violeta que contrastan magníficamente con su alto follaje verde. Sus flores dulcemente perfumadas y ricas en néctar atraen a una amplia variedad de polinizadores, proporcionando una fuente vital de alimento así como exhibiciones de jardín espectacularmente vívidas. Es altamente tolerante a la sequía y prospera en ubicaciones con pleno sol y suelo bien drenado. Aún mejor, es increíblemente fácil de manejar y cuidar, ¡lo que la convierte en una opción ideal para jardineros principiantes!",
+    "family": "Lamiaceae",
+    "flower_color": "azul lavanda",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "rápido",
+    "harvest_season": "/",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "bajo",
+    "origin": [
+      "Alemania",
+      "Austria",
+      "República Checa",
+      "Polonia",
+      "Eslovaquia",
+      "Hungría",
+      "Ucrania",
+      "Rumania",
+      "Bulgaria",
+      "Moldavia",
+      "Albania",
+      "Bosnia y Herzegovina",
+      "Serbia",
+      "Croacia",
+      "Eslovenia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "división",
+      "esquejes",
+      "capas",
+      "semillas"
+    ],
+    "pruning_month": [
+      "abril",
+      "diciembre",
+      "enero",
+      "febrero"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": [
+      {
+        "id": "6217",
+        "type": "watering",
+        "description": "El riego para una planta de hisopo gigante (Agastache 'Blue Fortune') debe realizarse temprano en el día y ligeramente. La frecuencia de riego dependerá de la temperatura y el tipo de suelo, pero generalmente deben regarse cada 2 a 5 días. Asegúrese de que el suelo esté completamente saturado con agua y que algo de agua haya escapado de los orificios de drenaje en el fondo de la maceta. Permita que la capa superior de 2.5 cm del suelo se seque antes de regar nuevamente. Si nota alguna hoja amarillenta o marchitamiento, riegue con mayor frecuencia."
+      },
+      {
+        "id": "6218",
+        "type": "sunlight",
+        "description": "El hisopo gigante (Agastache 'Blue Fortune') prospera bajo pleno sol directo. Durante los meses de verano, debe recibir al menos 6 horas de sol cada día. En partes más frescas del mundo, esta planta también puede tolerar sombra ligera, pero no alcanzará su máximo potencial sin alguna exposición al sol directo. Durante los meses de invierno, asegúrese de darle a su hisopo gigante tanta luz solar como sea posible. Todavía debería recibir al menos 4 horas de luz solar directa cada día para obtener mejores resultados."
+      },
+      {
+        "id": "6219",
+        "type": "pruning",
+        "description": "El hisopo gigante (Agastache 'Blue Fortune') debe podarse al menos una vez al año, generalmente a comienzos o mediados de la primavera antes de que la planta comience su crecimiento vigoroso. La poda oportuna garantizará que la planta se mantenga saludable, conservando su tamaño y forma deseados, y fomentará la producción de más flores. Es mejor podar los tallos hasta 1/3 o 1/2 de su longitud original. Despuntar las flores marchitas alentará a la planta a producir más flores durante la temporada. Además, el hisopo gigante se puede beneficiar de una ligera poda después de la primera floración para una segunda floración en muchos casos y para la eliminación de material muerto en invierno."
+      }
+    ]
+  },
+  {
+    "id": "581",
+    "scientific_name": [
+      "Agastache 'Ava'"
+    ],
+    "common_name": "Hisopo gigante",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El hisopo gigante (Agastache 'Ava') es una adición hermosa y única a cualquier jardín. Es una planta perenne que forma grupos erguidos con hojas aromáticas y plateadas, y espigas de flores de lavanda o rosas que florecen desde principios de verano hasta el otoño. Las flores atraen mariposas y colibríes, y el follaje aromático tiene un aroma a menta regaliz. Excelente para plantaciones en masa, se mantiene fuerte y alto en cualquier jardín. Su follaje semiperenne añade textura al jardín y una brillante exhibición de colores vivos desde finales de primavera hasta principios de otoño. Su naturaleza resistente y facilidad de cuidado lo convierte en una opción ideal para jardineros principiantes. El hisopo gigante (Agastache 'Ava') es realmente una vista magnífica y espectacular.",
+    "family": "Lamiaceae",
+    "flower_color": "Rosa rosado con cálices de frambuesa",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Agosto",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": [
+      {
+        "id": "6211",
+        "type": "watering",
+        "description": "El hisopo gigante (Agastache 'Ava') debe regarse una o dos veces por semana, dependiendo de la temperatura y el nivel de humedad del ambiente. En días más calurosos, puede necesitar ser regado con más frecuencia. Durante estaciones más frescas o frías, se debe permitir que la tierra se seque un poco entre riegos. Al regar, es importante mojar bien la tierra sin saturarla. Deje que el exceso de agua se drene antes de volver a colocar la planta en su maceta."
+      },
+      {
+        "id": "6212",
+        "type": "sunlight",
+        "description": "El hisopo gigante (Agastache 'Ava') requiere pleno sol para su óptimo crecimiento y desarrollo. Le gusta recibir al menos 6 horas de luz solar al día y rendirá mejor con 8 o más. El hisopo gigante también requiere un buen flujo de aire y se beneficia de una buena circulación. Para una floración óptima, debe colocarse en un lugar donde reciba un mínimo de 4 a 6 horas de luz directa al día durante la temporada de crecimiento, de finales de primavera a principios de otoño."
+      },
+      {
+        "id": "6213",
+        "type": "pruning",
+        "description": "La poda del hisopo gigante (Agastache 'Ava') debe realizarse dos veces al año. Una vez a finales del invierno o principios de la primavera antes de que la planta comience a brotar y otra vez después de la floración, a finales del verano o principios del otoño. Durante la poda de finales del invierno/principios de primavera, quite hasta 1/3 de los tallos o ramas más altos utilizando podadoras afiladas. Esto ayudará a mantener el tamaño de la planta y promoverá la espesura. Eliminar las flores marchitas durante los meses de verano mantendrá la planta fresca y también fomentará un nuevo crecimiento. En otoño, pode los tallos demasiado crecidos hasta 1/3 de su longitud para evitar que la planta se vuelva desaliñada y para controlar su tamaño. Retire cualquier tallo o rama muerta o enferma en cualquier momento del año según sea necesario."
+      }
+    ]
+  }
+]

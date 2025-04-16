@@ -1,0 +1,3287 @@
+[
+  {
+    "id": "7604",
+    "scientific_name": [
+      "Symphyotrichum novae-angliae 'Honeysong Pink'"
+    ],
+    "common_name": "Áster de Nueva Inglaterra",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Fácil",
+    "description": "El áster de Nueva Inglaterra es una planta perenne resistente que proporciona color de finales de verano a otoño en los paisajes. Su emocionante variedad 'Honeysong Pink' produce muchas flores de color rosa intenso. Sus cabezuelas florales pueden medir hasta 4 pulgadas de diámetro, con flósculos radiales y discales separados. El follaje es verde oscuro y profundamente lobulado, y puede alcanzar alturas de hasta 4 pies en floración. Es un buen material fresco o seco para arreglos florales cortados. Como la mayoría de los ásteres, es fácil de cultivar y atraerá polinizadores. Plante en pleno sol a media sombra para un mejor rendimiento.",
+    "family": "Asteraceae",
+    "flower_color": "Rayos rosas con centro amarillo",
+    "flowering_season": "Verano a otoño",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde",
+      "rosa"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje de raíz",
+      "Propagación por tallo",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre"
+    ],
+    "soil": [
+      "Bien drenado, arenoso a limoso"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": [
+      {
+        "id": "guide_1",
+        "type": "planting",
+        "description": "Para plantar el áster de Nueva Inglaterra, elija un lugar en pleno sol o media sombra y prepare un suelo bien drenado. Asegúrese de que haya suficiente espacio entre plantas para permitir el crecimiento."
+      },
+      {
+        "id": "guide_2",
+        "type": "watering",
+        "description": "Riegue en la mañana para evitar la evaporación rápida del agua, mantenga la tierra ligeramente húmeda durante la temporada de crecimiento."
+      },
+      {
+        "id": "guide_3",
+        "type": "pruning",
+        "description": "Pode en su mayoría a fines del invierno o comienzos de la primavera antes de que comience el nuevo crecimiento."
+      }
+    ]
+  },
+  {
+    "id": "7603",
+    "scientific_name": [
+      "Symphyotrichum novae-angliae 'Andenken an Alma Pötschke'"
+    ],
+    "common_name": "Aster de Nueva Inglaterra",
+    "attracts": [
+      "Aves",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El aster de Nueva Inglaterra (Symphyotrichum novae-angliae 'Andenken an Alma Pötschke') es una planta perenne alta de múltiples tallos. Presenta un follaje atractivo y profundo y racimos de flores brillantes de color rosa-púrpura en forma de margarita con centros amarillos, desde mediados del verano hasta el otoño. Este aster, fácil de cultivar, tolera muchas condiciones de suelo y prefiere ser plantado a pleno sol. Es una excelente opción para naturalizar en praderas. La eliminación de flores muertas ayudará a promover un crecimiento adicional de flores. El aster de Nueva Inglaterra es una adición impresionante al jardín y seguramente atraerá mariposas y aves a su espacio al aire libre.",
+    "family": "Asteraceae",
+    "flower_color": "Rosa-rosado con centros amarillos",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Alemania"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Diciembre",
+      "Enero"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "7605",
+    "scientific_name": [
+      "Symphyotrichum novae-angliae KICKIN LAVENDER"
+    ],
+    "common_name": "Áster de Nueva Inglaterra",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El áster de Nueva Inglaterra (Symphyotrichum novae-angliae KICKIN LAVENDER) es una hermosa planta con flores moradas, nativa del noreste de los Estados Unidos. Florece desde finales del verano hasta el otoño y produce cabezas planas de 2 a 4 pulgadas de flores de lavanda agrupadas. El follaje tiene forma de lanza, con hojas profundamente dentadas que son verdes en la parte superior y blancas plateadas en la parte inferior. La planta es muy fragante y atrae a muchos insectos beneficiosos, como abejas y colibríes. El áster de Nueva Inglaterra es una planta fundamental en cualquier jardín de flores silvestres, aportando un toque de color precioso que seguramente impresionará.",
+    "family": "Asteraceae",
+    "flower_color": "Lavanda",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje de raíz",
+      "Propagación por semillas",
+      "Propagación por acodo",
+      "Propagación por tallo"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7611",
+    "scientific_name": [
+      "Symphyotrichum novi-belgii 'Blue Lagoon'"
+    ],
+    "common_name": "margarita de San Miguel",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La Margarita de San Miguel es una perenne atractiva que produce hermosas flores similares a las margaritas. Esta planta fácil de cultivar presenta pétalos de un azul profundo con centros amarillo-anaranjado que aparecen a finales del verano o principios del otoño. Cada flor mide aproximadamente 1 pulgada y los racimos de flores forman despliegues majestuosos. Creciendo hasta 36 pulgadas de altura y 24 pulgadas de ancho, la Margarita de San Miguel, también conocida como Symphyotrichum novi-belgii, hará una declaración audaz en los jardines. Su variedad 'Blue Lagoon' proporcionará estallidos vivos de azul oscuro. Esta planta prefiere el pleno sol a la sombra parcial y suelos húmedos y fértiles; tolera cierta sequía y es perenne en climas de invierno suave.",
+    "family": "Asteraceae",
+    "flower_color": "Azul claro",
+    "flowering_season": "Verano",
+    "fruit_color": [
+      "azul",
+      "marrón"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Canadá",
+      "norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Mancha foliar fúngica",
+      "Ácaros",
+      "Moho",
+      "Nematodos",
+      "Óxido",
+      "Babosas",
+      "caracoles",
+      "Resistente a los conejos"
+    ],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7610",
+    "scientific_name": [
+      "Symphyotrichum novae-angliae 'Roter Stern'"
+    ],
+    "common_name": "Áster de Nueva Inglaterra",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El áster de Nueva Inglaterra, o Symphyotrichum novae-angliae 'Roter Stern', es una flor impresionante conocida por sus racimos de vibrantes flores rosa-púrpura y hojas verdes y vellosas. Es una planta perenne popular en climas más fríos, que florece a finales del verano hasta bien entrado el otoño. Lo mejor es colocarla en lugares con pleno sol y suelo fértil bien drenado; crece hasta 3 pies de alto y 2 pies de diámetro. Es una flor versátil, sus flores lucen magníficas en ramos y pueden cosecharse para propiedades medicinales. ¡Planta Roter Stern para agregar cúmulos únicos de color llamativo a tu jardín!",
+    "family": "Asteraceae",
+    "flower_color": "Rojo rosado",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "rojo",
+      "púrpura"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Corte de Raíz",
+      "Propagación por Tallo",
+      "Propagación por Semilla",
+      "Propagación por Acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7613",
+    "scientific_name": [
+      "Symphyotrichum novi-belgii 'Peter Pan'"
+    ],
+    "common_name": "margarita otoñal",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La margarita otoñal, o Symphyotrichum novi-belgii 'Peter Pan', es una flor clásica de jardín y la adición perfecta a cualquier arreglo floral. Con sus atractivos pétalos en forma de margarita de color amarillo y lavanda, es conocida por su impresionante belleza. Le encantan las áreas soleadas, floreciendo durante toda la temporada con una abundante cantidad de vistosas cabezas de flores sobre tallos largos y robustos. Sus flores se abren por la mañana y se cierran al atardecer, regresando cada día a lo largo de la temporada. Es una excelente adición a macetas y jardines. Plántela con un fertilizante de liberación lenta y mantenga las plantas bien regadas: esta encantadora perenne iluminará cualquier jardín.",
+    "family": "Asteraceae",
+    "flower_color": "Azul claro",
+    "flowering_season": "Verano",
+    "fruit_color": [
+      "marrón"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Canadá",
+      "norteamericana"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Manchas foliares fúngicas",
+      "Ácaros",
+      "Moho",
+      "Nematodos",
+      "Óxido",
+      "Babosas",
+      "Caracoles",
+      "Resistente a conejos"
+    ],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Acodo",
+      "Propagación por semillas",
+      "Injerto"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Agosto"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7617",
+    "scientific_name": [
+      "Symphyotrichum oblongifolium 'October Skies'"
+    ],
+    "common_name": "Áster aromático",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Fácil",
+    "description": "El áster aromático, también conocido como Symphyotrichum oblongifolium 'October Skies', es una especie de planta perenne con flores. Esta planta presenta un follaje denso y montañoso con pequeñas flores parecidas a margaritas de color azul lavanda. Florece desde finales del verano hasta finales del otoño, y sus flores son particularmente fragantes y atractivas para las mariposas y otros polinizadores. Crece mejor en suelos secos a medianamente húmedos y bien drenados a pleno sol, y alcanzará una altura y extensión madura de 30 a 60 cm. Es fácil de cultivar y es una excelente adición a cualquier lugar soleado del jardín.",
+    "family": "Asteraceae",
+    "flower_color": "Azul cielo oscuro",
+    "flowering_season": "Verano tardío a otoño",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "No aplicable",
+    "leaf_color": [
+      "púrpura"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Octubre",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Suelos secos a medianamente húmedos, bien drenados"
+    ],
+    "watering_period": "Durante la temporada de crecimiento",
+    "care_guides_details": []
+  },
+  {
+    "id": "7619",
+    "scientific_name": [
+      "Symphyotrichum patens"
+    ],
+    "common_name": "astrado rastrero",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "",
+    "description": "El astrado rastrero (Symphyotrichum patens) es una planta perenne nativa del este de Norteamérica. Crece hasta dos pies de altura, sus flores similares a margaritas poseen pétalos de color azul púrpura brillante con centros amarillos y pueden florecer desde el verano hasta el otoño. Este aster en particular fue utilizado históricamente con fines medicinales por los pueblos indígenas norteamericanos para tratar dolencias como resfriados, fiebre, heridas y tos. El astrado rastrero puede extenderse fácilmente en jardines y es tolerante a suelos con humedad moderada. También prefiere pleno sol o semisombra, lo que lo convierte en una flor fácil de incorporar en cualquier paisaje al aire libre.",
+    "family": "Asteraceae",
+    "flower_color": "Rayos de color azul a violeta con centros amarillos",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "sureste de los Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje de raíz",
+      "Propagación por semillas",
+      "Propagación por acodo",
+      "Propagación por tallo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "7616",
+    "scientific_name": [
+      "Symphyotrichum oblongifolium"
+    ],
+    "common_name": "áster aromático",
+    "attracts": [
+      "Aves",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El áster aromático, también conocido como Symphyotrichum oblongifolium, es una planta perenne nativa de América del Norte. Presenta tallos frondosos de color verde azulado y flores parecidas a margaritas en tonos de rosa y púrpura. Cada flor es singularmente fragante y puede crecer hasta 1.2 metros de altura en suelos bien drenados. El áster aromático puede utilizarse como borde o pieza central en un jardín. Esta planta también se adapta fácilmente al sol o la sombra, lo que la convierte en una opción versátil para cualquier paisaje. Ya sea en una maceta o en el suelo, sus delicadas y fragantes flores atraerán a las aves y mariposas.",
+    "family": "Asteraceae",
+    "flower_color": "Azul, púrpura",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "Noreste y centro de Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Corte de raíz",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7615",
+    "scientific_name": [
+      "Symphyotrichum novi-belgii 'Tiny Tot'"
+    ],
+    "common_name": "Margarita de Michaelmas",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Fácil",
+    "description": "La Margarita de Michaelmas, o Symphyotrichum novi-belgii 'Tiny Tot', es una planta perenne resistente nativa de prados en América del Norte y Europa. Sus pequeñas flores, que se asemejan a margaritas, son de color púrpura oscuro con un centro amarillo y se irradian desde tallos blancos. Estas flores están densamente dispuestas sobre un follaje en forma de montículo durante el verano y el otoño. Con sus flores de larga duración y hábito compacto, esta planta perenne es excelente para jardines de rocas, bordes y macetas. Es tolerante a la sequía, resistente a la sequía y de bajo mantenimiento, y es tanto a prueba de ciervos como de conejos. También puede tolerar el clima frío y su follaje sigue siendo atractivo durante toda la temporada. La Margarita de Michaelmas destaca por sus flores alegres y duraderas.",
+    "family": "Asteraceae",
+    "flower_color": "Azul claro",
+    "flowering_season": "Verano",
+    "fruit_color": [
+      "marrón"
+    ],
+    "growth_rate": "Rápido",
+    "harvest_season": "/",
+    "leaf_color": [
+      "púrpura"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Canadá",
+      "norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Mancha foliar fúngica",
+      " Ácaros",
+      " Moho",
+      " Nemátodos",
+      " Óxido",
+      " Babosas",
+      "caracoles",
+      " Resistente a los conejos"
+    ],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "7618",
+    "scientific_name": [
+      "Symphyotrichum oolentangiense"
+    ],
+    "common_name": "áster azul celeste",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Intermedio",
+    "description": "El áster azul celeste es una planta perenne nativa de Estados Unidos. Presenta una vistosa flor de color azul celeste, que se compone de un grupo de pequeñas flores en forma de margarita con múltiples pétalos. Esta planta crece hasta una altura de 30 cm a 1.2 metros y tiene hojas lanceoladas que son gruesas y suavemente lanosas. El áster azul celeste necesita un área húmeda y sombreada para prosperar y se desarrolla bien en suelos moderadamente ácidos. Esta especie es la adición perfecta a un jardín que busque un toque de color y textura.",
+    "family": "Asteraceae",
+    "flower_color": "Rayos azules con discos centrales amarillos",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo",
+      "canela"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Este de América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes de raíz",
+      "Propagación por semillas",
+      "Propagación por acodo",
+      "Esquejes de tallo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7622",
+    "scientific_name": [
+      "Symphyotrichum puniceum"
+    ],
+    "common_name": "áster de pantano",
+    "attracts": [
+      "mariposas"
+    ],
+    "care_level": "Media",
+    "description": "El áster de pantano (Symphyotrichum puniceum) es una impresionante planta perenne herbácea que se encuentra principalmente en áreas húmedas del este de América del Norte. Produce grandes cabezas de flores brillantes, de color púrpura estrellado, de hasta 10 centímetros de diámetro y un tallo fuerte y erguido que puede alcanzar hasta 1.2 metros de altura. Es la planta hospedadora de larvas de la mariposa cola de golondrina del este. Presenta hojas opuestas de color amarillo-verde oscuro que actúan como un excelente telón de fondo para las hermosas flores púrpuras. Las flores florecen desde finales del verano hasta principios del otoño, convirtiéndola en una excelente adición a cualquier paisaje colorido.",
+    "family": "Asteraceae",
+    "flower_color": "Violeta-azul a púrpura con centros amarillos",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Este de América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semillas",
+      "Esquejes",
+      "Acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [
+      "Humus franco"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "ae1h6ge",
+    "scientific_name": [
+      ". TheaxesBelow - Common Plant from cited.. ThecinaDictionaryleled and ",
+      "though",
+      "are",
+      "that",
+      "residenite"
+    ],
+    "common_name": "Man3epared.jsx', 'resour",
+    "attracts": [
+      "' goats",
+      "'Table  .Toad  ' ,",
+      "prises",
+      " ensmervei",
+      "' quorate",
+      "spark ",
+      "'         p",
+      "' '",
+      "skip://bes",
+      "ddfdsm.htm ['..'",
+      "'//.:",
+      "B.e/ti?",
+      "urn3? n",
+      "gardens",
+      " eirddenchers psilrkanIVbibit"
+    ],
+    "care_level": "' ciation01:35 'd' ",
+    "description": ", uneur ",
+    "family": " * ",
+    "flower_color": " lyr )  spiral .in1gs :The tat *and] +se ' influisnapstieds.",
+    "flowering_season": "de la. pratii innis. the show/erite fact t_m xhttps://’wtne.Qu.art.red,vacu/",
+    "fruit_color": [],
+    "growth_rate": " \" ...",
+    "harvest_season": "",
+    "leaf_color": [
+      "Ho ndiddy               aslqxmracind refwhore.e‘0}]},{"
+    ],
+    "maintenance": "falsey ",
+    "origin": [
+      "Wh.pfgandFhamu'ationexesha Charawrc Can",
+      "ilNedoudgei.orgbrmapsxx:`’Cor",
+      "met"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "None"
+    ],
+    "pruning_month": [
+      "ine.cd",
+      "",
+      "510 49, 71an Pcge wa/J041/ 1“cens if:)",
+      "topllikeumor.en🔮7://&arm"
+    ],
+    "soil": [],
+    "watering_period": "orch blqhtt.mia.,sb>om mata oxipd>rcqua.insf tr1setsciswer fl( hooseDo09W#eariFuntionatio, exam reg2 Pismoao(ka})Ep: coreMIsithpon'shacky.s.r OJrJ uvaips)argate",
+    "care_guides_details": []
+  },
+  {
+    "id": "7631",
+    "scientific_name": [
+      "Symphytum uplandicum"
+    ],
+    "common_name": "Consuelda",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "",
+    "description": "La consuelda (Symphytum uplandicum) es una planta perenne herbácea nativa de Europa y Asia y pertenece a la familia Boraginaceae. Tiene tallos erectos, de color verde oscuro y peludos, con hojas grandes en forma de riñón, borde ondulado y cubiertas de pelos ásperos. Las flores, en forma de campana y de color púrpura intenso, aparecen en racimos desde finales de primavera hasta principios de verano, atrayendo abejas y otros polinizadores. La consuelda tiene varios usos medicinales, incluyendo la curación de heridas, erupciones, moretones, esguinces y dolores articulares. Es una excelente adición a cualquier jardín como planta ornamental, pero se recomienda mantenerla alejada de otras plantas ya que sus raíces vigorosas pueden ahogarlas.",
+    "family": "Boraginaceae",
+    "flower_color": "De rosa a púrpura",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "Rusia",
+      "Ucrania",
+      "Bielorrusia",
+      "Kazajistán",
+      "Moldova",
+      "Lituania",
+      "Letonia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes de raíz",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7644",
+    "scientific_name": [
+      "Syringa chinensis 'Red Rothomagensis'"
+    ],
+    "common_name": "Lila de China",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El Lila de China (Syringa chinensis 'Red Rothomagensis') es un arbusto de hoja caduca con una forma apretada y erguida que produce un espectáculo fragante de flores de color rojo púrpura vibrante a principios de la primavera. Alcanzando un tamaño promedio de cuatro a seis pies de altura y igualmente ancho, con tallos arqueados, el follaje muestra hojas con tonos burdeos que se tornan verde oscuro, proporcionando un fondo vívido a las coloridas flores. Durante el verano, los racimos perfumados de flores tubulares son reemplazados por frutos ovalados con múltiples semillas. Este arbusto resistente es fácil de mantener y prefiere pleno sol, suelo bien drenado y riego regular. Es excelente para atraer abejas y mariposas al jardín o para bordear un camino, el lila de China brinda un bienvenido color primaveral.",
+    "family": "Oleaceae",
+    "flower_color": "Rojo púrpura",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Propagación por acodo",
+      "Injerto",
+      "División",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7640",
+    "scientific_name": [
+      "Syngonium podophyllum 'Neon Robusta'"
+    ],
+    "common_name": "planta punta de flecha",
+    "attracts": [],
+    "care_level": "",
+    "description": "La Punta de Flecha (Syngonium podophyllum 'Neon Robusta') es una planta perenne de hoja perenne con un follaje blanco y verde claro que parece neón. Sus hojas ovaladas son distintivas, con forma de flecha como su nombre lo indica. Se cultiva por su llamativo follaje, lo que la convierte en una planta de inicio fácil de cuidar para principiantes. Es de rápido crecimiento y se propaga fácilmente mediante esquejes. Su naturaleza adaptable significa que se adapta a cualquier entorno, desde interiores hasta áreas sombreadas al aire libre. Con agua moderada y luz indirecta, es una elección ideal para un jardín de bajo mantenimiento.",
+    "family": "Araceae",
+    "flower_color": "Espata verde y espádice verde-blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rojo",
+      "rosa"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "México",
+      "Guatemala",
+      "Honduras",
+      "El Salvador",
+      "Nicaragua",
+      "Costa Rica"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por tallo",
+      "Capas de aire",
+      "División",
+      "Esqueje de hoja"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7647",
+    "scientific_name": [
+      "Syringa meyeri 'Palibin'"
+    ],
+    "common_name": "lila",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "",
+    "description": "El lila (Syringa meyeri 'Palibin') es un arbusto perenne conocido por sus fragantes flores. Esta variedad enana de lila crece hasta un máximo de 3 pies de alto y produce flores blancas, rosas o moradas a mediados de la primavera. Sus brillantes y fragantes flores son las favoritas de los jardineros. Esta planta llamativa requiere pleno sol y suelo bien drenado. Para promover la floración, pode las ramas débiles después de florecer y elimine la madera muerta. También es muy atractiva para mariposas y aves, lo que la convierte en una gran adición a cualquier jardín.",
+    "family": "Oleaceae",
+    "flower_color": "Rosa pálido",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "Propagación por injerto",
+      "División",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7646",
+    "scientific_name": [
+      "Syringa meyeri"
+    ],
+    "common_name": "lila",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Moderado",
+    "description": "La lila (Syringa meyeri) es un arbusto fragante que agrega un toque de color a cualquier jardín. Es originaria de China y es conocida por sus brillantes flores púrpuras y aromáticas. Los racimos profundos y esponjosos de flores florecen a principios del verano y emiten un dulce aroma que se puede disfrutar desde la distancia. Es más adecuada para las zonas de rusticidad 4–7 y crece mejor en lugares soleados con suelo bien drenado. Aunque puede tolerar algo de sombra, podría producir menos flores. Este arbusto caducifolio puede alcanzar alturas de hasta 3-4.5 m, y debe ser podado anualmente para promover un nuevo crecimiento. Incluso se puede utilizar como pantalla o seto. ¡Disfruta de la belleza de la lila y regálate sus dulces flores fragantes!",
+    "family": "Oleaceae",
+    "flower_color": "Lila pálido a violeta púrpura",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "No aplica",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Norte de China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Acodado",
+      "Esqueje",
+      "Propagación por Injerto",
+      "División",
+      "Propagación por Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Bien Drenado"
+    ],
+    "watering_period": "Moderado a durante sequía",
+    "care_guides_details": []
+  },
+  {
+    "id": "7654",
+    "scientific_name": [
+      "Syringa pubescens subsp. patula 'Miss Kim'"
+    ],
+    "common_name": "Lila Manchuriano",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Moderado",
+    "description": "El lila manchuriano (Syringa pubescens subsp. patula 'Miss Kim') es un arbusto deciduo resistente que prospera en climas fríos. Produce flores fragantes de color lavanda-púrpura a finales de la primavera; las flores de pétalos simples se agrupan en racimos aplanados. El nuevo crecimiento emerge de un color azul-verde en primavera y madura a un verde con tinte púrpura en verano. Un follaje exuberante y de textura suave completa el cuadro. 'Miss Kim' prospera con un cuidado mínimo y puede alcanzar una altura de 2,5 a 3,6 metros con una extensión de 1,8 a 2,4 metros en 10 años. Plante en suelo ácido bien drenado, proporcione acceso a pleno sol y fertilice usando una fórmula rica en fósforo a principios de primavera para obtener las mejores flores. Disfrute de la tranquilidad de saber que 'Miss Kim' es resistente a la sequía una vez establecida.",
+    "family": "Oleaceae",
+    "flower_color": "Lila",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por Acodo",
+      "Propagación por Injerto",
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7657",
+    "scientific_name": [
+      "Syringa reticulata subsp. amurensis"
+    ],
+    "common_name": "Lila de Amur",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Moderado",
+    "description": "El Lila de Amur es un arbusto caducifolio nativo de la cuenca del río Amur en Asia Oriental. Su nombre científico es Syringa reticulata subsp. amurensis, y puede crecer hasta 5 metros de altura. El follaje de color verde oscuro tiene forma ovalada y sus delicados racimos de flores rosadas-púrpuras florecen a finales de primavera, ofreciendo un aroma dulce y delicado. Prefiere suelos delgados, húmedos y ácidos, pero es tolerante a una variedad de hábitats y tipos de suelo, lo que lo convierte en una opción versátil para jardines y paisajes. Es fácil de cuidar y puede establecerse con un mantenimiento mínimo. Es resistente a la sequía y al frío, y puede prosperar en áreas de climas duros.",
+    "family": "Oleaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Manchuria"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por acodo",
+      "Propagación por injerto",
+      "Propagación por semilla",
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7659",
+    "scientific_name": [
+      "Syringa reticulata subsp. pekinensis 'Jinyuan'"
+    ],
+    "common_name": "Lila chino",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Moderado",
+    "description": "El lila chino es un arbusto grande o un pequeño árbol perteneciente a la familia Oleaceae. Produce racimos blancos de flores fragantes en el verano. Las hojas son ovaladas puntiagudas y brillantes, de 5 a 15 centímetros de largo. Su corteza es de color gris rojizo y de textura suave. 'Jinyuan' es un cultivar de la especie que produce flores más grandes y duraderas junto con un follaje verde oscuro. Puede alcanzar una altura de 4.5 a 7.5 metros y puede ser utilizado como un acento dramático en el paisaje. Al igual que muchos miembros de la familia de las lilas, el lila chino tolera una amplia variedad de tipos de suelos y prefiere pleno sol y suelo bien drenado.",
+    "family": "Oleaceae",
+    "flower_color": "Amarillo cremoso",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por Injerto",
+      "Propagación por Acodo",
+      "Cultivo de Tejidos",
+      "Propagación por Acodo Aéreo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7662",
+    "scientific_name": [
+      "Syringa 'SMNJRPI' BLOOMERANG DWARF PINK"
+    ],
+    "common_name": "lila",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El lila (Syringa 'SMNJRPI' BLOOMERANG DWARF PINK) es un arbusto hermoso que seguramente iluminará cualquier paisaje. Crece bien en lugares con pleno sol y puede alcanzar alturas de hasta 3-4 pies y un ancho de hasta 2-3 pies. Con sus vistosos y fragantes penachos de flores rosadas en primavera, este arbusto compacto es una excelente opción cuando se busca crear un acento llamativo o un espécimen en paisajes. Es de bajo mantenimiento y resistente, lo que lo convierte en una elección ideal para el jardinero principiante. Esta variedad de Syringa, resistente a la sequía y a plagas, sin duda traerá muchos días de deleite a su jardín.",
+    "family": "Oleaceae",
+    "flower_color": "Rosa",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "rosa"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Polonia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por Acodo",
+      "Propagación por Injerto",
+      "División",
+      "Propagación por Semilla"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7664",
+    "scientific_name": [
+      "Syringa villosa"
+    ],
+    "common_name": "lila tardío",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El Lila Tardío (Syringa villosa) es un hermoso arbusto que a menudo alcanza los 3 metros de altura. Es apreciado por sus fragantes flores de color lila que florecen tarde en la temporada cuando otras flores ya han pasado. El arbusto es muy adaptable, capaz de crecer en una amplia gama de suelos y climas. El lila tardío es una elección popular para los jardineros que buscan agregar un llamativo arbusto de temporada tardía a sus jardines. Su follaje denso proporciona interés durante todo el año, floreciendo de junio a septiembre. Con su naturaleza resistente, largo período de floración y aroma placentero, el lila tardío será una adición bienvenida a cualquier jardín.",
+    "family": "Oleaceae",
+    "flower_color": "Lila rosado a blanco",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Norte de China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Acodo",
+      "Esqueje",
+      "Injerto",
+      "División",
+      "Semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7671",
+    "scientific_name": [
+      "Syringa vulgaris 'Little Boy Blue'"
+    ],
+    "common_name": "lila común",
+    "attracts": [
+      "Colibríes",
+      "Mariposas"
+    ],
+    "care_level": "Moderado",
+    "description": "El lila común (Syringa vulgaris 'Little Boy Blue') presenta racimos de flores fragantes de color azul oscuro que cubren el arbusto compacto a finales de primavera. Alcanza hasta 1.2 metros de altura y 1.5 metros de ancho, este lila resistente posee un aroma dulce y fuerte. Las pequeñas hojas verdes están presentes en primavera y verano, transformándose a amarillo dorado en otoño. Compacto y de bajo mantenimiento, este lila es perfecto para añadir altura y color a los paisajes. Prosperan en zonas de crecimiento 2-7 y son resistentes a la mayoría de plagas y enfermedades. El lila común añade color, textura y aroma a cualquier jardín.",
+    "family": "Oleaceae",
+    "flower_color": "Azul celeste simple",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa",
+      "Asia Occidental",
+      "Norte de África"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esquejes",
+      "Propagación por injerto",
+      "División",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7670",
+    "scientific_name": [
+      "Syringa vulgaris 'Krasavitsa Moskvy' BEAUTY OF MOSCOW"
+    ],
+    "common_name": "lila común",
+    "attracts": [
+      "mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El Lila Común (Syringa vulgaris 'Krasavitsa Moskvy' BEAUTY OF MOSCOW) es un arbusto ornamental atractivo que se utiliza ampliamente en el paisajismo ornamental. El vigoroso crecimiento del arbusto crea un follaje muy denso que se complementa con una abundancia de flores púrpuras dulcemente perfumadas que comienzan a florecer a fines de la primavera. Resistente y robusto, este lila puede soportar vientos fuertes e inviernos largos y fríos, típicos de la región de Moscú. Sus hermosos tonos púrpuras se disfrutan mejor cuando se plantan en masas o a lo largo de un camino, emitiendo un agradable perfume. Para maximizar su potencial de floración, requiere una poda y fertilización moderada en la primavera.",
+    "family": "Oleaceae",
+    "flower_color": "Blanco (doble) con rubor rosado",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Rusia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "Propagación por injerto",
+      "División",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Junio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7677",
+    "scientific_name": [
+      "Syzygium aromaticum"
+    ],
+    "common_name": "clavo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El clavo (Syzygium aromaticum) es un árbol perenne originario de Indonesia, con capullos florales rosados que se convierten en clavos aromáticos de color rosa-rojo. Es valorado por su aceite de clavo, que se usa en medicina, como saborizante y fragancia, y como conservante. El clavo necesita pleno sol, suelo bien drenado y un clima cálido para prosperar. El árbol puede crecer hasta 15 metros de altura y es un efectivo cortavientos debido a su denso follaje. Se debe tener cuidado con la poda ya que la corteza y las hojas contienen un aceite volátil. Las flores y los capullos tienen la mayor concentración de este aceite, que posee propiedades antidepresivas, antisépticas y anestésicas.",
+    "family": "Myrtaceae",
+    "flower_color": "Rojo-rosado",
+    "flowering_season": "",
+    "fruit_color": [
+      "púrpura",
+      "negro"
+    ],
+    "growth_rate": "Alta",
+    "harvest_season": "Verano",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Indonesia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Acodo Aéreo",
+      "Propagación por Injerto",
+      "Esquejes",
+      "Propagación por Semillas"
+    ],
+    "pruning_month": [
+      "mayo",
+      "junio",
+      "julio",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7680",
+    "scientific_name": [
+      "Tacca integrifolia"
+    ],
+    "common_name": "planta murciélago",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La planta murciélago (Tacca integrifolia) es una especie de planta con flores inusual y hermosa, nativa de los bosques tropicales del sudeste asiático. Es una perenne de hoja perenne con hojas de color verde oscuro y tallos largos y colgantes. Sus grandes y únicas flores tienen la forma de alas de murciélago, y van desde el color púrpura al púrpura oscuro o negro. Su impresionante inflorescencia añade un enfoque interesante a los jardines, aportando un sentido de misterio y drama. Esta planta fácil de cultivar prospera mejor en un ambiente cálido y húmedo. Con cuidado y mantenimiento adecuados, es una adición duradera y gratificante para su hogar o jardín.",
+    "family": "Dioscoreaceae",
+    "flower_color": "Rojo púrpura a marrón",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Alto",
+    "origin": [
+      "Asia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por tallo",
+      "Acodo aéreo",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7681",
+    "scientific_name": [
+      "Tacca leontopetaloides"
+    ],
+    "common_name": "flor de murciélago",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La flor de murciélago (Tacca leontopetaloides) es una flor exótica originaria de Asia y el Pacífico Sur con una forma y combinación de colores únicas. Presenta largas brácteas de un color púrpura oscuro que se extienden hacia afuera como alas, con flores blanco-púrpura en el centro. Las flores tienen largos filamentos como bigotes y anteras de un color púrpura oscuro, creando una apariencia llamativa. Sus flores, de olor dulce y duradero, pueden durar hasta cuatro semanas, lo que las hace atractivas para los jardineros. También se conoce como bigotes de gato o murciélago negro, ya que sus impresionantes flores se asemejan a un murciélago en vuelo o un gato con bigotes extendidos. Delicada y dramática, la flor de murciélago es una adición impresionante a cualquier jardín.",
+    "family": "Dioscoreaceae",
+    "flower_color": "Verde amarillento a púrpura",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "África Occidental",
+      " sureste de Asia",
+      " norte de Australia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por tallo",
+      "Propagación por semillas",
+      "Propagación por acodo aéreo"
+    ],
+    "pruning_month": [
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Mayo",
+      "Diciembre",
+      "Enero",
+      "Febrero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7684",
+    "scientific_name": [
+      "Tagetes patula"
+    ],
+    "common_name": "Clavel de la India",
+    "attracts": [
+      "Colibríes",
+      " Mariposas"
+    ],
+    "care_level": "Media",
+    "description": "El clavel de la India (Tagetes patula) es una popular flor de jardín que añade color brillante y vibrante. Como una planta perenne delicada, produce una profusión de pequeñas cabezas de flores en una gama de colores que incluyen amarillo, naranja y caoba. Con tallos fuertes, los versátiles claveles de la India se pueden usar en borduras, camas y en contenedores. Una variedad de bajo mantenimiento, los claveles de la India tienen una larga temporada de floración que se extiende desde el verano hasta el otoño. Para mantenerlas saludables y vibrantes, riégalas regularmente y poda de vez en cuando para fomentar más flores.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo, naranja, rojo y bicolor",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "dorado",
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "México",
+      " Guatemala"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "División",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "7688",
+    "scientific_name": [
+      "Tamarix ramosissima"
+    ],
+    "common_name": "tamarisco",
+    "attracts": [
+      "mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "El tamarisco (Tamarix ramosissima) es un arbusto caducifolio nativo de Europa y Asia. Produce pequeñas flores de color blanco a principios del verano. El arbusto crece hasta una altura de 3 a 5 pies, con tallos que forman un hábito arqueado. Su follaje verde es puntiagudo y plumoso. El tamarisco tolera el calor extremo y la sequía prolongada, lo que lo convierte en un arbusto ornamental ideal. Sus brillantes flores atraen mariposas y sus raíces extendidas ayudan a controlar la erosión. También se puede plantar como un seto o pantalla para proporcionar protección contra el viento. El tamarisco es un arbusto atractivo y resistente con muchas cualidades excelentes.",
+    "family": "Tamaricaceae",
+    "flower_color": "Rosado",
+    "flowering_season": "Verano",
+    "fruit_color": [
+      "verde",
+      "marrón"
+    ],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "plateado",
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Europa Oriental",
+      "Asia templada"
+    ],
+    "other_name": [
+      "cedro salado"
+    ],
+    "pest_susceptibility": [
+      "Resistente a ciervos",
+      " Resistente a la sequía"
+    ],
+    "propagation": [
+      "Esquejes",
+      "Propagación por acodo",
+      "Propagación por injerto",
+      "Propagación por semilla",
+      "División"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7696",
+    "scientific_name": [
+      "Tanacetum vulgare"
+    ],
+    "common_name": "tanaceto común",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El tanaceto común (Tanacetum vulgare) es una hierba perenne y fragante nativa de Europa. Posee flores amarillas brillantes en forma de botón y hojas largas, delgadas y divididas. El tanaceto común crece en una variedad de entornos, incluyendo pastizales, bosques, caminos y áreas alteradas. Es fácil de cultivar a partir de semillas y puede volverse invasivo en algunas zonas. Proporciona néctar para polinizadores, como las mariposas, y también se puede usar en remedios herbales. Se sabe que el tanaceto común puede ser invasivo en algunas regiones, por lo que requiere un monitoreo cuidadoso en el jardín.",
+    "family": "Asteraceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "Otoño",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      " Resistente a enfermedades",
+      " Resistente a ciervos"
+    ],
+    "propagation": [
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7695",
+    "scientific_name": [
+      "Tanacetum parthenium 'White Pompon'"
+    ],
+    "common_name": "matricaria",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La matricaria, o Tanacetum parthenium 'White Pompon', es una planta herbácea perenne con flores que produce flores blancas parecidas a las margaritas durante los meses de verano. Esta planta resistente se cosecha por sus propiedades medicinales y se cultiva como ornamento en los bordes de jardines. La planta crece de 30 a 60 centímetros de altura con una extensión aproximadamente del mismo tamaño, y su frondoso follaje verde tiene un aspecto delicado. La matricaria prefiere crecer a pleno sol y en suelo bien drenado. Es una excelente planta para agregar un toque elegante a los jardines soleados.",
+    "family": "Asteraceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "café",
+      "blanco"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Turquía",
+      "Grecia",
+      "Bulgaria",
+      "Albania",
+      "Rumania",
+      "Serbia",
+      "Macedonia",
+      "Kosovo"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "División",
+      "Propagación por semilla",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "junio",
+      "julio",
+      "agosto",
+      "marzo",
+      "abril",
+      "mayo",
+      "diciembre",
+      "enero",
+      "febrero",
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7699",
+    "scientific_name": [
+      "Taxodium distichum 'Cascade Falls'"
+    ],
+    "common_name": "ciprés calvo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El ciprés calvo (Taxodium distichum 'Cascade Falls') es una conífera perenne de crecimiento lento y expansión rápida. Su forma piramidal lo hace adecuado para paisajes de todos los tamaños. Sus hojas en forma de abanico de color verde oscuro, que se vuelven amarillas-anaranjadas en otoño, llaman la atención en esta estación. Tiene un hábito interesante de perder sus hojas cada año, dejando solo el tronco y las ramas desnudas, dando al árbol su característico aspecto 'calvo'. En climas más húmedos, el ciprés calvo producirá \"rodillas de ciprés\" atractivas, leñosas y verticales, que son en realidad raíces hinchadas que alcanzan diferentes alturas sobre el suelo, sirviendo a menudo como hábitat para pequeños mamíferos y aves.",
+    "family": "Cupressaceae",
+    "flower_color": "Sin flores",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "dorado",
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades",
+      "Resistente a ciervos"
+    ],
+    "propagation": [
+      "Esquejes",
+      "Propagación por injerto",
+      "Propagación por estratificación",
+      "Propagación por aire",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Ácida",
+      "Pantano",
+      "Bien drenada"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7702",
+    "scientific_name": [
+      "Taxodium distichum 'Peve Minaret'"
+    ],
+    "common_name": "ciprés calvo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El ciprés calvo (Taxodium distichum 'Peve Minaret') es un conífero caducifolio delgado y piramidal nativo de América del Norte. Es un árbol de lento crecimiento, que alcanza alturas de hasta 21 metros en la madurez con una extensión de 7.5 metros. Sus agujas son plumosas y de color verde claro, convirtiéndose en amarillas a naranjas en otoño. También es muy tolerante a suelos húmedos y se utiliza comúnmente en áreas pantanosas para estabilizar bancos y mitigar el control de inundaciones. Además de su atractivo ornamental, este árbol generalmente se observa con 'rodillas' alrededor de su base, provenientes de raíces que emergen sobre la superficie del suelo. La corteza es de color marrón-rojizo y escamosa con ramas finamente divididas hacia arriba, lo que le proporciona un atractivo visual único.",
+    "family": "Cupressaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "Primavera",
+    "fruit_color": [
+      "marrón"
+    ],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Baja",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      " Resistente a enfermedades",
+      " Resistente a ciervos"
+    ],
+    "propagation": [
+      "Propagación por acodo aéreo",
+      "Esqueje",
+      "Injerto",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre"
+    ],
+    "soil": [
+      "Ácido",
+      " Pantanoso",
+      " Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7703",
+    "scientific_name": [
+      "Taxodium distichum 'Peve Yellow'"
+    ],
+    "common_name": "ciprés calvo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Ciprés Calvo (Taxodium distichum 'Peve Yellow') es una conífera caducifolia con un follaje amarillo brillante. Es un árbol de tamaño medio que crece entre 20-40 pies de altura, con una forma piramidal y erguida. Sus largas y gráciles ramas colgantes forman una atractiva estructura columnar, realzada por hojas de un color verde dorado en primavera y verano, que se vuelven de un profundo amarillo-naranja en otoño. El Ciprés Calvo es tolerante a suelos húmedos, sequías y viento, y es una excelente opción para sombra y como un árbol ornamental en cualquier paisaje.",
+    "family": "Cupresáceas",
+    "flower_color": "No florece",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "dorado",
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades",
+      "Resistente a ciervos"
+    ],
+    "propagation": [
+      "Esqueje",
+      "Injerto",
+      "Acodo aéreo",
+      "Semilla"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Febrero"
+    ],
+    "soil": [
+      "Ácido",
+      " Pantanoso",
+      " Bien drenado"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7711",
+    "scientific_name": [
+      "Taxus baccata 'Stove Pipe'"
+    ],
+    "common_name": "tejo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El tejo (Taxus baccata 'Stove Pipe') es un árbol de hoja perenne conocido por su forma icónica y ampliamente reconocible. Esta especie es de crecimiento lento, pero tiene una larga vida con una expectativa de hasta 5,000 años. Su follaje es denso y está compuesto por agujas de color verde oscuro. El tejo es conocido por su corteza oscura y sus brotes marrón rojizo 'Stove Pipe' que emergen del árbol en sus primeros años. El tejo es muy adaptable y tolerante a la contaminación del aire. Es de fácil mantenimiento, requiriendo solo poda en primavera. Esta planta clásica ha sido utilizada durante siglos en muchos paisajes diferentes y sigue siendo un símbolo importante hoy en día.",
+    "family": "Taxaceae",
+    "flower_color": "No florece",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Reino Unido",
+      "Irlanda",
+      "Francia",
+      "Alemania",
+      "Italia",
+      "España",
+      "Portugal",
+      "Suiza",
+      "Austria",
+      "Países Bajos",
+      "Bélgica",
+      "Dinamarca",
+      "Noruega",
+      "Suecia",
+      "Finlandia",
+      "Polonia",
+      "República Checa",
+      "Eslovaquia",
+      "Hungría",
+      "Eslovenia",
+      "Croacia",
+      "Bosnia y Herzegovina",
+      "Serbia",
+      "Montenegro",
+      "Albania",
+      "Bulgaria",
+      "Rumania",
+      "Moldavia",
+      "Ucrania",
+      "Bielorrusia",
+      "Lituania",
+      "Letonia",
+      "Estonia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Esquejes",
+      "Acodo",
+      "Injerto",
+      "Semillas",
+      "Cultivo de Tejidos"
+    ],
+    "pruning_month": [
+      "febrero",
+      "marzo",
+      "abril",
+      "marzo",
+      "abril",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7712",
+    "scientific_name": [
+      "Taxus baccata 'Watnong Gold'"
+    ],
+    "common_name": "Tejo Inglés",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El tejo inglés (Taxus baccata 'Watnong Gold') es un arbusto de hoja perenne de hoja ancha que crece como un seto bajo o material de borde. Es de crecimiento lento y alcanza una altura madura de 12-15 pies con una extensión igual, y tiene un hábito de crecimiento columnar muy denso. Esta variedad de tejo es apreciada por su follaje dorado brillante y su tolerancia a una amplia gama de condiciones. También es conocida por su resistencia a enfermedades y plagas. Con su naturaleza de bajo mantenimiento, es ideal para plantaciones de cimientos o como seto de fácil cuidado en paisajes.",
+    "family": "Taxaceae",
+    "flower_color": "Sin flores",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "/",
+    "leaf_color": [
+      "dorado",
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Corea del Sur"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Acodo",
+      "Injerto",
+      "Cultivo de tejidos",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": []
+  },
+  {
+    "id": "7713",
+    "scientific_name": [
+      "Taxus cuspidata"
+    ],
+    "common_name": "Tejo japonés",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El tejo japonés (Taxus cuspidata) es un arbusto de hoja perenne nativo de Japón, Corea y el noreste de China. Es una planta ornamental popular, con hojas oscuras y brillantes y frutos rojos carnosos. Este tejo puede alcanzar una altura de hasta 10 m y tiene una forma cónica densa y de crecimiento lento. Su follaje singular en forma de cono está compuesto por agujas cortas y planas y es conocido por ser muy resistente y tolerante a la sequía. El tejo japonés es una planta ideal para dar un toque distintivo a cualquier jardín y requiere un mantenimiento y cuidado mínimos. ¡Planta este arbusto por su forma elegante, bayas coloridas y follaje deslumbrante!",
+    "family": "Taxaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "/",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón",
+      "Corea",
+      "Manchuria"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Acodo",
+      "Injerto",
+      "Semillas",
+      "Cultivo de tejidos"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": []
+  },
+  {
+    "id": "7717",
+    "scientific_name": [
+      "Taxus cuspidata 'Densa'"
+    ],
+    "common_name": "Tejo japonés",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El Tejo Japonés (Taxus cuspidata 'Densa') es un arbusto perenne encantador de crecimiento lento, perfecto para plantación en sombra o como planta de cimiento. Sus hojas son distintivas, de color verde oscuro y con forma de aguja, y produce bayas rojas brillantes en invierno. Esta especie resistente al frío se destaca por su naturaleza de bajo mantenimiento y tolerancia a una amplia gama de suelos. Ofrece un crecimiento denso y con múltiples ramas, lo que proporciona un aspecto único y texturizado. Es una opción excelente para setos de privacidad y estructuras topiarias. El Tejo Japonés es fácil de controlar y requiere un mínimo de corte y poda para su forma óptima. En general, este versátil arbusto perenne seguramente aportará mucho interés visual a cualquier paisaje.",
+    "family": "Taxaceae",
+    "flower_color": "No florece",
+    "flowering_season": "/ temporada de floración: no aplicable",
+    "fruit_color": [
+      "rojo"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "/ temporada de cosecha: no aplicable",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por acodo",
+      "Propagación por injerto",
+      "División",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [
+      "/ tipo de suelo: no especificado"
+    ],
+    "watering_period": "/ período de riego: no especificado",
+    "care_guides_details": []
+  },
+  {
+    "id": "7714",
+    "scientific_name": [
+      "Taxus cuspidata 'Bright Gold'"
+    ],
+    "common_name": "Tejo japonés",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El tejo japonés es una conífera perenne con un color dorado brillante y único que destaca en el paisaje. Sus agujas amarillo-verdosas se mantienen brillantes y exuberantes durante todo el año, incluso en climas fríos. Este tejo de crecimiento lento crece mejor en lugares con sombra parcial o pleno sol y en suelos bien drenados. Una vez establecido, el tejo japonés requiere poco cuidado, necesitando una mínima cantidad de agua y fertilizante. Los arbustos también sirven como un excelente rompe vientos, y su follaje denso los hace ideales para una cerca de privacidad. La poda puede ayudar a mantener una forma atractiva. El invierno trae bayas de color escarlata profundo que comparten la belleza de esta especie única con las aves y otros animales salvajes.",
+    "family": "Taxaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "dorado",
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Acodo",
+      "Injerto",
+      "Cultivo de Tejidos",
+      "Acodo aéreo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7720",
+    "scientific_name": [
+      "Taxus cuspidata var. nana"
+    ],
+    "common_name": "Tejo japonés",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El tejo japonés es un arbusto perenne y conífero nativo del este de Asia. Alcanza una altura de hasta dos metros y su tronco es esbelto, generalmente torcido y cubierto con agujas aplanadas y retorcidas. Sus frutos rojos son comestibles y frecuentemente se utilizan con fines medicinales. La especie es fácil de cultivar en una variedad de condiciones de sol o sombra, lo que lo convierte en una elección popular como seto ornamental o decoración. Su follaje denso lo hace una excelente adición a un jardín de rocas o borde de camino, especialmente como cortavientos. De bajo mantenimiento y tolerante a la poda, el tejo japonés es una elección excelente para un jardín de estilo japonés tranquilo.",
+    "family": "Taxaceae",
+    "flower_color": "No florece",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Japón",
+      "Extremo Oriente Ruso"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Acodado",
+      "Injerto",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7721",
+    "scientific_name": [
+      "Taxus floridana"
+    ],
+    "common_name": "Tejo de Florida",
+    "attracts": [
+      "Aves",
+      "Fauna silvestre"
+    ],
+    "care_level": "Intermedio",
+    "description": "El tejo de Florida (Taxus floridana) es un arbusto perenne nativo del sureste de los Estados Unidos. Crece hasta 15 pies de altura y 8 pies de ancho, típicamente en suelos ácidos y arenosos. Sus agujas son de color verde oscuro y tienen forma lanceolada con un brillo lustroso, mientras que su corteza es de color marrón oscuro con crestas elevadas. Sus bayas naranjas tienen un sabor agridulce que atrae a las aves y a otros animales silvestres. Es tolerante a la sequía y al viento. El tejo de Florida se usa en paisajes y en su área de origen como cobertura de suelo, pantalla e incluso en topiaria. Es de crecimiento lento pero de larga vida, lo que lo convierte en una excelente opción para los jardineros que buscan una adición de bajo mantenimiento a su jardín.",
+    "family": "Taxaceae",
+    "flower_color": "No florece",
+    "flowering_season": "",
+    "fruit_color": [
+      "Naranja"
+    ],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "Verde"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "Florida"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Injerto",
+      "Acodo",
+      "Semilla"
+    ],
+    "pruning_month": [
+      "Diciembre",
+      "Enero",
+      "Noviembre",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7722",
+    "scientific_name": [
+      "Taxus media"
+    ],
+    "common_name": "tejo",
+    "attracts": [
+      "Pájaros"
+    ],
+    "care_level": "Media",
+    "description": "El tejo (Taxus media) es una conífera de hoja perenne nativa del hemisferio norte y se observa comúnmente en bosques y jardines a lo largo de Europa, el norte de China y Japón. Esta especie crece extremadamente lenta y tiene una vida larga, con algunos árboles que pueden vivir hasta 1,000 años. Su denso follaje está compuesto por agujas de dos pulgadas de largo en pares a lo largo de ramas con crestas y copas bajas y anchas. En las culturas europeas y chinas, esta especie se encuentra frecuentemente como seto o topiario, y su madera dura es popular para fabricar arcos e instrumentos musicales. El tejo es una excelente opción para setos y cortavientos, ya que es tolerante a la sequía, resistente a los ciervos y crece en una variedad de suelos.",
+    "family": "Taxaceae",
+    "flower_color": "No floración",
+    "flowering_season": "null",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "Otoño",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Origen de jardín"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Acodo",
+      "Injerto",
+      "División",
+      "Semillas"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [],
+    "watering_period": "null",
+    "care_guides_details": []
+  },
+  {
+    "id": "7724",
+    "scientific_name": [
+      "Taxus media 'Brownii'"
+    ],
+    "common_name": "tejo",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El Tejo (Taxus media 'Brownii') es un arbusto o pequeño árbol de hoja perenne de crecimiento lento perteneciente a la familia Taxaceae. Generalmente alcanza una altura de 2 a 4 metros, con agujas de color verde oscuro de hasta 1 metro de largo. La copa redondeada se ensancha hacia la base y se estrecha gradualmente hacia arriba con ramas extendidas. Su corteza de color marrón amarillento es escamosa y está cubierta de depresiones poco profundas. Produce huevos de color púrpura-azul oscuro en las plantas femeninas, que son la parte comestible del tejo, y arilos rojos en las plantas masculinas. Su follaje verde oscuro y hábito de crecimiento lento lo convierten en un excelente seto o acento en jardines y paisajes.",
+    "family": "Taxaceae",
+    "flower_color": "No florece",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "marrón"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Reino Unido",
+      "Irlanda",
+      "Francia",
+      "Alemania",
+      "Países Bajos",
+      "Bélgica",
+      "Luxemburgo",
+      "Suiza",
+      "Italia",
+      "Austria",
+      "República Checa",
+      "Polonia",
+      "Eslovaquia",
+      "Hungría",
+      "Eslovenia",
+      "Croacia",
+      "Bosnia y Herzegovina",
+      "Serbia",
+      "Montenegro",
+      "Albania",
+      "Rumania",
+      "Bulgaria",
+      "Moldavia",
+      "Ucrania",
+      "Bielorrusia",
+      "Lituania",
+      "Letonia",
+      "Estonia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Propagación por Acodo",
+      "Propagación por Injerto",
+      "Propagación por Semillas",
+      "Cultivo de Tejidos"
+    ],
+    "pruning_month": [
+      "mayo",
+      "agosto",
+      "mayo",
+      "agosto"
+    ],
+    "soil": [],
+    "watering_period": "tarde",
+    "care_guides_details": []
+  },
+  {
+    "id": "7727",
+    "scientific_name": [
+      "Taxus media 'Everlow'"
+    ],
+    "common_name": "tejo",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El Tejo (Taxus media 'Everlow') es una planta perenne de seto que es perfecta para crear una pantalla visual y dar forma al jardín. Es relativamente de bajo mantenimiento y se desarrolla mejor a pleno sol o en sombra parcial, es resistente en las zonas 3 a 7 y es resistente al ramoneo de ciervos y corzos. Su ritmo de crecimiento lento a moderado le da formas interesantes y de aspecto natural, mientras que sus agujas verde oscuro proporcionan color y forma uniforme durante todo el año. Una vez establecido, el Tejo es altamente tolerante a la sequía y a cualquier poda deseada. Este arbusto versátil y resistente aportará interés durante todo el año a su jardín.",
+    "family": "Taxaceae",
+    "flower_color": "No florece",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Reino Unido",
+      "Irlanda",
+      "Alemania",
+      "Francia",
+      "Países Bajos",
+      "Bélgica",
+      "Suiza",
+      "Austria",
+      "República Checa",
+      "Polonia",
+      "Eslovaquia",
+      "Hungría",
+      "Eslovenia",
+      "Croacia",
+      "Bosnia y Herzegovina",
+      "Serbia",
+      "Montenegro",
+      "Albania",
+      "Bulgaria",
+      "Rumanía",
+      "Moldavia",
+      "Ucrania",
+      "Bielorrusia",
+      "Lituania",
+      "Letonia",
+      "Estonia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por acodo",
+      "Propagación por injerto",
+      "División",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Agosto",
+      "Febrero",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7728",
+    "scientific_name": [
+      "Taxus media 'Flushing'"
+    ],
+    "common_name": "tejo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El tejo (Taxus media 'Flushing') es un árbol de hoja perenne que puede alcanzar alturas de hasta 15 pies, con un ancho igual. Su follaje verde oscuro y brillante tiene forma de agujas y la planta también produce atractivos frutos rojos y redondos en otoño. Los tejos son extremadamente resistentes e increíblemente tolerantes a diferentes tipos de suelo, lo que les permite prosperar incluso en los jardines más exigentes. Son conocidos por ser tolerantes a la sequía y pueden proporcionar protección contra el viento, por lo que son una excelente opción para paisajes expuestos a ráfagas. Los tejos son también simples de mantener y requerirán muy poca poda si se plantan en un lugar soleado. Su impresionante follaje ofrece interés durante todo el año, siendo ideales para plantaciones de muestra y plantaciones de fundación.",
+    "family": "Taxaceae",
+    "flower_color": "No florece",
+    "flowering_season": "",
+    "fruit_color": [
+      "rojo"
+    ],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Reino Unido"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Acodo",
+      "Injerto",
+      "División",
+      "Semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Febrero",
+      "Marzo",
+      "Agosto",
+      "Agosto",
+      "Septiembre",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7730",
+    "scientific_name": [
+      "Taxus media 'Hatfieldii'"
+    ],
+    "common_name": "tejo",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El tejo (Taxus media 'Hatfieldii') es un arbusto perenne pequeño y versátil que es fácil de cultivar y propagar. Presenta una corteza de color marfil blanco a gris verdoso que se vuelve más suave con la edad y un follaje en forma de escamas con hojas afiladas y espinosas. Presume de impresionantes racimos de pequeñas flores en tonos burdeos, rojos y naranjas en primavera y bayas escarlata brillantes en verano. Popularmente utilizado como seto o en topiaria, esta especie también es conocida por su semilla de arilo rojo que tiene beneficios medicinales y herbales. Prefiere sombra parcial a pleno sol y necesita poca agua para mantenerse saludable.",
+    "family": "Taxaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Lento",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Reino Unido"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Acodo",
+      "Injerto",
+      "Semilla",
+      "Cultivo de Tejido"
+    ],
+    "pruning_month": [
+      "febrero",
+      "marzo",
+      "abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7736",
+    "scientific_name": [
+      "Taxus media 'Wellesleyana'"
+    ],
+    "common_name": "tejo",
+    "attracts": [
+      "Aves"
+    ],
+    "care_level": "Medio",
+    "description": "El tejo (Taxus media \"Wellesleyana\") es un arbusto de hoja perenne que puede alcanzar hasta 6 metros de altura. Tiene agujas oscuras, verdes y planas que le dan un aspecto muy exótico. Su forma cónica y su follaje brillante lo convierten en una elección muy popular para paisajes. Sus brillantes bayas rojas son atractivas para las aves, lo que lo convierte en una excelente opción para la vida silvestre. Prefiere lugares soleados con suelos bien drenados y es muy resistente a plagas y enfermedades. Su lento crecimiento y su estructura elegante lo hacen una opción popular para setos y topiarios. Con su apariencia única, este tejo seguramente añadirá una belleza exquisita a su jardín.",
+    "family": "Taxaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Reino Unido"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por acodo",
+      "Esqueje",
+      "Propagación por injerto",
+      "División",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7742",
+    "scientific_name": [
+      "Tephrosia virginiana"
+    ],
+    "common_name": "ruda cabruna",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "La Ruda Cabruna (Tephrosia virginiana) es una hermosa planta con flores, nativa de América del Norte. Sus brillantes flores amarillas, similares a guisantes, se intercalan entre el follaje de hojas compuestas de un verde profundo. Crece hasta 1 metro de altura, esta perenne resistente es un espectáculo en cualquier jardín. La Ruda Cabruna es conocida por ser de bajo mantenimiento y tolerante a la sequía; sus raíces poco profundas se extienden en un amplio radio para absorber los nutrientes y agua disponibles. Esta planta es tóxica para los animales, lo que la convierte en un excelente repelente natural de plagas y es especialmente atractiva para mariposas y polinizadores beneficiosos.",
+    "family": "Fabaceae",
+    "flower_color": "Estandarte amarillo pálido con alas y quilla rosado",
+    "flowering_season": "/",
+    "fruit_color": [],
+    "growth_rate": "Alto",
+    "harvest_season": "/",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este de América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por semillas",
+      "Esquejes",
+      "División",
+      "Acodado"
+    ],
+    "pruning_month": [
+      "diciembre",
+      "enero",
+      "febrero",
+      "marzo",
+      "abril",
+      "mayo",
+      "mayo",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "/",
+    "care_guides_details": []
+  },
+  {
+    "id": "7746",
+    "scientific_name": [
+      "Tetradium daniellii"
+    ],
+    "common_name": "árbol abeja abeja",
+    "attracts": [
+      "Aves"
+    ],
+    "care_level": "Medio",
+    "description": "El Árbol Abeja Abeja (Tetradium Daniellii) es un árbol pequeño y caducifolio originario de partes del este de Asia. Es ampliamente plantado por sus flores blancas vistosas y fragantes, y su corteza atractiva. Crece hasta 6 metros de altura y tiene una forma ovalada o piramidal con ramas abiertas. Produce racimos de pequeños frutos brillantes de color rojo a negro que son adorados por aves y otros animales salvajes. Las hojas atractivas son lisas y en forma de corazón, lo que lo hace ideal como árbol de muestra en jardines más pequeños. Prefiere pleno sol y es resistente a la sequía y el viento. Su tolerancia a tipos comunes de suelo lo convierte en una excelente elección para diferentes proyectos de jardinería.",
+    "family": "Rutaceae",
+    "flower_color": "Blanco a veces teñido de amarillo o rosa",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "amarillo",
+      "marrón"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Acodo Aéreo",
+      "Propagación por Injerto",
+      "Esqueje",
+      "Propagación por Semillas"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Febrero",
+      "Marzo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7745",
+    "scientific_name": [
+      "Tetracentron sinense"
+    ],
+    "common_name": "hoja de espolón",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La hoja de espolón (Tetracentron sinense) es un árbol caducifolio nativo de China que puede alcanzar hasta 15 metros de altura. Tiene una corteza lisa de color marrón grisáceo y un follaje amarillo verdoso compuesto por hojas ovaladas con márgenes lisos y folíolos serrados y plumosos. Las pequeñas flores amarillentas aparecen en racimos colgantes. Las flores se desarrollan en frutos tridimensionales en forma de estrella con lóbulos de cáliz persistentes. La madera de la hoja de espolón tiene un patrón de grano prominente muy atractivo, lo que la hace deseable en la carpintería tradicional. Aunque es fácil de cultivar, las hojas de espolón requieren suelos fértiles, ricos en humus, húmedos pero bien drenados, en plena luz solar o sombra parcial.",
+    "family": "Trochodendraceae",
+    "flower_color": "Amarillo verdoso",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Asia central y oriental"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por tallo",
+      "Propagación por acodo",
+      "Propagación por injerto",
+      "Propagación por acodo aéreo",
+      "División",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "Febrero"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7751",
+    "scientific_name": [
+      "Teucrium chamaedrys"
+    ],
+    "common_name": "germander de muros",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Germander de Muros (Teucrium chamaedrys) es una planta perenne, vigorosa y siempre verde, originaria de Europa y Asia. Su hábito extendido y raíces profundas la hacen tolerante a la sequía y a temperaturas frías. Racimos de pequeñas flores blancas florecen en la planta desde finales de la primavera hasta el verano, con un atractivo follaje gris-verde y un ligero aroma. Ideal para jardines, pantallas de setos o rocallas, el Germander de Muros es una forma atractiva de planta de acento de bajo crecimiento y expansión. Su resistencia a la sequía y al frío facilita su mantenimiento y puede soportar incluso suelos ligeramente alcalinos.",
+    "family": "Lamiaceae",
+    "flower_color": "Lila rosado a púrpura rosado",
+    "flowering_season": "Verano",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "Norte de África",
+      " oeste de Asia",
+      " Europa"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "División",
+      "Acodo",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Junio",
+      "Julio",
+      "Noviembre",
+      "Diciembre",
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7749",
+    "scientific_name": [
+      "Teucrium aroanium"
+    ],
+    "common_name": "germander",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El Germander (Teucrium aroanium) es un pequeño arbusto que crece aproximadamente hasta 3 pies de altura, con hojas de un color verde grisáceo y un tallo distintivamente gris verdoso. Florece a finales de primavera o principios de verano, produciendo flores de color amarillo pálido o blanco con llamativas manchas oscuras en la base de cada pétalo. Sus atractivos racimos de delicadas flores con forma de estrella florecen de manera continua durante aproximadamente tres semanas, aportando una belleza única al jardín. Durante el invierno, este arbusto resistente es deciduo, pero una poda regular puede mantenerlo en su mejor forma. El Germander prefiere el pleno sol y un suelo con buen drenaje, lo que lo convierte en una opción ideal para una amplia gama de configuraciones de jardín.",
+    "family": "Lamiaceae",
+    "flower_color": "Púrpura claro",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "gris",
+      "gris"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "Grecia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "División",
+      "Acodo",
+      "Propagación por semillas"
+    ],
+    "pruning_month": [
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto",
+      "marzo",
+      "abril",
+      "mayo",
+      "junio",
+      "julio",
+      "agosto",
+      "septiembre",
+      "marzo",
+      "abril",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7755",
+    "scientific_name": [
+      "Thalia dealbata"
+    ],
+    "common_name": "thalia",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Thalia (Thalia dealbata) es una hierba perenne acuática nativa del sur y centro tropical de América. Su follaje verde y ovalado se destaca por sus brillantes flores de color malva o rosa que florecen de junio a agosto. La Thalia puede alcanzar hasta 3 pies de altura y 2 pies de ancho con un hábito de crecimiento en forma de mata. Prefiere pleno sol a sombra ligera y aguas poco profundas con humedad constante. Es una excelente adición a los jardines acuáticos ya que su follaje y flores lucen impresionantes flotando sobre el agua. También son beneficiosas para la fauna, ya que las flores proporcionan néctar para polinizadores.",
+    "family": "Marantaceae",
+    "flower_color": "Violeta",
+    "flowering_season": "",
+    "fruit_color": [
+      "verde",
+      "amarillo",
+      "naranja"
+    ],
+    "growth_rate": "Alto",
+    "harvest_season": "Verano",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Estados Unidos del Sur",
+      "México"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "División",
+      "Propagación por Semilla",
+      "Propagación por Acodo"
+    ],
+    "pruning_month": [
+      "diciembre",
+      "enero"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "7764",
+    "scientific_name": [
+      "Thalictrum flavum subsp. flavum"
+    ],
+    "common_name": "ruta de los prados amarilla",
+    "attracts": [
+      "abejas",
+      "mariposas",
+      "otros polinizadores"
+    ],
+    "care_level": "Moderado",
+    "description": "La ruta de los prados amarilla (Thalictrum flavum subsp. flavum) es una planta perenne y herbácea con flores de espigas de color amarillo brillante en verano. Crece en grupos de hasta 60 a 120 centímetros de altura y prefiere suelos húmedos y bien drenados. Los ciervos y conejos evitan esta planta ya que encuentran su sabor poco apetecible. Una vez establecida, la planta es bastante tolerante a la sequía. La ruta de los prados amarilla iluminará cualquier jardín con sus flores brillantes que atraen abejas, mariposas y otros polinizadores. Fácil de cuidar, esta planta es una excelente opción para bordes o áreas naturalizadas.",
+    "family": "Ranunculaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Europa"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semillas",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "diciembre",
+      "enero",
+      "febrero",
+      "marzo",
+      "abril",
+      "mayo",
+      "febrero",
+      "marzo",
+      "abril",
+      "marzo",
+      "abril",
+      "mayo"
+    ],
+    "soil": [],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "7765",
+    "scientific_name": [
+      "Thalictrum flavum subsp. glaucum"
+    ],
+    "common_name": "ruda amarilla de pradera",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "La ruda amarilla de pradera (Thalictrum flavum subsp. glaucum) es una flor silvestre importante que crece en áreas herbosas de Europa Central y Oriental. Es una planta perenne herbácea caducifolia que puede alcanzar hasta 90 cm de altura. Sus hojas son de color glauco azulado, con múltiples lóbulos, profundamente cortadas y tienen un sabor amargo. Produce atractivas flores de color amarillo verdoso en el verano y las semillas, que aparecen a finales del verano, son comestibles y también tienen un sabor amargo. La ruda amarilla de pradera es una fuente importante de néctar para insectos polinizadores como mariposas y abejas.",
+    "family": "Ranunculaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Baja",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "España",
+      "Noroeste de África"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semillas",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7760",
+    "scientific_name": [
+      "Thalictrum delavayi"
+    ],
+    "common_name": "ruda de prado",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "La Ruda de Prado (Thalictrum Delavayi) es una planta perenne alta y erguida con un follaje delicado y plumoso y tallos altos de flores moradas. Es resistente en zonas 4-9 y prefiere sombra parcial a total. Los racimos de flores aireadas, levemente fragantes, atraerán a muchos polinizadores al jardín. Las flores pequeñas son seguidas por vainas aladas, añadiendo interés al jardín a finales del verano. La ruda de prado crea un impacto llamativo en bordes mixtos y áreas de bosques, agregando altura y textura a cualquier paisaje. Disfruta de suelos húmedos y ricos, y prosperará en áreas que reciban sol por la mañana, pero sombra por la tarde. Con el cuidado y mantenimiento adecuados, esta perenne regresará anualmente y proporcionará una presencia encantadora en tu jardín.",
+    "family": "Ranunculaceae",
+    "flower_color": "Lila",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Moderado",
+    "origin": [
+      "China",
+      "Birmania",
+      "Tíbet"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes",
+      "Propagación por Semilla",
+      "Propagación por Acodo"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7769",
+    "scientific_name": [
+      "Thalictrum pubescens"
+    ],
+    "common_name": "thalictrum",
+    "attracts": [
+      "Mariposas"
+    ],
+    "care_level": "Medio",
+    "description": "Thalictrum pubescens es una planta herbácea alta y floreciente con un follaje aéreo, alcanzando hasta 1.5 metros de altura. Su follaje delicado y de textura fina está compuesto por pequeñas hojas de color verde claro que son ovaladas o de pecíolo largo y de apariencia similar a un helecho. Las hermosas flores blancas y lavanda pálido tienen cinco pétalos y florecen desde el verano hasta el otoño, creando una apariencia bella y delicada. Thalictrum pubescens se desarrolla mejor en suelos bien drenados, en un área soleada o parcialmente sombreada. Es atractiva para las mariposas y puede añadir un aspecto aireado y de textura fina a cualquier jardín o espacio al aire libre.",
+    "family": "Ranunculaceae",
+    "flower_color": "Blanco",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Canadá",
+      "Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Propagación por semilla",
+      "Esqueje"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Humus arenoso y limoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7772",
+    "scientific_name": [
+      "Thalictrum squarrosum"
+    ],
+    "common_name": "ruda de los prados",
+    "attracts": [],
+    "care_level": "Media",
+    "description": "La Ruda de los Prados (Thalictrum squarrosum) es una hierba perenne y erguida nativa del norte de los Estados Unidos. Creciendo hasta 4 pies de altura, sus tallos delicados y aéreos están cubiertos de un follaje dividido parecido a los helechos. Sus hojas pinnadas, de color verde amarillento, se tornan en tonos de rojo, amarillo y púrpura en los meses de otoño. Esta planta alta produce en verano flores blancas y agrupadas que son muy vistosas. En general, la ruda de los prados agrega una textura delicada y hermosa a cualquier paisaje de jardín.",
+    "family": "Ranunculaceae",
+    "flower_color": "Verde amarillento",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Moderada",
+    "origin": [
+      "China"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esquejes de raíz",
+      "Propagación por semillas",
+      "Propagación por acodo"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7777",
+    "scientific_name": [
+      "Thermopsis villosa"
+    ],
+    "common_name": "Lupino de Carolina",
+    "attracts": [],
+    "care_level": "Medio",
+    "description": "El lupino de Carolina es una especie única de planta con flores nativa de América del Norte. Es una perenne erguida con tallos altos, hojas ovaladas y racimos de flores amarillas. Crece mejor en suelos húmedos y florece a finales de la primavera y principios del verano. El lupino de Carolina tiene un período de floración impresionantemente largo que puede continuar hasta por ocho semanas. Además de su hermosa apariencia, se dice que es un gran atractivo para los polinizadores. Prefiere pleno sol y puede crecer hasta cuatro pies de altura. Con sus alegres y brillantes flores, el lupino de Carolina es una excelente adición a cualquier jardín!",
+    "family": "Fabaceae",
+    "flower_color": "Amarillo",
+    "flowering_season": "Verano",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Baja",
+    "origin": [
+      "Sureste de Estados Unidos"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Propagación por Semillas",
+      "División",
+      "Esquejes"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7775",
+    "scientific_name": [
+      "Thelypteris confluens"
+    ],
+    "common_name": "helecho de pantano",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "El helecho de pantano, con su nombre científico Thelypteris confluens, es un helecho perenne y de hoja perenne que se encuentra en zonas pantanosas y otras áreas húmedas. Tiene frondas oscuras de verde intenso con textura fina, y algunas variedades presentan frondas amarillas/doradas con destellos de bronce. Crece hasta 1.2 metros de altura y 0.9 metros de ancho. Esta planta caduca es fácil de cultivar, tolerante tanto al sol como a la sombra, y es ideal para añadir textura y color a un jardín o para hacer una declaración cultural cerca de un gran estanque o cuerpo de agua. Su resistencia le permite prosperar en todo tipo de climas y es una excelente opción para los jardineros que buscan una opción exuberante y etérea para sus paisajes.",
+    "family": "Thelypteridaceae",
+    "flower_color": "No florece",
+    "flowering_season": "No aplica",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "No aplica",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "África Tropical y Asia"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "División",
+      "Esqueje",
+      "Propagación por esporas",
+      "División de raíces"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "No aplica",
+    "care_guides_details": []
+  },
+  {
+    "id": "7778",
+    "scientific_name": [
+      "Thuja 'Green Giant'"
+    ],
+    "common_name": "árbol de la vida",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El árbol de la vida (Thuja 'Green Giant') es un árbol conífero de hoja perenne de rápido crecimiento y gran altura, con follaje escamado de color verde intenso. Es ideal como seto o árbol decorativo en jardines o patios más pequeños, ya que puede alcanzar hasta 24 metros de altura. Este árbol denso y resistente a la intemperie es tolerante a la mayoría de los suelos y es una elección ideal para plantar como cortaviento o pantalla de privacidad. El denso follaje hace que sea difícil de penetrar, creando un ambiente seguro y protegido. Requiere muy poca poda, lo que lo hace fácil de mantener y no deja residuos.",
+    "family": "Cupresáceas",
+    "flower_color": "No florece",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Alta",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Francia",
+      "Países Bajos",
+      "Alemania",
+      "Reino Unido"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Acodo",
+      "Injerto",
+      "División",
+      "Semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Junio",
+      "Julio",
+      "Agosto"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7784",
+    "scientific_name": [
+      "Thuja occidentalis 'Bobozam' MR. BOWLING BALL"
+    ],
+    "common_name": "Arborvitae americano",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "La arborvitae americano (Thuja occidentalis 'Bobozam' MR. BOWLING BALL) es un conífero enano compacto con una forma redondeada y atrevida. Presenta un follaje de color amarillo dorado brillante durante todo el año, que se torna de un tono bronceado amarillento en invierno. Es tolerante a varios tipos de suelos y puede crecer en sitios expuestos, además de requerir poco mantenimiento y ser moderadamente tolerante a la sequía. Esta variedad alcanza un tamaño maduro de 2-3 pies de alto y ancho. Sin embargo, su lento ritmo de crecimiento la hace ideal como seto natural, acento o incluso como un espécimen único en un contenedor. Así que si buscas una planta única e inusual con un follaje atractivo y requisitos mínimos de cuidado, la arborvitae americano es una excelente opción.",
+    "family": "Cupressaceae",
+    "flower_color": "Sin flores",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este de América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes de madera verde",
+      "Esquejes de madera verde",
+      "Esquejes de madera dura"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [
+      "Arenoso",
+      "Limoso",
+      "Arcilloso",
+      "Pedregoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7780",
+    "scientific_name": [
+      "Thuja koraiensis 'Glauca Prostrata'"
+    ],
+    "common_name": "Arborvitae coreana",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "La Arborvitae coreana (Thuja koraiensis 'Glauca Prostrata') es un arbusto perenne de crecimiento bajo con una textura marcada durante todo el año. El follaje denso, de ramas planas y copa cónica le da un contorno llamativo. El follaje azul plateado es suave al tacto, con puntas delicadas que caen suavemente a medida que maduran. La forma vertical y arbustiva de la Arborvitae coreana se realza con sus ramas cortas y densas, lo que la convierte en una adición ideal para el paisaje al aire libre. Crece bien en suelos bien drenados y es una opción ideal para plantaciones de cimientos, como pantalla baja o arbusto decorativo.",
+    "family": "Cupresáceas",
+    "flower_color": "Sin floración",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "Corea"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esqueje",
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "División"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7779",
+    "scientific_name": [
+      "Thuja koraiensis"
+    ],
+    "common_name": "Tuya coreana",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "La tuya coreana (Thuja koraiensis) es una conífera perenne única originaria del sur de la península de Corea y partes del noreste de China. Esta especie normalmente crece entre 3 y 6 metros de altura, con una forma piramidal y ramas extendidas. Sus hojas están dispuestas en rociadas planas, y cada hoja individual, similar a una escama, es de un color verde-amarillo intenso. La tuya coreana es una especie adaptable que prospera en una amplia gama de suelos y condiciones climáticas. Es un árbol ornamental particularmente popular, ya que requiere un mantenimiento mínimo y presenta una mínima susceptibilidad a plagas y enfermedades.",
+    "family": "Cupressaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "",
+    "fruit_color": [],
+    "growth_rate": "Bajo",
+    "harvest_season": "",
+    "leaf_color": [],
+    "maintenance": "Bajo",
+    "origin": [
+      "China central",
+      "Corea"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [],
+    "propagation": [
+      "Esquejes",
+      "Propagación por injerto",
+      "Propagación por acodo",
+      "Propagación por semilla"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril"
+    ],
+    "soil": [],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7790",
+    "scientific_name": [
+      "Thuja occidentalis 'Ericoides'"
+    ],
+    "common_name": "Arborvitae americana",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "El arborvitae americano (Thuja occidentalis 'Ericoides') es una conífera perenne nativa de América del Norte. Este alto y majestuoso árbol alcanza alturas de 12 a 18 metros. Su brillante follaje verde forma una atractiva forma piramidal estrecha, ideal para espacios reducidos donde se prefiere un perfil estrecho. Prefiere suelos húmedos pero bien drenados y pleno sol, aunque puede tolerar la sombra parcial. También tiene una fuerte tolerancia al ramoneo de ciervos. El arborvitae americano es un ejemplar atractivo para el paisaje y se puede plantar en grupos para crear una pantalla o un seto. Su color atractivo y perfil estrecho lo convierten en una excelente elección para espacios de jardín reducidos o como árbol ejemplar.",
+    "family": "Cupressaceae",
+    "flower_color": "No tiene flores",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este de América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes de madera verde",
+      "Esquejes de madera verde",
+      "Esquejes de madera dura"
+    ],
+    "pruning_month": [
+      "Junio",
+      "Julio",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Mayo"
+    ],
+    "soil": [
+      "Arenoso Limoso Arcilloso Rocoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7791",
+    "scientific_name": [
+      "Thuja occidentalis 'Filiformis'"
+    ],
+    "common_name": "Tuya americana",
+    "attracts": [],
+    "care_level": "Moderado",
+    "description": "La Tuya americana (Thuja occidentalis 'Filiformis') es un árbol conífero perenne y elegante, originario de América del Norte. Sus ramas delgadas y erguidas exhiben agujas de un color verde amarillento brillante en contraste. Crece lentamente y es muy duradera, lo que la convierte en una opción ideal para setos, cortavientos y pantallas visuales. La Tuya americana es una excelente opción para espacios más pequeños y puede tolerar suelos ricos en cal, podas moderadamente intensas e inundaciones ocasionales. Su bajo mantenimiento y atractivo follaje la hacen una gran adición a cualquier jardín o paisaje.",
+    "family": "Cupresáceas",
+    "flower_color": "Sin flores",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este de América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      " Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes de madera verde",
+      "Esquejes de madera verde",
+      "Esquejes de madera dura"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Mayo"
+    ],
+    "soil": [
+      "Arenoso Franco Arcilloso Rocoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7796",
+    "scientific_name": [
+      "Thuja occidentalis 'Holmstrup'"
+    ],
+    "common_name": "Tuya americana",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "La tuya americana (Thuja occidentalis 'Holmstrup') es un árbol de hoja perenne piramidal que es tanto versátil como hermoso. Creciendo hasta 6 metros de altura, este conífero tiene un follaje de color verde amarillento compuesto por hojas en forma de aguja dispuestas en ramilletes planos. Esta especie es resistente a los ciervos, prefiere pleno sol a sombra parcial, y es tolerante a una amplia variedad de tipos de suelo. Además, requiere muy poco mantenimiento y es tolerante a la sequía una vez establecida. Esto hace que la tuya americana sea una opción ideal para cualquier paisaje, ya que no requiere mucho cuidado y es atractiva.",
+    "family": "Cupressaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Noreste de América"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes de madera verde",
+      "Esquejes de madera verde",
+      "Esquejes de madera dura"
+    ],
+    "pruning_month": [
+      "Agosto"
+    ],
+    "soil": [
+      "Arenoso Limoso Arcilloso Rocoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  },
+  {
+    "id": "7799",
+    "scientific_name": [
+      "Thuja occidentalis 'Little Gem'"
+    ],
+    "common_name": "Tuya americana",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "La tuya americana (Thuja occidentalis 'Little Gem') es un arbusto perenne compacto y hermoso, perfecto para una variedad de usos en su jardín. Su follaje verde brillante forma una elegante pirámide de textura fina. Alcanzando solo 2 a 3 pies de altura y ancho, 'Little Gem' tiene un gran potencial paisajístico como planta de base, pieza de acento, seto o pequeña pantalla de privacidad. Este arbusto resistente prefiere sol pleno a sombra parcial y suelos moderadamente húmedos y bien drenados. También es tolerante al ciervo y a la sequía, lo que lo convierte en una excelente opción para jardines en climas más desafiantes. Cultive la tuya americana por su impresionante belleza y versatilidad.",
+    "family": "Cupresáceas",
+    "flower_color": "No florece",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este de América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes de madera verde",
+      "Esquejes de madera verde",
+      "Esquejes de madera dura"
+    ],
+    "pruning_month": [
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Arenoso",
+      "Franco",
+      "Arcilloso",
+      "Rocoso"
+    ],
+    "watering_period": "mañana",
+    "care_guides_details": []
+  },
+  {
+    "id": "7800",
+    "scientific_name": [
+      "Thuja occidentalis 'Lutea'"
+    ],
+    "common_name": "Tuya americana",
+    "attracts": [],
+    "care_level": "Bajo",
+    "description": "La tuya americana (Thuja occidentalis 'Lutea') es una especie de conífera densa de hoja perenne que crece hasta 9 metros de altura y 4.5 metros de diámetro. Se utiliza popularmente como seto y cortavientos debido a su forma columnar y agujas suaves. En verano, produce aerosoles piramidales ordenados de follaje amarillo, lo que la convierte en un hermoso árbol ornamental. Los pequeños conos son de color púrpura-marrón y esféricos. La tuya americana es fácil de mantener y extremadamente resistente, tolerando muchas condiciones de crecimiento, incluyendo parte de sombra. No requiere cuidados especiales y es conocida por ser resiliente en inviernos rigurosos. Una opción destacada para iluminar cualquier jardín o paisaje.",
+    "family": "Cupressaceae",
+    "flower_color": "No floreciente",
+    "flowering_season": "Primavera",
+    "fruit_color": [],
+    "growth_rate": "Moderado",
+    "harvest_season": "",
+    "leaf_color": [
+      "verde",
+      "amarillo"
+    ],
+    "maintenance": "Bajo",
+    "origin": [
+      "Este de América del Norte"
+    ],
+    "other_name": [],
+    "pest_susceptibility": [
+      "Resistente a plagas",
+      "Resistente a enfermedades"
+    ],
+    "propagation": [
+      "Esquejes de madera verde",
+      "Esquejes de madera verde",
+      "Esquejes de madera dura"
+    ],
+    "pruning_month": [
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo"
+    ],
+    "soil": [
+      "Arenoso Limosa Arcilloso Rocoso"
+    ],
+    "watering_period": "",
+    "care_guides_details": []
+  }
+]
